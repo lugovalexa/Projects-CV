@@ -1,0 +1,512 @@
+{
+    "data": [
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "author_id": "583603580",
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "id": "1199833401366339585",
+            "possibly_sensitive": false,
+            "created_at": "2019-11-27T23:32:29.000Z",
+            "text": "Also: I’m first gen. No one in my family even remotely started a PhD.\n\nI had to work more than other students just to access a PhD. I had to go into dept (which added a lot of stress to my already stressful PhD).",
+            "in_reply_to_user_id": "583603580",
+            "geo": {
+                "place_id": "66fabed9d649aa12"
+            }
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "author_id": "583603580",
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "id": "1199833394881998853",
+            "possibly_sensitive": false,
+            "created_at": "2019-11-27T23:32:27.000Z",
+            "text": "I was \"asked\" to overwork as hell during my PhD, and at first I complied. And then I had a burnout and it took me six months to recover after I was *this close* to quit.\n\nThis burnout completely destroyed my ability to overwork, even for short periods of time.",
+            "in_reply_to_user_id": "583603580",
+            "geo": {
+                "place_id": "66fabed9d649aa12"
+            }
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "2289541441",
+            "lang": "en",
+            "source": "Twitter for Android",
+            "id": "1192877849415487488",
+            "possibly_sensitive": false,
+            "created_at": "2019-11-08T18:53:36.000Z",
+            "text": "@BoiNixo Well i m used to it, he s the one shaming me for taking holidays, not working all the time, and telling me my manuscript are at the level of high school, so he s gaving me lots of anxiety and fear BUT he s clever af and is the only one who can save my thesis :^)",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "username": "BoiNixo",
+                        "id": "1081555233464074242"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "1081555233464074242",
+            "geo": {
+                "place_id": "66fabed9d649aa12"
+            }
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "author_id": "2289541441",
+            "lang": "en",
+            "source": "Twitter for Android",
+            "id": "1184164801544708096",
+            "possibly_sensitive": false,
+            "created_at": "2019-10-15T17:51:04.000Z",
+            "text": "While playing to breath of the wild, I realized that finally my full concentration and capacity to enjoy video games is back 😮 like I ve lost it because of anxiety, depression and lack of time to play during my studies. Thanks PhD and medication 🙏🙏🙏",
+            "geo": {
+                "place_id": "66fabed9d649aa12"
+            }
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1183802891380973568"
+                ]
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 134,
+                        "end": 157,
+                        "url": "https://t.co/6uGV1h68IA",
+                        "expanded_url": "https://twitter.com/Chloe_Ddlt/status/1183802899081641985/photo/1",
+                        "display_url": "pic.twitter.com/6uGV1h68IA",
+                        "media_key": "3_1183802891380973568"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 10,
+                "quote_count": 0
+            },
+            "author_id": "1854517362",
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "id": "1183802899081641985",
+            "possibly_sensitive": false,
+            "created_at": "2019-10-14T17:52:59.000Z",
+            "text": "So happy and proud to have worked like crazy during 3 years to get my PhD... and this unicorn onesie I never knew I dreamt of. 👩🏻‍🎓🤓🦄 https://t.co/6uGV1h68IA",
+            "geo": {
+                "place_id": "6787c565c7e6d9cc"
+            }
+        },
+        {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 200,
+                        "end": 223,
+                        "url": "https://t.co/zjorGn7DlR",
+                        "expanded_url": "https://twitter.com/DrAdamErrington/status/1181846192394788864",
+                        "display_url": "twitter.com/DrAdamErringto…"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 185,
+                        "end": 199,
+                        "tag": "wasteofskills"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "494922191",
+            "lang": "en",
+            "source": "Twitter for Android",
+            "id": "1182549183934406657",
+            "possibly_sensitive": false,
+            "created_at": "2019-10-11T06:51:10.000Z",
+            "text": "Frightening how often ...\"mental health\" and Work in \"Academia\" are coming together in this thread (and in everyday lire on the labs) .is there any future for researchers and trainees..#wasteofskills https://t.co/zjorGn7DlR",
+            "geo": {
+                "place_id": "742af29b289036d7"
+            }
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "583603580",
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "id": "1179539497115107332",
+            "possibly_sensitive": false,
+            "created_at": "2019-10-02T23:31:45.000Z",
+            "text": "The collective effect of publishing good papers in journals where their likelihood to have any significant impact on the literature is much lower is (to me) hugely detrimental for French academia.\n\nAnd it’s sad, because I’ve seen a lot of talented and very impressive people here.",
+            "in_reply_to_user_id": "583603580",
+            "geo": {
+                "place_id": "66fabed9d649aa12"
+            }
+        },
+        {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 268,
+                        "end": 291,
+                        "url": "https://t.co/oZ0xMJH8W8",
+                        "expanded_url": "https://twitter.com/DallasMuseumArt/status/1177967410370023424",
+                        "display_url": "twitter.com/DallasMuseumAr…"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 39,
+                        "end": 44,
+                        "probability": 0.9285,
+                        "type": "Place",
+                        "normalized_text": "Dallas"
+                    },
+                    {
+                        "start": 63,
+                        "end": 72,
+                        "probability": 0.9932,
+                        "type": "Person",
+                        "normalized_text": "Dr. Comini"
+                    },
+                    {
+                        "start": 159,
+                        "end": 169,
+                        "probability": 0.9037,
+                        "type": "Person",
+                        "normalized_text": "Max Klinger"
+                    },
+                    {
+                        "start": 172,
+                        "end": 185,
+                        "probability": 0.7868,
+                        "type": "Person",
+                        "normalized_text": "Käthe Kollwitz"
+                    },
+                    {
+                        "start": 188,
+                        "end": 200,
+                        "probability": 0.6288,
+                        "type": "Person",
+                        "normalized_text": "Ernst Barlach"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 211,
+                        "end": 225,
+                        "tag": "expressionism"
+                    },
+                    {
+                        "start": 226,
+                        "end": 237,
+                        "tag": "museumjobs"
+                    },
+                    {
+                        "start": 238,
+                        "end": 246,
+                        "tag": "phdchat"
+                    },
+                    {
+                        "start": 247,
+                        "end": 267,
+                        "tag": "helpimstuckinfrance"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 139,
+                        "end": 155,
+                        "username": "DallasMuseumArt",
+                        "id": "21963179"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "author_id": "913497310847541248",
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "id": "1178024783369375745",
+            "possibly_sensitive": false,
+            "created_at": "2019-09-28T19:12:49.000Z",
+            "text": "Sad I couldn’t be there, but I hope my Dallas folks made it to Dr. Comini’s talk in conjunction with my exhibition, Violence and Defiance, @DallasMuseumArt !! Max Klinger, Käthe Kollwitz, Ernst Barlach, oh my!! #expressionism #museumjobs #phdchat #helpimstuckinfrance https://t.co/oZ0xMJH8W8",
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            }
+        },
+        {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 272,
+                        "end": 295,
+                        "url": "https://t.co/AWfVw3XYOo",
+                        "expanded_url": "https://twitter.com/DinaPomeranz/status/1175815085282996225",
+                        "display_url": "twitter.com/DinaPomeranz/s…"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 16,
+                "quote_count": 0
+            },
+            "author_id": "583603580",
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "id": "1176064642503847936",
+            "possibly_sensitive": false,
+            "created_at": "2019-09-23T09:23:55.000Z",
+            "text": "I started to work on such a list when I had burn out in the middle of my PhD and wanted to quit\n\nWhen a couple of years later I realized academia wasn’t for me after all, having this list was so helpful\n\nFor me, leaving academia feels like an *improvement*, not a failure https://t.co/AWfVw3XYOo",
+            "geo": {
+                "place_id": "66fabed9d649aa12"
+            }
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "author_id": "3297217592",
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "id": "1171361354764230657",
+            "possibly_sensitive": false,
+            "created_at": "2019-09-10T09:54:44.000Z",
+            "text": "@lucaslarner @Resurgence_mag @colin_tudge I first heard of him described, lazily, as “a Marxist academic.” When I came to investigate further, I found he was actually full-on (but not narrowly) Christian, a member of @ionacommunity and an Anglican priest. An enlightening mind for these times that cry out for depth.",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "lucaslarner",
+                        "id": "360738479"
+                    },
+                    {
+                        "start": 13,
+                        "end": 28,
+                        "username": "Resurgence_mag",
+                        "id": "45307185"
+                    },
+                    {
+                        "start": 29,
+                        "end": 41,
+                        "username": "colin_tudge",
+                        "id": "880024645176524801"
+                    },
+                    {
+                        "start": 217,
+                        "end": 231,
+                        "username": "ionacommunity",
+                        "id": "22762088"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "360738479",
+            "geo": {
+                "place_id": "663107ea0c69fed4"
+            }
+        },
+        {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 127,
+                        "end": 150,
+                        "url": "https://t.co/tnDel5I65T",
+                        "expanded_url": "https://t.co/tnDel5I65T",
+                        "display_url": "t.co/tnDel5I65T"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 117,
+                        "end": 126,
+                        "tag": "fakenews"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 2,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "author_id": "2779108853",
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "id": "1171153272050241538",
+            "possibly_sensitive": false,
+            "created_at": "2019-09-09T20:07:53.000Z",
+            "text": "Ummm... you don’t need a PhD in chest trauma to know this isn’t a result of weed! How’s about flail chest! Hilarious #fakenews https://t.co/tnDel5I65T",
+            "geo": {
+                "place_id": "23f8a07383ac617e"
+            }
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "592655531",
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "id": "1170354681249505281",
+            "possibly_sensitive": false,
+            "created_at": "2019-09-07T15:14:34.000Z",
+            "text": "@kaleybrauer Sad part when do get your doctorate, perception by so many women can’t have PhD including University academics and administrators, never mind industry I receive reply emails starting Mrs when my signature shows otherwise.",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 196,
+                        "end": 198,
+                        "probability": 0.5489,
+                        "type": "Person",
+                        "normalized_text": "Mrs"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "kaleybrauer",
+                        "id": "112053784"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "112053784",
+            "geo": {
+                "place_id": "179b8df9e368044d"
+            }
+        }
+    ],
+    "includes": {
+        "users": [
+            {
+                "id": "583603580",
+                "name": "Olivier Simard-Casanova 🏳️‍🌈",
+                "username": "simardcasanova"
+            },
+            {
+                "id": "2289541441",
+                "name": "Batou🏳️‍🌈 P(h)D🌿Local Grandma☕",
+                "username": "batou_k"
+            },
+            {
+                "id": "1854517362",
+                "name": "Chloé Dindault",
+                "username": "Chloe_Ddlt"
+            },
+            {
+                "id": "494922191",
+                "name": "Fesquet didier",
+                "username": "didierfesquet"
+            },
+            {
+                "id": "913497310847541248",
+                "name": "Kelsey D. Martin",
+                "username": "kelsey_d_martin"
+            },
+            {
+                "id": "3297217592",
+                "name": "Alastair McIntosh",
+                "username": "alastairmci"
+            },
+            {
+                "id": "2779108853",
+                "name": "Dr Ed Baker",
+                "username": "edbaker_ed"
+            },
+            {
+                "id": "592655531",
+                "name": "anortcliffe",
+                "username": "anortcliffe"
+            }
+        ],
+        "places": [
+            {
+                "full_name": "Nancy, France",
+                "id": "66fabed9d649aa12"
+            },
+            {
+                "full_name": "Palaiseau, France",
+                "id": "6787c565c7e6d9cc"
+            },
+            {
+                "full_name": "Saint-Gély-du-Fesc, France",
+                "id": "742af29b289036d7"
+            },
+            {
+                "full_name": "Paris, France",
+                "id": "09f6a7707f18e0b1"
+            },
+            {
+                "full_name": "Montaud, France",
+                "id": "663107ea0c69fed4"
+            },
+            {
+                "full_name": "Nice, France",
+                "id": "23f8a07383ac617e"
+            },
+            {
+                "full_name": "Lyon, France",
+                "id": "179b8df9e368044d"
+            }
+        ],
+        "media": [
+            {
+                "url": "https://pbs.twimg.com/media/EG22dSjX4AAJd5i.jpg",
+                "media_key": "3_1183802891380973568",
+                "type": "photo"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1199833401366339585",
+        "oldest_id": "1170354681249505281",
+        "result_count": 12,
+        "next_token": "b26v89c19zqg8o3fnm5ycqlq19uvfnlq2y5ralqhlh5z1"
+    }
+}

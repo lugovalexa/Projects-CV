@@ -1,0 +1,824 @@
+{
+    "data": [
+        {
+            "source": "Twitter for Android",
+            "attachments": {
+                "media_keys": [
+                    "3_1514309173235826695"
+                ]
+            },
+            "geo": {
+                "place_id": "9d7cae88ff6a29f5"
+            },
+            "id": "1514309177371418626",
+            "lang": "en",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 204,
+                        "end": 227,
+                        "url": "https://t.co/Xg6i0ZJnnM",
+                        "expanded_url": "https://twitter.com/inobandras/status/1514309177371418626/photo/1",
+                        "display_url": "pic.twitter.com/Xg6i0ZJnnM",
+                        "media_key": "3_1514309173235826695"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 72,
+                        "end": 77,
+                        "tag": "cake"
+                    },
+                    {
+                        "start": 78,
+                        "end": 88,
+                        "tag": "KZNFloods"
+                    },
+                    {
+                        "start": 89,
+                        "end": 100,
+                        "tag": "KZNWeather"
+                    }
+                ]
+            },
+            "created_at": "2022-04-13T18:26:57.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "text": "I miss this cupcake. Gosh. It tasted like it had a PhD from Harvard. 😄😋 #cake #KZNFloods #KZNWeather lapho no milk. I dont want to go out. Scared.of being stuck on the road. Those excavations are crazy 😳 https://t.co/Xg6i0ZJnnM",
+            "author_id": "61463806",
+            "possibly_sensitive": false
+        },
+        {
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 103,
+                        "end": 109,
+                        "username": "USAID",
+                        "id": "36683668"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 55,
+                        "end": 72,
+                        "probability": 0.4892,
+                        "type": "Organization",
+                        "normalized_text": "Mandela Washington"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "geo": {
+                "place_id": "e564d30dc173d2a8"
+            },
+            "id": "1512100009013137410",
+            "lang": "en",
+            "created_at": "2022-04-07T16:08:30.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "in_reply_to_user_id": "4061061730",
+            "text": "Everything I experienced hindered me from applying for Mandela Washington fellowship in 2017, in 2019, @USAID reacted by interviewing me &amp; paying for my therapy sessions &amp; they vanished. I guess that's how things work...",
+            "author_id": "4061061730",
+            "possibly_sensitive": false
+        },
+        {
+            "source": "Twitter for iPhone",
+            "geo": {
+                "place_id": "e564d30dc173d2a8"
+            },
+            "id": "1511315145867382785",
+            "lang": "en",
+            "created_at": "2022-04-05T12:09:44.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "Haikona academic stress was better than this toxic environment 🥺",
+            "author_id": "1274433982151757824",
+            "possibly_sensitive": false
+        },
+        {
+            "source": "Twitter for iPhone",
+            "geo": {
+                "place_id": "178a87b8e2eaa375"
+            },
+            "id": "1510897009766674436",
+            "lang": "en",
+            "created_at": "2022-04-04T08:28:12.000Z",
+            "public_metrics": {
+                "retweet_count": 642,
+                "reply_count": 2,
+                "like_count": 2829,
+                "quote_count": 41
+            },
+            "text": "Academic stress during Ramadan ain’t it.",
+            "author_id": "490417655",
+            "possibly_sensitive": false
+        },
+        {
+            "source": "Twitter for iPhone",
+            "geo": {
+                "place_id": "810e12ec4af983de"
+            },
+            "id": "1510635278146449412",
+            "lang": "en",
+            "created_at": "2022-04-03T15:08:11.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "text": "I miss December so much. No academic stress, just drinking alcohol everyday",
+            "author_id": "1128008567590719488",
+            "possibly_sensitive": false
+        },
+        {
+            "source": "Twitter for Android",
+            "geo": {
+                "place_id": "e564d30dc173d2a8"
+            },
+            "id": "1508876722946691075",
+            "lang": "en",
+            "created_at": "2022-03-29T18:40:18.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "for my academic stress to make me lose weight 😪🕯🕯",
+            "author_id": "1007598179729145858",
+            "possibly_sensitive": false
+        },
+        {
+            "source": "Twitter for Android",
+            "geo": {
+                "place_id": "e564d30dc173d2a8"
+            },
+            "id": "1508829092577259521",
+            "lang": "en",
+            "created_at": "2022-03-29T15:31:03.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "Besides allocating a psychologist on campus, what else do Universities (actively) do to combat against academic stress ? Because ziyakhala.😭 how can you make me study 4 chapters for an on campus test 😳",
+            "author_id": "948260531407867904",
+            "possibly_sensitive": false
+        },
+        {
+            "source": "Twitter for Android",
+            "geo": {
+                "place_id": "dd9c0d7d7e07eb49"
+            },
+            "id": "1507356414309810176",
+            "lang": "en",
+            "created_at": "2022-03-25T13:59:09.000Z",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 16,
+                "quote_count": 0
+            },
+            "text": "I have zero academic stress. Can't believe this 🥺🥺🥺🥺🥺🥺",
+            "author_id": "1012242807417921536",
+            "possibly_sensitive": false
+        },
+        {
+            "source": "Twitter for Android",
+            "geo": {
+                "place_id": "0e587c59401d0a27"
+            },
+            "id": "1506493452174901250",
+            "lang": "en",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 255,
+                        "end": 278,
+                        "url": "https://t.co/hoeR0O3Hp7",
+                        "expanded_url": "https://twitter.com/Thembalami_/status/1506419575088459778",
+                        "display_url": "twitter.com/Thembalami_/st…"
+                    }
+                ]
+            },
+            "created_at": "2022-03-23T04:50:02.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "if sending this text will help lighten the load in your heart and mind, please do it. you deserve to be happy. you have worked hard to introspect and be healthier while juggling your academic career and mental health. take care and be kind to yourself ❤️ https://t.co/hoeR0O3Hp7",
+            "author_id": "943022421279432704",
+            "possibly_sensitive": false
+        },
+        {
+            "source": "Twitter for Android",
+            "geo": {
+                "place_id": "62b0cb0005d01039"
+            },
+            "id": "1506274130265612289",
+            "lang": "en",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 111,
+                        "end": 134,
+                        "url": "https://t.co/l1ARa7w5FF",
+                        "expanded_url": "https://twitter.com/arianaelena97/status/1505949708895887364",
+                        "display_url": "twitter.com/arianaelena97/…"
+                    }
+                ]
+            },
+            "created_at": "2022-03-22T14:18:32.000Z",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "text": "I've lost count of how many panic /anxiety attacks and blackouts I experienced during my PhD. \n\nStill we rise! https://t.co/l1ARa7w5FF",
+            "author_id": "631975786",
+            "possibly_sensitive": false
+        },
+        {
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "blandedwisky",
+                        "id": "1489863560167624706"
+                    },
+                    {
+                        "start": 14,
+                        "end": 26,
+                        "username": "NKamabandla",
+                        "id": "1279429727363760129"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 133,
+                        "end": 136,
+                        "probability": 0.5285,
+                        "type": "Organization",
+                        "normalized_text": "Wits"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "geo": {
+                "place_id": "d73e8f8ebdd03aff"
+            },
+            "id": "1505805402092589060",
+            "lang": "en",
+            "created_at": "2022-03-21T07:15:59.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "in_reply_to_user_id": "114961145",
+            "text": "@blandedwisky @NKamabandla I personall graduated with 17 distinctions on my degree, then last year did my post graduate diploma with Wits, never worried about the graduation ceremony!",
+            "author_id": "114961145",
+            "possibly_sensitive": false
+        },
+        {
+            "source": "Twitter for iPhone",
+            "geo": {
+                "place_id": "0e587c59401d0a27"
+            },
+            "id": "1505183521807216642",
+            "lang": "en",
+            "created_at": "2022-03-19T14:04:51.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "Academic stress?",
+            "author_id": "2766913217",
+            "possibly_sensitive": false
+        },
+        {
+            "source": "Twitter for Android",
+            "attachments": {
+                "media_keys": [
+                    "3_1503744071466106880"
+                ]
+            },
+            "geo": {
+                "place_id": "8b9ec16fdc0d7e55"
+            },
+            "id": "1503744073844375563",
+            "lang": "en",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 156,
+                        "end": 179,
+                        "url": "https://t.co/br2V0yK1xh",
+                        "expanded_url": "https://twitter.com/Kolie_Yola/status/1503744073844375563/photo/1",
+                        "display_url": "pic.twitter.com/br2V0yK1xh",
+                        "media_key": "3_1503744071466106880"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 46,
+                        "end": 54,
+                        "tag": "PhDLife"
+                    }
+                ]
+            },
+            "created_at": "2022-03-15T14:45:00.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 9,
+                "quote_count": 0
+            },
+            "text": "Academic meetings give me so much anxiety. My #PhDLife supervisor always shows me that I don't need to be in that space before meetings but I cant help it. https://t.co/br2V0yK1xh",
+            "author_id": "310323758",
+            "possibly_sensitive": false
+        },
+        {
+            "source": "Twitter for iPhone",
+            "geo": {
+                "place_id": "ae6e929fb9774bf8"
+            },
+            "id": "1503708111613444100",
+            "lang": "en",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 260,
+                        "end": 283,
+                        "url": "https://t.co/q6DzPQlbFk",
+                        "expanded_url": "https://twitter.com/raptalksk/status/1503590891583418369",
+                        "display_url": "twitter.com/raptalksk/stat…"
+                    }
+                ]
+            },
+            "created_at": "2022-03-15T12:22:06.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "I remember when this album came out, the academic year had just began but I was out. It felt abit depressing because the album would speak about aspects of depression. I always skipped the track “u” because it pulled me into that space I was trying to escape. https://t.co/q6DzPQlbFk",
+            "author_id": "637081888",
+            "possibly_sensitive": false
+        },
+        {
+            "source": "Twitter for Android",
+            "geo": {
+                "place_id": "178a87b8e2eaa375"
+            },
+            "id": "1503360627418574848",
+            "lang": "en",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 119,
+                        "end": 128,
+                        "probability": 0.329,
+                        "type": "Organization",
+                        "normalized_text": "Mc Donalds"
+                    }
+                ]
+            },
+            "created_at": "2022-03-14T13:21:19.000Z",
+            "public_metrics": {
+                "retweet_count": 718,
+                "reply_count": 74,
+                "like_count": 1454,
+                "quote_count": 24
+            },
+            "text": "I have a film and media graduate, desperate to get into the film industry. Shooting and editing.\n\nCurrently working at Mc Donalds.\n\nWhere are the film jobs?",
+            "author_id": "159408408",
+            "possibly_sensitive": false
+        },
+        {
+            "source": "Twitter for iPhone",
+            "geo": {
+                "place_id": "0e587c59401d0a27"
+            },
+            "id": "1503125101549858816",
+            "lang": "en",
+            "created_at": "2022-03-13T21:45:25.000Z",
+            "public_metrics": {
+                "retweet_count": 25,
+                "reply_count": 1,
+                "like_count": 109,
+                "quote_count": 0
+            },
+            "text": "It’s very sad that there’s a high correlation between financial security in University and academic excellence. When you’re not worried about funding, you are likely to perform well academically and the opposite is true as well.",
+            "author_id": "946353358012641281",
+            "possibly_sensitive": false
+        },
+        {
+            "source": "Twitter for Android",
+            "geo": {
+                "place_id": "150e1ec07e4e2fca"
+            },
+            "id": "1502924537041674243",
+            "lang": "en",
+            "created_at": "2022-03-13T08:28:27.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "Yeeyi, these stories of racisms, bullying PhD students in academia are so triggering. I can still remember walking in the cold wheather numb numb. Being a person of colour in the academy is trauma.",
+            "author_id": "380515792",
+            "possibly_sensitive": false
+        },
+        {
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "BbwMaturity",
+                        "id": "1312741906150031361"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone",
+            "geo": {
+                "place_id": "0e587c59401d0a27"
+            },
+            "id": "1502006612147556354",
+            "lang": "en",
+            "created_at": "2022-03-10T19:40:56.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "in_reply_to_user_id": "1312741906150031361",
+            "text": "@BbwMaturity You are doing a great job, brother👌🤞 I like I like😊\n\nIt’s very sad to see that. 5 years is too much for a graduate without a job. It can be stressful without support.",
+            "author_id": "112096792",
+            "possibly_sensitive": false
+        },
+        {
+            "source": "Twitter for iPhone",
+            "geo": {
+                "place_id": "c257bb97f95ba4c8"
+            },
+            "id": "1501465382946807811",
+            "lang": "en",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 76,
+                        "end": 99,
+                        "url": "https://t.co/7Y0g9Z9rYZ",
+                        "expanded_url": "https://twitter.com/riya6ix/status/1501247884397793290",
+                        "display_url": "twitter.com/riya6ix/status…"
+                    }
+                ]
+            },
+            "created_at": "2022-03-09T07:50:17.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "I miss having academic stress😭😭 like the naps I take when I have it slaps❤️ https://t.co/7Y0g9Z9rYZ",
+            "author_id": "926053461912846337",
+            "possibly_sensitive": false
+        },
+        {
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 34,
+                        "end": 43,
+                        "username": "velle012",
+                        "id": "1292916654708527104"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 6,
+                        "end": 29,
+                        "url": "https://t.co/TzoYJ8wugf",
+                        "expanded_url": "https://www.velle.co.za",
+                        "display_url": "velle.co.za"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "geo": {
+                "place_id": "0e587c59401d0a27"
+            },
+            "id": "1500140511415484422",
+            "lang": "en",
+            "created_at": "2022-03-05T16:05:43.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "Velle https://t.co/TzoYJ8wugf via @Velle012\nVisit our fresh new website to learn more about how we can support parents, learners &amp; educators with academic recovery",
+            "author_id": "1292916654708527104",
+            "possibly_sensitive": false
+        },
+        {
+            "source": "Twitter for Android",
+            "attachments": {
+                "media_keys": [
+                    "3_1499453313229676549",
+                    "3_1499453401486311425",
+                    "3_1499453454057623556"
+                ]
+            },
+            "geo": {
+                "place_id": "a6de57f8441398d4"
+            },
+            "id": "1499453457727729668",
+            "lang": "en",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 281,
+                        "end": 304,
+                        "url": "https://t.co/1jShom13f5",
+                        "expanded_url": "https://twitter.com/MadlingoziMbali/status/1499453457727729668/photo/1",
+                        "display_url": "pic.twitter.com/1jShom13f5",
+                        "media_key": "3_1499453313229676549"
+                    },
+                    {
+                        "start": 281,
+                        "end": 304,
+                        "url": "https://t.co/1jShom13f5",
+                        "expanded_url": "https://twitter.com/MadlingoziMbali/status/1499453457727729668/photo/1",
+                        "display_url": "pic.twitter.com/1jShom13f5",
+                        "media_key": "3_1499453401486311425"
+                    },
+                    {
+                        "start": 281,
+                        "end": 304,
+                        "url": "https://t.co/1jShom13f5",
+                        "expanded_url": "https://twitter.com/MadlingoziMbali/status/1499453457727729668/photo/1",
+                        "display_url": "pic.twitter.com/1jShom13f5",
+                        "media_key": "3_1499453454057623556"
+                    }
+                ]
+            },
+            "created_at": "2022-03-03T18:35:37.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "Mental health has been a touchy subject for some people and it is a huge issue in our country and continues to rise. Having to deal with academic stress, fitting in to a new environment and coming out of my comfort zone, having someone to talk to does bring a little bit of relief https://t.co/1jShom13f5",
+            "author_id": "1204390125339324418",
+            "possibly_sensitive": false
+        },
+        {
+            "source": "Twitter for Android",
+            "geo": {
+                "place_id": "0e587c59401d0a27"
+            },
+            "id": "1498538616590684160",
+            "lang": "en",
+            "created_at": "2022-03-01T06:00:22.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "Academia is literally causing me stress and anxiety...yhuu hai sengizwile anyway Goodmoro bahlali, a prosperous and peaceful month ahead💛💜🤍❤️🖤",
+            "author_id": "1133913066",
+            "possibly_sensitive": false
+        }
+    ],
+    "includes": {
+        "media": [
+            {
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/FQPoK37WQAc626S.jpg",
+                "media_key": "3_1514309173235826695"
+            },
+            {
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/FN5fRAzWQAAZe0M.jpg",
+                "media_key": "3_1503744071466106880"
+            },
+            {
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/FM8g2AxWYAUb8n4.jpg",
+                "media_key": "3_1499453313229676549"
+            },
+            {
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/FM8g7JjXwAEWUR-.jpg",
+                "media_key": "3_1499453401486311425"
+            },
+            {
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/FM8g-NZWUAQ4nGf.jpg",
+                "media_key": "3_1499453454057623556"
+            }
+        ],
+        "users": [
+            {
+                "id": "61463806",
+                "name": "Boni",
+                "username": "inobandras"
+            },
+            {
+                "id": "4061061730",
+                "name": "Nokubonga🌸.",
+                "username": "oceangiggless"
+            },
+            {
+                "id": "1274433982151757824",
+                "name": "😍Cody Sakhile🏳️‍🌈😍 and 300 others",
+                "username": "CodyThe1st_"
+            },
+            {
+                "id": "490417655",
+                "name": "the human M&M's 🇵🇸",
+                "username": "mmoosa16"
+            },
+            {
+                "id": "1128008567590719488",
+                "name": "Lindor__",
+                "username": "yourboylindo"
+            },
+            {
+                "id": "1007598179729145858",
+                "name": "qondeezy bru",
+                "username": "mihlali_mzamo"
+            },
+            {
+                "id": "948260531407867904",
+                "name": "ntonton🏳️‍🌈",
+                "username": "shantelzitha"
+            },
+            {
+                "id": "1012242807417921536",
+                "name": "Dimakatšo Camilla Supe",
+                "username": "supe_cam"
+            },
+            {
+                "id": "943022421279432704",
+                "name": "NoZulu",
+                "username": "Mvutyi"
+            },
+            {
+                "id": "631975786",
+                "name": "Dr Lerato Sokhulu, PhD",
+                "username": "callme_Dr_S"
+            },
+            {
+                "id": "114961145",
+                "name": "Voice of Reason ✍️",
+                "username": "cuthbertjnr"
+            },
+            {
+                "id": "2766913217",
+                "name": "Siviwe",
+                "username": "capoot7"
+            },
+            {
+                "id": "310323758",
+                "name": "Kolisa Yola Sinyanya🌊📚🤓🇿🇦",
+                "username": "Kolie_Yola"
+            },
+            {
+                "id": "637081888",
+                "name": "Nkunzebomvu",
+                "username": "BGQwabe"
+            },
+            {
+                "id": "159408408",
+                "name": "African Child",
+                "username": "ZikhonaTshona"
+            },
+            {
+                "id": "946353358012641281",
+                "name": "femme fatale",
+                "username": "KabeloN__"
+            },
+            {
+                "id": "380515792",
+                "name": "Fortunate.Mokoena",
+                "username": "fouch_mokoena"
+            },
+            {
+                "id": "112096792",
+                "name": "Ntsetsana Mvundlela",
+                "username": "Ntsetsana"
+            },
+            {
+                "id": "926053461912846337",
+                "name": "17JUNE❤️",
+                "username": "Miso_Sibembe"
+            },
+            {
+                "id": "1292916654708527104",
+                "name": "Velle012",
+                "username": "velle012"
+            },
+            {
+                "id": "1204390125339324418",
+                "name": "Sunflower Hippie🌻",
+                "username": "MadlingoziMbali"
+            },
+            {
+                "id": "1133913066",
+                "name": "Ndlovukazi 💕🪷💮👑👑",
+                "username": "sthesh_k"
+            }
+        ],
+        "places": [
+            {
+                "full_name": "Durban, South Africa",
+                "id": "9d7cae88ff6a29f5"
+            },
+            {
+                "full_name": "Johannesburg, South Africa",
+                "id": "e564d30dc173d2a8"
+            },
+            {
+                "full_name": "Sandton, South Africa",
+                "id": "178a87b8e2eaa375"
+            },
+            {
+                "full_name": "Bloemfontein, South Africa",
+                "id": "810e12ec4af983de"
+            },
+            {
+                "full_name": "South Africa",
+                "id": "dd9c0d7d7e07eb49"
+            },
+            {
+                "full_name": "Pretoria, South Africa",
+                "id": "0e587c59401d0a27"
+            },
+            {
+                "full_name": "Westville, South Africa",
+                "id": "62b0cb0005d01039"
+            },
+            {
+                "full_name": "Randburg, South Africa",
+                "id": "d73e8f8ebdd03aff"
+            },
+            {
+                "full_name": "Cape Town, South Africa",
+                "id": "8b9ec16fdc0d7e55"
+            },
+            {
+                "full_name": "Ivory Park, South Africa",
+                "id": "ae6e929fb9774bf8"
+            },
+            {
+                "full_name": "Mafikeng, South Africa",
+                "id": "150e1ec07e4e2fca"
+            },
+            {
+                "full_name": "East London, South Africa",
+                "id": "c257bb97f95ba4c8"
+            },
+            {
+                "full_name": "Soshanguve, South Africa",
+                "id": "a6de57f8441398d4"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1514309177371418626",
+        "oldest_id": "1498538616590684160",
+        "result_count": 22
+    }
+}

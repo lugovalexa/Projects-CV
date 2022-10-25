@@ -1,0 +1,219 @@
+{
+    "data": [
+        {
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 126,
+                        "end": 133,
+                        "tag": "eiffel"
+                    },
+                    {
+                        "start": 134,
+                        "end": 140,
+                        "tag": "Paris"
+                    },
+                    {
+                        "start": 141,
+                        "end": 149,
+                        "tag": "phdlife"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 150,
+                        "end": 173,
+                        "url": "https://t.co/gdvqv4ek2D",
+                        "expanded_url": "https://twitter.com/BilourGIKI/status/1383357302921601027/photo/1",
+                        "display_url": "pic.twitter.com/gdvqv4ek2D",
+                        "media_key": "3_1383357226224549893"
+                    },
+                    {
+                        "start": 150,
+                        "end": 173,
+                        "url": "https://t.co/gdvqv4ek2D",
+                        "expanded_url": "https://twitter.com/BilourGIKI/status/1383357302921601027/photo/1",
+                        "display_url": "pic.twitter.com/gdvqv4ek2D",
+                        "media_key": "3_1383357252854112262"
+                    },
+                    {
+                        "start": 150,
+                        "end": 173,
+                        "url": "https://t.co/gdvqv4ek2D",
+                        "expanded_url": "https://twitter.com/BilourGIKI/status/1383357302921601027/photo/1",
+                        "display_url": "pic.twitter.com/gdvqv4ek2D",
+                        "media_key": "3_1383357266271739912"
+                    },
+                    {
+                        "start": 150,
+                        "end": 173,
+                        "url": "https://t.co/gdvqv4ek2D",
+                        "expanded_url": "https://twitter.com/BilourGIKI/status/1383357302921601027/photo/1",
+                        "display_url": "pic.twitter.com/gdvqv4ek2D",
+                        "media_key": "3_1383357279278223365"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 6,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "source": "Twitter for Android",
+            "attachments": {
+                "media_keys": [
+                    "3_1383357226224549893",
+                    "3_1383357252854112262",
+                    "3_1383357266271739912",
+                    "3_1383357279278223365"
+                ]
+            },
+            "text": "COVID, please go away, let us all back to normal life.\nSad to witness this historical place is now closed almost for a year.\n\n#eiffel\n#Paris\n#phdlife https://t.co/gdvqv4ek2D",
+            "geo": {
+                "place_id": "07d9f1a340c87002"
+            },
+            "lang": "en",
+            "id": "1383357302921601027",
+            "author_id": "1181931306",
+            "created_at": "2021-04-17T09:50:57.000Z"
+        },
+        {
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 180,
+                        "end": 188,
+                        "tag": "phdlife"
+                    },
+                    {
+                        "start": 189,
+                        "end": 197,
+                        "tag": "fasting"
+                    },
+                    {
+                        "start": 198,
+                        "end": 212,
+                        "tag": "healthyhabits"
+                    },
+                    {
+                        "start": 213,
+                        "end": 223,
+                        "tag": "Motivated"
+                    },
+                    {
+                        "start": 224,
+                        "end": 238,
+                        "tag": "RamadanKareem"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "source": "Twitter for iPhone",
+            "text": "First day of Ramadan.. Fasting goes so far so good. Kinda feels nice not spending time and energy on food. Gonne be a crazy productive month Im afraid. 🤓 Definitely a good change. #phdlife #fasting #healthyhabits #Motivated #RamadanKareem",
+            "geo": {
+                "place_id": "4c6100a96901fb5e"
+            },
+            "lang": "en",
+            "id": "1381981449360904195",
+            "author_id": "3328202063",
+            "created_at": "2021-04-13T14:43:48.000Z"
+        },
+        {
+            "in_reply_to_user_id": "1553388638",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "poemproducer",
+                        "id": "1553388638"
+                    }
+                ]
+            },
+            "possibly_sensitive": false,
+            "source": "Twitter for iPhone",
+            "text": "@poemproducer It’s a terrible situation and is no getting better, sad graphs that did you share/ I  teach kids to get into music with sampling on the phone of their parents etc.. actually Diverting the academic way",
+            "geo": {
+                "place_id": "36f5c7c7ac78dcb4"
+            },
+            "lang": "en",
+            "id": "1372980614715031554",
+            "author_id": "46488390",
+            "created_at": "2021-03-19T18:37:41.000Z"
+        }
+    ],
+    "includes": {
+        "media": [
+            {
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/EzKsEWKVgAUOuRN.jpg",
+                "media_key": "3_1383357226224549893"
+            },
+            {
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/EzKsF5XUYAYqQuC.jpg",
+                "media_key": "3_1383357252854112262"
+            },
+            {
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/EzKsGrWVIAgFf4t.jpg",
+                "media_key": "3_1383357266271739912"
+            },
+            {
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/EzKsHbzUUAUiGvx.jpg",
+                "media_key": "3_1383357279278223365"
+            }
+        ],
+        "users": [
+            {
+                "id": "1181931306",
+                "name": "Bilour khan",
+                "username": "BilourGIKI"
+            },
+            {
+                "id": "3328202063",
+                "name": "Elif Erdem",
+                "username": "Alephoriae"
+            },
+            {
+                "id": "46488390",
+                "name": "juan-guillermo dumay",
+                "username": "memodumay"
+            }
+        ],
+        "places": [
+            {
+                "full_name": "Tour Eiffel",
+                "id": "07d9f1a340c87002"
+            },
+            {
+                "full_name": "Marseille, France",
+                "id": "4c6100a96901fb5e"
+            },
+            {
+                "full_name": "Bagnolet, France",
+                "id": "36f5c7c7ac78dcb4"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1383357302921601027",
+        "oldest_id": "1372980614715031554",
+        "result_count": 3
+    }
+}

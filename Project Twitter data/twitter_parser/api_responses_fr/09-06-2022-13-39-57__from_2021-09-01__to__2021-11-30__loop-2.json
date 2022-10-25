@@ -1,0 +1,186 @@
+{
+    "data": [
+        {
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 171,
+                        "end": 179,
+                        "tag": "PhDlife"
+                    },
+                    {
+                        "start": 180,
+                        "end": 194,
+                        "tag": "international"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "source": "Twitter for iPhone",
+            "text": "It’s really bothering how much we stress and waste time on bureaucracy as international scientists… yes, another day of waiting in the queue to get my residency permit 🙄🙄 #PhDlife #international",
+            "geo": {
+                "place_id": "4c6100a96901fb5e"
+            },
+            "lang": "en",
+            "id": "1447831821388034048",
+            "author_id": "3328202063",
+            "created_at": "2021-10-12T07:49:40.000Z"
+        },
+        {
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 96,
+                        "end": 104,
+                        "tag": "phdlife"
+                    },
+                    {
+                        "start": 105,
+                        "end": 121,
+                        "tag": "AcademicChatter"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 10,
+                        "end": 22,
+                        "username": "WaveMetrics",
+                        "id": "82151893"
+                    },
+                    {
+                        "start": 122,
+                        "end": 131,
+                        "username": "PhDVoice",
+                        "id": "1168227245338628096"
+                    },
+                    {
+                        "start": 132,
+                        "end": 144,
+                        "username": "thephdstory",
+                        "id": "2689586348"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 145,
+                        "end": 168,
+                        "url": "https://t.co/Ifk6w2pNK6",
+                        "expanded_url": "https://twitter.com/theshujo/status/1445313802115948547/photo/1",
+                        "display_url": "pic.twitter.com/Ifk6w2pNK6",
+                        "media_key": "3_1445313800102719490"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "source": "Twitter for Android",
+            "attachments": {
+                "media_keys": [
+                    "3_1445313800102719490"
+                ]
+            },
+            "text": "Thank you @WaveMetrics for asking such caring questions! And yes I would like to kill stress. 🤣\n#phdlife #AcademicChatter @PhDVoice @thephdstory https://t.co/Ifk6w2pNK6",
+            "geo": {
+                "place_id": "527eede64312683b"
+            },
+            "lang": "en",
+            "id": "1445313802115948547",
+            "author_id": "291614637",
+            "created_at": "2021-10-05T09:03:57.000Z"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 3,
+                "like_count": 5,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 174,
+                        "end": 197,
+                        "url": "https://t.co/IslG2DXy1l",
+                        "expanded_url": "https://twitter.com/MBU_IISc/status/1433780646128746501",
+                        "display_url": "twitter.com/MBU_IISc/statu…"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 122,
+                        "end": 125,
+                        "probability": 0.2706,
+                        "type": "Person",
+                        "normalized_text": "IISc"
+                    }
+                ]
+            },
+            "possibly_sensitive": false,
+            "source": "Twitter for iPhone",
+            "text": "Very sad news 😔 Srini sir was an amazing teacher and mentor. He was among the first mentors during my int PhD journey at IISc. Was very approachable and a great human being. https://t.co/IslG2DXy1l",
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "lang": "en",
+            "id": "1434061907602837504",
+            "author_id": "101716511",
+            "created_at": "2021-09-04T07:52:57.000Z"
+        }
+    ],
+    "includes": {
+        "users": [
+            {
+                "id": "3328202063",
+                "name": "Elif Erdem",
+                "username": "Alephoriae"
+            },
+            {
+                "id": "291614637",
+                "name": "Shubham Joshi",
+                "username": "theshujo"
+            },
+            {
+                "id": "101716511",
+                "name": "Meetali Singh",
+                "username": "meetalichauhan"
+            }
+        ],
+        "places": [
+            {
+                "full_name": "Marseille, France",
+                "id": "4c6100a96901fb5e"
+            },
+            {
+                "full_name": "Saint-Etienne-du-Rouvray, France",
+                "id": "527eede64312683b"
+            },
+            {
+                "full_name": "Paris, France",
+                "id": "09f6a7707f18e0b1"
+            }
+        ],
+        "media": [
+            {
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/FA7JPlwXsAI0KFn.jpg",
+                "media_key": "3_1445313800102719490"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1447831821388034048",
+        "oldest_id": "1434061907602837504",
+        "result_count": 3
+    }
+}

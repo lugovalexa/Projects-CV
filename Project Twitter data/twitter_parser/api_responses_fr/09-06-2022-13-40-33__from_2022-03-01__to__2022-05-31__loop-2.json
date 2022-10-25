@@ -1,0 +1,175 @@
+{
+    "data": [
+        {
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "source": "Twitter for Android",
+            "id": "1514305425868480518",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "text": "These thesis reviewer requirements in doctoral schools in France are insane 😥 Even if there were no requirements it would already be hard to find someone, but with all of these it's almost impossible 😔",
+            "created_at": "2022-04-13T18:12:02.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 5,
+                "quote_count": 1
+            },
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 58,
+                        "end": 63,
+                        "probability": 0.9984,
+                        "type": "Place",
+                        "normalized_text": "France"
+                    }
+                ]
+            },
+            "author_id": "40813700"
+        },
+        {
+            "geo": {
+                "place_id": "5aec65c597ed4124"
+            },
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 53,
+                        "end": 69,
+                        "tag": "AcademicTwitter"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 70,
+                        "end": 93,
+                        "url": "https://t.co/tqIjbtzoOO",
+                        "expanded_url": "https://twitter.com/rosdiadee/status/1508958353078194178",
+                        "display_url": "twitter.com/rosdiadee/stat…"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "id": "1509066348743299073",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "text": "Very very important skills!!! I cannot stress enough #AcademicTwitter https://t.co/tqIjbtzoOO",
+            "created_at": "2022-03-30T07:13:49.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "910274895577272321"
+        },
+        {
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "source": "Twitter for iPhone",
+            "id": "1500393873973161985",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "text": "Going to Versailles today which is crazy exciting since I wrote my whole dissertation on it",
+            "created_at": "2022-03-06T08:52:30.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 7,
+                "quote_count": 0
+            },
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 9,
+                        "end": 18,
+                        "probability": 0.4213,
+                        "type": "Place",
+                        "normalized_text": "Versailles"
+                    }
+                ]
+            },
+            "author_id": "81137572"
+        },
+        {
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "in_reply_to_user_id": "557483649",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "ItsDanaWhite",
+                        "id": "557483649"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 45,
+                        "end": 52,
+                        "probability": 0.594,
+                        "type": "Place",
+                        "normalized_text": "Academia"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "id": "1499370932489621510",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "text": "@ItsDanaWhite I am sorry to tell that but in Academia we need therapy",
+            "created_at": "2022-03-03T13:07:41.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "962884326"
+        }
+    ],
+    "includes": {
+        "users": [
+            {
+                "id": "40813700",
+                "name": "Marcel Ribeiro-Dantas🔎📊",
+                "username": "mribeirodantas"
+            },
+            {
+                "id": "910274895577272321",
+                "name": "Raksha",
+                "username": "raksha_chini"
+            },
+            {
+                "id": "81137572",
+                "name": "Allie ✨",
+                "username": "fizzyallie"
+            },
+            {
+                "id": "962884326",
+                "name": "Maha OMRAN",
+                "username": "MahaJabir2"
+            }
+        ],
+        "places": [
+            {
+                "full_name": "Paris, France",
+                "id": "09f6a7707f18e0b1"
+            },
+            {
+                "full_name": "Antony, France",
+                "id": "5aec65c597ed4124"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1514305425868480518",
+        "oldest_id": "1499370932489621510",
+        "result_count": 4
+    }
+}

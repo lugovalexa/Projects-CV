@@ -1,0 +1,239 @@
+{
+    "data": [
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "geo": {
+                "place_id": "6264e4f8ac43f448"
+            },
+            "lang": "en",
+            "possibly_sensitive": false,
+            "id": "866681969203138560",
+            "text": "Going after Dr Nonke (PhD) is suicide... 😂😂",
+            "created_at": "2017-05-22T15:47:38.000Z",
+            "author_id": "376260422",
+            "source": "Twitter for Android",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 12,
+                        "end": 19,
+                        "probability": 0.8869,
+                        "type": "Person",
+                        "normalized_text": "Dr Nonke"
+                    }
+                ]
+            }
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 5,
+                "quote_count": 0
+            },
+            "geo": {
+                "place_id": "179b8df9e368044d"
+            },
+            "lang": "en",
+            "possibly_sensitive": false,
+            "id": "858253713667915776",
+            "text": "Never join an a cappella group in college bc after you graduate Blank Space will play on a Spotify playlist and the only thing to do is cry",
+            "created_at": "2017-04-29T09:36:45.000Z",
+            "author_id": "342925870",
+            "source": "Twitter for iPhone",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 64,
+                        "end": 74,
+                        "probability": 0.4667,
+                        "type": "Other",
+                        "normalized_text": "Blank Space"
+                    },
+                    {
+                        "start": 91,
+                        "end": 97,
+                        "probability": 0.8252,
+                        "type": "Product",
+                        "normalized_text": "Spotify"
+                    }
+                ]
+            }
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "geo": {
+                "place_id": "369d22587b104a3b"
+            },
+            "lang": "en",
+            "possibly_sensitive": false,
+            "id": "846048625109143552",
+            "text": "SnK, Boruto &amp; My Hero Academia in a week, gonna be crazy month",
+            "created_at": "2017-03-26T17:18:05.000Z",
+            "author_id": "623025279",
+            "source": "Twitter for iPhone",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 2,
+                        "probability": 0.3048,
+                        "type": "Product",
+                        "normalized_text": "SnK"
+                    },
+                    {
+                        "start": 5,
+                        "end": 29,
+                        "probability": 0.2013,
+                        "type": "Other",
+                        "normalized_text": "Boruto & My Hero Academia"
+                    }
+                ]
+            }
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_844974027009609730",
+                    "3_844974028146257921",
+                    "3_844974029807210496"
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 112,
+                        "end": 135,
+                        "url": "https://t.co/tGHhEHlD3J",
+                        "expanded_url": "https://twitter.com/yegphysio/status/844974049306533888/photo/1",
+                        "display_url": "pic.twitter.com/tGHhEHlD3J",
+                        "media_key": "3_844974027009609730"
+                    },
+                    {
+                        "start": 112,
+                        "end": 135,
+                        "url": "https://t.co/tGHhEHlD3J",
+                        "expanded_url": "https://twitter.com/yegphysio/status/844974049306533888/photo/1",
+                        "display_url": "pic.twitter.com/tGHhEHlD3J",
+                        "media_key": "3_844974028146257921"
+                    },
+                    {
+                        "start": 112,
+                        "end": 135,
+                        "url": "https://t.co/tGHhEHlD3J",
+                        "expanded_url": "https://twitter.com/yegphysio/status/844974049306533888/photo/1",
+                        "display_url": "pic.twitter.com/tGHhEHlD3J",
+                        "media_key": "3_844974029807210496"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 85,
+                        "end": 91,
+                        "tag": "paris"
+                    },
+                    {
+                        "start": 92,
+                        "end": 100,
+                        "tag": "phdlife"
+                    },
+                    {
+                        "start": 101,
+                        "end": 111,
+                        "tag": "nerdtweet"
+                    }
+                ]
+            },
+            "lang": "en",
+            "possibly_sensitive": false,
+            "id": "844974049306533888",
+            "text": "books on books on books. never been so sad to hear the library closing announcement.\n#paris #phdlife #nerdtweet https://t.co/tGHhEHlD3J",
+            "created_at": "2017-03-23T18:08:06.000Z",
+            "author_id": "118583219",
+            "source": "Twitter for iPhone"
+        }
+    ],
+    "includes": {
+        "users": [
+            {
+                "id": "376260422",
+                "name": "Ms. Vee_Mère des Dragons.",
+                "username": "VhonieMula"
+            },
+            {
+                "id": "342925870",
+                "name": "p h o e b e 🌞",
+                "username": "Phee_B_Lee"
+            },
+            {
+                "id": "623025279",
+                "name": "Théo",
+                "username": "HexonVFX"
+            },
+            {
+                "id": "118583219",
+                "name": "christina le (she/her)",
+                "username": "yegphysio"
+            }
+        ],
+        "places": [
+            {
+                "full_name": "Rennes, France",
+                "id": "6264e4f8ac43f448"
+            },
+            {
+                "full_name": "Lyon, France",
+                "id": "179b8df9e368044d"
+            },
+            {
+                "full_name": "Montpellier, France",
+                "id": "369d22587b104a3b"
+            },
+            {
+                "full_name": "Paris, France",
+                "id": "09f6a7707f18e0b1"
+            }
+        ],
+        "media": [
+            {
+                "type": "photo",
+                "media_key": "3_844974027009609730",
+                "url": "https://pbs.twimg.com/media/C7nzZpRW0AIGH9H.jpg"
+            },
+            {
+                "type": "photo",
+                "media_key": "3_844974028146257921",
+                "url": "https://pbs.twimg.com/media/C7nzZtgWsAEVBU1.jpg"
+            },
+            {
+                "type": "photo",
+                "media_key": "3_844974029807210496",
+                "url": "https://pbs.twimg.com/media/C7nzZzsW0AAZq4q.jpg"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "866681969203138560",
+        "oldest_id": "844974049306533888",
+        "result_count": 4
+    }
+}

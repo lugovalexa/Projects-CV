@@ -1,0 +1,424 @@
+{
+    "data": [
+        {
+            "in_reply_to_user_id": "4441096332",
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "@emimilina It's so sad that you can't see them being graduate :(",
+            "author_id": "810637782",
+            "possibly_sensitive": false,
+            "source": "Twitter for Android",
+            "lang": "en",
+            "created_at": "2020-02-27T12:31:37.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "emimilina",
+                        "id": "4441096332"
+                    }
+                ]
+            },
+            "id": "1233006772706856962"
+        },
+        {
+            "geo": {
+                "place_id": "495d47550fa73594"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "lmao I see why grades do not really matter in France. I guess they believe if you can even survive this crazy system and graduate, then you’re good enough.",
+            "author_id": "2443959195",
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 46,
+                        "end": 51,
+                        "probability": 0.9963,
+                        "type": "Place",
+                        "normalized_text": "France"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone",
+            "lang": "en",
+            "created_at": "2020-02-26T19:49:13.000Z",
+            "id": "1232754509086175235"
+        },
+        {
+            "geo": {
+                "place_id": "63c05080b38a2fe8"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 12,
+                "quote_count": 0
+            },
+            "text": "Today my PhD student is going to her first invited postdoc interview. She sent me the best thank you email!! I cried! I have such mixed feeling knowing that she will graduate soon. I am sure I am going to cry again when she defends!! Please tell me it's normal!",
+            "author_id": "2766124519",
+            "possibly_sensitive": false,
+            "source": "Twitter for Android",
+            "lang": "en",
+            "created_at": "2020-02-11T19:16:47.000Z",
+            "id": "1227310532308369409"
+        },
+        {
+            "in_reply_to_user_id": "17234452",
+            "geo": {
+                "place_id": "2c2147126a786940"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "text": "That was a pretty crazy time... I was juggling writing up my #PhD, acceptance of a brand new #bipolardisorder diagnosis, and a whole journey of trying to figure out the right meds to take (the first of which was an absolute disaster). Music was such a balm, and remains so today.",
+            "author_id": "17234452",
+            "possibly_sensitive": false,
+            "source": "Twitter for Android",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 61,
+                        "end": 65,
+                        "tag": "PhD"
+                    },
+                    {
+                        "start": 93,
+                        "end": 109,
+                        "tag": "bipolardisorder"
+                    }
+                ]
+            },
+            "lang": "en",
+            "created_at": "2020-02-05T19:54:20.000Z",
+            "id": "1225145654533664768"
+        },
+        {
+            "geo": {
+                "place_id": "66fabed9d649aa12"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 3,
+                "like_count": 13,
+                "quote_count": 0
+            },
+            "text": "Something I learned during my PhD: how to handle when I’m stuck on a problem\n\nAt first I relentlessly kept trying\n\nNow, when I’m stuck I acknowledge it, and I do something else. The solution usually pops up the next day – it just happened again today!\n\nAnd I’m less stressed",
+            "author_id": "583603580",
+            "possibly_sensitive": false,
+            "source": "Twitter for iPhone",
+            "lang": "en",
+            "created_at": "2020-01-28T09:50:52.000Z",
+            "id": "1222094683393994757"
+        },
+        {
+            "geo": {
+                "place_id": "55ea4e5e9bb75976"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 5,
+                "quote_count": 0
+            },
+            "text": "Acute stress! #phdlife #phdchat https://t.co/hmluOtCzLw",
+            "author_id": "896173712369737729",
+            "possibly_sensitive": false,
+            "source": "Twitter for Android",
+            "attachments": {
+                "media_keys": [
+                    "3_1221795716680552449"
+                ]
+            },
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 14,
+                        "end": 22,
+                        "tag": "phdlife"
+                    },
+                    {
+                        "start": 23,
+                        "end": 31,
+                        "tag": "phdchat"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 32,
+                        "end": 55,
+                        "url": "https://t.co/hmluOtCzLw",
+                        "expanded_url": "https://twitter.com/FerreiraVHB/status/1221795746934140933/photo/1",
+                        "display_url": "pic.twitter.com/hmluOtCzLw",
+                        "media_key": "3_1221795716680552449"
+                    }
+                ]
+            },
+            "lang": "en",
+            "created_at": "2020-01-27T14:03:00.000Z",
+            "id": "1221795746934140933"
+        },
+        {
+            "in_reply_to_user_id": "1092880541026787330",
+            "geo": {
+                "place_id": "2c2147126a786940"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "text": "@usmankayaniphd When I got my PhD I excitedly told my kid (almost 5y old) \"hey guess what, mommy is a doctor now!\" and he straight up burst into tears, so sometimes celebrating with family isn't all it's cracked up to be😂😂",
+            "author_id": "17234452",
+            "possibly_sensitive": false,
+            "source": "Twitter for Android",
+            "lang": "en",
+            "created_at": "2020-01-18T15:48:05.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "username": "UsmanKayaniPhD",
+                        "id": "1092880541026787330"
+                    }
+                ]
+            },
+            "id": "1218560700857114626"
+        },
+        {
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "I just learned this horribly sad news. Sylvia Chant was an inspiration for those surrounding her. She used Academia as a platform for social change. She advised students to accomplish their dreams. Most of all, she was a great human being. My condolences to her loved ones. QEPD. https://t.co/wqYUwj6PBG",
+            "author_id": "2810029945",
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 39,
+                        "end": 50,
+                        "probability": 0.9463,
+                        "type": "Person",
+                        "normalized_text": "Sylvia Chant"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 280,
+                        "end": 303,
+                        "url": "https://t.co/wqYUwj6PBG",
+                        "expanded_url": "https://twitter.com/K_Brickell/status/1214647203467321344",
+                        "display_url": "twitter.com/K_Brickell/sta…"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "lang": "en",
+            "created_at": "2020-01-08T07:06:30.000Z",
+            "id": "1214805561402970112"
+        },
+        {
+            "in_reply_to_user_id": "1046835280341291008",
+            "geo": {
+                "place_id": "1c6586e5d40fba3d"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "@lara_quartel @AcademicChatter @PhDForum Totally! Even the best career has responsibilities we might not enjoy, so having other meaningful tasks on the side helps balance them out. Doing different things help balance my time &amp; keep things in perspective. It helps balance the stress too. #Careeradvice #phdchat #WorkLife",
+            "author_id": "891331681810034689",
+            "possibly_sensitive": false,
+            "source": "Twitter for iPhone",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 292,
+                        "end": 305,
+                        "tag": "Careeradvice"
+                    },
+                    {
+                        "start": 306,
+                        "end": 314,
+                        "tag": "phdchat"
+                    },
+                    {
+                        "start": 315,
+                        "end": 324,
+                        "tag": "WorkLife"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 14,
+                        "end": 30,
+                        "username": "AcademicChatter",
+                        "id": "885953601067208705"
+                    },
+                    {
+                        "start": 31,
+                        "end": 40,
+                        "username": "PhDForum",
+                        "id": "604416116"
+                    }
+                ]
+            },
+            "lang": "en",
+            "created_at": "2019-12-28T06:34:29.000Z",
+            "id": "1210811236138373121"
+        },
+        {
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 7,
+                "quote_count": 0
+            },
+            "text": "I’m going crazy y’olllll !!!!!!!!! I GRADUATE NEXT MONDAY (i walk in May) BUT BRUH WTF !!!! SCHOOLS OUT 5 EVER",
+            "author_id": "27763594",
+            "possibly_sensitive": false,
+            "source": "Twitter for iPhone",
+            "lang": "en",
+            "created_at": "2019-12-10T23:33:40.000Z",
+            "id": "1204544740403875840"
+        },
+        {
+            "geo": {
+                "place_id": "66fabed9d649aa12"
+            },
+            "public_metrics": {
+                "retweet_count": 3,
+                "reply_count": 6,
+                "like_count": 129,
+                "quote_count": 0
+            },
+            "text": "It’s funny how things can unfold real quick:\n\nNot only my impostor syndrome is slowly disappearing, but I’ve also found the mental space to finish this damn PhD thesis at an unprecedented rate w/o putting my mental health in danger\n\nI want this shit to finish, and fast",
+            "author_id": "583603580",
+            "possibly_sensitive": false,
+            "source": "Twitter for iPhone",
+            "lang": "en",
+            "created_at": "2019-12-06T19:08:29.000Z",
+            "id": "1203028456214323200"
+        }
+    ],
+    "includes": {
+        "users": [
+            {
+                "id": "810637782",
+                "name": "𝑨𝒏𝒂𝒔𝒕𝒂𝒔𝒊𝒂 🫧",
+                "username": "Insoolusion"
+            },
+            {
+                "id": "2443959195",
+                "name": "Ololad£",
+                "username": "ladekale"
+            },
+            {
+                "id": "2766124519",
+                "name": "Nolwenn M Dheilly",
+                "username": "DheillyNM"
+            },
+            {
+                "id": "17234452",
+                "name": "Dr. Claire Lee 💉💉💉 m(ode)RNA'd",
+                "username": "Claire_Lee"
+            },
+            {
+                "id": "583603580",
+                "name": "Olivier Simard-Casanova 🏳️‍🌈",
+                "username": "simardcasanova"
+            },
+            {
+                "id": "896173712369737729",
+                "name": "Vitor H. B. Ferreira",
+                "username": "FerreiraVHB"
+            },
+            {
+                "id": "2810029945",
+                "name": "Josh PaterninaBlanco",
+                "username": "JPaterninaBlanc"
+            },
+            {
+                "id": "891331681810034689",
+                "name": "Quang Nguyen 🌈💡🦠🧸📚🌱🌍👻🤖🌸",
+                "username": "QNNDuke"
+            },
+            {
+                "id": "27763594",
+                "name": "🥩moldy🥩",
+                "username": "Moldysmith"
+            }
+        ],
+        "places": [
+            {
+                "full_name": "Paris, France",
+                "id": "09f6a7707f18e0b1"
+            },
+            {
+                "full_name": "Bagneux, France",
+                "id": "495d47550fa73594"
+            },
+            {
+                "full_name": "Plestin-les-Grèves, France",
+                "id": "63c05080b38a2fe8"
+            },
+            {
+                "full_name": "Thoiry, France",
+                "id": "2c2147126a786940"
+            },
+            {
+                "full_name": "Nancy, France",
+                "id": "66fabed9d649aa12"
+            },
+            {
+                "full_name": "Lille, France",
+                "id": "55ea4e5e9bb75976"
+            },
+            {
+                "full_name": "Villeurbanne, France",
+                "id": "1c6586e5d40fba3d"
+            }
+        ],
+        "media": [
+            {
+                "type": "photo",
+                "media_key": "3_1221795716680552449",
+                "url": "https://pbs.twimg.com/media/EPSwuyDWkAEnHFC.jpg"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1233006772706856962",
+        "oldest_id": "1203028456214323200",
+        "result_count": 11
+    }
+}

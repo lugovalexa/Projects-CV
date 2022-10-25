@@ -1,0 +1,2142 @@
+{
+    "data": [
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "created_at": "2018-08-29T21:45:14.000Z",
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "academic stress is the worst!",
+            "id": "1034919934759976961",
+            "author_id": "947134956731617281",
+            "geo": {
+                "place_id": "810e12ec4af983de"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 12,
+                        "end": 13,
+                        "probability": 0.7602,
+                        "type": "Person",
+                        "normalized_text": "Dr"
+                    },
+                    {
+                        "start": 17,
+                        "end": 25,
+                        "probability": 0.8531,
+                        "type": "Person",
+                        "normalized_text": "Dr Filies"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 214,
+                        "end": 218,
+                        "tag": "PhD"
+                    },
+                    {
+                        "start": 219,
+                        "end": 230,
+                        "tag": "Psychology"
+                    },
+                    {
+                        "start": 231,
+                        "end": 240,
+                        "tag": "PostGrad"
+                    },
+                    {
+                        "start": 241,
+                        "end": 268,
+                        "tag": "UniversityoftheWesternCape"
+                    },
+                    {
+                        "start": 269,
+                        "end": 276,
+                        "tag": "Degree"
+                    },
+                    {
+                        "start": 277,
+                        "end": 284,
+                        "tag": "Health"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 190,
+                        "end": 213,
+                        "url": "https://t.co/tBy8u3jnli",
+                        "expanded_url": "https://www.iol.co.za/capetimes/news/kuils-river-couple-receive-doctorates-at-same-time-at-uwc-16763406",
+                        "display_url": "iol.co.za/capetimes/news…"
+                    }
+                ]
+            },
+            "lang": "en",
+            "source": "Twitter Web Client",
+            "created_at": "2018-08-29T11:13:43.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 1
+            },
+            "text": "Congrats to Dr &amp; Dr Filies on their extraordinary achievements!\nHis: PhD in Child and Family Studies.\nHers: PhD in Educational Psychology, with a special focus on women’s mental health. https://t.co/tBy8u3jnli #PhD #Psychology #PostGrad #UniversityoftheWesternCape #Degree #Health",
+            "id": "1034761005476261888",
+            "author_id": "4889565063",
+            "geo": {
+                "place_id": "8b9ec16fdc0d7e55"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "probability": 0.5679,
+                        "type": "Person",
+                        "normalized_text": "SG Schreuder"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 278,
+                        "end": 301,
+                        "url": "https://t.co/R3lQjm4txf",
+                        "expanded_url": "https://twitter.com/DavidJohnMillar/status/1033967686324301824/photo/1",
+                        "display_url": "pic.twitter.com/R3lQjm4txf",
+                        "media_key": "3_1033967669660315648"
+                    }
+                ]
+            },
+            "lang": "en",
+            "source": "Twitter for Android",
+            "created_at": "2018-08-27T06:41:21.000Z",
+            "public_metrics": {
+                "retweet_count": 7,
+                "reply_count": 1,
+                "like_count": 9,
+                "quote_count": 0
+            },
+            "attachments": {
+                "media_keys": [
+                    "3_1033967669660315648"
+                ]
+            },
+            "text": "SG Schreuder reminds us all that change management requires leadership. We need a sustained academic focus but look at 21st century skills for the future. SG stressed why the Arts are important in our schools. Agriculture and Coding too. From STEM to STEAMAC. Welcome DG Mweli. https://t.co/R3lQjm4txf",
+            "id": "1033967686324301824",
+            "author_id": "56352613",
+            "geo": {
+                "place_id": "fb0076b27a293f79"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "created_at": "2018-08-24T08:54:32.000Z",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 5,
+                "like_count": 7,
+                "quote_count": 2
+            },
+            "attachments": {
+                "media_keys": [
+                    "3_1032914013863268352"
+                ]
+            },
+            "text": "😭😭😭Guys (please cry for me) I’m very teary while I’m in a meeting... so I can’t really cry right now! my younger brother just texted me to let me know he’s officially a graduate! \n\nAfter so many years of struggles, hunger, etc. he managed to obtain his BEng🔥🔥🔥😭😭😭😭 https://t.co/jZCXmWDvXl",
+            "id": "1032914042195771394",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 265,
+                        "end": 288,
+                        "url": "https://t.co/jZCXmWDvXl",
+                        "expanded_url": "https://twitter.com/wandilebrian/status/1032914042195771394/photo/1",
+                        "display_url": "pic.twitter.com/jZCXmWDvXl",
+                        "media_key": "3_1032914013863268352"
+                    }
+                ]
+            },
+            "author_id": "2465056030",
+            "geo": {
+                "place_id": "178a87b8e2eaa375"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "created_at": "2018-08-23T19:41:26.000Z",
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 1,
+                "like_count": 5,
+                "quote_count": 3
+            },
+            "text": "Tbh whenever I think about my future I stress a lot. Am I gonna be employed? Am I ever going to graduate ? What if I don’t ? 💔",
+            "id": "1032714450862841856",
+            "author_id": "746811756",
+            "geo": {
+                "place_id": "dd9c0d7d7e07eb49"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter Web Client",
+            "created_at": "2018-08-22T06:21:36.000Z",
+            "public_metrics": {
+                "retweet_count": 5,
+                "reply_count": 5,
+                "like_count": 46,
+                "quote_count": 0
+            },
+            "text": "True excellence in the service of humanity includes compassion.  Yesterday @ThumaFoundation met with an academic institution that does not seem to know this resulting in an attempted suicide by a student",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 75,
+                        "end": 91,
+                        "username": "ThumaFoundation",
+                        "id": "820587880171061248"
+                    }
+                ]
+            },
+            "id": "1032150776557264898",
+            "author_id": "2389227352",
+            "geo": {
+                "place_id": "8b9ec16fdc0d7e55"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 25,
+                        "end": 39,
+                        "probability": 0.4439,
+                        "type": "Organization",
+                        "normalized_text": "Black Graduates"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 133,
+                        "end": 149,
+                        "username": "MakingMovesSabc",
+                        "id": "1615296422"
+                    }
+                ]
+            },
+            "lang": "en",
+            "source": "Twitter Web Client",
+            "created_at": "2018-08-20T21:13:35.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "So sad seeing our fellow Black Graduates struggling to answer basic questions about their own business, If you dont believe me watch @MakingMovesSabc repeat now. I see copy and paste kinda Unisa graduate...",
+            "id": "1031650474984910848",
+            "author_id": "2408494773",
+            "geo": {
+                "place_id": "e564d30dc173d2a8"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "created_at": "2018-08-20T12:43:19.000Z",
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 1,
+                "like_count": 13,
+                "quote_count": 0
+            },
+            "attachments": {
+                "media_keys": [
+                    "3_1031522040342343681"
+                ]
+            },
+            "text": "Helping to set up a graduate program for students to acquire sufficient and effective academic support , leadership development to contribute effectively to the progression of SA, effective mentorship and mental health assistance ! \n😁😁😁😁😁😁 https://t.co/S96mbF9hWd",
+            "id": "1031522065386557440",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 240,
+                        "end": 263,
+                        "url": "https://t.co/S96mbF9hWd",
+                        "expanded_url": "https://twitter.com/SibongakonkeK/status/1031522065386557440/photo/1",
+                        "display_url": "pic.twitter.com/S96mbF9hWd",
+                        "media_key": "3_1031522040342343681"
+                    }
+                ]
+            },
+            "author_id": "1495698704",
+            "geo": {
+                "place_id": "e564d30dc173d2a8"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "created_at": "2018-08-16T12:18:17.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@Iam_Pazza @DlaminiZuma Chief I'm not being controlled by expectations, I'm a graduate I did time &amp; throughout the years i acquired skills to be hired.job creation is a fundamental task of all government institutions.The youth is depressed this monatorium is killing the youth,corruption is fueling envy",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "Iam_Pazza",
+                        "id": "1415546826"
+                    },
+                    {
+                        "start": 11,
+                        "end": 23,
+                        "username": "DlaminiZuma",
+                        "id": "2942978628"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "1415546826",
+            "id": "1030066211156107264",
+            "author_id": "780730063",
+            "geo": {
+                "place_id": "dd9c0d7d7e07eb49"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "created_at": "2018-08-12T19:49:06.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 1
+            },
+            "attachments": {
+                "media_keys": [
+                    "16_1028730100777402368"
+                ]
+            },
+            "text": "Academic frustration https://t.co/FgvEjnCGOC",
+            "id": "1028730111586127872",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 21,
+                        "end": 44,
+                        "url": "https://t.co/FgvEjnCGOC",
+                        "expanded_url": "https://twitter.com/_boikago/status/1028730111586127872/photo/1",
+                        "display_url": "pic.twitter.com/FgvEjnCGOC",
+                        "media_key": "16_1028730100777402368"
+                    }
+                ]
+            },
+            "author_id": "721074804456103936",
+            "geo": {
+                "place_id": "8b9ec16fdc0d7e55"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "created_at": "2018-08-10T19:20:03.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@SeitebogoPeta You are my graduate wena and I’m worried when U now want to direct or advise me. Surely I’m not that bad 😔",
+            "in_reply_to_user_id": "43098815",
+            "id": "1027998025250168832",
+            "author_id": "338869528",
+            "geo": {
+                "place_id": "178a87b8e2eaa375"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "created_at": "2018-08-08T18:11:15.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "@Nae_Da_Graduate Depression is real, we tired of loosing people we love, hope she gets help",
+            "in_reply_to_user_id": "875230436452167681",
+            "id": "1027255935843147777",
+            "author_id": "245858389",
+            "geo": {
+                "place_id": "60b970f02ca5668e"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "created_at": "2018-08-07T10:28:54.000Z",
+            "public_metrics": {
+                "retweet_count": 4,
+                "reply_count": 2,
+                "like_count": 13,
+                "quote_count": 0
+            },
+            "text": "I really don't care what the stakes are anymore, I'm going to war for my future, the person I'm destined to be. No depression, academic difficulty, life adversity or obstacle formed against me shall prosper. I could not go on for so long and not taste my victory.",
+            "id": "1026777196000686080",
+            "author_id": "954483626",
+            "geo": {
+                "place_id": "46c1b1ab24d7e11a"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "created_at": "2018-08-05T21:52:32.000Z",
+            "public_metrics": {
+                "retweet_count": 3,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "text": "Tweeps in Pta please reach out to the guy before it’s too late. SatAfrika &amp; his parents still love him. Those who mock him deserves to be blocked. Being a unemployed graduate plays huge role of #depression to our generation.\nHelp someone to help yourself.",
+            "id": "1026224462511915008",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 198,
+                        "end": 209,
+                        "tag": "depression"
+                    }
+                ]
+            },
+            "author_id": "311354254",
+            "geo": {
+                "place_id": "46c1b1ab24d7e11a"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "created_at": "2018-08-05T21:09:27.000Z",
+            "public_metrics": {
+                "retweet_count": 9,
+                "reply_count": 1,
+                "like_count": 13,
+                "quote_count": 0
+            },
+            "text": "1. Unemployed Graduate\n2. Owing NFSAS over 50k\n3. Family don’t care less\n4. Monthly rental needed\n5. Listed on credit bureaus\n6. Friends neglected her/him\n7. Society is very judgmental\n\nSuicidal is the only escape from all that. Support your friends &amp; check them up. #Depression",
+            "id": "1026213619288162305",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 271,
+                        "end": 282,
+                        "tag": "Depression"
+                    }
+                ]
+            },
+            "author_id": "311354254",
+            "geo": {
+                "place_id": "46c1b1ab24d7e11a"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for Android",
+            "created_at": "2018-08-05T08:04:36.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 2,
+                "like_count": 13,
+                "quote_count": 0
+            },
+            "text": "#Depression Last semester I failed two of my major subject,The thought of it makes me cringe,I thought I will never graduate this year with my peers,I spoke to my mom about it.And guess what,It helped me.",
+            "id": "1026016106593628160",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "tag": "Depression"
+                    }
+                ]
+            },
+            "author_id": "3011392273",
+            "geo": {
+                "place_id": "d73e8f8ebdd03aff"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "created_at": "2018-08-04T09:50:31.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "attachments": {
+                "media_keys": [
+                    "16_1025680363803357187"
+                ]
+            },
+            "text": "Saturday morning anxiety: internalizing all the laughter and questions of “where are you gonna work with an LLM on LGBTI+ stuff, you could’ve gone into corporate” \nThis gives me sleepless nights. I’m not tryna be an unemployed masters graduate. https://t.co/wYRbhZtqDa",
+            "id": "1025680373664161792",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 245,
+                        "end": 268,
+                        "url": "https://t.co/wYRbhZtqDa",
+                        "expanded_url": "https://twitter.com/ItsLithaAfter9/status/1025680373664161792/photo/1",
+                        "display_url": "pic.twitter.com/wYRbhZtqDa",
+                        "media_key": "16_1025680363803357187"
+                    }
+                ]
+            },
+            "author_id": "249978287",
+            "geo": {
+                "place_id": "0e587c59401d0a27"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 55,
+                        "end": 73,
+                        "probability": 0.5792,
+                        "type": "Person",
+                        "normalized_text": "Prof Bongani Mayosi"
+                    },
+                    {
+                        "start": 193,
+                        "end": 204,
+                        "probability": 0.9844,
+                        "type": "Place",
+                        "normalized_text": "South Africa"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 250,
+                        "end": 273,
+                        "url": "https://t.co/YFeXz94Nyo",
+                        "expanded_url": "https://twitter.com/toamaneli/status/1025645372314734592/photo/1",
+                        "display_url": "pic.twitter.com/YFeXz94Nyo",
+                        "media_key": "3_1025645361757609985"
+                    }
+                ]
+            },
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "created_at": "2018-08-04T07:31:26.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "attachments": {
+                "media_keys": [
+                    "3_1025645361757609985"
+                ]
+            },
+            "text": "This morning we celebrate the life and achievements of Prof Bongani Mayosi. A prolific scholar, physician and advocate for the black rural child. A sad loss to black excellence and academia in South Africa and the world. May your soul rest in peace. https://t.co/YFeXz94Nyo",
+            "id": "1025645372314734592",
+            "author_id": "4706210074",
+            "geo": {
+                "place_id": "8b9ec16fdc0d7e55"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 19,
+                        "end": 37,
+                        "probability": 0.7805,
+                        "type": "Person",
+                        "normalized_text": "Prof Bongani Mayosi"
+                    },
+                    {
+                        "start": 96,
+                        "end": 98,
+                        "probability": 0.6378,
+                        "type": "Organization",
+                        "normalized_text": "UCT"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 127,
+                        "end": 150,
+                        "url": "https://t.co/a6a87tJmzo",
+                        "expanded_url": "https://goo.gl/TaSUry",
+                        "display_url": "goo.gl/TaSUry"
+                    }
+                ]
+            },
+            "lang": "en",
+            "source": "Twitter Web Client",
+            "created_at": "2018-08-03T06:53:49.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "The man who killed Prof Bongani Mayosi through his hate-fueled turd-hurling campaign now blames UCT for the academic's suicide https://t.co/a6a87tJmzo",
+            "id": "1025273516155920384",
+            "author_id": "22759776",
+            "geo": {
+                "place_id": "178a87b8e2eaa375"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 75,
+                        "end": 85,
+                        "probability": 0.866,
+                        "type": "Person",
+                        "normalized_text": "Prof Mayosi"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 126,
+                        "end": 149,
+                        "url": "https://t.co/udT8KXh0Og",
+                        "expanded_url": "https://twitter.com/boohley/status/1024190306445606912",
+                        "display_url": "twitter.com/boohley/status…"
+                    }
+                ]
+            },
+            "lang": "en",
+            "source": "Twitter for Android",
+            "created_at": "2018-07-31T07:32:00.000Z",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "The Fabulous Academic really got her first major leadership test regarding Prof Mayosi's sad passing. Leadership is not easy. https://t.co/udT8KXh0Og",
+            "id": "1024195963047628801",
+            "author_id": "339172038",
+            "geo": {
+                "place_id": "8b9ec16fdc0d7e55"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "created_at": "2018-07-30T19:24:19.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 1
+            },
+            "text": "Very sad to read about the suicide of the dean of health sciences @UCT_news - a phenomenal cardiologist &amp; academic. Reports today suggests his #mentalhealth difficulties were triggered by PTSD. Something’s not right if this is what work is pushing people towards. #workload https://t.co/gakWnMBG00",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 66,
+                        "end": 75,
+                        "username": "UCT_news",
+                        "id": "562781948"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 147,
+                        "end": 160,
+                        "tag": "mentalhealth"
+                    },
+                    {
+                        "start": 268,
+                        "end": 277,
+                        "tag": "workload"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 278,
+                        "end": 301,
+                        "url": "https://t.co/gakWnMBG00",
+                        "expanded_url": "https://t.co/gakWnMBG00",
+                        "display_url": "t.co/gakWnMBG00"
+                    }
+                ]
+            },
+            "id": "1024012835825872896",
+            "author_id": "1890791437",
+            "geo": {
+                "place_id": "cdcfb8984b5ff93f"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "created_at": "2018-07-30T07:46:17.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "attachments": {
+                "media_keys": [
+                    "3_1023837139702870016"
+                ]
+            },
+            "text": "5 months - 17’000 words - 73 pages - countless hours - blood, sweat and no tears (I’m no 🐈)  Dissertation done ✅ Thanks Steinhoff 👍 https://t.co/DjlKaK2r8u",
+            "id": "1023837169612476416",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 132,
+                        "end": 155,
+                        "url": "https://t.co/DjlKaK2r8u",
+                        "expanded_url": "https://twitter.com/mattzim13/status/1023837169612476416/photo/1",
+                        "display_url": "pic.twitter.com/DjlKaK2r8u",
+                        "media_key": "3_1023837139702870016"
+                    }
+                ]
+            },
+            "author_id": "1268190956",
+            "geo": {
+                "place_id": "0e587c59401d0a27"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 252,
+                        "end": 259,
+                        "probability": 0.5332,
+                        "type": "Product",
+                        "normalized_text": "WhatsApp"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 275,
+                        "end": 298,
+                        "url": "https://t.co/IF3jageahF",
+                        "expanded_url": "https://twitter.com/JpNdaba/status/1023812948182089728/photo/1",
+                        "display_url": "pic.twitter.com/IF3jageahF",
+                        "media_key": "3_1023812662143135744"
+                    }
+                ]
+            },
+            "lang": "en",
+            "source": "Twitter for Android",
+            "created_at": "2018-07-30T06:10:03.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "attachments": {
+                "media_keys": [
+                    "3_1023812662143135744"
+                ]
+            },
+            "text": "The life of a Black Graduate \n\nFrom degree to internship to unemployment – the sad reality.\n\nHow about from Degree to Your own Boss? join me, i will help you with a Business Strategy, get people,Product Knowledge. Join the presentation this weekend or WhatsApp me 0735625772 https://t.co/IF3jageahF",
+            "id": "1023812948182089728",
+            "author_id": "391626472",
+            "geo": {
+                "place_id": "150e1ec07e4e2fca"
+            }
+        },
+        {
+            "possibly_sensitive": true,
+            "lang": "en",
+            "source": "Instagram",
+            "created_at": "2018-07-29T16:03:57.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "If you had said I would be doing #sports and #online work after I graduate, back in 2012 when I started #filmschool I would have told you \"You are insane\" But here I am 6 years later in… https://t.co/bqjr24bPly",
+            "geo": {
+                "coordinates": {
+                    "type": "Point",
+                    "coordinates": [
+                        28.1504,
+                        -25.668
+                    ]
+                },
+                "place_id": "f7c6dc7b4ee0909f"
+            },
+            "id": "1023600020132700160",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 33,
+                        "end": 40,
+                        "tag": "sports"
+                    },
+                    {
+                        "start": 45,
+                        "end": 52,
+                        "tag": "online"
+                    },
+                    {
+                        "start": 104,
+                        "end": 115,
+                        "tag": "filmschool"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 187,
+                        "end": 210,
+                        "url": "https://t.co/bqjr24bPly",
+                        "expanded_url": "https://www.instagram.com/p/Bl0kouYlI9n/?utm_source=ig_twitter_share&igshid=1sqcrcu8s6lb5",
+                        "display_url": "instagram.com/p/Bl0kouYlI9n/…"
+                    }
+                ]
+            },
+            "author_id": "306752446"
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for Android",
+            "created_at": "2018-07-29T15:21:32.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "So damn exhausted 😥😭 and I still have to engage with academia",
+            "id": "1023589348300804096",
+            "author_id": "614070964",
+            "geo": {
+                "place_id": "9d7cae88ff6a29f5"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "created_at": "2018-07-29T11:28:15.000Z",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 1
+            },
+            "text": "@HumanlyAwkward You’ve said a very important thing: “material and academic accomplishments are how we define ourselves”. As someone who lives with depression, I know just how everything on the outside can be perfect, and yet you feel inexplicable emotional pain whose source you can’t understand",
+            "in_reply_to_user_id": "718815819564720128",
+            "id": "1023530639952371712",
+            "author_id": "240318790",
+            "geo": {
+                "place_id": "e564d30dc173d2a8"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "created_at": "2018-07-29T10:12:46.000Z",
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 1,
+                "like_count": 6,
+                "quote_count": 0
+            },
+            "text": "Here was a man, a pioneer, a remarkable role model, someone who had broken the ranks of academia. To the world he had it all...but the power of depression, that word people throw around so loosely, was far greater than   all that this great man possessed",
+            "in_reply_to_user_id": "205226544",
+            "id": "1023511642750050304",
+            "author_id": "205226544",
+            "geo": {
+                "place_id": "8b9ec16fdc0d7e55"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for Android",
+            "created_at": "2018-07-28T08:26:11.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "Da sad part is we're strongly advised 2 get educated n good grades, only 2 suffer da effects of unemployment. 😭😭 Unemployment robs one of his/her own piece of mind. It's very stressful to be a graduate &amp; still ask money from your partner to sustain yourself it's very ridiculous",
+            "id": "1023122433283432448",
+            "author_id": "950467581483405313",
+            "geo": {
+                "place_id": "0e587c59401d0a27"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 28,
+                        "end": 41,
+                        "probability": 0.998,
+                        "type": "Person",
+                        "normalized_text": "Craig Flanagan"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 9,
+                        "end": 18,
+                        "username": "UCT_news",
+                        "id": "562781948"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 157,
+                        "end": 168,
+                        "tag": "DASCPT2018"
+                    },
+                    {
+                        "start": 169,
+                        "end": 179,
+                        "tag": "Buildchat"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 180,
+                        "end": 203,
+                        "url": "https://t.co/116wMqnlox",
+                        "expanded_url": "https://twitter.com/BuildingDecor/status/1022049670036697088/photo/1",
+                        "display_url": "pic.twitter.com/116wMqnlox",
+                        "media_key": "3_1022049587144601602"
+                    },
+                    {
+                        "start": 180,
+                        "end": 203,
+                        "url": "https://t.co/116wMqnlox",
+                        "expanded_url": "https://twitter.com/BuildingDecor/status/1022049670036697088/photo/1",
+                        "display_url": "pic.twitter.com/116wMqnlox",
+                        "media_key": "3_1022049625627340800"
+                    }
+                ]
+            },
+            "lang": "en",
+            "source": "Twitter for Android",
+            "created_at": "2018-07-25T09:23:24.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "attachments": {
+                "media_keys": [
+                    "3_1022049587144601602",
+                    "3_1022049625627340800"
+                ]
+            },
+            "text": "And now, @UCT_news graduate Craig Flanagan on his award winning innovative approach on the development of an on-site nutrient recovery urinal for buildings. #DASCPT2018 #Buildchat https://t.co/116wMqnlox",
+            "in_reply_to_user_id": "830739782",
+            "id": "1022049670036697088",
+            "author_id": "830739782",
+            "geo": {
+                "place_id": "5ccdc4a6f900a93f"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 184,
+                        "end": 189,
+                        "probability": 0.9785,
+                        "type": "Place",
+                        "normalized_text": "Durban"
+                    }
+                ]
+            },
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "created_at": "2018-07-25T02:37:42.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "I’m laughing so hard. I spent a week marking a dissertation and writing all sorts of reports for it. I woke up to a text for payment and it’s peanuts. Can’t even buy a plane ticket to Durban. Sad thing is that i probably still owe more tax on the damn sum.",
+            "id": "1021947570212544512",
+            "author_id": "312587343",
+            "geo": {
+                "place_id": "e564d30dc173d2a8"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for Android",
+            "created_at": "2018-07-24T19:22:45.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "text": "@tshepo_kgadima @redgenkosi @Numsa_Media @SAFTU_media @_cosatu @_AMCU Agree.Sad from an academic whose heart was in the right place I understand during those dark days of Apartheid.\nNow pimping for greedy profiteers.\nHe ought to know of NERSA'S meagre tariff hikes of 5 and 2% year on year that led to Eskom's financial deterioration.",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "username": "tshepo_kgadima",
+                        "id": "2922563205"
+                    },
+                    {
+                        "start": 16,
+                        "end": 27,
+                        "username": "redgenkosi",
+                        "id": "97206067"
+                    },
+                    {
+                        "start": 28,
+                        "end": 40,
+                        "username": "Numsa_Media",
+                        "id": "731933122988773377"
+                    },
+                    {
+                        "start": 41,
+                        "end": 53,
+                        "username": "SAFTU_media",
+                        "id": "793443105823424512"
+                    },
+                    {
+                        "start": 54,
+                        "end": 62,
+                        "username": "_cosatu",
+                        "id": "611532667"
+                    },
+                    {
+                        "start": 63,
+                        "end": 69,
+                        "username": "_AMCU",
+                        "id": "3313883038"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "2922563205",
+            "id": "1021838111968509952",
+            "author_id": "432295915",
+            "geo": {
+                "place_id": "8b9ec16fdc0d7e55"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for Android",
+            "created_at": "2018-07-20T18:19:18.000Z",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "text": "@de4thw0lf @inkthatoo @VanessaBeeley @RenieriArts @ScottLucas_EA There was a time we looked up to progressive British opinion particularly on the Middle East.\nBut this window is slowly shutting upon us due to compromised academia there.\nSo sad.Feel sorry for the students.",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "de4thw0lf",
+                        "id": "787315393"
+                    },
+                    {
+                        "start": 11,
+                        "end": 21,
+                        "username": "inkthatoo",
+                        "id": "157020157"
+                    },
+                    {
+                        "start": 22,
+                        "end": 36,
+                        "username": "VanessaBeeley",
+                        "id": "956171191"
+                    },
+                    {
+                        "start": 37,
+                        "end": 49,
+                        "username": "RenieriArts",
+                        "id": "286217515"
+                    },
+                    {
+                        "start": 50,
+                        "end": 64,
+                        "username": "ScottLucas_EA",
+                        "id": "17230082"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "787315393",
+            "id": "1020372592253956101",
+            "author_id": "432295915",
+            "geo": {
+                "place_id": "8b9ec16fdc0d7e55"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 35,
+                        "end": 60,
+                        "probability": 0.3239,
+                        "type": "Organization",
+                        "normalized_text": "Health and Wellness Centre"
+                    },
+                    {
+                        "start": 69,
+                        "end": 89,
+                        "probability": 0.6217,
+                        "type": "Organization",
+                        "normalized_text": "University of Limpopo"
+                    },
+                    {
+                        "start": 212,
+                        "end": 239,
+                        "probability": 0.489,
+                        "type": "Organization",
+                        "normalized_text": "Department of Health Limpopo"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 242,
+                        "end": 251,
+                        "username": "HealthZA",
+                        "id": "240605588"
+                    },
+                    {
+                        "start": 253,
+                        "end": 262,
+                        "username": "KeyakaUL",
+                        "id": "2491841811"
+                    },
+                    {
+                        "start": 264,
+                        "end": 274,
+                        "username": "RadioTurf",
+                        "id": "2614652650"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 275,
+                        "end": 298,
+                        "url": "https://t.co/8sPAvWm7kt",
+                        "expanded_url": "https://twitter.com/ULvarsity/status/1017728992659558401/photo/1",
+                        "display_url": "pic.twitter.com/8sPAvWm7kt",
+                        "media_key": "3_1017728610415804416"
+                    }
+                ]
+            },
+            "lang": "en",
+            "source": "Twitter Web Client",
+            "created_at": "2018-07-13T11:14:34.000Z",
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 1,
+                "like_count": 14,
+                "quote_count": 0
+            },
+            "attachments": {
+                "media_keys": [
+                    "3_1017728610415804416"
+                ]
+            },
+            "text": "Five clinical practitioners of the Health and Wellness Centre at the University of Limpopo graduate for a short course in Nurse Initiated Management of Anti-Retroviral Therapy. The course is an initiation of the Department of Health Limpopo. @HealthZA  @KeyakaUL  @RadioTurf https://t.co/8sPAvWm7kt",
+            "id": "1017728992659558401",
+            "author_id": "522941473",
+            "geo": {
+                "place_id": "d0848b8367022de8"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "created_at": "2018-07-08T09:47:33.000Z",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "@pitsotsibs @RomeluLukaku9 You were right. Tears. Maybe it’s because he’s narrating the story of most children who grew in the township. Except for him it was milk running out. But for most here at home, it was holsum with porridge 😆😆 and today you are studying your PhD. We are ok. “They know our name”.",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 12,
+                        "end": 26,
+                        "username": "RomeluLukaku9",
+                        "id": "1137984020"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "27628848",
+            "id": "1015895153289105408",
+            "author_id": "180107143",
+            "geo": {
+                "place_id": "08cf288c7b54f834"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 178,
+                        "end": 182,
+                        "probability": 0.529,
+                        "type": "Person",
+                        "normalized_text": "Grant"
+                    },
+                    {
+                        "start": 186,
+                        "end": 192,
+                        "probability": 0.5192,
+                        "type": "Person",
+                        "normalized_text": "Osanloo"
+                    }
+                ]
+            },
+            "lang": "en",
+            "source": "Twitter for Android",
+            "created_at": "2018-07-04T16:30:54.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 3,
+                "like_count": 7,
+                "quote_count": 0
+            },
+            "text": "\"The dissertation is a labor of love requiring much work, sweat, and tears, as well as organisation skills and extensive resources from others who are involved with the process\" Grant &amp; Osanloo. If you see me in tears ☝🏾",
+            "id": "1014547107259219968",
+            "author_id": "106485835",
+            "geo": {
+                "place_id": "cc95b56a28712044"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for Android",
+            "created_at": "2018-06-30T20:50:45.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@i_be_inSane 😂😂😂😂😂yaz it's the reason I chose the science pathway nje😂😂😂😂biochemistry; to know ukuth iphunga lisukaphi livelaphi and why ku-ogogo😂😂😂😂😂😂😂doh impendulo. Sengizoshaya aPhD thesis manje on the subject 😂😂😂😂",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "i_be_inSane",
+                        "id": "164387483"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "164387483",
+            "id": "1013162949236740098",
+            "author_id": "191082977",
+            "geo": {
+                "place_id": "afeb9f3d18dc109e"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 107,
+                        "end": 121,
+                        "probability": 0.9963,
+                        "type": "Person",
+                        "normalized_text": "Matthew Goodwin"
+                    },
+                    {
+                        "start": 135,
+                        "end": 140,
+                        "probability": 0.7129,
+                        "type": "Organization",
+                        "normalized_text": "Labour"
+                    },
+                    {
+                        "start": 192,
+                        "end": 195,
+                        "probability": 0.8025,
+                        "type": "Organization",
+                        "normalized_text": "UKIP"
+                    },
+                    {
+                        "start": 256,
+                        "end": 261,
+                        "probability": 0.5825,
+                        "type": "Person",
+                        "normalized_text": "Corbyn"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 16,
+                        "username": "DamienVFletcher",
+                        "id": "1352068304479903747"
+                    },
+                    {
+                        "start": 17,
+                        "end": 28,
+                        "username": "suebrazier",
+                        "id": "39130815"
+                    },
+                    {
+                        "start": 29,
+                        "end": 39,
+                        "username": "davies42g",
+                        "id": "2487893052"
+                    },
+                    {
+                        "start": 40,
+                        "end": 48,
+                        "username": "Jamin2g",
+                        "id": "46756531"
+                    },
+                    {
+                        "start": 49,
+                        "end": 62,
+                        "username": "jeremycorbyn",
+                        "id": "117777690"
+                    }
+                ]
+            },
+            "lang": "en",
+            "source": "Twitter for Android",
+            "created_at": "2018-06-30T05:55:10.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@DamienVFletcher @suebrazier @davies42g @Jamin2g @jeremycorbyn How do you explain as mentioned by academic Matthew Goodwin that 70% of Labour constituencies majority voted leave.Also remember UKIP over the years grew off the back of New Labour.\nStill want Corbyn to commit political suicide?",
+            "in_reply_to_user_id": "147509051",
+            "id": "1012937569405894657",
+            "author_id": "432295915",
+            "geo": {
+                "place_id": "8b9ec16fdc0d7e55"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 19,
+                        "end": 23,
+                        "probability": 0.4763,
+                        "type": "Person",
+                        "normalized_text": "Unisa"
+                    }
+                ]
+            },
+            "lang": "en",
+            "source": "Twitter Web Client",
+            "created_at": "2018-06-29T21:54:40.000Z",
+            "public_metrics": {
+                "retweet_count": 7,
+                "reply_count": 7,
+                "like_count": 28,
+                "quote_count": 6
+            },
+            "text": "I am exhausted. If Unisa knew the number assignments I've written for other people, they would confer me with an honorary doctorate.",
+            "id": "1012816647772663808",
+            "author_id": "1188782744",
+            "geo": {
+                "place_id": "e564d30dc173d2a8"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for Android",
+            "created_at": "2018-06-26T07:17:41.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@LotteryStudent Above is my sad story with my academic record and testimonial letter.",
+            "in_reply_to_user_id": "992899884834545665",
+            "id": "1011508784060141568",
+            "author_id": "1655067295",
+            "geo": {
+                "place_id": "dd9c0d7d7e07eb49"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for Android",
+            "created_at": "2018-06-20T09:21:57.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "I have a PHD in removing myself from a stressful environment.",
+            "id": "1009365730666647553",
+            "author_id": "522078504",
+            "geo": {
+                "place_id": "62b0cb0005d01039"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for Android",
+            "created_at": "2018-06-17T21:33:19.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@Tsonga_finegurl Baby, askies. No man deserves your tears and especially not a dent in your academic record. Learn from our mistakes and show tomorrow's paper flames.\n\nI'm so sorry you had to go through that, babe.❤❤❤",
+            "in_reply_to_user_id": "588616009",
+            "id": "1008462617680195586",
+            "author_id": "322684349",
+            "geo": {
+                "place_id": "3496680caf845cdf"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 103,
+                        "end": 121,
+                        "probability": 0.5015,
+                        "type": "Person",
+                        "normalized_text": "Sinethemba Makhanya"
+                    }
+                ]
+            },
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "created_at": "2018-06-15T12:50:24.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "“Our generation may not have experienced apartheid physically but the trauma is in our blood and DNA.” Sinethemba Makhanya, PHD student at Wits specializing in mental health",
+            "id": "1007606246797643776",
+            "author_id": "1226667841",
+            "geo": {
+                "place_id": "e564d30dc173d2a8"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for Android",
+            "created_at": "2018-06-12T21:03:00.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "attachments": {
+                "media_keys": [
+                    "16_1006643037496381440"
+                ]
+            },
+            "text": "This is me feeling about overthinking the next step in my #PhD #exhausted https://t.co/tFxeVpkUDw",
+            "id": "1006643052851712003",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 58,
+                        "end": 62,
+                        "tag": "PhD"
+                    },
+                    {
+                        "start": 63,
+                        "end": 73,
+                        "tag": "exhausted"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 74,
+                        "end": 97,
+                        "url": "https://t.co/tFxeVpkUDw",
+                        "expanded_url": "https://twitter.com/pkantue/status/1006643052851712003/photo/1",
+                        "display_url": "pic.twitter.com/tFxeVpkUDw",
+                        "media_key": "16_1006643037496381440"
+                    }
+                ]
+            },
+            "author_id": "39827691",
+            "geo": {
+                "place_id": "e564d30dc173d2a8"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for Android",
+            "created_at": "2018-06-12T16:57:32.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "Todays incident made me realize, that when I graduate, I'm going to be crying for a whole month tears of joy because I would have made it out. That's all I want now, to be out...alive.",
+            "id": "1006581277817036800",
+            "author_id": "3292271053",
+            "geo": {
+                "place_id": "810e12ec4af983de"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "created_at": "2018-06-11T04:59:26.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "text": "@Jabrilmuhammad @PoliteMelanie This is ways that some parents start putting too much academic pressure on a young child. And as the child grows he/she could be depressed.\nI believe it’s way to early for equations. Rather Learn to speak and count and alphabets.",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "username": "Jabrilmuhammad",
+                        "id": "379950701"
+                    },
+                    {
+                        "start": 16,
+                        "end": 30,
+                        "username": "PoliteMelanie",
+                        "id": "972905102607609857"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "379950701",
+            "id": "1006038175301726208",
+            "author_id": "917468883124137984",
+            "geo": {
+                "place_id": "e564d30dc173d2a8"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for Android",
+            "created_at": "2018-06-07T18:40:55.000Z",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 1
+            },
+            "text": "I have academic stress",
+            "id": "1004795356914348032",
+            "author_id": "4450608387",
+            "geo": {
+                "place_id": "79c23a5b40729c2d"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for Android",
+            "created_at": "2018-06-07T01:44:01.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "This is so sad hey!! Spending hours and hours of studying,sacrificing your life just to graduate only to end up not getting a job afterwards...It's really not right!! https://t.co/Ba8mD5oYP4",
+            "id": "1004539444999802880",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 167,
+                        "end": 190,
+                        "url": "https://t.co/Ba8mD5oYP4",
+                        "expanded_url": "https://twitter.com/Youth4Gold/status/1004012301916299264",
+                        "display_url": "twitter.com/Youth4Gold/sta…"
+                    }
+                ]
+            },
+            "author_id": "275904749",
+            "geo": {
+                "place_id": "810e12ec4af983de"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "created_at": "2018-06-05T15:39:58.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 5,
+                "quote_count": 0
+            },
+            "attachments": {
+                "media_keys": [
+                    "3_1004025033797308416"
+                ]
+            },
+            "text": "I love coming back from the lab to my desk because of this view!! Anybody else have a crazy beautiful view at work? #phdchat #tryingtokeepsane https://t.co/kDg8a0Ro9Y",
+            "id": "1004025041183563777",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 116,
+                        "end": 124,
+                        "tag": "phdchat"
+                    },
+                    {
+                        "start": 125,
+                        "end": 142,
+                        "tag": "tryingtokeepsane"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 143,
+                        "end": 166,
+                        "url": "https://t.co/kDg8a0Ro9Y",
+                        "expanded_url": "https://twitter.com/zoologymolly/status/1004025041183563777/photo/1",
+                        "display_url": "pic.twitter.com/kDg8a0Ro9Y",
+                        "media_key": "3_1004025033797308416"
+                    }
+                ]
+            },
+            "author_id": "3333036478",
+            "geo": {
+                "place_id": "10a589c27fc19a4c"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for Android",
+            "created_at": "2018-06-05T06:35:29.000Z",
+            "public_metrics": {
+                "retweet_count": 14,
+                "reply_count": 1,
+                "like_count": 50,
+                "quote_count": 1
+            },
+            "attachments": {
+                "media_keys": [
+                    "3_1003887886498975744"
+                ]
+            },
+            "text": "Black mothers can brag though 😐😐\n\nNeighbour: \"How are you Makhe?\"\n\nMum: \"I'm good, just stressed..Having a child that's a graduate is too much\" https://t.co/f4yay2aXvm",
+            "id": "1003888018573479936",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 144,
+                        "end": 167,
+                        "url": "https://t.co/f4yay2aXvm",
+                        "expanded_url": "https://twitter.com/JZ_Nkabinde/status/1003888018573479936/photo/1",
+                        "display_url": "pic.twitter.com/f4yay2aXvm",
+                        "media_key": "3_1003887886498975744"
+                    }
+                ]
+            },
+            "author_id": "2613972724",
+            "geo": {
+                "place_id": "8b9ec16fdc0d7e55"
+            }
+        }
+    ],
+    "includes": {
+        "users": [
+            {
+                "id": "947134956731617281",
+                "name": "𝐵.",
+                "username": "boikanyombatha"
+            },
+            {
+                "id": "4889565063",
+                "name": "PsySSA SD",
+                "username": "PsySSA_Students"
+            },
+            {
+                "id": "56352613",
+                "name": "David John Millar",
+                "username": "DavidJohnMillar"
+            },
+            {
+                "id": "2465056030",
+                "name": "#DearAfrika",
+                "username": "wandilebrian"
+            },
+            {
+                "id": "746811756",
+                "name": "Le rata depth gore.",
+                "username": "Ketso28"
+            },
+            {
+                "id": "2389227352",
+                "name": "Prof Thuli Madonsela #KindnessBuilds",
+                "username": "ThuliMadonsela3"
+            },
+            {
+                "id": "2408494773",
+                "name": "😛 Staff Writer 🇿🇦💥",
+                "username": "DearKatli"
+            },
+            {
+                "id": "1495698704",
+                "name": "SK",
+                "username": "SibongakonkeK"
+            },
+            {
+                "id": "780730063",
+                "name": "|KING PITSO|🔱",
+                "username": "lebopmp"
+            },
+            {
+                "id": "721074804456103936",
+                "name": "BOIKAGO",
+                "username": "__Kaggoo"
+            },
+            {
+                "id": "338869528",
+                "name": "Sedupe Ramokgopa",
+                "username": "Sedupe_kortes"
+            },
+            {
+                "id": "245858389",
+                "name": "Charlie The MindGame",
+                "username": "_CharlieT_"
+            },
+            {
+                "id": "954483626",
+                "name": "Buhle",
+                "username": "Lithalendalo"
+            },
+            {
+                "id": "311354254",
+                "name": "Mahlatši’a Morwakoma•",
+                "username": "Moses_Maibelo"
+            },
+            {
+                "id": "3011392273",
+                "name": "THAPELO M",
+                "username": "thapelomorongoa"
+            },
+            {
+                "id": "249978287",
+                "name": "Homegirls and Handgrenades🌈",
+                "username": "ItsLithaAfter9"
+            },
+            {
+                "id": "4706210074",
+                "name": "Thozama Maneli",
+                "username": "toamaneli"
+            },
+            {
+                "id": "22759776",
+                "name": "TopEditor Internatio",
+                "username": "TopEditorInt"
+            },
+            {
+                "id": "339172038",
+                "name": "Moloto Mothapo",
+                "username": "MolotoMothapo"
+            },
+            {
+                "id": "1890791437",
+                "name": "Lelanie 🇪🇺",
+                "username": "LelanieBrewer"
+            },
+            {
+                "id": "1268190956",
+                "name": "Matthew Connery",
+                "username": "mattzim13"
+            },
+            {
+                "id": "391626472",
+                "name": "Joepac Ndaba = SA 4IR Commissioner",
+                "username": "JpNdaba"
+            },
+            {
+                "id": "306752446",
+                "name": "Xitsundzuxo Himina",
+                "username": "x_himina"
+            },
+            {
+                "id": "614070964",
+                "name": "Stella",
+                "username": "Khanyitivity_"
+            },
+            {
+                "id": "240318790",
+                "name": "🏳️‍🌈🧜🏿‍♀️ Cassandra Gudlhuza 🐆🏳️‍🌈",
+                "username": "MsCassandraGud"
+            },
+            {
+                "id": "205226544",
+                "name": "LabeeqahJW",
+                "username": "LabeeqahJW"
+            },
+            {
+                "id": "950467581483405313",
+                "name": "IG : @__McGyver",
+                "username": "Malome_McGyver"
+            },
+            {
+                "id": "830739782",
+                "name": "Building and Decor",
+                "username": "BuildingDecor"
+            },
+            {
+                "id": "312587343",
+                "name": "Mel 🏳️‍🌈🇰🇪🇿🇦🛫",
+                "username": "Me_l7"
+            },
+            {
+                "id": "432295915",
+                "name": "Hanief Haider",
+                "username": "haniefhaider"
+            },
+            {
+                "id": "522941473",
+                "name": "University of Limpopo",
+                "username": "ULvarsity"
+            },
+            {
+                "id": "180107143",
+                "name": "fusi madela",
+                "username": "foozarte"
+            },
+            {
+                "id": "106485835",
+                "name": "Bongani Bilankulu",
+                "username": "Mhandla_B"
+            },
+            {
+                "id": "191082977",
+                "name": "Big Bad Wolf",
+                "username": "Lupus_Major"
+            },
+            {
+                "id": "1188782744",
+                "name": "Seabela kha’Maila",
+                "username": "Abi_Maila"
+            },
+            {
+                "id": "1655067295",
+                "name": "Sir. Vuyo Nkamana.",
+                "username": "Kwabena_Griffin"
+            },
+            {
+                "id": "522078504",
+                "name": "Noni",
+                "username": "uNoxoloM"
+            },
+            {
+                "id": "322684349",
+                "name": "MaMokwena wa Makgakga wa Lepyatla 💕",
+                "username": "Bona_Lesego"
+            },
+            {
+                "id": "1226667841",
+                "name": "Nomathemba",
+                "username": "NomaDzino"
+            },
+            {
+                "id": "39827691",
+                "name": "Paulin Kantue 🚀",
+                "username": "pkantue"
+            },
+            {
+                "id": "3292271053",
+                "name": "The Bubble",
+                "username": "Hlengiw42887749"
+            },
+            {
+                "id": "917468883124137984",
+                "name": "✨Sophia Obianuju ifeadi✨",
+                "username": "maj_estie"
+            },
+            {
+                "id": "4450608387",
+                "name": "The baby",
+                "username": "Sashaslayzz"
+            },
+            {
+                "id": "275904749",
+                "name": "Zerubbabel",
+                "username": "NtandoTheron"
+            },
+            {
+                "id": "3333036478",
+                "name": "Dr Molly Clavey",
+                "username": "zoologymolly"
+            },
+            {
+                "id": "2613972724",
+                "name": "JAMES-K",
+                "username": "JZ_Nkabinde"
+            }
+        ],
+        "places": [
+            {
+                "full_name": "Bloemfontein, South Africa",
+                "id": "810e12ec4af983de"
+            },
+            {
+                "full_name": "Cape Town, South Africa",
+                "id": "8b9ec16fdc0d7e55"
+            },
+            {
+                "full_name": "Kuils River, South Africa",
+                "id": "fb0076b27a293f79"
+            },
+            {
+                "full_name": "Sandton, South Africa",
+                "id": "178a87b8e2eaa375"
+            },
+            {
+                "full_name": "South Africa",
+                "id": "dd9c0d7d7e07eb49"
+            },
+            {
+                "full_name": "Johannesburg, South Africa",
+                "id": "e564d30dc173d2a8"
+            },
+            {
+                "full_name": "Evaton, South Africa",
+                "id": "60b970f02ca5668e"
+            },
+            {
+                "full_name": "Midrand, South Africa",
+                "id": "46c1b1ab24d7e11a"
+            },
+            {
+                "full_name": "Randburg, South Africa",
+                "id": "d73e8f8ebdd03aff"
+            },
+            {
+                "full_name": "Pretoria, South Africa",
+                "id": "0e587c59401d0a27"
+            },
+            {
+                "full_name": "Somerset East, South Africa",
+                "id": "cdcfb8984b5ff93f"
+            },
+            {
+                "full_name": "Mafikeng, South Africa",
+                "id": "150e1ec07e4e2fca"
+            },
+            {
+                "full_name": "Akasia, South Africa",
+                "id": "f7c6dc7b4ee0909f"
+            },
+            {
+                "full_name": "Durban, South Africa",
+                "id": "9d7cae88ff6a29f5"
+            },
+            {
+                "full_name": "Milnerton, South Africa",
+                "id": "5ccdc4a6f900a93f"
+            },
+            {
+                "full_name": "Polokwane, South Africa",
+                "id": "d0848b8367022de8"
+            },
+            {
+                "full_name": "Kloof, South Africa",
+                "id": "08cf288c7b54f834"
+            },
+            {
+                "full_name": "Centurion, South Africa",
+                "id": "cc95b56a28712044"
+            },
+            {
+                "full_name": "Dundee, South Africa",
+                "id": "afeb9f3d18dc109e"
+            },
+            {
+                "full_name": "Westville, South Africa",
+                "id": "62b0cb0005d01039"
+            },
+            {
+                "full_name": "Heidelberg, South Africa",
+                "id": "3496680caf845cdf"
+            },
+            {
+                "full_name": "Kimberley, South Africa",
+                "id": "79c23a5b40729c2d"
+            },
+            {
+                "full_name": "Stellenbosch, South Africa",
+                "id": "10a589c27fc19a4c"
+            }
+        ],
+        "media": [
+            {
+                "media_key": "3_1033967669660315648",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/DllkHgtXcAASQ8V.jpg"
+            },
+            {
+                "media_key": "3_1032914013863268352",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/DlWl0q_X0AAG3XX.jpg"
+            },
+            {
+                "media_key": "3_1031522040342343681",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/DlCz1JiXcAELKyt.jpg"
+            },
+            {
+                "media_key": "16_1028730100777402368",
+                "type": "animated_gif"
+            },
+            {
+                "media_key": "16_1025680363803357187",
+                "type": "animated_gif"
+            },
+            {
+                "media_key": "3_1025645361757609985",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/DjvTBb0W4AEJcRJ.jpg"
+            },
+            {
+                "media_key": "3_1023837139702870016",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/DjVmdDvXcAARs_o.jpg"
+            },
+            {
+                "media_key": "3_1023812662143135744",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/DjVQMRuWsAAAdv_.jpg"
+            },
+            {
+                "media_key": "3_1022049587144601602",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/Di8MrziWsAIfZhW.jpg"
+            },
+            {
+                "media_key": "3_1022049625627340800",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/Di8MuC5WsAAezXy.jpg"
+            },
+            {
+                "media_key": "3_1017728610415804416",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/Dh-yx22WAAAfGEL.jpg"
+            },
+            {
+                "media_key": "16_1006643037496381440",
+                "type": "animated_gif"
+            },
+            {
+                "media_key": "3_1004025033797308416",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/De8Dct0WkAA51rj.jpg"
+            },
+            {
+                "media_key": "3_1003887886498975744",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/De6GtsUW0AAergl.jpg"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1034919934759976961",
+        "oldest_id": "1003888018573479936",
+        "result_count": 49
+    }
+}

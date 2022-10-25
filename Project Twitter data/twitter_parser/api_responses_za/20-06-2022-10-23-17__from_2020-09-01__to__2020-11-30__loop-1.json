@@ -1,0 +1,412 @@
+{
+    "data": [
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "created_at": "2020-11-26T15:34:18.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "Academic stress will eat you alive 😭",
+            "id": "1331984635811786753",
+            "author_id": "490417655",
+            "geo": {
+                "place_id": "178a87b8e2eaa375"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for Android",
+            "created_at": "2020-11-25T18:55:50.000Z",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "@Yanga_md @DLCANXIETY The mental health of a PHD candidate is often underestimated.  I didn't plan for a thousand crashes I had and the residue I still suffer.   To all PHD candidates: Nothing will as you plan.  Nothing.   But keep going 🌻",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "Yanga_md",
+                        "id": "862935111150579712"
+                    },
+                    {
+                        "start": 10,
+                        "end": 21,
+                        "username": "DLCANXIETY",
+                        "id": "1168446222190989314"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "862935111150579712",
+            "id": "1331672963725324288",
+            "author_id": "1430092591",
+            "geo": {
+                "place_id": "0e587c59401d0a27"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 206,
+                        "end": 223,
+                        "probability": 0.9931,
+                        "type": "Person",
+                        "normalized_text": "Andrew Christopher"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 256,
+                        "end": 272,
+                        "username": "Starboi4lifexx2",
+                        "id": "1285373483577466881"
+                    }
+                ]
+            },
+            "lang": "en",
+            "source": "Twitter for Android",
+            "created_at": "2020-11-24T10:32:52.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "I hate Indecisiveness!! The second i detect you a shaky , shady person who vascillates i will harshly cut you off. So know this about me is you coming around me. I don't care for SAD stories and excuses. - Andrew Christopher Young PhD Candidate 😉🇹🇹👨🏿‍🎓💡💰🏦 @Starboi4lifexx2",
+            "id": "1331184001902653447",
+            "author_id": "1285373483577466881",
+            "geo": {
+                "place_id": "8b9ec16fdc0d7e55"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for Android",
+            "created_at": "2020-11-19T14:08:16.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "Talking about my experience sometimes triggers me because it's hard to believe that I turned from an academic achiever to a salvaged alcoholic suffering from depression - which I'm presently trying to undo.",
+            "id": "1329426266722889731",
+            "author_id": "946353358012641281",
+            "geo": {
+                "place_id": "d98aef293ae7311d"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for Android",
+            "created_at": "2020-11-19T14:02:44.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "text": "For the first time in a long while - I took a break from studying this year 🙆‍♀️... Deep down i miss the Academic stress 😂",
+            "id": "1329424875593867267",
+            "author_id": "191511394",
+            "geo": {
+                "place_id": "46c1b1ab24d7e11a"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for Android",
+            "created_at": "2020-11-19T04:15:42.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 5,
+                "quote_count": 0
+            },
+            "text": "This is creating unnecessary anxiety for Matrics in the midst of their exams, especially after a challenging academic year https://t.co/39z10OpDtf",
+            "id": "1329277143705137154",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 123,
+                        "end": 146,
+                        "url": "https://t.co/39z10OpDtf",
+                        "expanded_url": "https://twitter.com/StephenGrootes/status/1329273946831683584",
+                        "display_url": "twitter.com/StephenGrootes…"
+                    }
+                ]
+            },
+            "author_id": "22819685",
+            "geo": {
+                "place_id": "8b9ec16fdc0d7e55"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for Android",
+            "created_at": "2020-11-16T15:37:01.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "attachments": {
+                "media_keys": [
+                    "16_1328361426625376259"
+                ]
+            },
+            "text": "@MRPfashion I've been trying to run my PhD data analysis and my computer keeps crashing. I get up every morning and try again. Cela ivoucher to do some retail therapy!! #mrpricefashion #mrpricegoodvibes https://t.co/KADO8UVP7t",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "MRPfashion",
+                        "id": "42075059"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 169,
+                        "end": 184,
+                        "tag": "mrpricefashion"
+                    },
+                    {
+                        "start": 185,
+                        "end": 202,
+                        "tag": "mrpricegoodvibes"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 203,
+                        "end": 226,
+                        "url": "https://t.co/KADO8UVP7t",
+                        "expanded_url": "https://twitter.com/_Sossy_/status/1328361437992001537/photo/1",
+                        "display_url": "pic.twitter.com/KADO8UVP7t",
+                        "media_key": "16_1328361426625376259"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "42075059",
+            "id": "1328361437992001537",
+            "author_id": "298595274",
+            "geo": {
+                "place_id": "52e073e7724385c3"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "created_at": "2020-11-15T17:58:05.000Z",
+            "public_metrics": {
+                "retweet_count": 20,
+                "reply_count": 17,
+                "like_count": 416,
+                "quote_count": 13
+            },
+            "text": "Izophuma le PhD! It will be my blood, sweet and tears",
+            "id": "1328034552120537092",
+            "author_id": "1211472967",
+            "geo": {
+                "place_id": "86b512ffe64a3389"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for Android",
+            "created_at": "2020-11-07T10:47:15.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "@DellaActually DON IT'S A CURSE I'M TELLING YOU. 😭\n\nMe: All my assignments are submitted! Now I can write without the pressure of an academic deadline!\n\nAlso me: *stares at screen, head empty, tears run down my face*",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "DellaActually",
+                        "id": "1094740914067652609"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "1094740914067652609",
+            "id": "1325027028169601025",
+            "author_id": "1168438463961673733",
+            "geo": {
+                "place_id": "8b9ec16fdc0d7e55"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for Android",
+            "created_at": "2020-11-06T16:32:16.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "We are fighting academic ngapha we are fighting our own demons. When will the university space start taking mental health as a crisis amongst students?! At this point eziUniversity zithwele ngathi ngok \n#HowManyMoreLives?!",
+            "id": "1324751463009128456",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 203,
+                        "end": 220,
+                        "tag": "HowManyMoreLives"
+                    }
+                ]
+            },
+            "author_id": "2767980557",
+            "geo": {
+                "place_id": "10a589c27fc19a4c"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "created_at": "2020-11-05T22:18:01.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "Academic stress &gt;&gt; heartbreak 🥱",
+            "id": "1324476089087987714",
+            "author_id": "1160266951119331329",
+            "geo": {
+                "place_id": "46c1b1ab24d7e11a"
+            }
+        }
+    ],
+    "includes": {
+        "users": [
+            {
+                "id": "490417655",
+                "name": "the human M&M's 🇵🇸",
+                "username": "mmoosa16"
+            },
+            {
+                "id": "1430092591",
+                "name": "Dr Tebogo Gumede",
+                "username": "tebza0808"
+            },
+            {
+                "id": "1285373483577466881",
+                "name": "Starboi🌟💰🌹",
+                "username": "Starboi4lifexx2"
+            },
+            {
+                "id": "946353358012641281",
+                "name": "femme fatale",
+                "username": "KabeloN__"
+            },
+            {
+                "id": "191511394",
+                "name": "M&M African Fashion Artwork 🇿🇦",
+                "username": "mphookie"
+            },
+            {
+                "id": "22819685",
+                "name": "Lawson Naidoo",
+                "username": "LawsonNaidoo"
+            },
+            {
+                "id": "298595274",
+                "name": "Mbalenhle 🌻🇿🇦",
+                "username": "_Sossy_"
+            },
+            {
+                "id": "1211472967",
+                "name": "Nkqubela",
+                "username": "Sinalo_NM"
+            },
+            {
+                "id": "1168438463961673733",
+                "name": "vanilla107 is on hiatus",
+                "username": "vanilla107"
+            },
+            {
+                "id": "2767980557",
+                "name": "Phiwokuhle",
+                "username": "Phiwo_Qabaka"
+            },
+            {
+                "id": "1160266951119331329",
+                "name": "Shadz",
+                "username": "icyshadz"
+            }
+        ],
+        "places": [
+            {
+                "full_name": "Sandton, South Africa",
+                "id": "178a87b8e2eaa375"
+            },
+            {
+                "full_name": "Pretoria, South Africa",
+                "id": "0e587c59401d0a27"
+            },
+            {
+                "full_name": "Cape Town, South Africa",
+                "id": "8b9ec16fdc0d7e55"
+            },
+            {
+                "full_name": "Kempton Park, South Africa",
+                "id": "d98aef293ae7311d"
+            },
+            {
+                "full_name": "Midrand, South Africa",
+                "id": "46c1b1ab24d7e11a"
+            },
+            {
+                "full_name": "Pietermaritzburg, South Africa",
+                "id": "52e073e7724385c3"
+            },
+            {
+                "full_name": "Fort Hare, South Africa",
+                "id": "86b512ffe64a3389"
+            },
+            {
+                "full_name": "Stellenbosch, South Africa",
+                "id": "10a589c27fc19a4c"
+            }
+        ],
+        "media": [
+            {
+                "media_key": "16_1328361426625376259",
+                "type": "animated_gif"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1331984635811786753",
+        "oldest_id": "1324476089087987714",
+        "result_count": 11,
+        "next_token": "b26v89c19zqg8o3fosbtep3k8jzrd1eqi963o19gs6e7x"
+    }
+}

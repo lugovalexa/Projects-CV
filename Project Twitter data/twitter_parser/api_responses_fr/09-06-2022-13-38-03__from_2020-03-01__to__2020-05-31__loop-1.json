@@ -1,0 +1,451 @@
+{
+    "data": [
+        {
+            "possibly_sensitive": false,
+            "author_id": "271633994",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "text": "5yrs ago when I got #PhD in #physics, one professor said “now that you worked hard 8-12 hour/day for PhD, you have #privilege to go for postdoc and eventually become a PI to work at least 14 hours a day”. NB: the privilege also brings #burnout for many #MentalHealthAwareness",
+            "id": "1264170485488799745",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 20,
+                        "end": 24,
+                        "tag": "PhD"
+                    },
+                    {
+                        "start": 28,
+                        "end": 36,
+                        "tag": "physics"
+                    },
+                    {
+                        "start": 115,
+                        "end": 125,
+                        "tag": "privilege"
+                    },
+                    {
+                        "start": 235,
+                        "end": 243,
+                        "tag": "burnout"
+                    },
+                    {
+                        "start": 253,
+                        "end": 275,
+                        "tag": "MentalHealthAwareness"
+                    }
+                ]
+            },
+            "lang": "en",
+            "created_at": "2020-05-23T12:25:05.000Z",
+            "geo": {
+                "place_id": "5c1c74462d3d09b0"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "author_id": "1086834314",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 3,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "text": "3 I must stress, contributors don't need to be academic. If you are an expert on a particular battle please get in touch. This is a chance for everyone to get involved",
+            "id": "1263572029908926489",
+            "lang": "en",
+            "created_at": "2020-05-21T20:47:02.000Z",
+            "geo": {
+                "place_id": "5aab7d8a4920e63f"
+            },
+            "in_reply_to_user_id": "1086834314"
+        },
+        {
+            "possibly_sensitive": false,
+            "author_id": "583603580",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 12,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "text": "Working on my PhD is the most anxiety including thing I have ever experienced in my whole life, by a huge margin\n\nI can handle the anxiety, but I need my gym, my friends, my Starbucks, my life\n\nI don’t have those at the moment",
+            "id": "1257331813820895232",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 174,
+                        "end": 182,
+                        "probability": 0.5271,
+                        "type": "Organization",
+                        "normalized_text": "Starbucks"
+                    }
+                ]
+            },
+            "lang": "en",
+            "created_at": "2020-05-04T15:30:39.000Z",
+            "geo": {
+                "place_id": "66fabed9d649aa12"
+            },
+            "in_reply_to_user_id": "583603580"
+        },
+        {
+            "possibly_sensitive": false,
+            "author_id": "2962634807",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "text": "It's crazy to see how many people have a PhD in biology 🤓 #COVID2019",
+            "id": "1249808031438733312",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 58,
+                        "end": 68,
+                        "tag": "COVID2019"
+                    }
+                ]
+            },
+            "lang": "en",
+            "created_at": "2020-04-13T21:13:49.000Z",
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "author_id": "1218431244364582913",
+            "attachments": {
+                "media_keys": [
+                    "3_1249359482603343874"
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 7,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "text": "Day 46362551 of the quarantine in France. This is my 945 apple pie that I will eat alone. Everything is going pretty well, including my baking stress process and bikini body workout 👌🏻🏖 #StayHome #IsolationLife #PhD https://t.co/v7Bj26YiFJ",
+            "id": "1249359511917400067",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 34,
+                        "end": 39,
+                        "probability": 0.9949,
+                        "type": "Place",
+                        "normalized_text": "France"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 186,
+                        "end": 195,
+                        "tag": "StayHome"
+                    },
+                    {
+                        "start": 196,
+                        "end": 210,
+                        "tag": "IsolationLife"
+                    },
+                    {
+                        "start": 211,
+                        "end": 215,
+                        "tag": "PhD"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 216,
+                        "end": 239,
+                        "url": "https://t.co/v7Bj26YiFJ",
+                        "expanded_url": "https://twitter.com/MFeucherolles/status/1249359511917400067/photo/1",
+                        "display_url": "pic.twitter.com/v7Bj26YiFJ",
+                        "media_key": "3_1249359482603343874"
+                    }
+                ]
+            },
+            "lang": "en",
+            "created_at": "2020-04-12T15:31:34.000Z",
+            "geo": {
+                "place_id": "6ea83b1c210f0add"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "author_id": "741107102249291776",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "text": "@RoseBHutton @AcademicChatter You are so not alone! The stress and anxiety is overwhelming, and the cherry on top is feeling like you ‘should be able get so much done’ w everything else cancelled. So false!—but just know that you’re very much not alone 💜💜 #phdchat #phdpandemic #SpreadCalmNotFear #SpreadHope",
+            "id": "1241134967025020928",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 256,
+                        "end": 264,
+                        "tag": "phdchat"
+                    },
+                    {
+                        "start": 265,
+                        "end": 277,
+                        "tag": "phdpandemic"
+                    },
+                    {
+                        "start": 278,
+                        "end": 296,
+                        "tag": "SpreadCalmNotFear"
+                    },
+                    {
+                        "start": 297,
+                        "end": 308,
+                        "tag": "SpreadHope"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "RoseBHutton",
+                        "id": "1060877034820460544"
+                    },
+                    {
+                        "start": 13,
+                        "end": 29,
+                        "username": "AcademicChatter",
+                        "id": "885953601067208705"
+                    }
+                ]
+            },
+            "lang": "en",
+            "created_at": "2020-03-20T22:50:09.000Z",
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "in_reply_to_user_id": "1060877034820460544"
+        },
+        {
+            "possibly_sensitive": false,
+            "author_id": "938620568",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "text": "@SorchaHolloway My daughter finishing at uni in June - has been recommended not to return until further notice. Now trying to finish her dissertation remotely - only 'slightly' stressed",
+            "id": "1239345729753186306",
+            "lang": "en",
+            "created_at": "2020-03-16T00:20:22.000Z",
+            "geo": {
+                "place_id": "1acad3152235f5c4"
+            },
+            "in_reply_to_user_id": "24775934"
+        },
+        {
+            "possibly_sensitive": false,
+            "author_id": "3566205613",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 2,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "text": "I stress cried every day writing my thesis Dec’19-Jan’20, alone and not in my home country. It was hard. I thought that once I submitted my thesis everything would be ok! But now there is a global health crisis with &lt; 1 month until my defence.",
+            "id": "1238797167286005761",
+            "lang": "en",
+            "created_at": "2020-03-14T12:00:35.000Z",
+            "geo": {
+                "place_id": "64a628200cb8bf69"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "author_id": "17234452",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "text": "@CorrieJN I fought with on/off depression during my undergrad, MSc and PhD until I was finally diagnosed with #bipolardisorder. 2014 was a hideous year as I struggled through the diagnosis and finding the right meds. But I survived!",
+            "id": "1236764469965082638",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 110,
+                        "end": 126,
+                        "tag": "bipolardisorder"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "CorrieJN",
+                        "id": "1445020782"
+                    }
+                ]
+            },
+            "lang": "en",
+            "created_at": "2020-03-08T21:23:22.000Z",
+            "geo": {
+                "place_id": "2c2147126a786940"
+            },
+            "in_reply_to_user_id": "1445020782"
+        },
+        {
+            "possibly_sensitive": false,
+            "author_id": "2494473072",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "text": "@JesseJenkins Mental health problems are rampant —yet hidden—in academia. I have some techniques I have deployed to protect my sanity. Would be happy to share them sometime.",
+            "id": "1236547979722489857",
+            "lang": "en",
+            "created_at": "2020-03-08T07:03:06.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "JesseJenkins",
+                        "id": "17026589"
+                    }
+                ]
+            },
+            "geo": {
+                "place_id": "70c31fb1b7c368ce"
+            },
+            "in_reply_to_user_id": "17026589"
+        }
+    ],
+    "includes": {
+        "users": [
+            {
+                "id": "271633994",
+                "name": "Gunn Khatri",
+                "username": "gunnkhatri"
+            },
+            {
+                "id": "1086834314",
+                "name": "WW2TV Paul Woodadge",
+                "username": "WW2TV"
+            },
+            {
+                "id": "583603580",
+                "name": "Olivier Simard-Casanova 🏳️‍🌈",
+                "username": "simardcasanova"
+            },
+            {
+                "id": "2962634807",
+                "name": "❝ Victoria ❞ is daydreaming",
+                "username": "ToBeSoVictoria"
+            },
+            {
+                "id": "1218431244364582913",
+                "name": "Maureen Feucherolles",
+                "username": "MFeucherolles"
+            },
+            {
+                "id": "741107102249291776",
+                "name": "Dr. Miriam Aczel",
+                "username": "MiriamAczel"
+            },
+            {
+                "id": "938620568",
+                "name": "Elizabeth Gabay MW 🇪🇺🍷🌹",
+                "username": "LizGabayMW"
+            },
+            {
+                "id": "3566205613",
+                "name": "Madison Bolger-Munro",
+                "username": "radmadscience"
+            },
+            {
+                "id": "17234452",
+                "name": "Dr. Claire Lee 💉💉💉 m(ode)RNA'd",
+                "username": "Claire_Lee"
+            },
+            {
+                "id": "2494473072",
+                "name": "Michael E. Webber",
+                "username": "MichaelEWebber"
+            }
+        ],
+        "places": [
+            {
+                "full_name": "Saint-Genis-Pouilly, France",
+                "id": "5c1c74462d3d09b0"
+            },
+            {
+                "full_name": "Bayeux, France",
+                "id": "5aab7d8a4920e63f"
+            },
+            {
+                "full_name": "Nancy, France",
+                "id": "66fabed9d649aa12"
+            },
+            {
+                "full_name": "Paris, France",
+                "id": "09f6a7707f18e0b1"
+            },
+            {
+                "full_name": "Audun-le-Tiche, France",
+                "id": "6ea83b1c210f0add"
+            },
+            {
+                "full_name": "Saint-Martin-Vésubie, France",
+                "id": "1acad3152235f5c4"
+            },
+            {
+                "full_name": "Mauregard, France",
+                "id": "64a628200cb8bf69"
+            },
+            {
+                "full_name": "Thoiry, France",
+                "id": "2c2147126a786940"
+            },
+            {
+                "full_name": "Rueil-Malmaison, France",
+                "id": "70c31fb1b7c368ce"
+            }
+        ],
+        "media": [
+            {
+                "type": "photo",
+                "media_key": "3_1249359482603343874",
+                "url": "https://pbs.twimg.com/media/EVad1H1WkAIJ8ZE.jpg"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1264170485488799745",
+        "oldest_id": "1236547979722489857",
+        "result_count": 10
+    }
+}

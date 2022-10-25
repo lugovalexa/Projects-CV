@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "id": "1498933089329893376",
+            "geo": {
+                "place_id": "0af014accd6f6e99"
+            },
+            "source": "Twitter for iPhone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 156,
+                        "end": 179,
+                        "url": "https://t.co/1t9lseIOc3",
+                        "expanded_url": "https://www.findaphd.com/phds/program/white-rose-social-sciences-doctoral-training-partnership-esrc-phd-studentships-2022-23/?p1181",
+                        "display_url": "findaphd.com/phds/program/w…",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1498933090869260289/qVNkokL7?format=jpg&name=orig",
+                                "width": 1200,
+                                "height": 600
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1498933090869260289/qVNkokL7?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "FindAPhD : White Rose Social Sciences Doctoral Training Partnership ESRC PhD Studentships 2022-23 at University of Sheffield",
+                        "description": "Apply for a PhD: White Rose Social Sciences Doctoral Training Partnership ESRC PhD Studentships 2022-23 at University of Sheffield",
+                        "unwound_url": "https://www.findaphd.com/phds/program/white-rose-social-sciences-doctoral-training-partnership-esrc-phd-studentships-2022-23/?p1181"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "tag": "findaphd"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 66,
+                        "end": 71,
+                        "username": "ESRC",
+                        "id": "19393236"
+                    }
+                ]
+            },
+            "author_id": "27461057",
+            "text": "#findaphd there’s still time to apply for  one of these excellent @ESRC funded PhDs on policing and vulnerabilities including one relating to mental health https://t.co/1t9lseIOc3",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 3,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "created_at": "2022-03-02T08:07:51.000Z",
+            "possibly_sensitive": false
+        }
+    ],
+    "includes": {
+        "users": [
+            {
+                "id": "27461057",
+                "name": "Elizabeth Hughes",
+                "username": "LizHughesDD"
+            }
+        ],
+        "places": [
+            {
+                "full_name": "Scotland, United Kingdom",
+                "id": "0af014accd6f6e99"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1498933089329893376",
+        "oldest_id": "1498933089329893376",
+        "result_count": 1
+    }
+}

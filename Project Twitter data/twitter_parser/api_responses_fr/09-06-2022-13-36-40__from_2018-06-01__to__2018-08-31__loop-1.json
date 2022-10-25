@@ -1,0 +1,468 @@
+{
+    "data": [
+        {
+            "id": "1034215893041987584",
+            "geo": {
+                "place_id": "5c1c74462d3d09b0"
+            },
+            "source": "Twitter for iPhone",
+            "author_id": "14273015",
+            "text": "The last year or so of my PhD has sort of broken my stress response. Constantly moving every 6 weeks, never knowing when the end is, not sure where I will be in 8 weeks time. Glad that it appears that the end is nigh",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "created_at": "2018-08-27T23:07:38.000Z",
+            "possibly_sensitive": false
+        },
+        {
+            "id": "1024785447145353216",
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "source": "Tweetings for Android",
+            "author_id": "707626884",
+            "text": "I think I might be crazy, but I prefer the Hero Academia manga over the anime. The anime is still spectacular, don't get me wrong.",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 43,
+                        "end": 55,
+                        "probability": 0.6255,
+                        "type": "Other",
+                        "normalized_text": "Hero Academia"
+                    }
+                ]
+            },
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 4,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "created_at": "2018-08-01T22:34:24.000Z",
+            "possibly_sensitive": false
+        },
+        {
+            "id": "1023975904161288197",
+            "geo": {
+                "place_id": "b5c2bf031e679792"
+            },
+            "source": "Twitter for iPhone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 59,
+                        "end": 82,
+                        "url": "https://t.co/SgXauAxHYa",
+                        "expanded_url": "http://www.sciencemag.org/careers/2017/04/phd-students-face-significant-mental-health-challenges",
+                        "display_url": "sciencemag.org/careers/2017/0…"
+                    }
+                ]
+            },
+            "author_id": "923949594",
+            "text": "Ph.D. students face significant mental health challenges\n\n https://t.co/SgXauAxHYa",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2018-07-30T16:57:34.000Z",
+            "possibly_sensitive": false
+        },
+        {
+            "id": "1023212909512601602",
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "source": "Twitter for iPhone",
+            "author_id": "916081690958794753",
+            "in_reply_to_user_id": "408885274",
+            "text": "@EmmaJByrne_ @EmmaJByrne_ this is a great post. I did my Masters Thesis on previctimization of the offender population. I am working on he same topic for my PhD and have female offenders included preliminary results show large scale trauma for both populations but worse for female offenders",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "created_at": "2018-07-28T14:25:42.000Z",
+            "possibly_sensitive": false
+        },
+        {
+            "id": "1014459573925707776",
+            "geo": {
+                "place_id": "1dd0e4e359a6d2e5"
+            },
+            "source": "Twitter for Android",
+            "author_id": "1340780881",
+            "text": "Instead of lamenting how sad we are when our academic/celebrity/music/etc figureheads/mentors/favs are finally taken to task for abuses they've committed, why can't we instead mourn all of the people/talent/potential that they've destroyed by their actions? #TimesUp",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 258,
+                        "end": 266,
+                        "tag": "TimesUp"
+                    }
+                ]
+            },
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 2,
+                "like_count": 19,
+                "quote_count": 0
+            },
+            "created_at": "2018-07-04T10:43:04.000Z",
+            "possibly_sensitive": false
+        },
+        {
+            "id": "1009469739574415361",
+            "geo": {
+                "place_id": "64a628200cb8bf69"
+            },
+            "source": "Twitter for iPhone",
+            "author_id": "920305544430309376",
+            "text": "Au revoir, Paris! Heading home after sticking around as a tourist after #NetSci2018 Sad to be leaving, but so happy I get to return to this beautiful city for the #chateaubriand fellowship with @vcolizza",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 11,
+                        "end": 15,
+                        "probability": 0.8127,
+                        "type": "Place",
+                        "normalized_text": "Paris"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 72,
+                        "end": 83,
+                        "tag": "NetSci2018"
+                    },
+                    {
+                        "start": 163,
+                        "end": 177,
+                        "tag": "chateaubriand"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 194,
+                        "end": 203,
+                        "username": "vcolizza",
+                        "id": "35467792"
+                    }
+                ]
+            },
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 2,
+                "like_count": 15,
+                "quote_count": 0
+            },
+            "created_at": "2018-06-20T16:15:15.000Z",
+            "possibly_sensitive": false
+        },
+        {
+            "id": "1009088471980478464",
+            "geo": {
+                "place_id": "4572f2dbeb4afa57"
+            },
+            "source": "Twitter for Android",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 66,
+                        "end": 89,
+                        "url": "https://t.co/OENQFWW32e",
+                        "expanded_url": "https://twitter.com/Unapolojaytic_/status/1009088471980478464/photo/1",
+                        "display_url": "pic.twitter.com/OENQFWW32e",
+                        "media_key": "3_1009088455811522560"
+                    }
+                ]
+            },
+            "author_id": "360604036",
+            "text": "The I'm-almost-done-with-my-thesis-but-not-really exhausted face. https://t.co/OENQFWW32e",
+            "lang": "en",
+            "attachments": {
+                "media_keys": [
+                    "3_1009088455811522560"
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "created_at": "2018-06-19T15:00:14.000Z",
+            "possibly_sensitive": false
+        },
+        {
+            "id": "1007938727656808448",
+            "geo": {
+                "place_id": "179b8df9e368044d"
+            },
+            "source": "Twitter for iPhone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 289,
+                        "end": 312,
+                        "url": "https://t.co/W72hkkO0Ry",
+                        "expanded_url": "https://twitter.com/rgbetancourt/status/1007938727656808448/photo/1",
+                        "display_url": "pic.twitter.com/W72hkkO0Ry",
+                        "media_key": "3_1007938720555847680"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 258,
+                        "end": 263,
+                        "probability": 0.9626,
+                        "type": "Person",
+                        "normalized_text": "Camila"
+                    },
+                    {
+                        "start": 265,
+                        "end": 270,
+                        "probability": 0.9736,
+                        "type": "Person",
+                        "normalized_text": "Claire"
+                    },
+                    {
+                        "start": 273,
+                        "end": 279,
+                        "probability": 0.9906,
+                        "type": "Person",
+                        "normalized_text": "Natalia"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 181,
+                        "end": 189,
+                        "username": "mvsbach",
+                        "id": "781850205138321408"
+                    },
+                    {
+                        "start": 190,
+                        "end": 200,
+                        "username": "maxime_dt",
+                        "id": "2563588683"
+                    },
+                    {
+                        "start": 201,
+                        "end": 217,
+                        "username": "ChristinaLaska1",
+                        "id": "921003436337958912"
+                    },
+                    {
+                        "start": 218,
+                        "end": 231,
+                        "username": "Pinzon_Fuchs",
+                        "id": "822826632671010816"
+                    },
+                    {
+                        "start": 232,
+                        "end": 247,
+                        "username": "jcaacostamacia",
+                        "id": "920401824"
+                    },
+                    {
+                        "start": 248,
+                        "end": 261,
+                        "username": "_RSchumacher",
+                        "id": "876821642764328961"
+                    }
+                ]
+            },
+            "author_id": "251801775",
+            "text": "Happiness=when you wake up with a message that you receive a gift sent by some PhD students, colleagues &amp;friends that know that I was sad of losing my bag in eshet conf. THANKS @mvsbach @maxime_dt @ChristinaLaska1 @Pinzon_Fuchs @jcaacostamacia @_RSchumacher Camila,Claire &amp;Natalia https://t.co/W72hkkO0Ry",
+            "lang": "en",
+            "attachments": {
+                "media_keys": [
+                    "3_1007938720555847680"
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 18,
+                "quote_count": 0
+            },
+            "created_at": "2018-06-16T10:51:33.000Z",
+            "possibly_sensitive": false
+        },
+        {
+            "id": "1005462612069507072",
+            "geo": {
+                "place_id": "5539b17fc7afe000"
+            },
+            "source": "Twitter for Android",
+            "author_id": "2271848142",
+            "text": "me: *hasn't had a proper night of sleep for 3 years because depression fucked up my sleep*\nmy dad: why are you tired? are you stressed about your thesis?\nme: DEPRESSION! PERIODS! DENIAL! LIFE IN GENERAL! I HATE EVERYTHING",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "created_at": "2018-06-09T14:52:21.000Z",
+            "possibly_sensitive": false
+        },
+        {
+            "id": "1003220388044787712",
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "source": "Twitter for Android",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 144,
+                        "end": 167,
+                        "url": "https://t.co/On8aETmWXb",
+                        "expanded_url": "https://twitter.com/GiuliiaRuiz/status/1003220388044787712/photo/1",
+                        "display_url": "pic.twitter.com/On8aETmWXb",
+                        "media_key": "16_1003220380390215680"
+                    }
+                ]
+            },
+            "author_id": "720958744998342656",
+            "text": "Guess who has finally her thesis subject but nothing prepared for the presentation in 15days?! I'm good.... I'm totally fine. No stress AT ALL. https://t.co/On8aETmWXb",
+            "lang": "en",
+            "attachments": {
+                "media_keys": [
+                    "16_1003220380390215680"
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2018-06-03T10:22:34.000Z",
+            "possibly_sensitive": false
+        }
+    ],
+    "includes": {
+        "users": [
+            {
+                "id": "14273015",
+                "name": "𝔻𝕣. 𝕃𝕚𝕒𝕞",
+                "username": "Audioworm"
+            },
+            {
+                "id": "707626884",
+                "name": "torn",
+                "username": "TornPls"
+            },
+            {
+                "id": "923949594",
+                "name": "Antton Maya",
+                "username": "AnttonAyam"
+            },
+            {
+                "id": "916081690958794753",
+                "name": "Dan Jones",
+                "username": "JonesDJ37"
+            },
+            {
+                "id": "1340780881",
+                "name": "Sarah",
+                "username": "salegend17"
+            },
+            {
+                "id": "920305544430309376",
+                "name": "Casey Zipfel, Ph.D.",
+                "username": "casey_zipfel"
+            },
+            {
+                "id": "360604036",
+                "name": "🕯 Jay 🕯",
+                "username": "Unapolojaytic_"
+            },
+            {
+                "id": "251801775",
+                "name": "Rebeca G Betancourt",
+                "username": "rgbetancourt"
+            },
+            {
+                "id": "2271848142",
+                "name": "walking bisaster",
+                "username": "ClemiChan"
+            },
+            {
+                "id": "720958744998342656",
+                "name": "𝕽𝖔𝖔𝖑𝖎𝖆",
+                "username": "GiuliiaRuiz"
+            }
+        ],
+        "places": [
+            {
+                "full_name": "Saint-Genis-Pouilly, France",
+                "id": "5c1c74462d3d09b0"
+            },
+            {
+                "full_name": "Paris, France",
+                "id": "09f6a7707f18e0b1"
+            },
+            {
+                "full_name": "Landes, Aquitaine",
+                "id": "b5c2bf031e679792"
+            },
+            {
+                "full_name": "Aix-en-Provence, France",
+                "id": "1dd0e4e359a6d2e5"
+            },
+            {
+                "full_name": "Mauregard, France",
+                "id": "64a628200cb8bf69"
+            },
+            {
+                "full_name": "Ris-Orangis, France",
+                "id": "4572f2dbeb4afa57"
+            },
+            {
+                "full_name": "Lyon, France",
+                "id": "179b8df9e368044d"
+            },
+            {
+                "full_name": "Saint-Germain-en-Laye, France",
+                "id": "5539b17fc7afe000"
+            }
+        ],
+        "media": [
+            {
+                "url": "https://pbs.twimg.com/media/DgEAmquX4AA-073.jpg",
+                "type": "photo",
+                "media_key": "3_1009088455811522560"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/Dfzq7RIX0AANxH8.jpg",
+                "type": "photo",
+                "media_key": "3_1007938720555847680"
+            },
+            {
+                "type": "animated_gif",
+                "media_key": "16_1003220380390215680"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1034215893041987584",
+        "oldest_id": "1003220388044787712",
+        "result_count": 10
+    }
+}

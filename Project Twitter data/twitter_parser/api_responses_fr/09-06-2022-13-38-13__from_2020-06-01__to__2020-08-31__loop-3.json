@@ -1,0 +1,441 @@
+{
+    "data": [
+        {
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "BakrKaissy",
+                        "id": "1095793334839324682"
+                    },
+                    {
+                        "start": 12,
+                        "end": 26,
+                        "username": "OpenAcademics",
+                        "id": "1202683638308950017"
+                    },
+                    {
+                        "start": 27,
+                        "end": 43,
+                        "username": "AcademicChatter",
+                        "id": "885953601067208705"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 5,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "text": "@BakrKaissy @OpenAcademics @AcademicChatter Sorry to hear that. Ghosting is more common than I thought in academia. Hang in there. We should do a website similar to glassdoor but for academia so we can know if it's even worth it to apply to a position. That would save us time and frustration.",
+            "author_id": "3040850416",
+            "created_at": "2020-07-26T15:56:23.000Z",
+            "in_reply_to_user_id": "1095793334839324682",
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "id": "1287416484696858632",
+            "lang": "en",
+            "possibly_sensitive": false
+        },
+        {
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 37,
+                        "end": 49,
+                        "username": "ILLGrenoble",
+                        "id": "250625693"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 10,
+                        "end": 14,
+                        "probability": 0.8906,
+                        "type": "Person",
+                        "normalized_text": "Maria"
+                    },
+                    {
+                        "start": 102,
+                        "end": 106,
+                        "probability": 0.7382,
+                        "type": "Person",
+                        "normalized_text": "Maria"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 129,
+                        "end": 152,
+                        "url": "https://t.co/e6yn8xRsm9",
+                        "expanded_url": "https://twitter.com/LSG_ILLGrenoble/status/1283810337322565634",
+                        "display_url": "twitter.com/LSG_ILLGrenobl…"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "text": "Well done Maria. Another thesis from @ILLGrenoble. Nuclear physics, boron neutron capture therapy and Maria - great combination! https://t.co/e6yn8xRsm9",
+            "author_id": "4500614481",
+            "created_at": "2020-07-17T15:04:39.000Z",
+            "geo": {
+                "place_id": "41366b2dd544d68f"
+            },
+            "id": "1284141974635909121",
+            "lang": "en",
+            "possibly_sensitive": false
+        },
+        {
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "ID_AA_Carmack",
+                        "id": "175624200"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "text": "@ID_AA_Carmack I did my Thesis on pretty much this. Using carrier phase for atttitude definitely falls into the category of ‘theoretically possibly, but crazy brave’.",
+            "author_id": "1551714158",
+            "created_at": "2020-07-09T19:54:00.000Z",
+            "in_reply_to_user_id": "175624200",
+            "geo": {
+                "place_id": "3980fd5d8a818646"
+            },
+            "id": "1281315689475780608",
+            "lang": "en",
+            "possibly_sensitive": false
+        },
+        {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 24,
+                        "end": 29,
+                        "probability": 0.7927,
+                        "type": "Person",
+                        "normalized_text": "Nathan"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 167,
+                        "end": 190,
+                        "url": "https://t.co/WI2fHSBg5n",
+                        "expanded_url": "https://twitter.com/NathanJBennett/status/1277754845005402112",
+                        "display_url": "twitter.com/NathanJBennett…"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 2,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "text": "If you can't find a job Nathan I really think something is broken in the academic system. I wish you best luck but am not too worried, something (stable) will come up https://t.co/WI2fHSBg5n",
+            "author_id": "2769863647",
+            "created_at": "2020-07-01T12:25:25.000Z",
+            "geo": {
+                "place_id": "369d22587b104a3b"
+            },
+            "id": "1278303694593961990",
+            "lang": "en",
+            "possibly_sensitive": false
+        },
+        {
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 19,
+                        "end": 27,
+                        "username": "BootsUK",
+                        "id": "545087869"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 94,
+                        "end": 102,
+                        "tag": "phdlife"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "text": "I highly recommend @BootsUK brightening eye drops for the exhausted PhD candidate about town. #phdlife",
+            "author_id": "1348691166",
+            "created_at": "2020-06-29T12:43:54.000Z",
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "id": "1277583571147018241",
+            "lang": "en",
+            "possibly_sensitive": false
+        },
+        {
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 27,
+                        "end": 36,
+                        "username": "BellLabs",
+                        "id": "20176114"
+                    },
+                    {
+                        "start": 66,
+                        "end": 77,
+                        "username": "IrajSaniee",
+                        "id": "1025722994843418624"
+                    },
+                    {
+                        "start": 100,
+                        "end": 111,
+                        "username": "UCBerkeley",
+                        "id": "176932593"
+                    },
+                    {
+                        "start": 125,
+                        "end": 137,
+                        "username": "JeanWalrand",
+                        "id": "21990530"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 197,
+                        "end": 198,
+                        "probability": 0.9215,
+                        "type": "Place",
+                        "normalized_text": "US"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 233,
+                        "end": 256,
+                        "url": "https://t.co/IbkU33nkEi",
+                        "expanded_url": "https://twitter.com/ylecun/status/1275536059426844674",
+                        "display_url": "twitter.com/ylecun/status/…"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "text": "I went to do an internship @BellLabs with a J-1 visa working with @IrajSaniee\nI also did my postdoc @UCBerkeley working with @JeanWalrand with a J-1 visa.\nBoth were awesome experiences.\nSo sad the US is suspending that visa program. https://t.co/IbkU33nkEi",
+            "author_id": "57775091",
+            "created_at": "2020-06-24T16:58:37.000Z",
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "id": "1275835731919933441",
+            "lang": "en",
+            "possibly_sensitive": false
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 5,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "text": "Being so busy with academic duties, have so much left on todo list, don’t know what to tackle next... crazy academic period 😩",
+            "author_id": "17448456",
+            "created_at": "2020-06-18T13:59:45.000Z",
+            "geo": {
+                "place_id": "0bd2788092f31c3a"
+            },
+            "id": "1273616394039504901",
+            "lang": "en",
+            "possibly_sensitive": false
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 7,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "text": "Back from a 2-days phD selection committee. Exhausted by the 3h of hard negociation but so happy for having given to these 8 students a chance to start a scientific career.They will never know me and how i fought for them🤫.Just created 8 new pubmed alerts😉#lovemyjob #HardChoice",
+            "author_id": "114565609",
+            "created_at": "2020-06-18T11:42:21.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 256,
+                        "end": 266,
+                        "tag": "lovemyjob"
+                    },
+                    {
+                        "start": 267,
+                        "end": 278,
+                        "tag": "HardChoice"
+                    }
+                ]
+            },
+            "geo": {
+                "place_id": "0ce089d404806ea6"
+            },
+            "id": "1273581816553897986",
+            "lang": "en",
+            "possibly_sensitive": false
+        },
+        {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 23,
+                        "end": 29,
+                        "probability": 0.4876,
+                        "type": "Organization",
+                        "normalized_text": "Twitter"
+                    },
+                    {
+                        "start": 86,
+                        "end": 87,
+                        "probability": 0.8608,
+                        "type": "Place",
+                        "normalized_text": "US"
+                    },
+                    {
+                        "start": 100,
+                        "end": 105,
+                        "probability": 0.9981,
+                        "type": "Place",
+                        "normalized_text": "France"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 6,
+                "reply_count": 2,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "text": "I’m desperately asking Twitter. Does anyone have info concerning the reopening of the US embassy in France and about the resumption of visa routine? I am worried I cannot start my PhD / job on time next semester. \nRetweets are appreciated !",
+            "author_id": "594878063",
+            "created_at": "2020-06-03T19:13:51.000Z",
+            "geo": {
+                "place_id": "149ceb57be499e16"
+            },
+            "id": "1268259619379568645",
+            "lang": "en",
+            "possibly_sensitive": false
+        }
+    ],
+    "includes": {
+        "users": [
+            {
+                "id": "3040850416",
+                "name": "Jo Rangel",
+                "username": "Jo_ran_"
+            },
+            {
+                "id": "4500614481",
+                "name": "Mark Johnson",
+                "username": "MarkJ_Neutron"
+            },
+            {
+                "id": "1551714158",
+                "name": "Cameron Cooke",
+                "username": "CGCooke"
+            },
+            {
+                "id": "2769863647",
+                "name": "Rodolphe Devillers",
+                "username": "seamap"
+            },
+            {
+                "id": "1348691166",
+                "name": "The Photographic Theorist - Camille Melissa Waring",
+                "username": "PhDPhotographer"
+            },
+            {
+                "id": "57775091",
+                "name": "Alonso Silva",
+                "username": "alonsosilva"
+            },
+            {
+                "id": "17448456",
+                "name": "Bernard Offmann",
+                "username": "bernardoffmann"
+            },
+            {
+                "id": "114565609",
+                "name": "Xavier Nissan",
+                "username": "Xavier_Nissan"
+            },
+            {
+                "id": "594878063",
+                "name": "Fabien Siles",
+                "username": "SilesFabien"
+            }
+        ],
+        "places": [
+            {
+                "full_name": "Paris, France",
+                "id": "09f6a7707f18e0b1"
+            },
+            {
+                "full_name": "Grenoble, France",
+                "id": "41366b2dd544d68f"
+            },
+            {
+                "full_name": "Toulouse, France",
+                "id": "3980fd5d8a818646"
+            },
+            {
+                "full_name": "Montpellier, France",
+                "id": "369d22587b104a3b"
+            },
+            {
+                "full_name": "Sainte-Luce-sur-Loire, France",
+                "id": "0bd2788092f31c3a"
+            },
+            {
+                "full_name": "Charenton-le-Pont, France",
+                "id": "0ce089d404806ea6"
+            },
+            {
+                "full_name": "Saint-Victoret, France",
+                "id": "149ceb57be499e16"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1287416484696858632",
+        "oldest_id": "1268259619379568645",
+        "result_count": 9
+    }
+}

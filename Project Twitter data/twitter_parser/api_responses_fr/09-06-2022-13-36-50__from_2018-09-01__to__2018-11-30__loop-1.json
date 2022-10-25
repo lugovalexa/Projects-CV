@@ -1,0 +1,518 @@
+{
+    "data": [
+        {
+            "geo": {
+                "place_id": "0701e94ee168b555"
+            },
+            "author_id": "1623103358",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "This is not condusive to productivity, to positivity, to inspiring the next generation. 390% increase in mental health problems in the UK student cohort in the last year. Whatever happened to academic licence?",
+            "in_reply_to_user_id": "1623103358",
+            "possibly_sensitive": false,
+            "id": "1065018779661406209",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 135,
+                        "end": 136,
+                        "probability": 0.8888,
+                        "type": "Place",
+                        "normalized_text": "UK"
+                    }
+                ]
+            },
+            "created_at": "2018-11-20T23:07:18.000Z",
+            "source": "Twitter for Android"
+        },
+        {
+            "geo": {
+                "place_id": "0701e94ee168b555"
+            },
+            "author_id": "1623103358",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 257,
+                        "end": 280,
+                        "url": "https://t.co/wTzHlMqSxB",
+                        "expanded_url": "http://michael-edwards.org/wp/?p=1076",
+                        "display_url": "michael-edwards.org/wp/?p=1076"
+                    }
+                ]
+            },
+            "text": "I see a lot of posts about student mental health - I honestly offer my sympathy &amp; support. But not enough is made of the appalling pressures put upon academic staff at all career stages. I for one am sick &amp; tired of being pitted against one another https://t.co/wTzHlMqSxB",
+            "possibly_sensitive": false,
+            "id": "1065017819245527040",
+            "created_at": "2018-11-20T23:03:29.000Z",
+            "source": "Twitter for Android"
+        },
+        {
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "author_id": "2375968435",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "text": "Well registration was stressful as usual. But I have 4 MEJO courses so yeahhh. That’s more than Ive taken in 5 semesters. Maybe I will graduate 😅",
+            "possibly_sensitive": false,
+            "id": "1060231597277020161",
+            "created_at": "2018-11-07T18:04:45.000Z",
+            "source": "Twitter for iPhone"
+        },
+        {
+            "geo": {
+                "place_id": "626ab9bedd0ce1b8"
+            },
+            "author_id": "338320062",
+            "lang": "en",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 16,
+                        "username": "machiavelli0087",
+                        "id": "200946603"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@machiavelli0087 Sad indeed but the fear of immigration prevents academic logic.",
+            "in_reply_to_user_id": "200946603",
+            "possibly_sensitive": false,
+            "id": "1058633096701054976",
+            "created_at": "2018-11-03T08:12:53.000Z",
+            "source": "Twitter for iPhone"
+        },
+        {
+            "geo": {
+                "place_id": "57b8055fd5cc511c"
+            },
+            "author_id": "3234591258",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "Finished my dissertation, submitting as soon as some info from the program admins comes back. All stress I was feeling last week is gone and all I can think now is... a PhD will be fun and a fantastic idea right?",
+            "possibly_sensitive": false,
+            "id": "1044192381715841027",
+            "created_at": "2018-09-24T11:50:38.000Z",
+            "source": "Twitter for iPhone"
+        },
+        {
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "author_id": "2462504067",
+            "lang": "en",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "ProfSoderlund",
+                        "id": "935224760"
+                    },
+                    {
+                        "start": 15,
+                        "end": 26,
+                        "username": "Antoine__V",
+                        "id": "330965330"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "@ProfSoderlund @Antoine__V Very sad news. His 1965 book chapter is a monument in economic, historical &amp; organizational sociology dealing w/ issues of race, class and  well-know liability of organizational newness which characterizes every startup. A classic which I obviously include in my PhD OT seminar",
+            "in_reply_to_user_id": "935224760",
+            "possibly_sensitive": false,
+            "id": "1043986674513063936",
+            "created_at": "2018-09-23T22:13:14.000Z",
+            "source": "Twitter for iPhone"
+        },
+        {
+            "geo": {
+                "place_id": "1dd0e4e359a6d2e5"
+            },
+            "author_id": "283035623",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "text": "@sherlkholms I thought it would sound crazy but it's reassuring to realize that I'm not alone in this situation. Yes, I have thoughts that I do not agree with, that I hate. Amen, studying the Word and fellowship, is a way to escape.",
+            "in_reply_to_user_id": "756505898349125632",
+            "possibly_sensitive": false,
+            "id": "1041733956545257474",
+            "created_at": "2018-09-17T17:01:44.000Z",
+            "source": "Twitter for Android"
+        },
+        {
+            "geo": {
+                "place_id": "4d7b40e2c87a2349"
+            },
+            "author_id": "283035623",
+            "lang": "en",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "One_Of_His",
+                        "id": "465312881"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 132,
+                        "end": 134,
+                        "probability": 0.9832,
+                        "type": "Other",
+                        "normalized_text": "God"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 2,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "text": "@One_Of_His It is not a day's depression, but a constant state, which, it can be noted, improves when I study the Word, write about God, and fellowship. \nBut i suffer from depression since 20 years, from a long before I became a Christian, which was aggravated by the use of hard drugs.",
+            "in_reply_to_user_id": "465312881",
+            "possibly_sensitive": false,
+            "id": "1039189690568650752",
+            "created_at": "2018-09-10T16:31:44.000Z",
+            "source": "Twitter for Android"
+        },
+        {
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "author_id": "2186174341",
+            "lang": "en",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "pizzystrizzy",
+                        "id": "56862213"
+                    },
+                    {
+                        "start": 14,
+                        "end": 27,
+                        "username": "DrDavidHealy",
+                        "id": "455904453"
+                    },
+                    {
+                        "start": 160,
+                        "end": 172,
+                        "username": "psalkovskis",
+                        "id": "257357381"
+                    },
+                    {
+                        "start": 179,
+                        "end": 190,
+                        "username": "Mental_Elf",
+                        "id": "303798678"
+                    },
+                    {
+                        "start": 275,
+                        "end": 288,
+                        "username": "sameerjauhar",
+                        "id": "21525476"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 201,
+                        "end": 224,
+                        "url": "https://t.co/31gTjk1j2U",
+                        "expanded_url": "https://www.nationalelfservice.net/mental-health/power-threat-meaning-framework-innovative-and-important-ptmframework/",
+                        "display_url": "nationalelfservice.net/mental-health/…"
+                    },
+                    {
+                        "start": 248,
+                        "end": 271,
+                        "url": "https://t.co/RXaMvV684z",
+                        "expanded_url": "https://www.nationalelfservice.net/mental-health/psychosis/understandingpsychosis/one",
+                        "display_url": "nationalelfservice.net/mental-health/…"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 128,
+                        "end": 133,
+                        "tag": "PTMF"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "text": "@pizzystrizzy @DrDavidHealy I would think a good start for you would be the  comprehensive &amp; very academic hard work on the #PTMF  by @hotsexmadrigal &amp; @psalkovskis in a  @Mental_Elf blogpost:\nhttps://t.co/31gTjk1j2U \n\nOf related interest: https://t.co/RXaMvV684z by @sameerjauhar &amp; @PaulMor64695904",
+            "in_reply_to_user_id": "56862213",
+            "possibly_sensitive": false,
+            "id": "1038875974258053125",
+            "created_at": "2018-09-09T19:45:08.000Z",
+            "source": "Twitter Web Client"
+        },
+        {
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "author_id": "103613336",
+            "lang": "en",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "david_kipping",
+                        "id": "23305763"
+                    },
+                    {
+                        "start": 15,
+                        "end": 28,
+                        "username": "DrFunkySpoon",
+                        "id": "378703672"
+                    },
+                    {
+                        "start": 29,
+                        "end": 40,
+                        "username": "EmSandford",
+                        "id": "132958051"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "@david_kipping @DrFunkySpoon @EmSandford It was probably fun to write, maybe a break from the stress of studying and exams. Been there too although I found relief in pranking my graduate advisor!",
+            "in_reply_to_user_id": "23305763",
+            "possibly_sensitive": false,
+            "id": "1038339094777159682",
+            "created_at": "2018-09-08T08:11:46.000Z",
+            "source": "Twitter for Android"
+        },
+        {
+            "geo": {
+                "place_id": "4d7b40e2c87a2349"
+            },
+            "author_id": "283035623",
+            "lang": "en",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "lisaishyp1",
+                        "id": "911816918511763456"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 49,
+                        "end": 58,
+                        "probability": 0.5254,
+                        "type": "Person",
+                        "normalized_text": "Christians"
+                    },
+                    {
+                        "start": 94,
+                        "end": 100,
+                        "probability": 0.5208,
+                        "type": "Product",
+                        "normalized_text": "Twitter"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "@lisaishyp1 Welcome, I'm happy to know here true Christians like you. Thank you ! ❤ Currently Twitter has blocked my follow button, I'm sad because I can not follow anyone :( but I will follow you as soon as it will be fixed! But until that does not prevent us from fellowship together !",
+            "in_reply_to_user_id": "911816918511763456",
+            "possibly_sensitive": false,
+            "id": "1037257462213210112",
+            "created_at": "2018-09-05T08:33:44.000Z",
+            "source": "Twitter for Android"
+        },
+        {
+            "geo": {
+                "place_id": "746517daf0094ada"
+            },
+            "author_id": "60603109",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 198,
+                        "end": 221,
+                        "url": "https://t.co/qKqsk8iSTY",
+                        "expanded_url": "https://www.wired.com/story/crispr-tomato-mutant-future-of-food/",
+                        "display_url": "wired.com/story/crispr-t…"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 132,
+                        "end": 139,
+                        "tag": "crispr"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 19,
+                        "end": 22,
+                        "probability": 0.6643,
+                        "type": "Person",
+                        "normalized_text": "Klee"
+                    },
+                    {
+                        "start": 108,
+                        "end": 122,
+                        "probability": 0.7012,
+                        "type": "Person",
+                        "normalized_text": "Stephen S. Hall"
+                    }
+                ]
+            },
+            "text": "“The sad reality,” Klee says, “is that industry is not really committed to making a better-tasting tomato.”\nStephen S. Hall and the #crispr-ized tomatoes got me back to my PhD years @inra_france 🍅🐌\nhttps://t.co/qKqsk8iSTY",
+            "possibly_sensitive": false,
+            "id": "1036268902148448258",
+            "created_at": "2018-09-02T15:05:33.000Z",
+            "source": "Twitter for iPhone"
+        }
+    ],
+    "includes": {
+        "users": [
+            {
+                "id": "1623103358",
+                "name": "Jackie Kendrick",
+                "username": "RonSukiRon"
+            },
+            {
+                "id": "2375968435",
+                "name": "be who you areee 🎈🌈",
+                "username": "Baelen11"
+            },
+            {
+                "id": "338320062",
+                "name": "Jessica Lichy, Dr",
+                "username": "JessicaLichy"
+            },
+            {
+                "id": "3234591258",
+                "name": "Caitlin Smits",
+                "username": "smitscaitlin"
+            },
+            {
+                "id": "2462504067",
+                "name": "xcastaner",
+                "username": "xcastaner"
+            },
+            {
+                "id": "283035623",
+                "name": "Dyde Elosis ✝️🕊",
+                "username": "elosisofficial"
+            },
+            {
+                "id": "2186174341",
+                "name": "Ivana Fulli",
+                "username": "DrFulli"
+            },
+            {
+                "id": "103613336",
+                "name": "Richard Elkins",
+                "username": "texadactyl"
+            },
+            {
+                "id": "60603109",
+                "name": "Mathieu J. Ros",
+                "username": "Skimath"
+            }
+        ],
+        "places": [
+            {
+                "full_name": "Strasbourg, France",
+                "id": "0701e94ee168b555"
+            },
+            {
+                "full_name": "Paris, France",
+                "id": "09f6a7707f18e0b1"
+            },
+            {
+                "full_name": "Villarembert, France",
+                "id": "626ab9bedd0ce1b8"
+            },
+            {
+                "full_name": "Asnières-sur-Seine, France",
+                "id": "57b8055fd5cc511c"
+            },
+            {
+                "full_name": "Aix-en-Provence, France",
+                "id": "1dd0e4e359a6d2e5"
+            },
+            {
+                "full_name": "Avignon, France",
+                "id": "4d7b40e2c87a2349"
+            },
+            {
+                "full_name": "Draché, France",
+                "id": "746517daf0094ada"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1065018779661406209",
+        "oldest_id": "1036268902148448258",
+        "result_count": 12
+    }
+}

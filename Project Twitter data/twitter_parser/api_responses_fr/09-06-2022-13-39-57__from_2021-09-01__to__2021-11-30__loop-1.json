@@ -1,0 +1,834 @@
+{
+    "data": [
+        {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 216,
+                        "end": 239,
+                        "url": "https://t.co/0AZyz6CnqS",
+                        "expanded_url": "https://twitter.com/viguidugli/status/1464059848912510978",
+                        "display_url": "twitter.com/viguidugli/sta…"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 104,
+                        "end": 109,
+                        "probability": 0.8999,
+                        "type": "Place",
+                        "normalized_text": "brazil"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "lang": "en",
+            "geo": {
+                "place_id": "179b8df9e368044d"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "since the pandemic, I've:\n\n.graduated from college\n.started treating 2 mental illness \n.moved houses in brazil 2 times\n.got a job then quit it\n.moved to europe &amp; enrolled in graduate school\n.read around 30 books https://t.co/0AZyz6CnqS",
+            "id": "1464101272777330688",
+            "author_id": "1280205910569345024",
+            "created_at": "2021-11-26T05:18:39.000Z",
+            "possibly_sensitive": false
+        },
+        {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 205,
+                        "end": 228,
+                        "url": "https://t.co/RTWEWlt0IF",
+                        "expanded_url": "https://forms.gle/kkJfXxikL1FqnQgk7",
+                        "display_url": "forms.gle/kkJfXxikL1FqnQ…",
+                        "status": 200,
+                        "unwound_url": "https://docs.google.com/forms/d/e/1FAIpQLSdidGDvbUEMTsqtejPTaA5soGR0zPnvmg0ICuq0KLX2WUjdnQ/viewform?usp=send_form"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "KBoyler12",
+                        "id": "396020800"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "lang": "en",
+            "geo": {
+                "place_id": "179b8df9e368044d"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@KBoyler12 Hello! If you work in the hospitality industry (or used to...!), can you please answer a survey I made for my thesis regarding Mental Health in Front Line Hotel Employees? Thank you very much!! https://t.co/RTWEWlt0IF",
+            "id": "1459979988342648835",
+            "author_id": "1084441698175016961",
+            "created_at": "2021-11-14T20:22:08.000Z",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "396020800"
+        },
+        {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 203,
+                        "end": 226,
+                        "url": "https://t.co/RTWEWlt0IF",
+                        "expanded_url": "https://forms.gle/kkJfXxikL1FqnQgk7",
+                        "display_url": "forms.gle/kkJfXxikL1FqnQ…",
+                        "status": 200,
+                        "unwound_url": "https://docs.google.com/forms/d/e/1FAIpQLSdidGDvbUEMTsqtejPTaA5soGR0zPnvmg0ICuq0KLX2WUjdnQ/viewform?usp=send_form"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "username": "Touchse",
+                        "id": "4756558522"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "lang": "en",
+            "geo": {
+                "place_id": "179b8df9e368044d"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@Touchse Hello! If you work in the hospitality industry (or used to...!), can you please answer a survey I made for my thesis regarding Mental Health in Front Line Hotel Employees? Thank you very much!! https://t.co/RTWEWlt0IF",
+            "id": "1459979918700392456",
+            "author_id": "1084441698175016961",
+            "created_at": "2021-11-14T20:21:52.000Z",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "4756558522"
+        },
+        {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 206,
+                        "end": 229,
+                        "url": "https://t.co/RTWEWlt0IF",
+                        "expanded_url": "https://forms.gle/kkJfXxikL1FqnQgk7",
+                        "display_url": "forms.gle/kkJfXxikL1FqnQ…",
+                        "status": 200,
+                        "unwound_url": "https://docs.google.com/forms/d/e/1FAIpQLSdidGDvbUEMTsqtejPTaA5soGR0zPnvmg0ICuq0KLX2WUjdnQ/viewform?usp=send_form"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "Ali_G_Ali_",
+                        "id": "953921965173063681"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "lang": "en",
+            "geo": {
+                "place_id": "179b8df9e368044d"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@Ali_G_Ali_ Hello! If you work in the hospitality industry (or used to...!), can you please answer a survey I made for my thesis regarding Mental Health in Front Line Hotel Employees? Thank you very much!! https://t.co/RTWEWlt0IF",
+            "id": "1459979877617180672",
+            "author_id": "1084441698175016961",
+            "created_at": "2021-11-14T20:21:42.000Z",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "953921965173063681"
+        },
+        {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 204,
+                        "end": 227,
+                        "url": "https://t.co/RTWEWlt0IF",
+                        "expanded_url": "https://forms.gle/kkJfXxikL1FqnQgk7",
+                        "display_url": "forms.gle/kkJfXxikL1FqnQ…",
+                        "status": 200,
+                        "unwound_url": "https://docs.google.com/forms/d/e/1FAIpQLSdidGDvbUEMTsqtejPTaA5soGR0zPnvmg0ICuq0KLX2WUjdnQ/viewform?usp=send_form"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "MikaTH13",
+                        "id": "773084349885476864"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "lang": "en",
+            "geo": {
+                "place_id": "179b8df9e368044d"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "@MikaTH13 Hello! If you work in the hospitality industry (or used to...!), can you please answer a survey I made for my thesis regarding Mental Health in Front Line Hotel Employees? Thank you very much!! https://t.co/RTWEWlt0IF",
+            "id": "1459979718510456832",
+            "author_id": "1084441698175016961",
+            "created_at": "2021-11-14T20:21:04.000Z",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "773084349885476864"
+        },
+        {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 207,
+                        "end": 230,
+                        "url": "https://t.co/RTWEWlt0IF",
+                        "expanded_url": "https://forms.gle/kkJfXxikL1FqnQgk7",
+                        "display_url": "forms.gle/kkJfXxikL1FqnQ…",
+                        "status": 200,
+                        "unwound_url": "https://docs.google.com/forms/d/e/1FAIpQLSdidGDvbUEMTsqtejPTaA5soGR0zPnvmg0ICuq0KLX2WUjdnQ/viewform?usp=send_form"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "TraumBerlin",
+                        "id": "2267225297"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "lang": "en",
+            "geo": {
+                "place_id": "179b8df9e368044d"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@TraumBerlin Hello! If you work in the hospitality industry (or used to...!), can you please answer a survey I made for my thesis regarding Mental Health in Front Line Hotel Employees? Thank you very much!! https://t.co/RTWEWlt0IF",
+            "id": "1459979499794309126",
+            "author_id": "1084441698175016961",
+            "created_at": "2021-11-14T20:20:12.000Z",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "2267225297"
+        },
+        {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 207,
+                        "end": 230,
+                        "url": "https://t.co/RTWEWlt0IF",
+                        "expanded_url": "https://forms.gle/kkJfXxikL1FqnQgk7",
+                        "display_url": "forms.gle/kkJfXxikL1FqnQ…",
+                        "status": 200,
+                        "unwound_url": "https://docs.google.com/forms/d/e/1FAIpQLSdidGDvbUEMTsqtejPTaA5soGR0zPnvmg0ICuq0KLX2WUjdnQ/viewform?usp=send_form"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "ClaireHarpz",
+                        "id": "2197428925"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "lang": "en",
+            "geo": {
+                "place_id": "179b8df9e368044d"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@ClaireHarpz Hello! If you work in the hospitality industry (or used to...!), can you please answer a survey I made for my thesis regarding Mental Health in Front Line Hotel Employees? Thank you very much!! https://t.co/RTWEWlt0IF",
+            "id": "1459979407469293582",
+            "author_id": "1084441698175016961",
+            "created_at": "2021-11-14T20:19:50.000Z",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "2197428925"
+        },
+        {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 207,
+                        "end": 230,
+                        "url": "https://t.co/RTWEWlt0IF",
+                        "expanded_url": "https://forms.gle/kkJfXxikL1FqnQgk7",
+                        "display_url": "forms.gle/kkJfXxikL1FqnQ…",
+                        "status": 200,
+                        "unwound_url": "https://docs.google.com/forms/d/e/1FAIpQLSdidGDvbUEMTsqtejPTaA5soGR0zPnvmg0ICuq0KLX2WUjdnQ/viewform?usp=send_form"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "tiffayganda",
+                        "id": "768619662376525824"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "lang": "en",
+            "geo": {
+                "place_id": "179b8df9e368044d"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@tiffayganda Hello! If you work in the hospitality industry (or used to...!), can you please answer a survey I made for my thesis regarding Mental Health in Front Line Hotel Employees? Thank you very much!! https://t.co/RTWEWlt0IF",
+            "id": "1459978892463296513",
+            "author_id": "1084441698175016961",
+            "created_at": "2021-11-14T20:17:47.000Z",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "768619662376525824"
+        },
+        {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 209,
+                        "end": 232,
+                        "url": "https://t.co/RTWEWlt0IF",
+                        "expanded_url": "https://forms.gle/kkJfXxikL1FqnQgk7",
+                        "display_url": "forms.gle/kkJfXxikL1FqnQ…",
+                        "status": 200,
+                        "unwound_url": "https://docs.google.com/forms/d/e/1FAIpQLSdidGDvbUEMTsqtejPTaA5soGR0zPnvmg0ICuq0KLX2WUjdnQ/viewform?usp=send_form"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "SaudiHotelier",
+                        "id": "1342709076"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "lang": "en",
+            "geo": {
+                "place_id": "179b8df9e368044d"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@SaudiHotelier Hello! If you work in the hospitality industry (or used to...!), can you please answer a survey I made for my thesis regarding Mental Health in Front Line Hotel Employees? Thank you very much!! https://t.co/RTWEWlt0IF",
+            "id": "1459978396168036352",
+            "author_id": "1084441698175016961",
+            "created_at": "2021-11-14T20:15:49.000Z",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "1342709076"
+        },
+        {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 209,
+                        "end": 232,
+                        "url": "https://t.co/RTWEWlt0IF",
+                        "expanded_url": "https://forms.gle/kkJfXxikL1FqnQgk7",
+                        "display_url": "forms.gle/kkJfXxikL1FqnQ…",
+                        "status": 200,
+                        "unwound_url": "https://docs.google.com/forms/d/e/1FAIpQLSdidGDvbUEMTsqtejPTaA5soGR0zPnvmg0ICuq0KLX2WUjdnQ/viewform?usp=send_form"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "SimonTBennett",
+                        "id": "184228251"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "lang": "en",
+            "geo": {
+                "place_id": "179b8df9e368044d"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@SimonTBennett Hello! If you work in the hospitality industry (or used to...!), can you please answer a survey I made for my thesis regarding Mental Health in Front Line Hotel Employees? Thank you very much!! https://t.co/RTWEWlt0IF",
+            "id": "1459978285295849475",
+            "author_id": "1084441698175016961",
+            "created_at": "2021-11-14T20:15:22.000Z",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "184228251"
+        },
+        {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 202,
+                        "end": 225,
+                        "url": "https://t.co/RTWEWlt0IF",
+                        "expanded_url": "https://forms.gle/kkJfXxikL1FqnQgk7",
+                        "display_url": "forms.gle/kkJfXxikL1FqnQ…",
+                        "status": 200,
+                        "unwound_url": "https://docs.google.com/forms/d/e/1FAIpQLSdidGDvbUEMTsqtejPTaA5soGR0zPnvmg0ICuq0KLX2WUjdnQ/viewform?usp=send_form"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 7,
+                        "username": "Clarah",
+                        "id": "16517911"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "lang": "en",
+            "geo": {
+                "place_id": "179b8df9e368044d"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@Clarah Hello! If you work in the hospitality industry (or used to...!), can you please answer a survey I made for my thesis regarding Mental Health in Front Line Hotel Employees? Thank you very much!! https://t.co/RTWEWlt0IF",
+            "id": "1459978191632670720",
+            "author_id": "1084441698175016961",
+            "created_at": "2021-11-14T20:15:00.000Z",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "16517911"
+        },
+        {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 223,
+                        "end": 246,
+                        "url": "https://t.co/RTWEWlt0IF",
+                        "expanded_url": "https://forms.gle/kkJfXxikL1FqnQgk7",
+                        "display_url": "forms.gle/kkJfXxikL1FqnQ…",
+                        "status": 200,
+                        "unwound_url": "https://docs.google.com/forms/d/e/1FAIpQLSdidGDvbUEMTsqtejPTaA5soGR0zPnvmg0ICuq0KLX2WUjdnQ/viewform?usp=send_form"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "JohnPaulAllen",
+                        "id": "23271680"
+                    },
+                    {
+                        "start": 15,
+                        "end": 28,
+                        "username": "billifer1973",
+                        "id": "1417596503023964160"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "lang": "en",
+            "geo": {
+                "place_id": "179b8df9e368044d"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@JohnPaulAllen @billifer1973 Hello! If you work in the hospitality industry (or used to...!), can you please answer a survey I made for my thesis regarding Mental Health in Front Line Hotel Employees? Thank you very much!! https://t.co/RTWEWlt0IF",
+            "id": "1459975536902656009",
+            "author_id": "1084441698175016961",
+            "created_at": "2021-11-14T20:04:27.000Z",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "23271680"
+        },
+        {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 208,
+                        "end": 231,
+                        "url": "https://t.co/RTWEWlt0IF",
+                        "expanded_url": "https://forms.gle/kkJfXxikL1FqnQgk7",
+                        "display_url": "forms.gle/kkJfXxikL1FqnQ…",
+                        "status": 200,
+                        "unwound_url": "https://docs.google.com/forms/d/e/1FAIpQLSdidGDvbUEMTsqtejPTaA5soGR0zPnvmg0ICuq0KLX2WUjdnQ/viewform?usp=send_form"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "hotelier_bot",
+                        "id": "1286387312151146496"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "lang": "en",
+            "geo": {
+                "place_id": "179b8df9e368044d"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@hotelier_bot Hello! If you work in the hospitality industry (or used to...!), can you please answer a survey I made for my thesis regarding Mental Health in Front Line Hotel Employees? Thank you very much!! https://t.co/RTWEWlt0IF",
+            "id": "1459975159121682434",
+            "author_id": "1084441698175016961",
+            "created_at": "2021-11-14T20:02:57.000Z",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "1286387312151146496"
+        },
+        {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 288,
+                        "end": 311,
+                        "url": "https://t.co/9NxXS260gO",
+                        "expanded_url": "https://twitter.com/ShivaShirani/status/1457994452161675269/photo/1",
+                        "display_url": "pic.twitter.com/9NxXS260gO",
+                        "media_key": "3_1457994441126555651"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 7,
+                        "end": 15,
+                        "tag": "science"
+                    },
+                    {
+                        "start": 166,
+                        "end": 182,
+                        "tag": "WorldScienceDay"
+                    },
+                    {
+                        "start": 204,
+                        "end": 215,
+                        "tag": "scientific"
+                    },
+                    {
+                        "start": 216,
+                        "end": 221,
+                        "tag": "life"
+                    },
+                    {
+                        "start": 222,
+                        "end": 228,
+                        "tag": "story"
+                    },
+                    {
+                        "start": 264,
+                        "end": 268,
+                        "tag": "phd"
+                    },
+                    {
+                        "start": 269,
+                        "end": 281,
+                        "tag": "synchrotron"
+                    },
+                    {
+                        "start": 282,
+                        "end": 287,
+                        "tag": "xray"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 250,
+                        "end": 263,
+                        "username": "lightsources",
+                        "id": "19018356"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone",
+            "lang": "en",
+            "geo": {
+                "place_id": "07d9cd0d53080000"
+            },
+            "attachments": {
+                "media_keys": [
+                    "3_1457994441126555651"
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 9,
+                "quote_count": 0
+            },
+            "text": "During #science hardships&amp;ease years:Exactly where\"deep breath, hatred swallow,tears wipe\"was my only way🥺How much I wanted sb to call&amp;tell me on occasion of #WorldScienceDay we want to hear your #scientific #life #story. how timely u called @lightsources #phd #synchrotron #xray https://t.co/9NxXS260gO",
+            "id": "1457994452161675269",
+            "author_id": "923591034424250368",
+            "created_at": "2021-11-09T08:52:20.000Z",
+            "possibly_sensitive": false
+        },
+        {
+            "source": "Twitter for Android",
+            "lang": "en",
+            "geo": {
+                "place_id": "2ea84f4da7819b5c"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@WanderingWojak @SteveStuWill Thanks for your answer. Im illiterate and I was half-joking. But I do believe determinism is a pointless truism that if applied to life leads to depression, and free will is a necessary framework outside of academic philosophy for having a fruitful and not depressed life.",
+            "id": "1457936281393156096",
+            "author_id": "36352004",
+            "created_at": "2021-11-09T05:01:11.000Z",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "1453846961585594370",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 16,
+                        "end": 29,
+                        "username": "SteveStuWill",
+                        "id": "33856936"
+                    }
+                ]
+            }
+        },
+        {
+            "source": "Twitter for Android",
+            "lang": "en",
+            "geo": {
+                "place_id": "4c6100a96901fb5e"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "text": "This week's migraine -hypochondriac edition- is sponsored by: \"Is it the cold, lack of proper nutrition/sleep, my space buns, PhD stress, stress due to my period being late, or is it simply a brain tumor?\"",
+            "id": "1457417662590603268",
+            "author_id": "337609949",
+            "created_at": "2021-11-07T18:40:22.000Z",
+            "possibly_sensitive": false
+        },
+        {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 185,
+                        "end": 208,
+                        "url": "https://t.co/yuCIaYDkHB",
+                        "expanded_url": "https://twitter.com/jethrosalapare/status/1456559239288270848/photo/1",
+                        "display_url": "pic.twitter.com/yuCIaYDkHB",
+                        "media_key": "16_1456559231658774530"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone",
+            "lang": "en",
+            "geo": {
+                "place_id": "23f8a07383ac617e"
+            },
+            "attachments": {
+                "media_keys": [
+                    "16_1456559231658774530"
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 2,
+                "like_count": 10,
+                "quote_count": 0
+            },
+            "text": "3 tulog na lang!!!! Ph.D. Chemistry, watch out coz i’m coming for you real soon!!!! 😜\n\ni am confident naman about my thesis pero sobrang stressed lang ako dahil sa anxious nature ko 😅😂 https://t.co/yuCIaYDkHB",
+            "id": "1456559239288270848",
+            "author_id": "71956800",
+            "created_at": "2021-11-05T09:49:18.000Z",
+            "possibly_sensitive": false
+        },
+        {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 140,
+                        "end": 163,
+                        "url": "https://t.co/kukYAEr7Jk",
+                        "expanded_url": "https://twitter.com/LaurySllm/status/1452289704834043910/photo/1",
+                        "display_url": "pic.twitter.com/kukYAEr7Jk",
+                        "media_key": "3_1452289699045851160"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 112,
+                        "end": 120,
+                        "tag": "phdlife"
+                    },
+                    {
+                        "start": 121,
+                        "end": 132,
+                        "tag": "sundaywalk"
+                    },
+                    {
+                        "start": 133,
+                        "end": 139,
+                        "tag": "Paris"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone",
+            "lang": "en",
+            "geo": {
+                "place_id": "07d9e3a055084002"
+            },
+            "attachments": {
+                "media_keys": [
+                    "3_1452289699045851160"
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 17,
+                "quote_count": 0
+            },
+            "text": "Sometimes work-related frustration takes so much mental space, I almost forget I live in such a beautiful city. #phdlife #sundaywalk #Paris https://t.co/kukYAEr7Jk",
+            "id": "1452289704834043910",
+            "author_id": "994531327520198656",
+            "created_at": "2021-10-24T15:03:42.000Z",
+            "possibly_sensitive": false
+        }
+    ],
+    "includes": {
+        "users": [
+            {
+                "id": "1280205910569345024",
+                "name": "a 🌈",
+                "username": "justlikeathief"
+            },
+            {
+                "id": "1084441698175016961",
+                "name": "La Loomis 🇨🇱↔️🇨🇵",
+                "username": "SultanaSolar"
+            },
+            {
+                "id": "923591034424250368",
+                "name": "Shiva Shirani",
+                "username": "ShivaShirani"
+            },
+            {
+                "id": "36352004",
+                "name": "Raphael Moras de Vasconcellos",
+                "username": "raphaelmoras"
+            },
+            {
+                "id": "337609949",
+                "name": "Lama",
+                "username": "planetperfume"
+            },
+            {
+                "id": "71956800",
+                "name": "Jéthro SALAPARE",
+                "username": "jethrosalapare"
+            },
+            {
+                "id": "994531327520198656",
+                "name": "Laury Sellem",
+                "username": "LaurySllm"
+            }
+        ],
+        "places": [
+            {
+                "full_name": "Lyon, France",
+                "id": "179b8df9e368044d"
+            },
+            {
+                "full_name": "European Synchrotron Radiation Facility (ESRF)",
+                "id": "07d9cd0d53080000"
+            },
+            {
+                "full_name": "Reims, France",
+                "id": "2ea84f4da7819b5c"
+            },
+            {
+                "full_name": "Marseille, France",
+                "id": "4c6100a96901fb5e"
+            },
+            {
+                "full_name": "Nice, France",
+                "id": "23f8a07383ac617e"
+            },
+            {
+                "full_name": "Jardin des Tuileries",
+                "id": "07d9e3a055084002"
+            }
+        ],
+        "media": [
+            {
+                "media_key": "3_1457994441126555651",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/FDvWOCvXsAMbeVu.jpg"
+            },
+            {
+                "media_key": "16_1456559231658774530",
+                "type": "animated_gif"
+            },
+            {
+                "media_key": "3_1452289699045851160",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/FCeRyWaWQBgJnx4.jpg"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1464101272777330688",
+        "oldest_id": "1452289704834043910",
+        "result_count": 18,
+        "next_token": "b26v89c19zqg8o3fpds9dr1chg17u4nvjiilpr4u7evst"
+    }
+}

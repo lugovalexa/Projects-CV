@@ -1,0 +1,66 @@
+{
+    "data": [
+        {
+            "geo": {
+                "place_id": "3415173e92f1fc99"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 3,
+                "like_count": 26,
+                "quote_count": 0
+            },
+            "text": "After many years in academia and an almost burn out, I'm trying to start a healthy lifestyle. I took a big step and I'm meeting a fitness coach. This morning, it was cardio. Turns out, I never considered the heart as a muscle! https://t.co/tv5jAkoicF",
+            "author_id": "40481816",
+            "possibly_sensitive": false,
+            "source": "Twitter for Android",
+            "attachments": {
+                "media_keys": [
+                    "16_1387689374167486465"
+                ]
+            },
+            "lang": "en",
+            "created_at": "2021-04-29T08:45:05.000Z",
+            "id": "1387689382686203905",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 227,
+                        "end": 250,
+                        "url": "https://t.co/tv5jAkoicF",
+                        "expanded_url": "https://twitter.com/Coni777/status/1387689382686203905/photo/1",
+                        "display_url": "pic.twitter.com/tv5jAkoicF",
+                        "media_key": "16_1387689374167486465"
+                    }
+                ]
+            }
+        }
+    ],
+    "includes": {
+        "media": [
+            {
+                "type": "animated_gif",
+                "media_key": "16_1387689374167486465"
+            }
+        ],
+        "users": [
+            {
+                "id": "40481816",
+                "name": "Constanza Rojas-Molina",
+                "username": "Coni777"
+            }
+        ],
+        "places": [
+            {
+                "full_name": "Maisons-Laffitte, France",
+                "id": "3415173e92f1fc99"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1387689382686203905",
+        "oldest_id": "1387689382686203905",
+        "result_count": 1,
+        "next_token": "b26v89c19zqg8o3fostsgw6y683wl6bgid0mie2602f0d"
+    }
+}

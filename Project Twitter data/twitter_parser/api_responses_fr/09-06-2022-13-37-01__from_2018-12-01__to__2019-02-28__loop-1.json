@@ -1,0 +1,312 @@
+{
+    "data": [
+        {
+            "geo": {
+                "place_id": "7290785fce79490a"
+            },
+            "author_id": "919455970711031808",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 6,
+                "quote_count": 0
+            },
+            "text": "My therapist loves My Hero Academia wtf yes thats what I signed for",
+            "possibly_sensitive": false,
+            "id": "1097875844083654657",
+            "created_at": "2019-02-19T15:09:33.000Z",
+            "source": "Twitter for iPhone"
+        },
+        {
+            "geo": {
+                "place_id": "66fabed9d649aa12"
+            },
+            "author_id": "583603580",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "As a non-profit, we organize these conferences on our spare time. We do not derive anything.\n\nAnd because it’s not a publication, it does not count. I may actually get professionally punished to work on those conferences. 2019 academia is really sad honestly. Purpose guys.\n\n5/",
+            "in_reply_to_user_id": "583603580",
+            "possibly_sensitive": false,
+            "id": "1088206986410450950",
+            "created_at": "2019-01-23T22:48:58.000Z",
+            "source": "Twitter for iPhone"
+        },
+        {
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "author_id": "2186174341",
+            "lang": "en",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "milton_damian",
+                        "id": "1010577848"
+                    },
+                    {
+                        "start": 15,
+                        "end": 30,
+                        "username": "DrJoelSchwartz",
+                        "id": "2641886474"
+                    },
+                    {
+                        "start": 31,
+                        "end": 44,
+                        "username": "RyanHendry94",
+                        "id": "164317010"
+                    },
+                    {
+                        "start": 45,
+                        "end": 58,
+                        "username": "d_galasinski",
+                        "id": "3355382859"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 87,
+                        "end": 94,
+                        "probability": 0.474,
+                        "type": "Organization",
+                        "normalized_text": "Autscape"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@milton_damian @DrJoelSchwartz @RyanHendry94 @d_galasinski I met you IRL yrs ago at an Autscape residential event( I had been invited by an autistic &amp; I was the only neurotypical not being a parent there and the only psychiatrist). \nYour academic &amp; political personal ambitions were already obvious to me yrs ago.",
+            "in_reply_to_user_id": "1010577848",
+            "possibly_sensitive": false,
+            "id": "1081886931972177920",
+            "created_at": "2019-01-06T12:15:19.000Z",
+            "source": "Twitter Web Client"
+        },
+        {
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "author_id": "2186174341",
+            "lang": "en",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "dawso007",
+                        "id": "1573452950"
+                    },
+                    {
+                        "start": 10,
+                        "end": 20,
+                        "username": "sanilrege",
+                        "id": "243013005"
+                    },
+                    {
+                        "start": 21,
+                        "end": 31,
+                        "username": "SameiHuda",
+                        "id": "451676168"
+                    },
+                    {
+                        "start": 32,
+                        "end": 41,
+                        "username": "jill_d35",
+                        "id": "2925103541"
+                    },
+                    {
+                        "start": 54,
+                        "end": 62,
+                        "username": "rcpsych",
+                        "id": "15300222"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@dawso007 @sanilrege @SameiHuda @jill_d35 @Truthman30 @rcpsych I beg to disagree:\n1. Psychiatry made a huge experiment in the XXc  with lots of big clinics &amp; academic psychiatry units pretending to cure everything with talking therapy mostly done by analysts hunting unconscious conflicts.\n2.Cottage industry therapy gurus are still at it.",
+            "in_reply_to_user_id": "1573452950",
+            "possibly_sensitive": false,
+            "id": "1078373625550569472",
+            "created_at": "2018-12-27T19:34:42.000Z",
+            "source": "Twitter Web Client"
+        },
+        {
+            "geo": {
+                "place_id": "440372ec9b2f803a"
+            },
+            "author_id": "887099781792845825",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 276,
+                        "end": 299,
+                        "url": "https://t.co/EQSauraLu5",
+                        "expanded_url": "https://twitter.com/realDonaldTrump/status/1070875222205759488",
+                        "display_url": "twitter.com/realDonaldTrum…"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "probability": 0.8918,
+                        "type": "Person",
+                        "normalized_text": "Jerome Goblin"
+                    }
+                ]
+            },
+            "text": "Jerome Goblin: ”This is not tyranny, this is not Mordor. This is an elf prosecution. The Fellowship of the Ring (Counsel), to get this plea deal, demanded Eye be honest and violate truth. They’re elves.” He is not alone. 17 Angry Tribes of Men. Orc forced to tell truth. Sad! https://t.co/EQSauraLu5",
+            "possibly_sensitive": false,
+            "id": "1070915888889528321",
+            "created_at": "2018-12-07T05:40:19.000Z",
+            "source": "Twitter for Android"
+        },
+        {
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "author_id": "755864834",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 97,
+                        "end": 120,
+                        "url": "https://t.co/VToaRfU9v2",
+                        "expanded_url": "http://www.theatlantic.com/education/archive/2018/11/anxiety-depression-mental-health-graduate-school/576769/?utm_campaign=the-atlantic&utm_content=5c01eb2b3ed3f00001aad658_ta&utm_medium=social&utm_source=facebook",
+                        "display_url": "theatlantic.com/education/arch…"
+                    }
+                ]
+            },
+            "text": "On change quand de système? Graduate school can have terrible effects on People's mental health  https://t.co/VToaRfU9v2",
+            "possibly_sensitive": false,
+            "id": "1070691597153652736",
+            "created_at": "2018-12-06T14:49:03.000Z",
+            "source": "Twitter for Android"
+        },
+        {
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "author_id": "15520108",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 142,
+                        "end": 165,
+                        "url": "https://t.co/5ivJAlCrqg",
+                        "expanded_url": "https://www.aps.org/publications/apsnews/199801/heisenberg.cfm",
+                        "display_url": "aps.org/publications/a…"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 30,
+                        "end": 39,
+                        "probability": 0.4852,
+                        "type": "Person",
+                        "normalized_text": "Heisenberg"
+                    }
+                ]
+            },
+            "text": "This is the sad, sad story of Heisenberg’s thesis defense that he nearly failed. He was born OTD in 1901 and is a towering giant of physics.  https://t.co/5ivJAlCrqg",
+            "possibly_sensitive": false,
+            "id": "1070351495449722882",
+            "created_at": "2018-12-05T16:17:37.000Z",
+            "source": "Twitter for iPhone"
+        }
+    ],
+    "includes": {
+        "users": [
+            {
+                "id": "919455970711031808",
+                "name": "Sokun✨COMMISSIONS OPEN",
+                "username": "sokun_art"
+            },
+            {
+                "id": "583603580",
+                "name": "Olivier Simard-Casanova 🏳️‍🌈",
+                "username": "simardcasanova"
+            },
+            {
+                "id": "2186174341",
+                "name": "Ivana Fulli",
+                "username": "DrFulli"
+            },
+            {
+                "id": "887099781792845825",
+                "name": "Middle-Earth POTUS",
+                "username": "MiddleEarth45"
+            },
+            {
+                "id": "755864834",
+                "name": "TaylÂûr🌱🇺🇦",
+                "username": "tay_loup"
+            },
+            {
+                "id": "15520108",
+                "name": "Rudi Podgornik 岳儒迪",
+                "username": "rpodgornik"
+            }
+        ],
+        "places": [
+            {
+                "full_name": "Rouen, France",
+                "id": "7290785fce79490a"
+            },
+            {
+                "full_name": "Nancy, France",
+                "id": "66fabed9d649aa12"
+            },
+            {
+                "full_name": "Paris, France",
+                "id": "09f6a7707f18e0b1"
+            },
+            {
+                "full_name": "Rohan, France",
+                "id": "440372ec9b2f803a"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1097875844083654657",
+        "oldest_id": "1070351495449722882",
+        "result_count": 7
+    }
+}

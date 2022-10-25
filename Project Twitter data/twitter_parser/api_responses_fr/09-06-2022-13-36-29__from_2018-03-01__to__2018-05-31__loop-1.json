@@ -1,0 +1,425 @@
+{
+    "data": [
+        {
+            "geo": {
+                "place_id": "7c4a1eabcbd210b7"
+            },
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 218,
+                        "end": 230,
+                        "tag": "oldcomrades"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 231,
+                        "end": 254,
+                        "url": "https://t.co/beLM0ez5YM",
+                        "expanded_url": "https://twitter.com/aoifegranville/status/997571475824627753/photo/1",
+                        "display_url": "pic.twitter.com/beLM0ez5YM",
+                        "media_key": "3_997571342441512961"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 12,
+                        "end": 27,
+                        "probability": 0.9859,
+                        "type": "Person",
+                        "normalized_text": "Michael Ferriter"
+                    },
+                    {
+                        "start": 37,
+                        "end": 51,
+                        "probability": 0.6586,
+                        "type": "Person",
+                        "normalized_text": "Sráid Eoin Wren"
+                    },
+                    {
+                        "start": 157,
+                        "end": 163,
+                        "probability": 0.9957,
+                        "type": "Person",
+                        "normalized_text": "Michael"
+                    },
+                    {
+                        "start": 176,
+                        "end": 180,
+                        "probability": 0.9226,
+                        "type": "Person",
+                        "normalized_text": "Peggy"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone",
+            "attachments": {
+                "media_keys": [
+                    "3_997571342441512961"
+                ]
+            },
+            "id": "997571475824627753",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "text": "So sad that Michael Ferriter, former Sráid Eoin Wren captain, has passed away. A great friend. One of the best things about doing my PhD was getting to know Michael &amp; his wife Peggy. Total legends. Beannacht leis. #oldcomrades https://t.co/beLM0ez5YM",
+            "created_at": "2018-05-18T20:15:48.000Z",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 22,
+                "quote_count": 1
+            },
+            "author_id": "97290148"
+        },
+        {
+            "geo": {
+                "place_id": "179b8df9e368044d"
+            },
+            "source": "Twitter for iPhone",
+            "id": "987717531598229510",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "text": "« anxiety amongst academic staff should be understood in two ways: as a symptom of casualised work in an increasingly competitive environment; and as a tactic of governance, ensuring compliance » https://t.co/rJxMZjXUpa",
+            "created_at": "2018-04-21T15:39:45.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 196,
+                        "end": 219,
+                        "url": "https://t.co/rJxMZjXUpa",
+                        "expanded_url": "https://twitter.com/fheinderyckx/status/987604852325998592",
+                        "display_url": "twitter.com/fheinderyckx/s…"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 5,
+                "quote_count": 0
+            },
+            "author_id": "233639952"
+        },
+        {
+            "geo": {
+                "place_id": "5f9b31138e7fed15"
+            },
+            "source": "Twitter for iPhone",
+            "id": "986108726280060929",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "text": "Why I often say no, thanks. After my hospitalization for a burn out few years ago, I find this thread on time management and tasks prioritizing in academia more than useful. And as a prof, I teach roughly 200 hours a year. https://t.co/Uuc59RLkUb",
+            "created_at": "2018-04-17T05:06:56.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 223,
+                        "end": 246,
+                        "url": "https://t.co/Uuc59RLkUb",
+                        "expanded_url": "https://twitter.com/jennypickerill/status/985780112112091141",
+                        "display_url": "twitter.com/jennypickerill…"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 8,
+                "quote_count": 0
+            },
+            "author_id": "325559636"
+        },
+        {
+            "geo": {
+                "place_id": "4e79ed711b3afca8"
+            },
+            "source": "Twitter for Android",
+            "id": "984821160159440897",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "text": "I submitted my dissertation when my anxiety was severe and was discharged from therapy because uni took over my life.\n\nToday I found out that I got 70%.\n\nIt was all God - His strength, His love kept me going. Jehovah really has the final say 😭🙌🏾 https://t.co/V6CtHcjtF0",
+            "created_at": "2018-04-13T15:50:36.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 246,
+                        "end": 269,
+                        "url": "https://t.co/V6CtHcjtF0",
+                        "expanded_url": "https://twitter.com/leizenomis/status/959552340280987649",
+                        "display_url": "twitter.com/leizenomis/sta…"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 165,
+                        "end": 167,
+                        "probability": 0.8873,
+                        "type": "Other",
+                        "normalized_text": "God"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 159,
+                "reply_count": 14,
+                "like_count": 600,
+                "quote_count": 10
+            },
+            "author_id": "258073716"
+        },
+        {
+            "geo": {
+                "place_id": "08746ddb4710a73a"
+            },
+            "source": "Twitter for Android",
+            "attachments": {
+                "media_keys": [
+                    "3_976807476329934848"
+                ]
+            },
+            "id": "976807495552389120",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "text": "A great honour to be part of the PhD defence jury in Strasbourg University yesterday for Meggane Melchoir. Great work on oxytocin, pain and early life stress under the supervision of Pierrick Poisbeau. https://t.co/7DXexpxDFe",
+            "created_at": "2018-03-22T13:07:09.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 202,
+                        "end": 225,
+                        "url": "https://t.co/7DXexpxDFe",
+                        "expanded_url": "https://twitter.com/somahony1/status/976807495552389120/photo/1",
+                        "display_url": "pic.twitter.com/7DXexpxDFe",
+                        "media_key": "3_976807476329934848"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 53,
+                        "end": 73,
+                        "probability": 0.6764,
+                        "type": "Place",
+                        "normalized_text": "Strasbourg University"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 14,
+                "quote_count": 0
+            },
+            "author_id": "2967901445"
+        },
+        {
+            "geo": {
+                "place_id": "48a23543cf615715"
+            },
+            "in_reply_to_user_id": "26699641",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 16,
+                        "username": "Organometallica",
+                        "id": "26699641"
+                    },
+                    {
+                        "start": 17,
+                        "end": 27,
+                        "username": "fxcoudert",
+                        "id": "46140964"
+                    },
+                    {
+                        "start": 28,
+                        "end": 38,
+                        "username": "DevilleSy",
+                        "id": "331228486"
+                    },
+                    {
+                        "start": 39,
+                        "end": 48,
+                        "username": "frestagn",
+                        "id": "499217591"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "id": "970766967480217605",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "text": "@Organometallica @fxcoudert @DevilleSy @frestagn Great news, I will test the new ACS ed politics by sending a pre-print to chemRxiv very soon! (yet I am still a bit stressed of messing the possibility to reach a large audience journal with the nice work of one of my most brilliant PhD students...)",
+            "created_at": "2018-03-05T21:04:15.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 3,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "4416538036"
+        },
+        {
+            "geo": {
+                "place_id": "f3bfc7dcc928977f"
+            },
+            "source": "Twitter for iPhone",
+            "id": "969934840572383232",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "text": "It’s crazy how I went to undergrad for FREE 0 loans.. go to graduate/Law School and owe almost 100k😭",
+            "created_at": "2018-03-03T13:57:41.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "202743809"
+        },
+        {
+            "geo": {
+                "place_id": "f9c4cad0af2337fa"
+            },
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 266,
+                        "end": 280,
+                        "username": "timeshighered",
+                        "id": "23602600"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 102,
+                        "end": 111,
+                        "tag": "Academia"
+                    },
+                    {
+                        "start": 216,
+                        "end": 235,
+                        "tag": "UniMentalHealthDay"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 238,
+                        "end": 261,
+                        "url": "https://t.co/QURtDJIGU2",
+                        "expanded_url": "https://www.timeshighereducation.com/fr/features/university-mental-health-day-weight-expectations",
+                        "display_url": "timeshighereducation.com/fr/features/un…"
+                    }
+                ]
+            },
+            "source": "Twitter Web Client",
+            "id": "969223236281163777",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "text": "Increased pressures on university staff are triggering more mental health problems. People working in #Academia have levels of stress and burnout comparable to those among high risk groups such as healthcare workers #UniMentalHealthDay \n\nhttps://t.co/QURtDJIGU2 via @timeshighered",
+            "created_at": "2018-03-01T14:50:01.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "211218516"
+        }
+    ],
+    "includes": {
+        "media": [
+            {
+                "url": "https://pbs.twimg.com/media/DdgV2cBWAAEzkYX.jpg",
+                "type": "photo",
+                "media_key": "3_997571342441512961"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/DY5ROXCXcAAqpxQ.jpg",
+                "type": "photo",
+                "media_key": "3_976807476329934848"
+            }
+        ],
+        "users": [
+            {
+                "id": "97290148",
+                "name": "Dr Aoife Granville",
+                "username": "aoifegranville"
+            },
+            {
+                "id": "233639952",
+                "name": "Kalampalikis Nikos",
+                "username": "kalampalikis"
+            },
+            {
+                "id": "325559636",
+                "name": "rlg",
+                "username": "_rlg"
+            },
+            {
+                "id": "258073716",
+                "name": "Sims or Simone 🇨🇩",
+                "username": "leizenomis"
+            },
+            {
+                "id": "2967901445",
+                "name": "Dr Siobhain O'Mahony",
+                "username": "somahony1"
+            },
+            {
+                "id": "4416538036",
+                "name": "olivetree aka Olivier Sandre",
+                "username": "Olive_Free"
+            },
+            {
+                "id": "202743809",
+                "name": "Mrs.K",
+                "username": "ShaeeSheaShay"
+            },
+            {
+                "id": "211218516",
+                "name": "Damiano C",
+                "username": "damiacer"
+            }
+        ],
+        "places": [
+            {
+                "full_name": "La Chapelle-de-Brain, France",
+                "id": "7c4a1eabcbd210b7"
+            },
+            {
+                "full_name": "Lyon, France",
+                "id": "179b8df9e368044d"
+            },
+            {
+                "full_name": "Angers, France",
+                "id": "5f9b31138e7fed15"
+            },
+            {
+                "full_name": "Colombes, France",
+                "id": "4e79ed711b3afca8"
+            },
+            {
+                "full_name": "Roissy-en-France, France",
+                "id": "08746ddb4710a73a"
+            },
+            {
+                "full_name": "Saint-Aubin, France",
+                "id": "48a23543cf615715"
+            },
+            {
+                "full_name": "France",
+                "id": "f3bfc7dcc928977f"
+            },
+            {
+                "full_name": "Ile-de-France, France",
+                "id": "f9c4cad0af2337fa"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "997571475824627753",
+        "oldest_id": "969223236281163777",
+        "result_count": 8
+    }
+}

@@ -1,0 +1,302 @@
+{
+    "data": [
+        {
+            "geo": {
+                "place_id": "73c7741ede244c57"
+            },
+            "id": "870236039289417730",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "created_at": "2017-06-01T11:10:14.000Z",
+            "lang": "en",
+            "author_id": "737041023998808064",
+            "text": "I have post graduation depression and I didn't even graduate.",
+            "source": "Twitter for iPhone",
+            "possibly_sensitive": false
+        },
+        {
+            "geo": {
+                "place_id": "015d8bb837b8861b"
+            },
+            "id": "870165882940424193",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 19,
+                "quote_count": 0
+            },
+            "created_at": "2017-06-01T06:31:28.000Z",
+            "lang": "en",
+            "author_id": "1955330784",
+            "text": "Some of the most important people graduate tomorrow , and i literally want to cry😢😢😢☹️☹️☹️☹️",
+            "source": "Twitter for iPhone",
+            "possibly_sensitive": false
+        },
+        {
+            "geo": {
+                "place_id": "e868cf904e518ff4"
+            },
+            "id": "870161250256273408",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2017-06-01T06:13:03.000Z",
+            "lang": "en",
+            "author_id": "806568386192773120",
+            "text": "Im going to cry when i graduate just letting yall know now",
+            "source": "Twitter for Android",
+            "possibly_sensitive": false
+        },
+        {
+            "geo": {
+                "place_id": "960993b9cfdffda9"
+            },
+            "id": "870152519795712000",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2017-06-01T05:38:22.000Z",
+            "lang": "en",
+            "author_id": "3255740737",
+            "text": "Seeing people graduate has me so sad but excited",
+            "source": "Twitter for iPhone",
+            "possibly_sensitive": false
+        },
+        {
+            "geo": {
+                "place_id": "0551ed9f791763b9"
+            },
+            "id": "870118325711515649",
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 11,
+                "quote_count": 0
+            },
+            "created_at": "2017-06-01T03:22:29.000Z",
+            "lang": "en",
+            "author_id": "235810670",
+            "text": "i graduate tmrw.. i'm so happy.. i'm so sad",
+            "source": "Twitter for iPhone",
+            "possibly_sensitive": false
+        },
+        {
+            "geo": {
+                "place_id": "cd450c94084cbf9b"
+            },
+            "id": "870117414410833920",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2017-06-01T03:18:52.000Z",
+            "lang": "en",
+            "author_id": "144273946",
+            "text": "Until PhD program cultures value mental health, work-life balance, toxic positive feedback loop pervades all the way through faculty ranks. https://t.co/sgKn7fhU5I",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 140,
+                        "end": 163,
+                        "url": "https://t.co/sgKn7fhU5I",
+                        "expanded_url": "https://twitter.com/chesterscoville/status/870112983195824129",
+                        "display_url": "twitter.com/chesterscovill…"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone",
+            "possibly_sensitive": false
+        },
+        {
+            "geo": {
+                "place_id": "5f2ad2e8059e53c5"
+            },
+            "id": "870107243416571905",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 2,
+                "like_count": 10,
+                "quote_count": 0
+            },
+            "attachments": {
+                "media_keys": [
+                    "3_870107210830958592"
+                ]
+            },
+            "created_at": "2017-06-01T02:38:27.000Z",
+            "lang": "en",
+            "author_id": "39542507",
+            "text": "New journey started today, turning my dissertation into a book on stress management for pastors. Hope to pass along what really helped me. https://t.co/xOjJp3bxLK",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 139,
+                        "end": 162,
+                        "url": "https://t.co/xOjJp3bxLK",
+                        "expanded_url": "https://twitter.com/DouglasMGraham/status/870107243416571905/photo/1",
+                        "display_url": "pic.twitter.com/xOjJp3bxLK",
+                        "media_key": "3_870107210830958592"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone",
+            "possibly_sensitive": false
+        },
+        {
+            "geo": {
+                "place_id": "6771be70cd4d6c0e"
+            },
+            "id": "870107012444508160",
+            "public_metrics": {
+                "retweet_count": 8,
+                "reply_count": 1,
+                "like_count": 9,
+                "quote_count": 0
+            },
+            "created_at": "2017-06-01T02:37:32.000Z",
+            "lang": "en",
+            "author_id": "4552369154",
+            "text": "Kinda happy/sad to graduate 😐",
+            "source": "Twitter for iPhone",
+            "possibly_sensitive": false
+        },
+        {
+            "geo": {
+                "place_id": "e0060cda70f5f341"
+            },
+            "id": "870102484370337792",
+            "public_metrics": {
+                "retweet_count": 3,
+                "reply_count": 1,
+                "like_count": 12,
+                "quote_count": 1
+            },
+            "created_at": "2017-06-01T02:19:32.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 129,
+                        "end": 139,
+                        "tag": "lovemyjob"
+                    }
+                ]
+            },
+            "lang": "en",
+            "author_id": "1151111634",
+            "text": "You ever have a day when all is right with the world. If not, watch 130 Kinders  \"graduate\". It's difficult to be sad doing that.#lovemyjob",
+            "source": "Twitter for iPhone",
+            "possibly_sensitive": false
+        }
+    ],
+    "includes": {
+        "users": [
+            {
+                "id": "737041023998808064",
+                "name": "erin ☘️",
+                "username": "erinivey20"
+            },
+            {
+                "id": "1955330784",
+                "name": "LIZ🧞‍♂️",
+                "username": "Liz_Floressss5"
+            },
+            {
+                "id": "806568386192773120",
+                "name": "UNDERESTIMATED",
+                "username": "Chaseyypooh"
+            },
+            {
+                "id": "3255740737",
+                "name": "Sie Sie💋",
+                "username": "sierrahnicole_"
+            },
+            {
+                "id": "235810670",
+                "name": "caroline",
+                "username": "tooturntcarol"
+            },
+            {
+                "id": "144273946",
+                "name": "Matt Salomone",
+                "username": "matthematician"
+            },
+            {
+                "id": "39542507",
+                "name": "Douglas M. Graham",
+                "username": "DouglasMGraham"
+            },
+            {
+                "id": "4552369154",
+                "name": "Itsdolf",
+                "username": "aadolf22"
+            },
+            {
+                "id": "1151111634",
+                "name": "Patricia Sandy",
+                "username": "triciasandy"
+            }
+        ],
+        "places": [
+            {
+                "full_name": "Selinsgrove, PA",
+                "id": "73c7741ede244c57"
+            },
+            {
+                "full_name": "Irwin, CA",
+                "id": "015d8bb837b8861b"
+            },
+            {
+                "full_name": "Palmdale, CA",
+                "id": "e868cf904e518ff4"
+            },
+            {
+                "full_name": "Bakersfield, CA",
+                "id": "960993b9cfdffda9"
+            },
+            {
+                "full_name": "New Ellenton, SC",
+                "id": "0551ed9f791763b9"
+            },
+            {
+                "full_name": "Massachusetts, USA",
+                "id": "cd450c94084cbf9b"
+            },
+            {
+                "full_name": "Burnsville, MN",
+                "id": "5f2ad2e8059e53c5"
+            },
+            {
+                "full_name": "Beeville, TX",
+                "id": "6771be70cd4d6c0e"
+            },
+            {
+                "full_name": "Texas, USA",
+                "id": "e0060cda70f5f341"
+            }
+        ],
+        "media": [
+            {
+                "url": "https://pbs.twimg.com/media/DBM95fIV0AAkMdF.jpg",
+                "type": "photo",
+                "media_key": "3_870107210830958592"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "870236039289417730",
+        "oldest_id": "870102484370337792",
+        "result_count": 9
+    }
+}

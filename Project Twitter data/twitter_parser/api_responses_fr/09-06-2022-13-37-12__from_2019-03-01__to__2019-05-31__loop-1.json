@@ -1,0 +1,596 @@
+{
+    "data": [
+        {
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 5,
+                        "username": "isth",
+                        "id": "20373507"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 27,
+                        "end": 45,
+                        "tag": "FirstISTHcongress"
+                    },
+                    {
+                        "start": 163,
+                        "end": 172,
+                        "tag": "ISTH2019"
+                    },
+                    {
+                        "start": 173,
+                        "end": 180,
+                        "tag": "ISTHEC"
+                    },
+                    {
+                        "start": 181,
+                        "end": 197,
+                        "tag": "ISTHearlycareer"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 198,
+                        "end": 221,
+                        "url": "https://t.co/p6FNy6cWkz",
+                        "expanded_url": "https://twitter.com/caterinacasari/status/1131679194549817350/photo/1",
+                        "display_url": "pic.twitter.com/p6FNy6cWkz",
+                        "media_key": "3_1131679188623265792"
+                    }
+                ]
+            },
+            "text": "@isth 50years celebration! #FirstISTHcongress  (Boston 2009) as PhD student.. scared as crazy for my first oral presentation.. 10years later I am almost ready for #ISTH2019 #ISTHEC #ISTHearlycareer https://t.co/p6FNy6cWkz",
+            "id": "1131679194549817350",
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 2,
+                "like_count": 18,
+                "quote_count": 0
+            },
+            "attachments": {
+                "media_keys": [
+                    "3_1131679188623265792"
+                ]
+            },
+            "author_id": "381183147",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "created_at": "2019-05-23T21:52:00.000Z",
+            "source": "Twitter for iPhone",
+            "in_reply_to_user_id": "20373507"
+        },
+        {
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "AtheneDonald",
+                        "id": "206661388"
+                    },
+                    {
+                        "start": 14,
+                        "end": 30,
+                        "username": "schneiderleonid",
+                        "id": "2496089581"
+                    },
+                    {
+                        "start": 31,
+                        "end": 40,
+                        "username": "Timf1964",
+                        "id": "36643951"
+                    },
+                    {
+                        "start": 41,
+                        "end": 51,
+                        "username": "Phil_Baty",
+                        "id": "354880191"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 302,
+                        "end": 331,
+                        "tag": "ProfessionalSexualMisconduct"
+                    }
+                ]
+            },
+            "text": "@AtheneDonald @schneiderleonid @Timf1964 @Phil_Baty I guess you described the drunken behavior of an academic who had no power over your career. As stressful as it might have been, it was a unique episode whereas junior scientists can be chronically imposed sexual advances threatening their PhD work. #ProfessionalSexualMisconduct",
+            "id": "1130155996792410113",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 2,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "2186174341",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "created_at": "2019-05-19T16:59:21.000Z",
+            "source": "Twitter Web Client",
+            "in_reply_to_user_id": "206661388"
+        },
+        {
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "phd_becky",
+                        "id": "1525248381702049792"
+                    }
+                ]
+            },
+            "text": "@phd_becky Everyone takes their own path and reaches their destination at their own time. Don't stress about lost time, it makes you wiser than those who got there sooner. Now it's up to you to use that wisdom to your own advantage.",
+            "id": "1129477381213839360",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "author_id": "17234452",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "geo": {
+                "place_id": "2c2147126a786940"
+            },
+            "created_at": "2019-05-17T20:02:47.000Z",
+            "source": "Twitter for Android",
+            "in_reply_to_user_id": "17234452"
+        },
+        {
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "NedghieA",
+                        "id": "1037771319478288384"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 178,
+                        "end": 194,
+                        "tag": "academictwitter"
+                    },
+                    {
+                        "start": 195,
+                        "end": 203,
+                        "tag": "phdchat"
+                    }
+                ]
+            },
+            "text": "@NedghieA as someone who suffers from anxiety &amp; panic attacks, full manuscript drafts were overwhelming. even sections could be overwhelming if I didn’t know where to start. #academictwitter #phdchat (1/2)",
+            "id": "1128691484855816197",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 2,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "author_id": "1014159305057153024",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "created_at": "2019-05-15T15:59:54.000Z",
+            "source": "Twitter for iPhone",
+            "in_reply_to_user_id": "1037771319478288384"
+        },
+        {
+            "text": "Say what you want about BITS, this off-campus thesis provision is a silver lining in a very dark cloud. Kids making it to crazy good places. Extremely proud.",
+            "id": "1124258898536468480",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 2,
+                "like_count": 30,
+                "quote_count": 0
+            },
+            "author_id": "380258386",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "created_at": "2019-05-03T10:26:23.000Z",
+            "source": "Twitter for iPhone"
+        },
+        {
+            "text": "Eventually, I applied to a few industry jobs, but not because they were interesting. I needed to support my family. I was granted interviews with these.\n\nI also got desperate and started applying to postdoc positions again. I got interviews for these too.",
+            "id": "1122599884413120512",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "17511720",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "geo": {
+                "place_id": "5c1c74462d3d09b0"
+            },
+            "created_at": "2019-04-28T20:34:03.000Z",
+            "source": "Twitter for Android",
+            "in_reply_to_user_id": "17511720"
+        },
+        {
+            "text": "Sigh on,ye sad ones,and rejoice in your own sadness;ache on,ye suffering ones, and rejoice in your own sorrows.Rejoice that you are made free of the holy brotherhood of mourners;rejoice that you are counted worthy of a fellowship in the sufferings of the Son of God. \n-Kingsley",
+            "id": "1122393976395448320",
+            "public_metrics": {
+                "retweet_count": 3,
+                "reply_count": 2,
+                "like_count": 18,
+                "quote_count": 0
+            },
+            "author_id": "283035623",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "geo": {
+                "place_id": "4d7b40e2c87a2349"
+            },
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 262,
+                        "end": 264,
+                        "probability": 0.8098,
+                        "type": "Other",
+                        "normalized_text": "God"
+                    },
+                    {
+                        "start": 269,
+                        "end": 276,
+                        "probability": 0.8415,
+                        "type": "Person",
+                        "normalized_text": "Kingsley"
+                    }
+                ]
+            },
+            "created_at": "2019-04-28T06:55:51.000Z",
+            "source": "Twitter for Android"
+        },
+        {
+            "text": "Unbelievably sad to see the situation at #NotreDame #Paris The words “iconic building” are used so frequently. My uni thesis sought to give those words architectural meaning. Guess which building was consistent in my prof’s interviews? #iconic #architecture #surveying #flashBack https://t.co/dCETP1jhSU",
+            "id": "1117885132877127680",
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "attachments": {
+                "media_keys": [
+                    "3_1117885126652854273"
+                ]
+            },
+            "author_id": "1104798457",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 41,
+                        "end": 51,
+                        "tag": "NotreDame"
+                    },
+                    {
+                        "start": 52,
+                        "end": 58,
+                        "tag": "Paris"
+                    },
+                    {
+                        "start": 236,
+                        "end": 243,
+                        "tag": "iconic"
+                    },
+                    {
+                        "start": 244,
+                        "end": 257,
+                        "tag": "architecture"
+                    },
+                    {
+                        "start": 258,
+                        "end": 268,
+                        "tag": "surveying"
+                    },
+                    {
+                        "start": 269,
+                        "end": 279,
+                        "tag": "flashBack"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 280,
+                        "end": 303,
+                        "url": "https://t.co/dCETP1jhSU",
+                        "expanded_url": "https://twitter.com/MatthewFedigan/status/1117885132877127680/photo/1",
+                        "display_url": "pic.twitter.com/dCETP1jhSU",
+                        "media_key": "3_1117885126652854273"
+                    }
+                ]
+            },
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "created_at": "2019-04-15T20:19:19.000Z",
+            "source": "Twitter for iPhone"
+        },
+        {
+            "text": "When the former intern (~RA) emails me that he’s sad to leave, had a great time with us and thanks everyone for including him in the lab’s life.\n\nAcademia does not have to be a nightmare. Be nice and good! https://t.co/fc0KfSqvAS",
+            "id": "1114428665025183744",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "attachments": {
+                "media_keys": [
+                    "16_1114428652547133440"
+                ]
+            },
+            "author_id": "583603580",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "geo": {
+                "place_id": "66fabed9d649aa12"
+            },
+            "created_at": "2019-04-06T07:24:33.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 206,
+                        "end": 229,
+                        "url": "https://t.co/fc0KfSqvAS",
+                        "expanded_url": "https://twitter.com/simardcasanova/status/1114428665025183744/photo/1",
+                        "display_url": "pic.twitter.com/fc0KfSqvAS",
+                        "media_key": "16_1114428652547133440"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone"
+        },
+        {
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "username": "marcfbellemare",
+                        "id": "230049663"
+                    }
+                ]
+            },
+            "text": "@marcfbellemare Reading stuff, speaking with former PhDs who are now MCF, speaking with full professors, and so on.\n\nThe weird thing is that they are all willing to talk, but too few PhD students dare to ask. It’s kind of sad, because it ends with so much unhappiness.",
+            "id": "1113909065011335169",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "author_id": "583603580",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "geo": {
+                "place_id": "66fabed9d649aa12"
+            },
+            "created_at": "2019-04-04T20:59:51.000Z",
+            "source": "Twitter for iPhone",
+            "in_reply_to_user_id": "583603580"
+        },
+        {
+            "text": "I had a long chat with my friend yesterday and half of the time I was almost in tears cos thesis ikuvuta. She was like girl, talila talilanso, koma ngati walemba paragraph imodzi, you are a step closer to writing a good paper.",
+            "id": "1110306654598430721",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "366820290",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "geo": {
+                "place_id": "31fb233dc1604eab"
+            },
+            "created_at": "2019-03-25T22:25:09.000Z",
+            "source": "Twitter for iPhone"
+        },
+        {
+            "text": "🙋‍♀️\n\nI'd been treated on/off for #depression since during my undergrad years, and was finally diagnosed with #bipolar during the last year of my PhD. The next ~year was absolutely awful as we tried to find the right medication for me. 5 years on, it's just a thing I deal with now. https://t.co/HXz4uFnB7d",
+            "id": "1109719689205293057",
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 3,
+                "like_count": 25,
+                "quote_count": 0
+            },
+            "author_id": "17234452",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 34,
+                        "end": 45,
+                        "tag": "depression"
+                    },
+                    {
+                        "start": 110,
+                        "end": 118,
+                        "tag": "bipolar"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 283,
+                        "end": 306,
+                        "url": "https://t.co/HXz4uFnB7d",
+                        "expanded_url": "https://twitter.com/krwedemeyer/status/1103758318072418305",
+                        "display_url": "twitter.com/krwedemeyer/st…"
+                    }
+                ]
+            },
+            "geo": {
+                "place_id": "2c2147126a786940"
+            },
+            "created_at": "2019-03-24T07:32:46.000Z",
+            "source": "Twitter for Android"
+        },
+        {
+            "text": "sorry i haven’t been active lately, i’m in paris and trying to write my bachelor dissertation so things are a bit stressful",
+            "id": "1108360590005858304",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "1051032616693112832",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "geo": {
+                "place_id": "634e311aa8e33ff5"
+            },
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 43,
+                        "end": 47,
+                        "probability": 0.6951,
+                        "type": "Place",
+                        "normalized_text": "paris"
+                    }
+                ]
+            },
+            "created_at": "2019-03-20T13:32:11.000Z",
+            "source": "Twitter for iPhone"
+        }
+    ],
+    "includes": {
+        "media": [
+            {
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/D7SIOeWXkAAy_0M.jpg",
+                "media_key": "3_1131679188623265792"
+            },
+            {
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/D4OGmZHWAAE5wBu.jpg",
+                "media_key": "3_1117885126652854273"
+            },
+            {
+                "type": "animated_gif",
+                "media_key": "16_1114428652547133440"
+            }
+        ],
+        "users": [
+            {
+                "id": "381183147",
+                "name": "caterina casari",
+                "username": "caterinacasari"
+            },
+            {
+                "id": "2186174341",
+                "name": "Ivana Fulli",
+                "username": "DrFulli"
+            },
+            {
+                "id": "17234452",
+                "name": "Dr. Claire Lee 💉💉💉 m(ode)RNA'd",
+                "username": "Claire_Lee"
+            },
+            {
+                "id": "1014159305057153024",
+                "name": "Nikhil D. Patil, MPH (he/him) 🏳️‍🌈",
+                "username": "NikhilDPatilMPH"
+            },
+            {
+                "id": "380258386",
+                "name": "Sammit",
+                "username": "somemeatjain"
+            },
+            {
+                "id": "17511720",
+                "name": "Ryan Bodenstein",
+                "username": "evenkolder"
+            },
+            {
+                "id": "283035623",
+                "name": "Dyde Elosis ✝️🕊",
+                "username": "elosisofficial"
+            },
+            {
+                "id": "1104798457",
+                "name": "Matthew Fedigan",
+                "username": "MatthewFedigan"
+            },
+            {
+                "id": "583603580",
+                "name": "Olivier Simard-Casanova 🏳️‍🌈",
+                "username": "simardcasanova"
+            },
+            {
+                "id": "366820290",
+                "name": "Ruth",
+                "username": "Augustrose_rue"
+            },
+            {
+                "id": "1051032616693112832",
+                "name": "sofie 🌹",
+                "username": "peachlietome"
+            }
+        ],
+        "places": [
+            {
+                "full_name": "Paris, France",
+                "id": "09f6a7707f18e0b1"
+            },
+            {
+                "full_name": "Thoiry, France",
+                "id": "2c2147126a786940"
+            },
+            {
+                "full_name": "Saint-Genis-Pouilly, France",
+                "id": "5c1c74462d3d09b0"
+            },
+            {
+                "full_name": "Avignon, France",
+                "id": "4d7b40e2c87a2349"
+            },
+            {
+                "full_name": "Nancy, France",
+                "id": "66fabed9d649aa12"
+            },
+            {
+                "full_name": "Olivet, France",
+                "id": "31fb233dc1604eab"
+            },
+            {
+                "full_name": "Neuilly-sur-Marne, France",
+                "id": "634e311aa8e33ff5"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1131679194549817350",
+        "oldest_id": "1108360590005858304",
+        "result_count": 13
+    }
+}

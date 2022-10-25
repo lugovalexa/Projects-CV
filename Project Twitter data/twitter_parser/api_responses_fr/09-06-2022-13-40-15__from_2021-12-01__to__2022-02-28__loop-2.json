@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "id": "1478651828455849984",
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "KivaDickinson",
+                        "id": "41124179"
+                    },
+                    {
+                        "start": 15,
+                        "end": 23,
+                        "username": "jwmares",
+                        "id": "139193277"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "41124179",
+            "author_id": "17862055",
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "text": "@KivaDickinson @jwmares 100% agree with this. The amount of sodium in them to make them taste good is crazy. The processing it takes to make them “food” I thought was the anti-thesis to their healthy/green positioning.",
+            "created_at": "2022-01-05T08:57:22.000Z"
+        }
+    ],
+    "includes": {
+        "users": [
+            {
+                "id": "17862055",
+                "name": "Ju Rhyu",
+                "username": "jurhyu"
+            }
+        ],
+        "places": [
+            {
+                "full_name": "Paris, France",
+                "id": "09f6a7707f18e0b1"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1478651828455849984",
+        "oldest_id": "1478651828455849984",
+        "result_count": 1
+    }
+}

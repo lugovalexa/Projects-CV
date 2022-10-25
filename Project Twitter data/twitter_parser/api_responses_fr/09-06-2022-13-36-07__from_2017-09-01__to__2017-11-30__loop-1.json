@@ -1,0 +1,978 @@
+{
+    "data": [
+        {
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "source": "Twitter for Android",
+            "id": "936009558849458176",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "text": "So many labs doing great science. Why is it so hard to find ones that don't have at least one red flag? I'd be worried I'm overthinking but postdoc feels like the make-or-break bridge to the rest of my career. Oy.",
+            "created_at": "2017-11-29T23:10:43.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "author_id": "483312225"
+        },
+        {
+            "geo": {
+                "place_id": "f9c4cad0af2337fa"
+            },
+            "in_reply_to_user_id": "842278113727922177",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "raj_psyc",
+                        "id": "842278113727922177"
+                    },
+                    {
+                        "start": 10,
+                        "end": 19,
+                        "username": "OCDTrudy",
+                        "id": "2190680828"
+                    },
+                    {
+                        "start": 20,
+                        "end": 30,
+                        "username": "wendyburn",
+                        "id": "44854299"
+                    },
+                    {
+                        "start": 31,
+                        "end": 39,
+                        "username": "rcpsych",
+                        "id": "15300222"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 171,
+                        "end": 181,
+                        "tag": "ElinSacks"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 201,
+                        "end": 224,
+                        "url": "https://t.co/qOi0ZY6F15",
+                        "expanded_url": "https://www.theguardian.com/higher-education-network/2017/feb/01/schizophrenia-successful-academic-career-mental-health",
+                        "display_url": "theguardian.com/higher-educati…"
+                    }
+                ]
+            },
+            "source": "Twitter Web Client",
+            "id": "930107774486437890",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "text": "@raj_psyc @OCDTrudy @wendyburn @rcpsych We need to fight for intellectual fulfillment at work for highly educated patients. \nProf of Law with schizophrenia for many years #ElinSacks is inspirational. \nhttps://t.co/qOi0ZY6F15\nOTOH, to work in health care with patients or in teaching children, SU must be fit enough, IMO.",
+            "created_at": "2017-11-13T16:19:08.000Z",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 1
+            },
+            "author_id": "2186174341"
+        },
+        {
+            "geo": {
+                "place_id": "06e026376c0e6e4d"
+            },
+            "in_reply_to_user_id": "792164940698169344",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 15,
+                        "end": 29,
+                        "username": "LiamJGilligan",
+                        "id": "56200049"
+                    },
+                    {
+                        "start": 30,
+                        "end": 40,
+                        "username": "SameiHuda",
+                        "id": "451676168"
+                    },
+                    {
+                        "start": 66,
+                        "end": 79,
+                        "username": "_MindMusings",
+                        "id": "835902926447079424"
+                    },
+                    {
+                        "start": 80,
+                        "end": 94,
+                        "username": "DrAnnieHickox",
+                        "id": "3141788489"
+                    },
+                    {
+                        "start": 109,
+                        "end": 124,
+                        "username": "StuartDNeilson",
+                        "id": "1334549684"
+                    },
+                    {
+                        "start": 125,
+                        "end": 137,
+                        "username": "EuanDBriggs",
+                        "id": "1449726648"
+                    },
+                    {
+                        "start": 138,
+                        "end": 146,
+                        "username": "_Cjohn_",
+                        "id": "1380110955170910208"
+                    },
+                    {
+                        "start": 147,
+                        "end": 161,
+                        "username": "ClinpsychLucy",
+                        "id": "255589281"
+                    },
+                    {
+                        "start": 166,
+                        "end": 180,
+                        "username": "LiamJGilligan",
+                        "id": "56200049"
+                    }
+                ]
+            },
+            "source": "Twitter Web Client",
+            "id": "926358601098235904",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "text": "@Use_ful_idiot @LiamJGilligan @SameiHuda @KT_CoPsych @S_arahJayne @_MindMusings @dranniehickox @DGrinter1404 @StuartDNeilson @EuanDBriggs @_CJohn_ @ClinpsychLucy Can @liamjGilligan with a Phd around head trauma,I believe, chose to ignore that frontal syndromes can turn ppl into impulsive sex addicts?",
+            "created_at": "2017-11-03T08:01:16.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 2,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "2186174341"
+        },
+        {
+            "geo": {
+                "place_id": "55ea4e5e9bb75976"
+            },
+            "source": "Twitter Web Client",
+            "id": "922237135087915009",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "text": "Call me crazy, but I think I know which country I'm moving to when I graduate",
+            "created_at": "2017-10-22T23:04:01.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "601247871"
+        },
+        {
+            "geo": {
+                "place_id": "73359fdfabb928fb"
+            },
+            "in_reply_to_user_id": "2186174341",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "delamare41",
+                        "id": "236784505"
+                    },
+                    {
+                        "start": 12,
+                        "end": 25,
+                        "username": "fluidloading",
+                        "id": "782999929425915905"
+                    },
+                    {
+                        "start": 26,
+                        "end": 34,
+                        "username": "docdu16",
+                        "id": "292158149"
+                    },
+                    {
+                        "start": 35,
+                        "end": 50,
+                        "username": "ordre_medecins",
+                        "id": "293531398"
+                    }
+                ]
+            },
+            "source": "Twitter Web Client",
+            "id": "921710805241991169",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "text": "@delamare41 @fluidloading @docdu16 @ordre_medecins LucienLevy's son MichaelLevy harassed sexually A-L B , another pupil for the previous academic year with threat of suicide &amp; assassination.2",
+            "created_at": "2017-10-21T12:12:35.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "2186174341"
+        },
+        {
+            "geo": {
+                "place_id": "16e91a8d2e401c01"
+            },
+            "source": "Twitter for iPad",
+            "id": "917980111764324352",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "text": "The Idiotic Cambridge Graduate (next door in N14) so busy studying Post Natal Depression in Sub Saharian Africa she could not share a Coffee",
+            "created_at": "2017-10-11T05:08:08.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 45,
+                        "end": 47,
+                        "probability": 0.7663,
+                        "type": "Place",
+                        "normalized_text": "N14"
+                    },
+                    {
+                        "start": 92,
+                        "end": 110,
+                        "probability": 0.8095,
+                        "type": "Place",
+                        "normalized_text": "Sub Saharian Africa"
+                    }
+                ]
+            },
+            "author_id": "36047644"
+        },
+        {
+            "geo": {
+                "place_id": "1791eef342a353aa"
+            },
+            "in_reply_to_user_id": "3295673302",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "SaraBaird19",
+                        "id": "791682868426702848"
+                    },
+                    {
+                        "start": 28,
+                        "end": 38,
+                        "username": "liataghva",
+                        "id": "704655829887229952"
+                    },
+                    {
+                        "start": 39,
+                        "end": 50,
+                        "username": "2714monika",
+                        "id": "815836771112091648"
+                    },
+                    {
+                        "start": 51,
+                        "end": 65,
+                        "username": "SpeckledTiger",
+                        "id": "1899194509"
+                    },
+                    {
+                        "start": 66,
+                        "end": 81,
+                        "username": "BekkersMelissa",
+                        "id": "3244854612"
+                    },
+                    {
+                        "start": 82,
+                        "end": 95,
+                        "username": "witchykrissy",
+                        "id": "1273366040"
+                    },
+                    {
+                        "start": 96,
+                        "end": 112,
+                        "username": "SquirrelMoose59",
+                        "id": "795023483088621568"
+                    },
+                    {
+                        "start": 113,
+                        "end": 128,
+                        "username": "Jani64567Nixon",
+                        "id": "4763839405"
+                    },
+                    {
+                        "start": 129,
+                        "end": 143,
+                        "username": "coloradogal12",
+                        "id": "2890934377"
+                    },
+                    {
+                        "start": 144,
+                        "end": 155,
+                        "username": "Bertilicia",
+                        "id": "268260450"
+                    },
+                    {
+                        "start": 156,
+                        "end": 172,
+                        "username": "DevilFaraAckles",
+                        "id": "2299237777"
+                    },
+                    {
+                        "start": 173,
+                        "end": 181,
+                        "username": "ruby_zd",
+                        "id": "2820222901"
+                    },
+                    {
+                        "start": 182,
+                        "end": 193,
+                        "username": "RockMomSPN",
+                        "id": "2860875171"
+                    },
+                    {
+                        "start": 194,
+                        "end": 210,
+                        "username": "demon_heart_spn",
+                        "id": "2763472890"
+                    },
+                    {
+                        "start": 211,
+                        "end": 227,
+                        "username": "mikelisovitskiy",
+                        "id": "1087627847370530816"
+                    },
+                    {
+                        "start": 228,
+                        "end": 238,
+                        "username": "donatanic",
+                        "id": "278054247"
+                    },
+                    {
+                        "start": 239,
+                        "end": 250,
+                        "username": "DR_SPN_PHD",
+                        "id": "431683607"
+                    },
+                    {
+                        "start": 251,
+                        "end": 261,
+                        "username": "DocSueDVM",
+                        "id": "2557992552"
+                    },
+                    {
+                        "start": 262,
+                        "end": 273,
+                        "username": "SPN_France",
+                        "id": "842030845720440832"
+                    },
+                    {
+                        "start": 274,
+                        "end": 285,
+                        "username": "s_verasani",
+                        "id": "2767256731"
+                    },
+                    {
+                        "start": 286,
+                        "end": 295,
+                        "username": "tvfan201",
+                        "id": "2950369665"
+                    },
+                    {
+                        "start": 296,
+                        "end": 306,
+                        "username": "FreditchH",
+                        "id": "2154320518"
+                    },
+                    {
+                        "start": 307,
+                        "end": 323,
+                        "username": "xWeird_Fangirlx",
+                        "id": "3325205860"
+                    },
+                    {
+                        "start": 324,
+                        "end": 334,
+                        "username": "JannyLutz",
+                        "id": "3436083207"
+                    },
+                    {
+                        "start": 335,
+                        "end": 349,
+                        "username": "vanessacasas9",
+                        "id": "862727498164994048"
+                    },
+                    {
+                        "start": 350,
+                        "end": 358,
+                        "username": "kayb625",
+                        "id": "78223484"
+                    },
+                    {
+                        "start": 359,
+                        "end": 374,
+                        "username": "lokiprincesskp",
+                        "id": "1548765896"
+                    },
+                    {
+                        "start": 375,
+                        "end": 385,
+                        "username": "SkyBoivin",
+                        "id": "3171716907"
+                    },
+                    {
+                        "start": 386,
+                        "end": 397,
+                        "username": "TWinchster",
+                        "id": "3439011244"
+                    },
+                    {
+                        "start": 410,
+                        "end": 421,
+                        "username": "jenajasper",
+                        "id": "2782853995"
+                    },
+                    {
+                        "start": 422,
+                        "end": 435,
+                        "username": "JensenAckles",
+                        "id": "2743113943"
+                    },
+                    {
+                        "start": 436,
+                        "end": 449,
+                        "username": "mishacollins",
+                        "id": "39689218"
+                    },
+                    {
+                        "start": 450,
+                        "end": 457,
+                        "username": "jarpad",
+                        "id": "310687757"
+                    },
+                    {
+                        "start": 458,
+                        "end": 465,
+                        "username": "cw_spn",
+                        "id": "1205974434"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 551,
+                        "end": 556,
+                        "tag": "LOST"
+                    },
+                    {
+                        "start": 563,
+                        "end": 576,
+                        "tag": "SUPERNATURAL"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 611,
+                        "end": 634,
+                        "url": "https://t.co/HJXUxEpdwm",
+                        "expanded_url": "https://twitter.com/bibi_soso42/status/908851490143526912/photo/1",
+                        "display_url": "pic.twitter.com/HJXUxEpdwm",
+                        "media_key": "3_908851456006115328"
+                    },
+                    {
+                        "start": 611,
+                        "end": 634,
+                        "url": "https://t.co/HJXUxEpdwm",
+                        "expanded_url": "https://twitter.com/bibi_soso42/status/908851490143526912/photo/1",
+                        "display_url": "pic.twitter.com/HJXUxEpdwm",
+                        "media_key": "3_908851456022900743"
+                    },
+                    {
+                        "start": 611,
+                        "end": 634,
+                        "url": "https://t.co/HJXUxEpdwm",
+                        "expanded_url": "https://twitter.com/bibi_soso42/status/908851490143526912/photo/1",
+                        "display_url": "pic.twitter.com/HJXUxEpdwm",
+                        "media_key": "3_908851456035442688"
+                    },
+                    {
+                        "start": 611,
+                        "end": 634,
+                        "url": "https://t.co/HJXUxEpdwm",
+                        "expanded_url": "https://twitter.com/bibi_soso42/status/908851490143526912/photo/1",
+                        "display_url": "pic.twitter.com/HJXUxEpdwm",
+                        "media_key": "3_908851456056418304"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone",
+            "attachments": {
+                "media_keys": [
+                    "3_908851456006115328",
+                    "3_908851456022900743",
+                    "3_908851456035442688",
+                    "3_908851456056418304"
+                ]
+            },
+            "id": "908851490143526912",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "text": "@SaraBaird19 @Becky78344366 @liataghva @2714monika @SpeckledTiger @BekkersMelissa @witchykrissy @SquirrelMoose59 @Jani64567Nixon @coloradogal12 @Bertilicia @DevilFaraAckles @ruby_zd @RockMomSPN @demon_heart_spn @mikelisovitskiy @donatanic @DR_SPN_PHD @DocSueDVM @SPN_France @s_verasani @tvfan201 @FreditchH @xWeird_Fangirlx @JannyLutz @vanessacasas9 @kayb625 @lokiprincesskp @SkyBoivin @TWinchster @ballygrant @jenajasper @JensenAckles @mishacollins @jarpad @cw_spn There are only two series that have made me cry with emotion, AND THESE ARE THE BEST:#LOST &amp; #SUPERNATURAL \nWATCH THESE SERIES MAGNIFICENT ! https://t.co/HJXUxEpdwm",
+            "created_at": "2017-09-16T00:34:15.000Z",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 5,
+                "quote_count": 0
+            },
+            "author_id": "3295673302"
+        },
+        {
+            "geo": {
+                "place_id": "1791eef342a353aa"
+            },
+            "in_reply_to_user_id": "1273366040",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "witchykrissy",
+                        "id": "1273366040"
+                    },
+                    {
+                        "start": 14,
+                        "end": 23,
+                        "username": "NinaWesi",
+                        "id": "2391638685"
+                    },
+                    {
+                        "start": 24,
+                        "end": 36,
+                        "username": "SaraBaird19",
+                        "id": "791682868426702848"
+                    },
+                    {
+                        "start": 52,
+                        "end": 62,
+                        "username": "liataghva",
+                        "id": "704655829887229952"
+                    },
+                    {
+                        "start": 63,
+                        "end": 74,
+                        "username": "2714monika",
+                        "id": "815836771112091648"
+                    },
+                    {
+                        "start": 87,
+                        "end": 101,
+                        "username": "SpeckledTiger",
+                        "id": "1899194509"
+                    },
+                    {
+                        "start": 102,
+                        "end": 117,
+                        "username": "BekkersMelissa",
+                        "id": "3244854612"
+                    },
+                    {
+                        "start": 118,
+                        "end": 134,
+                        "username": "SquirrelMoose59",
+                        "id": "795023483088621568"
+                    },
+                    {
+                        "start": 135,
+                        "end": 150,
+                        "username": "Jani64567Nixon",
+                        "id": "4763839405"
+                    },
+                    {
+                        "start": 151,
+                        "end": 165,
+                        "username": "coloradogal12",
+                        "id": "2890934377"
+                    },
+                    {
+                        "start": 166,
+                        "end": 177,
+                        "username": "Bertilicia",
+                        "id": "268260450"
+                    },
+                    {
+                        "start": 178,
+                        "end": 194,
+                        "username": "DevilFaraAckles",
+                        "id": "2299237777"
+                    },
+                    {
+                        "start": 195,
+                        "end": 203,
+                        "username": "ruby_zd",
+                        "id": "2820222901"
+                    },
+                    {
+                        "start": 204,
+                        "end": 215,
+                        "username": "RockMomSPN",
+                        "id": "2860875171"
+                    },
+                    {
+                        "start": 216,
+                        "end": 232,
+                        "username": "demon_heart_spn",
+                        "id": "2763472890"
+                    },
+                    {
+                        "start": 233,
+                        "end": 249,
+                        "username": "mikelisovitskiy",
+                        "id": "1087627847370530816"
+                    },
+                    {
+                        "start": 250,
+                        "end": 260,
+                        "username": "donatanic",
+                        "id": "278054247"
+                    },
+                    {
+                        "start": 261,
+                        "end": 272,
+                        "username": "DR_SPN_PHD",
+                        "id": "431683607"
+                    },
+                    {
+                        "start": 273,
+                        "end": 283,
+                        "username": "DocSueDVM",
+                        "id": "2557992552"
+                    },
+                    {
+                        "start": 284,
+                        "end": 295,
+                        "username": "SPN_France",
+                        "id": "842030845720440832"
+                    },
+                    {
+                        "start": 296,
+                        "end": 307,
+                        "username": "s_verasani",
+                        "id": "2767256731"
+                    },
+                    {
+                        "start": 308,
+                        "end": 317,
+                        "username": "tvfan201",
+                        "id": "2950369665"
+                    },
+                    {
+                        "start": 318,
+                        "end": 328,
+                        "username": "FreditchH",
+                        "id": "2154320518"
+                    },
+                    {
+                        "start": 329,
+                        "end": 345,
+                        "username": "xWeird_Fangirlx",
+                        "id": "3325205860"
+                    },
+                    {
+                        "start": 346,
+                        "end": 356,
+                        "username": "JannyLutz",
+                        "id": "3436083207"
+                    },
+                    {
+                        "start": 357,
+                        "end": 371,
+                        "username": "vanessacasas9",
+                        "id": "862727498164994048"
+                    },
+                    {
+                        "start": 372,
+                        "end": 380,
+                        "username": "kayb625",
+                        "id": "78223484"
+                    },
+                    {
+                        "start": 381,
+                        "end": 396,
+                        "username": "lokiprincesskp",
+                        "id": "1548765896"
+                    },
+                    {
+                        "start": 397,
+                        "end": 407,
+                        "username": "SkyBoivin",
+                        "id": "3171716907"
+                    },
+                    {
+                        "start": 408,
+                        "end": 419,
+                        "username": "TWinchster",
+                        "id": "3439011244"
+                    },
+                    {
+                        "start": 432,
+                        "end": 443,
+                        "username": "jenajasper",
+                        "id": "2782853995"
+                    },
+                    {
+                        "start": 444,
+                        "end": 457,
+                        "username": "JensenAckles",
+                        "id": "2743113943"
+                    },
+                    {
+                        "start": 458,
+                        "end": 471,
+                        "username": "mishacollins",
+                        "id": "39689218"
+                    },
+                    {
+                        "start": 472,
+                        "end": 479,
+                        "username": "jarpad",
+                        "id": "310687757"
+                    },
+                    {
+                        "start": 480,
+                        "end": 487,
+                        "username": "cw_spn",
+                        "id": "1205974434"
+                    },
+                    {
+                        "start": 488,
+                        "end": 493,
+                        "username": "good",
+                        "id": "19621110"
+                    },
+                    {
+                        "start": 494,
+                        "end": 503,
+                        "username": "JDMorgan",
+                        "id": "760284345466707968"
+                    },
+                    {
+                        "start": 515,
+                        "end": 530,
+                        "username": "anitakearney65",
+                        "id": "1947379388"
+                    },
+                    {
+                        "start": 531,
+                        "end": 547,
+                        "username": "AngelaW42759397",
+                        "id": "818484563739545601"
+                    },
+                    {
+                        "start": 548,
+                        "end": 564,
+                        "username": "RubyLoveAlways7",
+                        "id": "887129228331954176"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 665,
+                        "end": 688,
+                        "url": "https://t.co/CwwKjzcww4",
+                        "expanded_url": "https://twitter.com/bibi_soso42/status/904334402070740992/photo/1",
+                        "display_url": "pic.twitter.com/CwwKjzcww4",
+                        "media_key": "3_904334385381613568"
+                    },
+                    {
+                        "start": 665,
+                        "end": 688,
+                        "url": "https://t.co/CwwKjzcww4",
+                        "expanded_url": "https://twitter.com/bibi_soso42/status/904334402070740992/photo/1",
+                        "display_url": "pic.twitter.com/CwwKjzcww4",
+                        "media_key": "3_904334389030649856"
+                    },
+                    {
+                        "start": 665,
+                        "end": 688,
+                        "url": "https://t.co/CwwKjzcww4",
+                        "expanded_url": "https://twitter.com/bibi_soso42/status/904334402070740992/photo/1",
+                        "display_url": "pic.twitter.com/CwwKjzcww4",
+                        "media_key": "3_904334389043232769"
+                    },
+                    {
+                        "start": 665,
+                        "end": 688,
+                        "url": "https://t.co/CwwKjzcww4",
+                        "expanded_url": "https://twitter.com/bibi_soso42/status/904334402070740992/photo/1",
+                        "display_url": "pic.twitter.com/CwwKjzcww4",
+                        "media_key": "3_904334389072584709"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 568,
+                        "end": 573,
+                        "probability": 0.9792,
+                        "type": "Person",
+                        "normalized_text": "Krissy"
+                    },
+                    {
+                        "start": 594,
+                        "end": 597,
+                        "probability": 0.9947,
+                        "type": "Person",
+                        "normalized_text": "Dean"
+                    },
+                    {
+                        "start": 600,
+                        "end": 602,
+                        "probability": 0.9951,
+                        "type": "Person",
+                        "normalized_text": "Sam"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone",
+            "attachments": {
+                "media_keys": [
+                    "3_904334385381613568",
+                    "3_904334389030649856",
+                    "3_904334389043232769",
+                    "3_904334389072584709"
+                ]
+            },
+            "id": "904334402070740992",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "text": "@witchykrissy @NinaWesi @SaraBaird19 @Becky78344366 @liataghva @2714monika @wesley_ita @SpeckledTiger @BekkersMelissa @SquirrelMoose59 @Jani64567Nixon @coloradogal12 @Bertilicia @DevilFaraAckles @ruby_zd @RockMomSPN @demon_heart_spn @mikelisovitskiy @donatanic @DR_SPN_PHD @DocSueDVM @SPN_France @s_verasani @tvfan201 @FreditchH @xWeird_Fangirlx @JannyLutz @vanessacasas9 @kayb625 @lokiprincesskp @SkyBoivin @TWinchster @ballygrant @jenajasper @JensenAckles @mishacollins @jarpad @cw_spn @good @JDMorgan @jill_1966 @anitakearney65 @AngelaW42759397 @RubyLoveAlways7 Hi Krissy I do not like when Dean, Sam or their friends die, it's still very sad ......😭\nGood day . https://t.co/CwwKjzcww4",
+            "created_at": "2017-09-03T13:24:57.000Z",
+            "public_metrics": {
+                "retweet_count": 5,
+                "reply_count": 1,
+                "like_count": 12,
+                "quote_count": 0
+            },
+            "author_id": "3295673302"
+        }
+    ],
+    "includes": {
+        "users": [
+            {
+                "id": "483312225",
+                "name": "Dr Kim Laband, PhD",
+                "username": "BioKali"
+            },
+            {
+                "id": "2186174341",
+                "name": "Ivana Fulli",
+                "username": "DrFulli"
+            },
+            {
+                "id": "601247871",
+                "name": "Aindrea S",
+                "username": "Aindrea_s"
+            },
+            {
+                "id": "36047644",
+                "name": "Ragioniere ~ Marilena HUM",
+                "username": "MarilenaMunaro"
+            },
+            {
+                "id": "3295673302",
+                "name": "Sophia bibi 🗽🇺🇸🌴✈️",
+                "username": "bibi_soso42"
+            }
+        ],
+        "places": [
+            {
+                "full_name": "Paris, France",
+                "id": "09f6a7707f18e0b1"
+            },
+            {
+                "full_name": "Ile-de-France, France",
+                "id": "f9c4cad0af2337fa"
+            },
+            {
+                "full_name": "Ivry-sur-Seine, France",
+                "id": "06e026376c0e6e4d"
+            },
+            {
+                "full_name": "Lille, France",
+                "id": "55ea4e5e9bb75976"
+            },
+            {
+                "full_name": "Clamart, France",
+                "id": "73359fdfabb928fb"
+            },
+            {
+                "full_name": "Grasse, France",
+                "id": "16e91a8d2e401c01"
+            },
+            {
+                "full_name": "L'Etrat, France",
+                "id": "1791eef342a353aa"
+            }
+        ],
+        "media": [
+            {
+                "url": "https://pbs.twimg.com/media/DJzjlXzXUAAJLfd.jpg",
+                "type": "photo",
+                "media_key": "3_908851456006115328"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/DJzjlX3XcAcVgOL.jpg",
+                "type": "photo",
+                "media_key": "3_908851456022900743"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/DJzjlX6W0AAjoDy.jpg",
+                "type": "photo",
+                "media_key": "3_908851456035442688"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/DJzjlX_W4AAP8ll.jpg",
+                "type": "photo",
+                "media_key": "3_908851456056418304"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/DIzXVQbXoAAQGSU.jpg",
+                "type": "photo",
+                "media_key": "3_904334385381613568"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/DIzXVeBXgAANnDo.jpg",
+                "type": "photo",
+                "media_key": "3_904334389030649856"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/DIzXVeEXgAENpVd.jpg",
+                "type": "photo",
+                "media_key": "3_904334389043232769"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/DIzXVeLXYAUsXS7.jpg",
+                "type": "photo",
+                "media_key": "3_904334389072584709"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "936009558849458176",
+        "oldest_id": "904334402070740992",
+        "result_count": 8
+    }
+}

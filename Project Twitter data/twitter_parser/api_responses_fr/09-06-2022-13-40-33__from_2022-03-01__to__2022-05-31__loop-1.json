@@ -1,0 +1,421 @@
+{
+    "data": [
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1527938508735729666"
+                ]
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 281,
+                        "end": 304,
+                        "url": "https://t.co/ia3wPRVC2v",
+                        "expanded_url": "https://twitter.com/karl_delo/status/1527938520811089922/photo/1",
+                        "display_url": "pic.twitter.com/ia3wPRVC2v",
+                        "media_key": "3_1527938508735729666"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 273,
+                        "end": 280,
+                        "tag": "Cannes"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 9,
+                "reply_count": 2,
+                "like_count": 46,
+                "quote_count": 1
+            },
+            "author_id": "75586944",
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "id": "1527938520811089922",
+            "possibly_sensitive": false,
+            "created_at": "2022-05-21T09:05:05.000Z",
+            "text": "THREE THOUSAND YEARS OF LONGING follows an academic and a djinn as they trauma bond over their mutual loneliness. Undoubtably stunning and the story sequences are capturing. But I was left cold unconvinced of the love story. I was more invested in it as a cautionary tale. #Cannes https://t.co/ia3wPRVC2v",
+            "geo": {
+                "place_id": "002f75b6382e431e"
+            }
+        },
+        {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 280,
+                        "end": 303,
+                        "url": "https://t.co/okCyBmfxrh",
+                        "expanded_url": "https://twitter.com/Reflow_ESR6/status/1527399094091755525",
+                        "display_url": "twitter.com/Reflow_ESR6/st…"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 69,
+                        "end": 72,
+                        "username": "UL",
+                        "id": "159108303"
+                    },
+                    {
+                        "start": 89,
+                        "end": 100,
+                        "username": "MSCActions",
+                        "id": "278506592"
+                    },
+                    {
+                        "start": 226,
+                        "end": 241,
+                        "username": "IndiainIreland",
+                        "id": "3099200777"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 9,
+                "quote_count": 0
+            },
+            "author_id": "154942336",
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "id": "1527402267128766465",
+            "possibly_sensitive": false,
+            "created_at": "2022-05-19T21:34:12.000Z",
+            "text": "Having lost my own Father during the pandemic I feel the pain of our @UL PhD student and @MSCActions ESR who urgently needs to get home to attend final respects to his Father - really sad to see problems of processing delays! @IndiaInIreland can you help advise how he can travel https://t.co/okCyBmfxrh",
+            "geo": {
+                "place_id": "7290785fce79490a"
+            }
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "1117679311887261696",
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "id": "1526844647695433730",
+            "possibly_sensitive": false,
+            "created_at": "2022-05-18T08:38:26.000Z",
+            "text": "Academic stress will drain you…",
+            "geo": {
+                "place_id": "179b8df9e368044d"
+            }
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1522942550541316097"
+                ]
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 289,
+                        "end": 312,
+                        "url": "https://t.co/kU9MLyHRBL",
+                        "expanded_url": "https://twitter.com/KKunikullaya/status/1522942552462221314/photo/1",
+                        "display_url": "pic.twitter.com/kU9MLyHRBL",
+                        "media_key": "3_1522942550541316097"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 20,
+                        "end": 29,
+                        "tag": "academia"
+                    },
+                    {
+                        "start": 58,
+                        "end": 62,
+                        "tag": "Age"
+                    },
+                    {
+                        "start": 63,
+                        "end": 70,
+                        "tag": "gender"
+                    },
+                    {
+                        "start": 71,
+                        "end": 78,
+                        "tag": "Health"
+                    },
+                    {
+                        "start": 79,
+                        "end": 92,
+                        "tag": "mentalhealth"
+                    },
+                    {
+                        "start": 93,
+                        "end": 104,
+                        "tag": "Disability"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 228,
+                        "end": 242,
+                        "username": "DericoSymonds",
+                        "id": "2965462744"
+                    },
+                    {
+                        "start": 244,
+                        "end": 260,
+                        "username": "AcademicChatter",
+                        "id": "885953601067208705"
+                    },
+                    {
+                        "start": 261,
+                        "end": 271,
+                        "username": "Momademia",
+                        "id": "926555191649775621"
+                    },
+                    {
+                        "start": 272,
+                        "end": 288,
+                        "username": "VoicesofIndAcad",
+                        "id": "1285213498964709378"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 6,
+                "reply_count": 2,
+                "like_count": 21,
+                "quote_count": 0
+            },
+            "author_id": "1242103474604494848",
+            "lang": "en",
+            "source": "Twitter for Android",
+            "id": "1522942552462221314",
+            "possibly_sensitive": false,
+            "created_at": "2022-05-07T14:12:54.000Z",
+            "text": "This is so true for #academia More so wrt to criteria for #Age #gender #Health #mentalhealth #Disability Remove this bias. See what talent &amp; merit can bring to the group,society,country &amp; most importantly to science!\nPC:@DericoSymonds \n@AcademicChatter @Momademia @VoicesofIndAcad https://t.co/kU9MLyHRBL",
+            "geo": {
+                "place_id": "6264e4f8ac43f448"
+            }
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1519778379322511360",
+                    "3_1519778379318370306",
+                    "3_1519778379557396484"
+                ]
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 280,
+                        "end": 303,
+                        "url": "https://t.co/DgkHATGIH8",
+                        "expanded_url": "https://twitter.com/ShawnHanlonATC/status/1519778392333340678/photo/1",
+                        "display_url": "pic.twitter.com/DgkHATGIH8",
+                        "media_key": "3_1519778379322511360"
+                    },
+                    {
+                        "start": 280,
+                        "end": 303,
+                        "url": "https://t.co/DgkHATGIH8",
+                        "expanded_url": "https://twitter.com/ShawnHanlonATC/status/1519778392333340678/photo/1",
+                        "display_url": "pic.twitter.com/DgkHATGIH8",
+                        "media_key": "3_1519778379318370306"
+                    },
+                    {
+                        "start": 280,
+                        "end": 303,
+                        "url": "https://t.co/DgkHATGIH8",
+                        "expanded_url": "https://twitter.com/ShawnHanlonATC/status/1519778392333340678/photo/1",
+                        "display_url": "pic.twitter.com/DgkHATGIH8",
+                        "media_key": "3_1519778379557396484"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 73,
+                        "end": 77,
+                        "probability": 0.9632,
+                        "type": "Place",
+                        "normalized_text": "Paris"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 141,
+                        "end": 150,
+                        "tag": "Achilles"
+                    },
+                    {
+                        "start": 224,
+                        "end": 240,
+                        "tag": "knowyourpatient"
+                    },
+                    {
+                        "start": 241,
+                        "end": 251,
+                        "tag": "ESSKA2022"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 252,
+                        "end": 266,
+                        "username": "UDtendongroup",
+                        "id": "1113132819851640838"
+                    },
+                    {
+                        "start": 267,
+                        "end": 279,
+                        "username": "UDelawarePT",
+                        "id": "1190292499191025664"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 3,
+                "reply_count": 3,
+                "like_count": 48,
+                "quote_count": 1
+            },
+            "author_id": "606641727",
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "id": "1519778392333340678",
+            "possibly_sensitive": false,
+            "created_at": "2022-04-28T20:39:39.000Z",
+            "text": "I had the opportunity to present part of my PhD dissertation findings in Paris today. 4 weeks before my Dissertation defense!\nSpoiler alert: #Achilles tendinopathy subgroup membership has clinical implications for recovery! #knowyourpatient #ESSKA2022 @UDtendongroup @UDelawarePT https://t.co/DgkHATGIH8",
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            }
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "author_id": "201402940",
+            "lang": "en",
+            "source": "Twitter Web App",
+            "id": "1517474171026132993",
+            "possibly_sensitive": false,
+            "created_at": "2022-04-22T12:03:30.000Z",
+            "text": "@SilverShenlong I am worried by the \"radical left\" academic audience they are supplying with theoretical arms in their ideological struggle with their students to re-legitimate their academic position and ethos",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "username": "SilverShenlong",
+                        "id": "1899486500"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "1899486500",
+            "geo": {
+                "place_id": "23f8a07383ac617e"
+            }
+        }
+    ],
+    "includes": {
+        "media": [
+            {
+                "url": "https://pbs.twimg.com/media/FTRT-nPVUAIJ66s.jpg",
+                "media_key": "3_1527938508735729666",
+                "type": "photo"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/FSKULkpXsAERLY3.jpg",
+                "media_key": "3_1522942550541316097",
+                "type": "photo"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/FRdWYkTWUAA-C5j.jpg",
+                "media_key": "3_1519778379322511360",
+                "type": "photo"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/FRdWYkSXIAIhps6.jpg",
+                "media_key": "3_1519778379318370306",
+                "type": "photo"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/FRdWYlLWYAQZ5Fi.jpg",
+                "media_key": "3_1519778379557396484",
+                "type": "photo"
+            }
+        ],
+        "users": [
+            {
+                "id": "75586944",
+                "name": "Karl Delossantos @ Cannes",
+                "username": "karl_delo"
+            },
+            {
+                "id": "154942336",
+                "name": "John Mulcahy",
+                "username": "J_Mulcahy"
+            },
+            {
+                "id": "1117679311887261696",
+                "name": "Sandra Uzor",
+                "username": "SandraUzor1"
+            },
+            {
+                "id": "1242103474604494848",
+                "name": "Dr Kirthana Kunikullaya U, MD, DNB🧠🔬",
+                "username": "KKunikullaya"
+            },
+            {
+                "id": "606641727",
+                "name": "Shawn Hanlon",
+                "username": "ShawnHanlonATC"
+            },
+            {
+                "id": "201402940",
+                "name": "Terence Blake",
+                "username": "TPBlake"
+            }
+        ],
+        "places": [
+            {
+                "full_name": "Cannes, France",
+                "id": "002f75b6382e431e"
+            },
+            {
+                "full_name": "Rouen, France",
+                "id": "7290785fce79490a"
+            },
+            {
+                "full_name": "Lyon, France",
+                "id": "179b8df9e368044d"
+            },
+            {
+                "full_name": "Rennes, France",
+                "id": "6264e4f8ac43f448"
+            },
+            {
+                "full_name": "Paris, France",
+                "id": "09f6a7707f18e0b1"
+            },
+            {
+                "full_name": "Nice, France",
+                "id": "23f8a07383ac617e"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1527938520811089922",
+        "oldest_id": "1517474171026132993",
+        "result_count": 6,
+        "next_token": "b26v89c19zqg8o3fpytmpb6fg9hm7jartslufogxvn98d"
+    }
+}

@@ -1,0 +1,146 @@
+{
+    "data": [
+        {
+            "id": "1348343079439392771",
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "author_id": "2814038731",
+            "geo": {
+                "place_id": "6bee685ca83fe77b"
+            },
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 3,
+                "like_count": 67,
+                "quote_count": 1
+            },
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 26,
+                        "end": 33,
+                        "probability": 0.3933,
+                        "type": "Organization",
+                        "normalized_text": "UChicago"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 162,
+                        "end": 185,
+                        "url": "https://t.co/6uSEkoXnlZ",
+                        "expanded_url": "https://news.uchicago.edu/story/uchicago-mourns-loss-phd-student-yiran-fan",
+                        "display_url": "news.uchicago.edu/story/uchicago…"
+                    }
+                ]
+            },
+            "possibly_sensitive": true,
+            "text": "Very sad to hear that the UChicago student who got shot was Yiran 😢... We shared the same office when I started my RA position at Booth. May he rest in peace 🙏.\n\nhttps://t.co/6uSEkoXnlZ",
+            "created_at": "2021-01-10T18:56:55.000Z"
+        },
+        {
+            "id": "1337334633046872064",
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "author_id": "3328202063",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 187,
+                        "end": 195,
+                        "tag": "phdlife"
+                    },
+                    {
+                        "start": 196,
+                        "end": 212,
+                        "tag": "AcademicTwitter"
+                    },
+                    {
+                        "start": 213,
+                        "end": 230,
+                        "tag": "FridayMotivation"
+                    }
+                ]
+            },
+            "geo": {
+                "place_id": "4c6100a96901fb5e"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "text": "Do I love Fridays? Oh god, yes! Weekends are somehow less stressful to work or study when deadlines r not hanging over ur head, and you really get to enjoy the essence of your science... #phdlife #AcademicTwitter #FridayMotivation",
+            "created_at": "2020-12-11T09:53:17.000Z"
+        },
+        {
+            "id": "1333956458224955395",
+            "lang": "en",
+            "source": "Twitter for Android",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "Bethanie_PhD",
+                        "id": "1315675191348006912"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "1315675191348006912",
+            "author_id": "823356574232088576",
+            "geo": {
+                "place_id": "7ed2c80a9f219bff"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "text": "@Bethanie_PhD I got a million stories for you! As someone who grew up around violent criminals on the streets and who eventually became one who ended up in prison. Violence is almost always rooted in trauma with limited exceptions.",
+            "created_at": "2020-12-02T02:09:38.000Z"
+        }
+    ],
+    "includes": {
+        "users": [
+            {
+                "id": "2814038731",
+                "name": "Christine Cai²",
+                "username": "Christine_Cai27"
+            },
+            {
+                "id": "3328202063",
+                "name": "Elif Erdem",
+                "username": "Alephoriae"
+            },
+            {
+                "id": "823356574232088576",
+                "name": "Aaron T. Kinzel",
+                "username": "atkinzel"
+            }
+        ],
+        "places": [
+            {
+                "full_name": "Autun, France",
+                "id": "6bee685ca83fe77b"
+            },
+            {
+                "full_name": "Marseille, France",
+                "id": "4c6100a96901fb5e"
+            },
+            {
+                "full_name": "Saint-Maur-des-Fossés, France",
+                "id": "7ed2c80a9f219bff"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1348343079439392771",
+        "oldest_id": "1333956458224955395",
+        "result_count": 3
+    }
+}

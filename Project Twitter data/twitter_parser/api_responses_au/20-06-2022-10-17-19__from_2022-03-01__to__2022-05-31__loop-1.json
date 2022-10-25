@@ -1,0 +1,1641 @@
+{
+    "data": [
+        {
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "username": "msrebeccabirch",
+                        "id": "1027668408635015168"
+                    },
+                    {
+                        "start": 16,
+                        "end": 27,
+                        "username": "BecCooper3",
+                        "id": "715907143"
+                    },
+                    {
+                        "start": 28,
+                        "end": 44,
+                        "username": "MonashEducation",
+                        "id": "2327022438"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 69,
+                        "end": 75,
+                        "probability": 0.3705,
+                        "type": "Place",
+                        "normalized_text": "Uni ITE"
+                    }
+                ]
+            },
+            "created_at": "2022-05-26T09:26:33.000Z",
+            "source": "Twitter for Android",
+            "text": "@msrebeccabirch @BecCooper3 @MonashEducation My guess is too many in Uni ITE have been more successful in the getting of degrees, masters, phd route without actually teaching successfully for a few tears in pre university classrooms - dubious many have actual experience in very low ses settings.",
+            "geo": {
+                "place_id": "01864a8a64df9dc4"
+            },
+            "lang": "en",
+            "author_id": "2868310382",
+            "id": "1529755862528536577",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "in_reply_to_user_id": "1027668408635015168"
+        },
+        {
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "maxwalden_",
+                        "id": "2484673278"
+                    }
+                ]
+            },
+            "created_at": "2022-05-25T23:37:02.000Z",
+            "source": "Twitter for Android",
+            "text": "@maxwalden_ US job market is insane! (from the perspective of IR/Political Science graduate tho)😅",
+            "geo": {
+                "place_id": "004ec16c62325149"
+            },
+            "lang": "en",
+            "author_id": "150648581",
+            "id": "1529607504597897216",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "in_reply_to_user_id": "2484673278"
+        },
+        {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 45,
+                        "end": 68,
+                        "url": "https://t.co/sgF52t4IJi",
+                        "expanded_url": "https://twitter.com/Havenaar64/status/1528877269514522625",
+                        "display_url": "twitter.com/Havenaar64/sta…"
+                    }
+                ]
+            },
+            "created_at": "2022-05-24T22:30:18.000Z",
+            "source": "Twitter for iPhone",
+            "text": "Another academic with crazy Socialist ideas. https://t.co/sgF52t4IJi",
+            "geo": {
+                "place_id": "017453ae077eafd3"
+            },
+            "lang": "en",
+            "author_id": "1028574977153368065",
+            "id": "1529228321858686976",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            }
+        },
+        {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 238,
+                        "end": 261,
+                        "url": "https://t.co/bxObBHupGt",
+                        "expanded_url": "https://twitter.com/NewVoiceUkraine/status/1526553813204746240",
+                        "display_url": "twitter.com/NewVoiceUkrain…"
+                    }
+                ]
+            },
+            "created_at": "2022-05-18T02:49:42.000Z",
+            "source": "Twitter for iPad",
+            "text": "What a remarkable photo - such a committed professor.\n\nIf you’re an academic elsewhere, and are ever experiencing difficulties with online learning and getting frustrated - remember this photo, and just how lucky so many of us are.\n\n❤️🇺🇦 https://t.co/bxObBHupGt",
+            "geo": {
+                "place_id": "01864a8a64df9dc4"
+            },
+            "lang": "en",
+            "author_id": "1153260799",
+            "id": "1526756888649428993",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 4,
+                "quote_count": 0
+            }
+        },
+        {
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "bethmelv",
+                        "id": "3016263596"
+                    }
+                ]
+            },
+            "created_at": "2022-05-16T05:54:11.000Z",
+            "source": "Twitter for Android",
+            "text": "@bethmelv Yes! Seriously!\n\nI found money worries to be the most stressful aspect of the PhD! It meant I was often working 6 or 7 day weeks (5 on my PhD and 1 or 2 on RA work or tutoring). My stipend ran out a year before I submitted, so my final 6 months meant 7-day work weeks, straight!",
+            "geo": {
+                "place_id": "01e4b0c84959d430"
+            },
+            "lang": "en",
+            "author_id": "3306424254",
+            "id": "1526078538385723392",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 3,
+                "like_count": 23,
+                "quote_count": 0
+            },
+            "in_reply_to_user_id": "3016263596"
+        },
+        {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 155,
+                        "end": 178,
+                        "url": "https://t.co/jAWUAIOmJe",
+                        "expanded_url": "https://twitter.com/kaz_a_blanca/status/1525057363723661313/photo/1",
+                        "display_url": "pic.twitter.com/jAWUAIOmJe",
+                        "media_key": "3_1525057358501515264"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 88,
+                        "end": 95,
+                        "probability": 0.5188,
+                        "type": "Person",
+                        "normalized_text": "Cycladic"
+                    }
+                ]
+            },
+            "created_at": "2022-05-13T10:16:24.000Z",
+            "source": "Twitter for iPhone",
+            "text": "I’m sad that I couldn’t work this little fella into my dissertation (even though it’s a Cycladic figure of a different sort) but I just love him so much 🥰 https://t.co/jAWUAIOmJe",
+            "geo": {
+                "place_id": "0073b76548e5984f"
+            },
+            "lang": "en",
+            "author_id": "19959745",
+            "id": "1525057363723661313",
+            "attachments": {
+                "media_keys": [
+                    "3_1525057358501515264"
+                ]
+            },
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            }
+        },
+        {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 235,
+                        "end": 258,
+                        "url": "https://t.co/KPm1A1dK7D",
+                        "expanded_url": "https://twitter.com/LetsTalkSciComm/status/1524875915863285761",
+                        "display_url": "twitter.com/LetsTalkSciCom…"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "tag": "MyScienceMay"
+                    },
+                    {
+                        "start": 63,
+                        "end": 68,
+                        "tag": "STEM"
+                    },
+                    {
+                        "start": 69,
+                        "end": 73,
+                        "tag": "phd"
+                    },
+                    {
+                        "start": 201,
+                        "end": 214,
+                        "tag": "Mentalhealth"
+                    },
+                    {
+                        "start": 215,
+                        "end": 234,
+                        "tag": "kindnesstoyourself"
+                    }
+                ]
+            },
+            "created_at": "2022-05-13T04:10:28.000Z",
+            "source": "Twitter for iPhone",
+            "text": "#MyScienceMay I’m still learning and developing many skills in #STEM #phd training! I think my superpower is knowing when I need to step away and take a break - and spotting this in my colleagues too! #Mentalhealth #kindnesstoyourself https://t.co/KPm1A1dK7D",
+            "geo": {
+                "place_id": "0118c71c0ed41109"
+            },
+            "lang": "en",
+            "author_id": "1201871180673798144",
+            "id": "1524965273715249153",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 7,
+                "quote_count": 1
+            }
+        },
+        {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 216,
+                        "end": 239,
+                        "url": "https://t.co/LmdG8uYJWT",
+                        "expanded_url": "https://youtu.be/2KRyLn0i2lE",
+                        "display_url": "youtu.be/2KRyLn0i2lE"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "goingglocal",
+                        "id": "14435027"
+                    },
+                    {
+                        "start": 13,
+                        "end": 26,
+                        "username": "insane_voice",
+                        "id": "867077976210513920"
+                    },
+                    {
+                        "start": 27,
+                        "end": 43,
+                        "username": "AlexVickeryHowe",
+                        "id": "307212554"
+                    },
+                    {
+                        "start": 44,
+                        "end": 55,
+                        "username": "LeeGrand18",
+                        "id": "1341128964648161283"
+                    },
+                    {
+                        "start": 56,
+                        "end": 70,
+                        "username": "Veritatem2021",
+                        "id": "1183503749660205056"
+                    },
+                    {
+                        "start": 71,
+                        "end": 83,
+                        "username": "MFer_Jones_",
+                        "id": "1395962161994813442"
+                    },
+                    {
+                        "start": 84,
+                        "end": 97,
+                        "username": "JonT29910143",
+                        "id": "1055429322339696641"
+                    },
+                    {
+                        "start": 98,
+                        "end": 111,
+                        "username": "JohnNicklay2",
+                        "id": "878990728529051648"
+                    },
+                    {
+                        "start": 112,
+                        "end": 121,
+                        "username": "25_cycle",
+                        "id": "1226126755716632580"
+                    },
+                    {
+                        "start": 122,
+                        "end": 129,
+                        "username": "dbvl53",
+                        "id": "750624167184232449"
+                    },
+                    {
+                        "start": 130,
+                        "end": 143,
+                        "username": "GeraldKutney",
+                        "id": "904408999"
+                    },
+                    {
+                        "start": 144,
+                        "end": 152,
+                        "username": "USNA_73",
+                        "id": "1518925329309515776"
+                    },
+                    {
+                        "start": 153,
+                        "end": 168,
+                        "username": "alison_pannell",
+                        "id": "506984344"
+                    },
+                    {
+                        "start": 169,
+                        "end": 176,
+                        "username": "Ceist8",
+                        "id": "3316708940"
+                    },
+                    {
+                        "start": 177,
+                        "end": 191,
+                        "username": "MariusFrost11",
+                        "id": "1512947578450718720"
+                    }
+                ]
+            },
+            "created_at": "2022-05-11T19:07:45.000Z",
+            "source": "Twitter for iPhone",
+            "text": "@goingglocal @insane_voice @AlexVickeryHowe @LeeGrand18 @Veritatem2021 @MFer_Jones_ @JonT29910143 @JohnNicklay2 @25_cycle @dbvl53 @GeraldKutney @USNA_73 @alison_pannell @Ceist8 @MariusFrost11 Academia not Science! \n\nhttps://t.co/LmdG8uYJWT",
+            "geo": {
+                "place_id": "00c46e9a5d80721f"
+            },
+            "lang": "en",
+            "author_id": "417047832",
+            "id": "1524466309018578944",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "in_reply_to_user_id": "14435027"
+        },
+        {
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "goingglocal",
+                        "id": "14435027"
+                    },
+                    {
+                        "start": 13,
+                        "end": 26,
+                        "username": "insane_voice",
+                        "id": "867077976210513920"
+                    },
+                    {
+                        "start": 27,
+                        "end": 43,
+                        "username": "AlexVickeryHowe",
+                        "id": "307212554"
+                    },
+                    {
+                        "start": 44,
+                        "end": 55,
+                        "username": "LeeGrand18",
+                        "id": "1341128964648161283"
+                    },
+                    {
+                        "start": 56,
+                        "end": 70,
+                        "username": "Veritatem2021",
+                        "id": "1183503749660205056"
+                    },
+                    {
+                        "start": 71,
+                        "end": 83,
+                        "username": "MFer_Jones_",
+                        "id": "1395962161994813442"
+                    },
+                    {
+                        "start": 84,
+                        "end": 97,
+                        "username": "JonT29910143",
+                        "id": "1055429322339696641"
+                    },
+                    {
+                        "start": 98,
+                        "end": 111,
+                        "username": "JohnNicklay2",
+                        "id": "878990728529051648"
+                    },
+                    {
+                        "start": 112,
+                        "end": 121,
+                        "username": "25_cycle",
+                        "id": "1226126755716632580"
+                    },
+                    {
+                        "start": 122,
+                        "end": 129,
+                        "username": "dbvl53",
+                        "id": "750624167184232449"
+                    },
+                    {
+                        "start": 130,
+                        "end": 143,
+                        "username": "GeraldKutney",
+                        "id": "904408999"
+                    },
+                    {
+                        "start": 144,
+                        "end": 152,
+                        "username": "USNA_73",
+                        "id": "1518925329309515776"
+                    },
+                    {
+                        "start": 153,
+                        "end": 168,
+                        "username": "alison_pannell",
+                        "id": "506984344"
+                    },
+                    {
+                        "start": 169,
+                        "end": 176,
+                        "username": "Ceist8",
+                        "id": "3316708940"
+                    },
+                    {
+                        "start": 177,
+                        "end": 191,
+                        "username": "MariusFrost11",
+                        "id": "1512947578450718720"
+                    }
+                ]
+            },
+            "created_at": "2022-05-11T19:06:35.000Z",
+            "source": "Twitter for iPhone",
+            "text": "@goingglocal @insane_voice @AlexVickeryHowe @LeeGrand18 @Veritatem2021 @MFer_Jones_ @JonT29910143 @JohnNicklay2 @25_cycle @dbvl53 @GeraldKutney @USNA_73 @alison_pannell @Ceist8 @MariusFrost11 Oh look more Academia! And it’s conclusion: \n\nbut reliance on self-facilitative and mutualistic feedbacks “may” come at the inherent cost of increased threshold behavior\n\n“May” what science contains the word may. Forget that it assumes Climate Change is real.",
+            "geo": {
+                "place_id": "00c46e9a5d80721f"
+            },
+            "lang": "en",
+            "author_id": "417047832",
+            "id": "1524466014272241664",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 2,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "in_reply_to_user_id": "14435027"
+        },
+        {
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 16,
+                        "username": "AuthorMattNiemi",
+                        "id": "1424493362028204036"
+                    }
+                ]
+            },
+            "created_at": "2022-05-06T13:47:59.000Z",
+            "source": "Twitter for iPhone",
+            "text": "@AuthorMattNiemi I love singing and much desired for my mental health than what I have a doctorate in , … RUMINATION…. my psychiatrist’s word that depicts my brain 🧠 so well when not happy . Analyse the past ? Crazy but I will 🎤 tonight",
+            "geo": {
+                "place_id": "01864a8a64df9dc4"
+            },
+            "lang": "en",
+            "author_id": "1493243686398087168",
+            "id": "1522573896666746880",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "in_reply_to_user_id": "1424493362028204036"
+        },
+        {
+            "created_at": "2022-05-04T08:35:25.000Z",
+            "source": "Twitter for Android",
+            "text": "Election-related anxiety is real. I hope I can focus on my thesis proposal work this and next week 😞",
+            "geo": {
+                "place_id": "01864a8a64df9dc4"
+            },
+            "lang": "en",
+            "author_id": "1280148997575864320",
+            "id": "1521770461910028288",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 10,
+                "quote_count": 0
+            }
+        },
+        {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 212,
+                        "end": 235,
+                        "url": "https://t.co/7C38oWMkQo",
+                        "expanded_url": "https://twitter.com/psychwrite/status/1521695511904133121/photo/1",
+                        "display_url": "pic.twitter.com/7C38oWMkQo",
+                        "media_key": "3_1521695506610946049"
+                    }
+                ]
+            },
+            "created_at": "2022-05-04T03:37:36.000Z",
+            "source": "Twitter for iPhone",
+            "text": "Addictions psychiatrist. Never prescribes something they haven’t tried. Real advocate for their patients, never shies away from academic invitations. Cycles to work in corduroy, votes Greens, lactose intolerant. https://t.co/7C38oWMkQo",
+            "geo": {
+                "place_id": "01864a8a64df9dc4"
+            },
+            "lang": "en",
+            "author_id": "56101799",
+            "id": "1521695511904133121",
+            "attachments": {
+                "media_keys": [
+                    "3_1521695506610946049"
+                ]
+            },
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 2,
+                "like_count": 28,
+                "quote_count": 0
+            },
+            "in_reply_to_user_id": "56101799"
+        },
+        {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 265,
+                        "end": 288,
+                        "url": "https://t.co/KOsWQPDQmo",
+                        "expanded_url": "https://twitter.com/lab_nh/status/1521437361179004931",
+                        "display_url": "twitter.com/lab_nh/status/…"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 39,
+                        "end": 49,
+                        "probability": 0.9759,
+                        "type": "Person",
+                        "normalized_text": "Ryan Eather"
+                    }
+                ]
+            },
+            "created_at": "2022-05-03T10:42:22.000Z",
+            "source": "Twitter for iPhone",
+            "text": "Congratulations to our honours student Ryan Eather on being awarded the APS prize in psychology for CQUni for his thesis “Association between healthful plant-based dietary patterns and depressive symptoms” - I am so proud to have been part of his supervisory team. https://t.co/KOsWQPDQmo",
+            "geo": {
+                "place_id": "00c785df09c1ede5"
+            },
+            "lang": "en",
+            "author_id": "970471549978394625",
+            "id": "1521440018690035714",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 6,
+                "quote_count": 0
+            }
+        },
+        {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 230,
+                        "end": 253,
+                        "url": "https://t.co/p8aSSJCuQb",
+                        "expanded_url": "https://twitter.com/DeplazesEvelyne/status/1520564005600854017",
+                        "display_url": "twitter.com/DeplazesEvelyn…"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 26,
+                        "end": 41,
+                        "tag": "SelfCareSunday"
+                    },
+                    {
+                        "start": 49,
+                        "end": 63,
+                        "tag": "Mondaymorning"
+                    },
+                    {
+                        "start": 146,
+                        "end": 162,
+                        "tag": "AcademicChatter"
+                    },
+                    {
+                        "start": 163,
+                        "end": 179,
+                        "tag": "AcademicTwitter"
+                    },
+                    {
+                        "start": 180,
+                        "end": 201,
+                        "tag": "academicmentalhealth"
+                    },
+                    {
+                        "start": 202,
+                        "end": 211,
+                        "tag": "phdvoice"
+                    },
+                    {
+                        "start": 212,
+                        "end": 220,
+                        "tag": "phdlife"
+                    },
+                    {
+                        "start": 221,
+                        "end": 229,
+                        "tag": "phdchat"
+                    }
+                ]
+            },
+            "created_at": "2022-05-01T23:11:48.000Z",
+            "source": "Twitter for Android",
+            "text": "Finishing off yesterday's #SelfCareSunday with a #Mondaymorning sleep in, yoga and coffee with friends. Then back to work, a bit more recharged. \n#AcademicChatter #AcademicTwitter #academicmentalhealth #phdvoice #phdlife #phdchat https://t.co/p8aSSJCuQb",
+            "geo": {
+                "place_id": "004ec16c62325149"
+            },
+            "lang": "en",
+            "author_id": "1265067408454062080",
+            "id": "1520903846087696384",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            }
+        },
+        {
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "username": "FadouaGovaerts",
+                        "id": "1196217508140929024"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 16,
+                        "end": 27,
+                        "tag": "EidMubarak"
+                    },
+                    {
+                        "start": 53,
+                        "end": 63,
+                        "tag": "EidAlFitr"
+                    },
+                    {
+                        "start": 93,
+                        "end": 102,
+                        "tag": "selfcare"
+                    },
+                    {
+                        "start": 129,
+                        "end": 137,
+                        "tag": "phdlife"
+                    },
+                    {
+                        "start": 158,
+                        "end": 179,
+                        "tag": "academicmentalhealth"
+                    }
+                ]
+            },
+            "created_at": "2022-05-01T22:56:26.000Z",
+            "source": "Twitter for Android",
+            "text": "@FadouaGovaerts #EidMubarak to you and your family 😊 #EidAlFitr celebrations are perfect for #selfcare and forgetting about your #phdlife for a day. Time for #academicmentalhealth",
+            "geo": {
+                "place_id": "004ec16c62325149"
+            },
+            "lang": "en",
+            "author_id": "1265067408454062080",
+            "id": "1520899980201914368",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "in_reply_to_user_id": "1196217508140929024"
+        },
+        {
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "username": "MVEG001",
+                        "id": "427330274"
+                    },
+                    {
+                        "start": 16,
+                        "end": 24,
+                        "username": "MVEG001",
+                        "id": "427330274"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 126,
+                        "end": 147,
+                        "tag": "academicMentalHealth"
+                    }
+                ]
+            },
+            "created_at": "2022-05-01T07:53:24.000Z",
+            "source": "Twitter for Android",
+            "text": "@MVEG001 Thanks @MVEG001. Knowing and respecting when I need rest has been one of the most important lessons to look after my #academicMentalHealth. \nAnd yes, as a new group leader I am very much aware that we are role models, whether we like it or not 😄",
+            "geo": {
+                "place_id": "004ec16c62325149"
+            },
+            "lang": "en",
+            "author_id": "1265067408454062080",
+            "id": "1520672724372230144",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "in_reply_to_user_id": "427330274"
+        },
+        {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 198,
+                        "end": 221,
+                        "url": "https://t.co/XRKLxnrUeZ",
+                        "expanded_url": "https://twitter.com/DeplazesEvelyne/status/1520564005600854017/photo/1",
+                        "display_url": "pic.twitter.com/XRKLxnrUeZ",
+                        "media_key": "3_1520564003348516865"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 95,
+                        "end": 112,
+                        "tag": "SelfCareSaturday"
+                    },
+                    {
+                        "start": 113,
+                        "end": 134,
+                        "tag": "AcademicMentalHealth"
+                    },
+                    {
+                        "start": 135,
+                        "end": 144,
+                        "tag": "phdvoice"
+                    },
+                    {
+                        "start": 145,
+                        "end": 161,
+                        "tag": "AcademicTwitter"
+                    },
+                    {
+                        "start": 162,
+                        "end": 178,
+                        "tag": "AcademicChatter"
+                    },
+                    {
+                        "start": 179,
+                        "end": 187,
+                        "tag": "phdchat"
+                    },
+                    {
+                        "start": 188,
+                        "end": 197,
+                        "tag": "selfcare"
+                    }
+                ]
+            },
+            "created_at": "2022-05-01T00:41:24.000Z",
+            "source": "Twitter for Android",
+            "text": "Very much feeling this today. 😊\n\nGot heaps to do but I'm tired and will spend the day resting. #SelfCareSaturday #AcademicMentalHealth #phdvoice #AcademicTwitter #AcademicChatter #phdchat #selfcare https://t.co/XRKLxnrUeZ",
+            "geo": {
+                "place_id": "004ec16c62325149"
+            },
+            "lang": "en",
+            "author_id": "1265067408454062080",
+            "id": "1520564005600854017",
+            "attachments": {
+                "media_keys": [
+                    "3_1520564003348516865"
+                ]
+            },
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 29,
+                "reply_count": 7,
+                "like_count": 197,
+                "quote_count": 10
+            }
+        },
+        {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 282,
+                        "end": 305,
+                        "url": "https://t.co/UeRlqRaAnH",
+                        "expanded_url": "https://twitter.com/sandytrustteach/status/1519786888738996225/photo/1",
+                        "display_url": "pic.twitter.com/UeRlqRaAnH",
+                        "media_key": "16_1519786881008881664"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 250,
+                        "end": 259,
+                        "tag": "paranoid"
+                    },
+                    {
+                        "start": 260,
+                        "end": 267,
+                        "tag": "auspol"
+                    },
+                    {
+                        "start": 275,
+                        "end": 281,
+                        "tag": "trust"
+                    }
+                ]
+            },
+            "created_at": "2022-04-28T21:13:25.000Z",
+            "source": "Twitter for iPhone",
+            "text": "My staff number says 9360081-  I started teaching in 1993 … NESA wants me to prove I am a quality teacher.. I have a PhD, articles, student feedback 4.6/5.00 ..In all honesty this system is built on cards &amp; it has collapsed .. Who is running ed? #paranoid #auspol return #trust https://t.co/UeRlqRaAnH",
+            "geo": {
+                "place_id": "00f5fcca24e69fe7"
+            },
+            "lang": "en",
+            "author_id": "958993013702709249",
+            "id": "1519786888738996225",
+            "attachments": {
+                "media_keys": [
+                    "16_1519786881008881664"
+                ]
+            },
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 4,
+                "quote_count": 0
+            }
+        },
+        {
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 35,
+                        "end": 50,
+                        "username": "sasha_zabelski",
+                        "id": "1354235447703072768"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 180,
+                        "end": 187,
+                        "tag": "phdmom"
+                    },
+                    {
+                        "start": 188,
+                        "end": 202,
+                        "tag": "phdmotherhood"
+                    }
+                ]
+            },
+            "created_at": "2022-04-27T09:53:42.000Z",
+            "source": "Twitter for iPhone",
+            "text": "I read an fabulous tweet/thread by @sasha_zabelski — treating PhD like a Mon-Fri job. It has helped me so much - reframing my guilt / anxiety &amp; being more productive / present #phdmom #phdmotherhood",
+            "geo": {
+                "place_id": "000229ff642758f5"
+            },
+            "lang": "en",
+            "author_id": "1478175861673054208",
+            "id": "1519253447174135808",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            }
+        },
+        {
+            "created_at": "2022-04-23T07:42:52.000Z",
+            "source": "Twitter for Android",
+            "text": "Went to NATCON in Melbourne today. Hundreds of others in recovery together. So bloody grateful for the fellowship. ❤️",
+            "geo": {
+                "place_id": "01864a8a64df9dc4"
+            },
+            "lang": "en",
+            "author_id": "1225539857763774464",
+            "id": "1517770970374696960",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 18,
+                        "end": 26,
+                        "probability": 0.9926,
+                        "type": "Place",
+                        "normalized_text": "Melbourne"
+                    }
+                ]
+            }
+        },
+        {
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "m_valkanas",
+                        "id": "994773663168847872"
+                    }
+                ]
+            },
+            "created_at": "2022-04-22T10:09:51.000Z",
+            "source": "Twitter for iPhone",
+            "text": "@m_valkanas This is definitely one of the most stressful experiences in academia- watching your students present!!! Well done",
+            "geo": {
+                "place_id": "004ec16c62325149"
+            },
+            "lang": "en",
+            "author_id": "3304758355",
+            "id": "1517445569131675650",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "in_reply_to_user_id": "994773663168847872"
+        },
+        {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 177,
+                        "end": 200,
+                        "url": "https://t.co/ylJfJZzvZN",
+                        "expanded_url": "https://twitter.com/DeplazesEvelyne/status/1516933193168871424/photo/1",
+                        "display_url": "pic.twitter.com/ylJfJZzvZN",
+                        "media_key": "3_1516933129910452224"
+                    },
+                    {
+                        "start": 177,
+                        "end": 200,
+                        "url": "https://t.co/ylJfJZzvZN",
+                        "expanded_url": "https://twitter.com/DeplazesEvelyne/status/1516933193168871424/photo/1",
+                        "display_url": "pic.twitter.com/ylJfJZzvZN",
+                        "media_key": "3_1516933173568888832"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 6,
+                        "end": 14,
+                        "tag": "morning"
+                    },
+                    {
+                        "start": 102,
+                        "end": 120,
+                        "tag": "morningmotivation"
+                    },
+                    {
+                        "start": 121,
+                        "end": 137,
+                        "tag": "AcademicChatter"
+                    },
+                    {
+                        "start": 138,
+                        "end": 154,
+                        "tag": "AcademicWriting"
+                    },
+                    {
+                        "start": 155,
+                        "end": 176,
+                        "tag": "AcademicMentalHealth"
+                    }
+                ]
+            },
+            "created_at": "2022-04-21T00:13:51.000Z",
+            "source": "Twitter for Android",
+            "text": "Early #morning bushwalk and chai with a view. Charging the battery for another day of grant writing.😊 #morningmotivation\n#AcademicChatter #AcademicWriting #AcademicMentalHealth https://t.co/ylJfJZzvZN",
+            "geo": {
+                "place_id": "0118c71c0ed41109"
+            },
+            "lang": "en",
+            "author_id": "1265067408454062080",
+            "id": "1516933193168871424",
+            "attachments": {
+                "media_keys": [
+                    "3_1516933129910452224",
+                    "3_1516933173568888832"
+                ]
+            },
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 4,
+                "quote_count": 0
+            }
+        },
+        {
+            "created_at": "2022-04-19T09:25:15.000Z",
+            "source": "Twitter for Android",
+            "text": "I give up :-( 2 more months till I get my new lens implanted in my eye. Why did I ever think I'd graduate or complete anything. So depressed tonight it's not funny but no not dangerous to myself or anyone i am just sad,lonely and too disabled. Going offline for a while",
+            "geo": {
+                "place_id": "01e4b0c84959d430"
+            },
+            "lang": "en",
+            "author_id": "1135452034675556352",
+            "id": "1516347181606715393",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 2,
+                "like_count": 2,
+                "quote_count": 0
+            }
+        },
+        {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 240,
+                        "end": 263,
+                        "url": "https://t.co/QurfWLBB4R",
+                        "expanded_url": "https://twitter.com/billie_bonevski/status/1514842647701385216/photo/1",
+                        "display_url": "pic.twitter.com/QurfWLBB4R",
+                        "media_key": "3_1514842643473530880"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 43,
+                        "end": 59,
+                        "username": "nathan_harrison",
+                        "id": "33782498"
+                    },
+                    {
+                        "start": 109,
+                        "end": 118,
+                        "username": "Flinders",
+                        "id": "15996963"
+                    },
+                    {
+                        "start": 208,
+                        "end": 224,
+                        "username": "nicole_rankin8n",
+                        "id": "3897187274"
+                    },
+                    {
+                        "start": 225,
+                        "end": 239,
+                        "username": "JacquieBowden",
+                        "id": "1409159940"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 80,
+                        "end": 85,
+                        "tag": "MRFF"
+                    },
+                    {
+                        "start": 119,
+                        "end": 132,
+                        "tag": "PublicHealth"
+                    }
+                ]
+            },
+            "created_at": "2022-04-15T05:46:46.000Z",
+            "source": "Twitter for iPhone",
+            "text": "Congratulations to the incredibly talented @nathan_harrison awarded competitive #MRFF funded PhD scholarship @Flinders #PublicHealth on “Smoking, stigma and lung cancer screening”Can’t wait til we start with @nicole_rankin8n @JacquieBowden https://t.co/QurfWLBB4R",
+            "geo": {
+                "place_id": "01cc83b303f0c068"
+            },
+            "lang": "en",
+            "author_id": "772940448507629568",
+            "id": "1514842647701385216",
+            "attachments": {
+                "media_keys": [
+                    "3_1514842643473530880"
+                ]
+            },
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 5,
+                "like_count": 50,
+                "quote_count": 4
+            }
+        },
+        {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 222,
+                        "end": 245,
+                        "url": "https://t.co/1edXritZBf",
+                        "expanded_url": "https://twitter.com/PaulM_ACEx/status/1514468528791105536",
+                        "display_url": "twitter.com/PaulM_ACEx/sta…"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 33,
+                        "end": 41,
+                        "probability": 0.9733,
+                        "type": "Person",
+                        "normalized_text": "Francesco"
+                    },
+                    {
+                        "start": 67,
+                        "end": 72,
+                        "probability": 0.9955,
+                        "type": "Place",
+                        "normalized_text": "Europe"
+                    }
+                ]
+            },
+            "created_at": "2022-04-14T07:43:55.000Z",
+            "source": "Twitter for iPhone",
+            "text": "Very excited (and also sad) that Francesco will be heading back to Europe to take up a MSCA Fellowship. \nLuckily there is still plenty of time this year to push out some of the super cool results that are in the pipeline. https://t.co/1edXritZBf",
+            "geo": {
+                "place_id": "01864a8a64df9dc4"
+            },
+            "lang": "en",
+            "author_id": "1078963404356767745",
+            "id": "1514509742533591041",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 16,
+                "quote_count": 0
+            }
+        },
+        {
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "synapse101",
+                        "id": "98546373"
+                    },
+                    {
+                        "start": 12,
+                        "end": 23,
+                        "username": "KathyMee10",
+                        "id": "1207187792603709440"
+                    },
+                    {
+                        "start": 24,
+                        "end": 34,
+                        "username": "DebLoxton",
+                        "id": "816582884"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 82,
+                        "end": 95,
+                        "tag": "mentalhealth"
+                    },
+                    {
+                        "start": 96,
+                        "end": 103,
+                        "tag": "nurses"
+                    }
+                ]
+            },
+            "created_at": "2022-04-13T05:31:33.000Z",
+            "source": "Twitter for iPhone",
+            "text": "@synapse101 @KathyMee10 @DebLoxton My turn tonight! Can’t wait to see hundreds of #mentalhealth #nurses graduate tonight!",
+            "geo": {
+                "place_id": "00f5fcca24e69fe7"
+            },
+            "lang": "en",
+            "author_id": "35621956",
+            "id": "1514114044789391364",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "in_reply_to_user_id": "98546373"
+        },
+        {
+            "created_at": "2022-04-12T23:04:54.000Z",
+            "source": "Twitter for Android",
+            "text": "I released this book in Indonesian because there is a desperate need for an academic textbook on hip hop and Indonesian hip hop in general. Hopefully this can help younger Indonesians think a bit more critically about this beloved scene of ours!",
+            "geo": {
+                "place_id": "01864a8a64df9dc4"
+            },
+            "lang": "en",
+            "author_id": "1013619333778378752",
+            "id": "1514016740317233154",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 24,
+                        "end": 33,
+                        "probability": 0.553,
+                        "type": "Place",
+                        "normalized_text": "Indonesian"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "1013619333778378752"
+        },
+        {
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 96,
+                        "end": 101,
+                        "username": "RMIT",
+                        "id": "6778812"
+                    },
+                    {
+                        "start": 164,
+                        "end": 173,
+                        "username": "LKrauss1",
+                        "id": "556151596"
+                    },
+                    {
+                        "start": 259,
+                        "end": 270,
+                        "username": "michiokaku",
+                        "id": "19515424"
+                    }
+                ]
+            },
+            "created_at": "2022-04-12T02:40:46.000Z",
+            "source": "Twitter for Android",
+            "text": "Well passing qbok with rdit in masters of it physics minds and a bridging thesis with isbn with @RMIT masters of it physics physchology means their the insane ones @LKrauss1 i passed a paprr trailing head check doing that very few would so your the insane on @michiokaku",
+            "geo": {
+                "place_id": "0073b76548e5984f"
+            },
+            "lang": "en",
+            "author_id": "1293263412869267457",
+            "id": "1513708678633132032",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "in_reply_to_user_id": "1293263412869267457"
+        },
+        {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 142,
+                        "end": 165,
+                        "url": "https://t.co/cD25yQiOym",
+                        "expanded_url": "https://twitter.com/SouhaYoussef3/status/1513362479685910534/photo/1",
+                        "display_url": "pic.twitter.com/cD25yQiOym",
+                        "media_key": "3_1513362466293567489"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 106,
+                        "end": 117,
+                        "username": "PIDG_UniSA",
+                        "id": "1267610229300064256"
+                    },
+                    {
+                        "start": 118,
+                        "end": 127,
+                        "username": "UniSACRI",
+                        "id": "844708403213668352"
+                    },
+                    {
+                        "start": 128,
+                        "end": 141,
+                        "username": "UniversitySA",
+                        "id": "22874758"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 27,
+                        "end": 38,
+                        "tag": "3Dprinting"
+                    },
+                    {
+                        "start": 80,
+                        "end": 95,
+                        "tag": "CancerResearch"
+                    },
+                    {
+                        "start": 96,
+                        "end": 104,
+                        "tag": "phdlife"
+                    }
+                ]
+            },
+            "created_at": "2022-04-11T03:45:06.000Z",
+            "source": "Twitter for Android",
+            "text": "Exploring the potential of #3Dprinting in addressing combination therapy issues #CancerResearch #phdlife  @PIDG_UniSA @UniSACRI @UniversitySA https://t.co/cD25yQiOym",
+            "geo": {
+                "place_id": "01e8a1a140ccdc5c"
+            },
+            "lang": "en",
+            "author_id": "1325613015018819585",
+            "id": "1513362479685910534",
+            "attachments": {
+                "media_keys": [
+                    "3_1513362466293567489"
+                ]
+            },
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 5,
+                "reply_count": 0,
+                "like_count": 24,
+                "quote_count": 0
+            }
+        }
+    ],
+    "includes": {
+        "users": [
+            {
+                "id": "2868310382",
+                "name": "Brett Youd",
+                "username": "BrettYoud"
+            },
+            {
+                "id": "150648581",
+                "name": "Ahmad Rizky M. Umar",
+                "username": "analispolitik"
+            },
+            {
+                "id": "1028574977153368065",
+                "name": "ConservativeVoice✈️🩸",
+                "username": "conserv1951"
+            },
+            {
+                "id": "1153260799",
+                "name": "Krystian Seibert ❤️ 🇺🇦",
+                "username": "KSeibertAu"
+            },
+            {
+                "id": "3306424254",
+                "name": "Dr Blair Williams🏳️‍🌈♀️💉💉💉",
+                "username": "BlairWilliams26"
+            },
+            {
+                "id": "19959745",
+                "name": "Karen Barker",
+                "username": "kaz_a_blanca"
+            },
+            {
+                "id": "1201871180673798144",
+                "name": "Nicola Principe",
+                "username": "nicolaprincipe_"
+            },
+            {
+                "id": "417047832",
+                "name": "Denier And Proud",
+                "username": "ZSRenn"
+            },
+            {
+                "id": "1493243686398087168",
+                "name": "Merrilyn Stanger",
+                "username": "MerrilynStange2"
+            },
+            {
+                "id": "1280148997575864320",
+                "name": "Jason Paolo Telles",
+                "username": "jptupb"
+            },
+            {
+                "id": "56101799",
+                "name": "Jackie Rakov 💙 💛",
+                "username": "psychwrite"
+            },
+            {
+                "id": "970471549978394625",
+                "name": "🏳️‍🌈 Dr Megan Lee PhD 🏳️‍🌈",
+                "username": "MeganLeePhD"
+            },
+            {
+                "id": "1265067408454062080",
+                "name": "Evelyne Deplazes",
+                "username": "DeplazesEvelyne"
+            },
+            {
+                "id": "958993013702709249",
+                "name": "Dr Sandy Nicoll ( she/her)",
+                "username": "sandytrustteach"
+            },
+            {
+                "id": "1478175861673054208",
+                "name": "Mish Pope - (she/her)",
+                "username": "MishPope"
+            },
+            {
+                "id": "1225539857763774464",
+                "name": "Ray Bodhisattva",
+                "username": "RayMazen"
+            },
+            {
+                "id": "3304758355",
+                "name": "Anita Parbhakar-Fox",
+                "username": "ParbhakarFox"
+            },
+            {
+                "id": "1135452034675556352",
+                "name": "Astrid Jasmine Watts 🏳️‍🌈🎵💜 queer as heck",
+                "username": "AstridWatts1983"
+            },
+            {
+                "id": "772940448507629568",
+                "name": "Billie Bonevski",
+                "username": "billie_bonevski"
+            },
+            {
+                "id": "1078963404356767745",
+                "name": "Prof. Jared Cole",
+                "username": "quantschmant"
+            },
+            {
+                "id": "35621956",
+                "name": "Prof Rhonda Wilson #AskANurse",
+                "username": "RhondaWilsonMHN"
+            },
+            {
+                "id": "1013619333778378752",
+                "name": "William Yanko",
+                "username": "WilliamYanko"
+            },
+            {
+                "id": "1293263412869267457",
+                "name": "Regalty Family",
+                "username": "RegaltyFamily"
+            },
+            {
+                "id": "1325613015018819585",
+                "name": "Souha Youssef",
+                "username": "SouhaYoussef3"
+            }
+        ],
+        "places": [
+            {
+                "full_name": "Melbourne, Victoria",
+                "id": "01864a8a64df9dc4"
+            },
+            {
+                "full_name": "Brisbane, Queensland",
+                "id": "004ec16c62325149"
+            },
+            {
+                "full_name": "Gold Coast, Queensland",
+                "id": "017453ae077eafd3"
+            },
+            {
+                "full_name": "Canberra, Australian Capital Territory",
+                "id": "01e4b0c84959d430"
+            },
+            {
+                "full_name": "Sydney, New South Wales",
+                "id": "0073b76548e5984f"
+            },
+            {
+                "full_name": "Perth, Western Australia",
+                "id": "0118c71c0ed41109"
+            },
+            {
+                "full_name": "Mackay, Queensland",
+                "id": "00c46e9a5d80721f"
+            },
+            {
+                "full_name": "Murwillumbah, New South Wales",
+                "id": "00c785df09c1ede5"
+            },
+            {
+                "full_name": "Central Coast, New South Wales",
+                "id": "00f5fcca24e69fe7"
+            },
+            {
+                "full_name": "Geraldton, Western Australia",
+                "id": "000229ff642758f5"
+            },
+            {
+                "full_name": "Newcastle, New South Wales",
+                "id": "01cc83b303f0c068"
+            },
+            {
+                "full_name": "Adelaide, South Australia",
+                "id": "01e8a1a140ccdc5c"
+            }
+        ],
+        "media": [
+            {
+                "url": "https://pbs.twimg.com/media/FSoXlmOUEAAXj61.jpg",
+                "type": "photo",
+                "media_key": "3_1525057358501515264"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/FR4mAD_agAEL5qU.jpg",
+                "type": "photo",
+                "media_key": "3_1521695506610946049"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/FRog553VkAEoyFl.jpg",
+                "type": "photo",
+                "media_key": "3_1520564003348516865"
+            },
+            {
+                "type": "animated_gif",
+                "media_key": "16_1519786881008881664"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/FQ06pQRVgAAawjS.jpg",
+                "type": "photo",
+                "media_key": "3_1516933129910452224"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/FQ06ry6UYAAANr7.jpg",
+                "type": "photo",
+                "media_key": "3_1516933173568888832"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/FQXNW7bagAAYCgt.jpg",
+                "type": "photo",
+                "media_key": "3_1514842643473530880"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/FQCLJRvWUAEU4Jd.jpg",
+                "type": "photo",
+                "media_key": "3_1513362466293567489"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1529755862528536577",
+        "oldest_id": "1513362479685910534",
+        "result_count": 29,
+        "next_token": "b26v89c19zqg8o3fpytma5ioplryi5iq56bluq8oo81vh"
+    }
+}

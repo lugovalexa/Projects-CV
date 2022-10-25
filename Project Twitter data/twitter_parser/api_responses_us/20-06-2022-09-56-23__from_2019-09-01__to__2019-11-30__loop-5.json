@@ -1,0 +1,2580 @@
+{
+    "data": [
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "author_id": "1021954142871248896",
+            "source": "Twitter for iPhone",
+            "text": "Our Graduate Retail and Hospitality Association is excited to announce... A POP-UP SHOP! The officers for this organization went to Magic Buying Convention in Las Vegas to curate products so they could return and sell them at a pop-up shop here on campus. \n\n👛 Retail Therapy https://t.co/enR6tevUYZ",
+            "lang": "en",
+            "attachments": {
+                "media_keys": [
+                    "3_1169304423593439232"
+                ]
+            },
+            "id": "1169304431638327296",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 275,
+                        "end": 298,
+                        "url": "https://t.co/enR6tevUYZ",
+                        "expanded_url": "https://twitter.com/ttuhrm/status/1169304431638327296/photo/1",
+                        "display_url": "pic.twitter.com/enR6tevUYZ",
+                        "media_key": "3_1169304423593439232"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 24,
+                        "end": 46,
+                        "probability": 0.4164,
+                        "type": "Organization",
+                        "normalized_text": "Hospitality Association"
+                    },
+                    {
+                        "start": 159,
+                        "end": 167,
+                        "probability": 0.9797,
+                        "type": "Place",
+                        "normalized_text": "Las Vegas"
+                    }
+                ]
+            },
+            "created_at": "2019-09-04T17:41:15.000Z",
+            "geo": {
+                "place_id": "3f3f6803f117606d"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 11,
+                "quote_count": 0
+            },
+            "author_id": "629782222",
+            "source": "Twitter for iPhone",
+            "text": "Me: “here’s full payment for four (4) sessions a week for the next six (6) weeks”\nTherapist: “are you sure you wanna pay all this upfront?”\nMe, rapid-cycling, writing my dissertation, and trying to find a job: https://t.co/FP1jSoUFJA",
+            "lang": "en",
+            "attachments": {
+                "media_keys": [
+                    "16_1169300433958928384"
+                ]
+            },
+            "id": "1169300440678166528",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 210,
+                        "end": 233,
+                        "url": "https://t.co/FP1jSoUFJA",
+                        "expanded_url": "https://twitter.com/lumosexualtrash/status/1169300440678166528/photo/1",
+                        "display_url": "pic.twitter.com/FP1jSoUFJA",
+                        "media_key": "16_1169300433958928384"
+                    }
+                ]
+            },
+            "created_at": "2019-09-04T17:25:24.000Z",
+            "geo": {
+                "place_id": "e4a0d228eb6be76b"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "634949772",
+            "source": "Twitter for iPhone",
+            "text": "From what I can find, most of the lit. on COs seems to be focused on job level stress, satisfaction, health outcomes etc. with some org. Studies so I’d really appreciate any advice or pointers! #soctwitter #criminologytwitter #academictwitter #econtwitter https://t.co/SBsPA6lcCH",
+            "lang": "en",
+            "id": "1169295743913529345",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 256,
+                        "end": 279,
+                        "url": "https://t.co/SBsPA6lcCH",
+                        "expanded_url": "https://twitter.com/emilymmooney/status/1169295021738213378",
+                        "display_url": "twitter.com/emilymmooney/s…"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 194,
+                        "end": 205,
+                        "tag": "soctwitter"
+                    },
+                    {
+                        "start": 206,
+                        "end": 225,
+                        "tag": "criminologytwitter"
+                    },
+                    {
+                        "start": 226,
+                        "end": 242,
+                        "tag": "academictwitter"
+                    },
+                    {
+                        "start": 243,
+                        "end": 255,
+                        "tag": "econtwitter"
+                    }
+                ]
+            },
+            "created_at": "2019-09-04T17:06:44.000Z",
+            "geo": {
+                "place_id": "01fbe706f872cb32"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 3,
+                "like_count": 23,
+                "quote_count": 0
+            },
+            "author_id": "1020091683008962560",
+            "source": "Twitter for iPhone",
+            "text": "Academia gripe: I had a manuscript drag for nearly 4 years that I finally submitted a while ago, only for it to be stuck in review for months. I’ll probably get proofs sent to my headstone when I eventually die of anxiety.",
+            "lang": "en",
+            "id": "1169287857271275521",
+            "created_at": "2019-09-04T16:35:24.000Z",
+            "geo": {
+                "place_id": "4fa26391b5034d2e"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "261324907",
+            "source": "Twitter for iPhone",
+            "text": "We come together in fellowship to celebrate stigma #FAITHUSCA #USCA2019",
+            "lang": "en",
+            "id": "1169272096565993472",
+            "created_at": "2019-09-04T15:32:46.000Z",
+            "geo": {
+                "place_id": "01fbe706f872cb32"
+            },
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 51,
+                        "end": 61,
+                        "tag": "FAITHUSCA"
+                    },
+                    {
+                        "start": 62,
+                        "end": 71,
+                        "tag": "USCA2019"
+                    }
+                ]
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 6,
+                "quote_count": 0
+            },
+            "author_id": "816459882",
+            "source": "Twitter for iPhone",
+            "text": "trying to pick the right graduate schools &amp; programs to apply to is stressful 😭",
+            "lang": "en",
+            "id": "1169269114457722883",
+            "created_at": "2019-09-04T15:20:55.000Z",
+            "geo": {
+                "place_id": "5635c19c2b5078d1"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 8,
+                "reply_count": 9,
+                "like_count": 112,
+                "quote_count": 1
+            },
+            "author_id": "390663927",
+            "source": "Twitter for iPhone",
+            "text": "#dearworld I feel I have to put on masks because: mediocre student, med school reject, barely finished PhD, anxiety, introverted, heteronormative, binary society, don't dress or look like pros. I have imposter syndrome. I AM NOT A FAKE. I’m a unicorn and I’m SLAYING it! #tcnj https://t.co/ExHaLyn3j4",
+            "lang": "en",
+            "attachments": {
+                "media_keys": [
+                    "3_1169258458119622656"
+                ]
+            },
+            "id": "1169258461768691712",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 277,
+                        "end": 300,
+                        "url": "https://t.co/ExHaLyn3j4",
+                        "expanded_url": "https://twitter.com/drbennyc/status/1169258461768691712/photo/1",
+                        "display_url": "pic.twitter.com/ExHaLyn3j4",
+                        "media_key": "3_1169258458119622656"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "tag": "dearworld"
+                    },
+                    {
+                        "start": 271,
+                        "end": 276,
+                        "tag": "tcnj"
+                    }
+                ]
+            },
+            "created_at": "2019-09-04T14:38:35.000Z",
+            "geo": {
+                "place_id": "dd5e0979537f80a0"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 6,
+                "quote_count": 0
+            },
+            "author_id": "3530970674",
+            "source": "Twitter for iPhone",
+            "text": "9/4 #authorconfession\nCall me crazy, but the school on My Hero Academia looks fun. #WonderWhatMyQuirkWouldBe https://t.co/q2ZG3dUoLK",
+            "lang": "en",
+            "attachments": {
+                "media_keys": [
+                    "16_1169258448338309120"
+                ]
+            },
+            "id": "1169258455359582208",
+            "in_reply_to_user_id": "3530970674",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 109,
+                        "end": 132,
+                        "url": "https://t.co/q2ZG3dUoLK",
+                        "expanded_url": "https://twitter.com/DMichaelswrites/status/1169258455359582208/photo/1",
+                        "display_url": "pic.twitter.com/q2ZG3dUoLK",
+                        "media_key": "16_1169258448338309120"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 4,
+                        "end": 21,
+                        "tag": "authorconfession"
+                    },
+                    {
+                        "start": 83,
+                        "end": 108,
+                        "tag": "WonderWhatMyQuirkWouldBe"
+                    }
+                ]
+            },
+            "created_at": "2019-09-04T14:38:34.000Z",
+            "geo": {
+                "place_id": "013379ee5729a5e6"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 14,
+                "quote_count": 0
+            },
+            "author_id": "786345790419578881",
+            "source": "Twitter for iPhone",
+            "text": "I ~officially~ started studying for my oral exams today and my nephew started kindergarten! Crazy to think that’s he’s just beginning his academic journey and I’m working on my terminal degree",
+            "lang": "en",
+            "id": "1169255798842810369",
+            "created_at": "2019-09-04T14:28:00.000Z",
+            "geo": {
+                "place_id": "22e428031e9e3049"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 11,
+                "quote_count": 0
+            },
+            "author_id": "411070452",
+            "source": "Twitter for Android",
+            "text": "my brain stopped accessing restful sleep in college, regardless of how long i sleep. chronic drowsiness severely disrupts my academic/day work. i think abt how my body *insists* on disengaging w work that caused years of sleep deprivation (brain degeneration), anxiety, depression",
+            "lang": "en",
+            "id": "1169244474737942530",
+            "in_reply_to_user_id": "411070452",
+            "created_at": "2019-09-04T13:43:00.000Z",
+            "geo": {
+                "place_id": "fc7c2e706034396b"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 3,
+                "like_count": 13,
+                "quote_count": 2
+            },
+            "author_id": "951925479983890432",
+            "source": "Twitter for iPhone",
+            "text": "There have been a couple of times when I've sent a out a critical analysis of academia, usually in a moment of pain or frustration. (1/3)",
+            "lang": "en",
+            "id": "1169239329517867008",
+            "created_at": "2019-09-04T13:22:34.000Z",
+            "geo": {
+                "place_id": "944c03c1d85ef480"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 7,
+                "quote_count": 0
+            },
+            "author_id": "842087641017384960",
+            "source": "Twitter for iPhone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 251,
+                        "end": 253,
+                        "username": "_",
+                        "id": "1318181"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 268,
+                        "end": 276,
+                        "probability": 0.6885,
+                        "type": "Product",
+                        "normalized_text": "Instagram"
+                    }
+                ]
+            },
+            "text": "So my bffdad came up with the idea that I should make a “BODY BY KASH”fitness page since when I graduate college, Ill get closer to accomplishing my dream of becoming a personal fitness trainer/model/ fitness therapist.❤️folllow my fitness page on ig @_.bodybykash on Instagram!!!",
+            "lang": "en",
+            "id": "1169237544770383873",
+            "created_at": "2019-09-04T13:15:28.000Z",
+            "geo": {
+                "place_id": "28df0fa3673b5b49"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "911405844",
+            "source": "Twitter for iPhone",
+            "text": "Doctorate and you worried about these hoes... https://t.co/Ha4YqxaQbp",
+            "lang": "en",
+            "id": "1169224166316355590",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 46,
+                        "end": 69,
+                        "url": "https://t.co/Ha4YqxaQbp",
+                        "expanded_url": "https://t.co/Ha4YqxaQbp",
+                        "display_url": "t.co/Ha4YqxaQbp"
+                    }
+                ]
+            },
+            "created_at": "2019-09-04T12:22:19.000Z",
+            "geo": {
+                "place_id": "276336654aa4f87a"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "550608090",
+            "source": "Twitter for iPhone",
+            "text": "Yo I’m sorry it was sad girl hours but I got a thesis to write 🥵",
+            "lang": "en",
+            "id": "1169155995437817857",
+            "in_reply_to_user_id": "550608090",
+            "created_at": "2019-09-04T07:51:25.000Z",
+            "geo": {
+                "place_id": "5ef5b7f391e30aff"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 9,
+                "quote_count": 0
+            },
+            "author_id": "2231806392",
+            "source": "Twitter for iPhone",
+            "text": "Completed my first class as a graduate student and sis lemme tell you I want to cry, eat, sleep and scream all at the same time",
+            "lang": "en",
+            "id": "1169110517559910401",
+            "created_at": "2019-09-04T04:50:43.000Z",
+            "geo": {
+                "place_id": "5e4b6834e36e68fa"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "author_id": "1444811",
+            "source": "Instagram",
+            "text": "“If you told me two years ago where I’d be in my faith today, I would’ve said, ‘That’s not me, you’re crazy!’ I walked through the doors of Fellowship Church with a heart full of guilt, fear and brokenness. I learned… https://t.co/YpEaASW7fE",
+            "lang": "en",
+            "id": "1169076108899364865",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 218,
+                        "end": 241,
+                        "url": "https://t.co/YpEaASW7fE",
+                        "expanded_url": "https://www.instagram.com/p/B1-L8O1B6_D/?igshid=u90xvuzscglr",
+                        "display_url": "instagram.com/p/B1-L8O1B6_D/…"
+                    }
+                ]
+            },
+            "created_at": "2019-09-04T02:33:59.000Z",
+            "geo": {
+                "place_id": "28edff73b28c1a74",
+                "coordinates": {
+                    "type": "Point",
+                    "coordinates": [
+                        -80.30302,
+                        25.7044
+                    ]
+                }
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 1,
+                "like_count": 6,
+                "quote_count": 0
+            },
+            "author_id": "1093353697986236416",
+            "source": "Twitter for Android",
+            "text": "Teaching discussion sections for neurobiology of stress this semester and looking for some ideas - I want to start each class with a 3 min activity promoting stress relief/relaxation/mindfulness. What do you think would be fun and inclusive for all? #phdchat #academictwitter",
+            "lang": "en",
+            "id": "1169066142972829696",
+            "created_at": "2019-09-04T01:54:23.000Z",
+            "geo": {
+                "place_id": "ab2f2fac83aa388d"
+            },
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 250,
+                        "end": 258,
+                        "tag": "phdchat"
+                    },
+                    {
+                        "start": 259,
+                        "end": 275,
+                        "tag": "academictwitter"
+                    }
+                ]
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "author_id": "1427981983",
+            "source": "Twitter for iPhone",
+            "text": "Still think it’s crazy that I’m so much more stress free working two jobs then going to school and working a part time job. \n\nIM READY TO GRADUATE!!!",
+            "lang": "en",
+            "id": "1169058686632939523",
+            "created_at": "2019-09-04T01:24:45.000Z",
+            "geo": {
+                "place_id": "67b98f17fdcf20be"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 11,
+                "quote_count": 0
+            },
+            "author_id": "586821917",
+            "source": "Twitter for iPhone",
+            "text": "Bailey and I wanted to plan a little trip for the end of the year after I graduate, nothing crazy. And then oops we’re on apple vacations looking at Cabo",
+            "lang": "en",
+            "id": "1169053111828307969",
+            "created_at": "2019-09-04T01:02:36.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 5,
+                        "probability": 0.9618,
+                        "type": "Person",
+                        "normalized_text": "Bailey"
+                    },
+                    {
+                        "start": 122,
+                        "end": 126,
+                        "probability": 0.6751,
+                        "type": "Organization",
+                        "normalized_text": "apple"
+                    },
+                    {
+                        "start": 149,
+                        "end": 152,
+                        "probability": 0.6036,
+                        "type": "Place",
+                        "normalized_text": "Cabo"
+                    }
+                ]
+            },
+            "geo": {
+                "place_id": "2c8ced473810bde2"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "439761854",
+            "source": "Twitter for Android",
+            "text": "Grateful for the run. Yeahh\n\n#dedication #happyplace #running #selflove #selfcare #relationshipwithmyself #thegoodlife #phdlife #phD #phdchat #mentalhealth #mytherapy #runningman #thankful https://t.co/IjDvDkLyUr",
+            "lang": "en",
+            "attachments": {
+                "media_keys": [
+                    "3_1169028386909556736"
+                ]
+            },
+            "id": "1169028393242976256",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 189,
+                        "end": 212,
+                        "url": "https://t.co/IjDvDkLyUr",
+                        "expanded_url": "https://twitter.com/Janvierick/status/1169028393242976256/photo/1",
+                        "display_url": "pic.twitter.com/IjDvDkLyUr",
+                        "media_key": "3_1169028386909556736"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 29,
+                        "end": 40,
+                        "tag": "dedication"
+                    },
+                    {
+                        "start": 41,
+                        "end": 52,
+                        "tag": "happyplace"
+                    },
+                    {
+                        "start": 53,
+                        "end": 61,
+                        "tag": "running"
+                    },
+                    {
+                        "start": 62,
+                        "end": 71,
+                        "tag": "selflove"
+                    },
+                    {
+                        "start": 72,
+                        "end": 81,
+                        "tag": "selfcare"
+                    },
+                    {
+                        "start": 82,
+                        "end": 105,
+                        "tag": "relationshipwithmyself"
+                    },
+                    {
+                        "start": 106,
+                        "end": 118,
+                        "tag": "thegoodlife"
+                    },
+                    {
+                        "start": 119,
+                        "end": 127,
+                        "tag": "phdlife"
+                    },
+                    {
+                        "start": 128,
+                        "end": 132,
+                        "tag": "phD"
+                    },
+                    {
+                        "start": 133,
+                        "end": 141,
+                        "tag": "phdchat"
+                    },
+                    {
+                        "start": 142,
+                        "end": 155,
+                        "tag": "mentalhealth"
+                    },
+                    {
+                        "start": 156,
+                        "end": 166,
+                        "tag": "mytherapy"
+                    },
+                    {
+                        "start": 167,
+                        "end": 178,
+                        "tag": "runningman"
+                    },
+                    {
+                        "start": 179,
+                        "end": 188,
+                        "tag": "thankful"
+                    }
+                ]
+            },
+            "created_at": "2019-09-03T23:24:23.000Z",
+            "geo": {
+                "place_id": "07d9f4ccfa888000"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "466742206",
+            "source": "Twitter for iPhone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "autchatmod",
+                        "id": "845851488798806017"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 209,
+                        "end": 217,
+                        "tag": "autchat"
+                    }
+                ]
+            },
+            "text": "@autchatmod A0. I have not commented yet. So I will do that now.\n\nI have a clinical doctorate degree in occupational therapy. Issue of accommodation didn’t come up until I started my second year of OT school. #autchat",
+            "lang": "en",
+            "id": "1169015423905468418",
+            "in_reply_to_user_id": "845851488798806017",
+            "created_at": "2019-09-03T22:32:50.000Z",
+            "geo": {
+                "place_id": "e6fc035b8939bd3b"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 5,
+                "quote_count": 0
+            },
+            "author_id": "1069971389271212033",
+            "source": "Twitter for iPhone",
+            "text": "Crazy to think I don’t go here no more. College is gr8 tho/ GRADUATE, Do your thing guys- best of luck this school year 🥳 https://t.co/hkTCbmQJbH",
+            "lang": "en",
+            "id": "1168996793302081536",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 122,
+                        "end": 145,
+                        "url": "https://t.co/hkTCbmQJbH",
+                        "expanded_url": "https://twitter.com/SSICPDaily/status/1168995507953381384",
+                        "display_url": "twitter.com/SSICPDaily/sta…"
+                    }
+                ]
+            },
+            "created_at": "2019-09-03T21:18:49.000Z",
+            "geo": {
+                "place_id": "19a69af030945159"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "78298792",
+            "source": "Instagram",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 4,
+                        "end": 10,
+                        "username": "oofos",
+                        "id": "293717217"
+                    },
+                    {
+                        "start": 52,
+                        "end": 60,
+                        "username": "__LBell",
+                        "id": "422942596"
+                    },
+                    {
+                        "start": 188,
+                        "end": 202,
+                        "username": "FPUAdmissions",
+                        "id": "1688889032"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 216,
+                        "end": 239,
+                        "url": "https://t.co/8Z4L7Dr5lp",
+                        "expanded_url": "https://www.instagram.com/p/B19jBVljstj/?igshid=1g8d9vn5tn8sw",
+                        "display_url": "instagram.com/p/B19jBVljstj/…"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 38,
+                        "end": 49,
+                        "probability": 0.9575,
+                        "type": "Person",
+                        "normalized_text": "Luke Bellone"
+                    },
+                    {
+                        "start": 160,
+                        "end": 185,
+                        "probability": 0.542,
+                        "type": "Place",
+                        "normalized_text": "Franklin Pierce University"
+                    }
+                ]
+            },
+            "text": "Our @oofos Coach of the Month goes to Luke Bellone (@__LBell)!\n_\nHe’s been with us for two years. He left recently to pursue a doctorate in physical therapy at Franklin Pierce University (@FPUAdmissions). \n_\nHe was… https://t.co/8Z4L7Dr5lp",
+            "lang": "en",
+            "id": "1168977184884744193",
+            "created_at": "2019-09-03T20:00:54.000Z",
+            "geo": {
+                "place_id": "0076b02b6735774e",
+                "coordinates": {
+                    "type": "Point",
+                    "coordinates": [
+                        -70.98133644,
+                        42.59635083
+                    ]
+                }
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "author_id": "2551475654",
+            "source": "Twitter for iPhone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 16,
+                        "username": "merced3stristan",
+                        "id": "757018420269289472"
+                    }
+                ]
+            },
+            "text": "@merced3stristan I felt that. Tell me why my last semester psych professor preached about mental health but assigned the work of a graduate program",
+            "lang": "en",
+            "id": "1168976271310819330",
+            "in_reply_to_user_id": "757018420269289472",
+            "created_at": "2019-09-03T19:57:16.000Z",
+            "geo": {
+                "place_id": "2fd93ef04260afec"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "author_id": "728911064",
+            "source": "Instagram",
+            "text": "After watching many of our sisters graduate MOHO and proceed to live their best lives. I’m proud to say it’s finally our turn. \nPersonally, I don’t know how to feel. I’m happy, sad, hyped and shocked that all this… https://t.co/yoF6RdLBZE",
+            "lang": "en",
+            "id": "1168971999542165505",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 215,
+                        "end": 238,
+                        "url": "https://t.co/yoF6RdLBZE",
+                        "expanded_url": "https://www.instagram.com/p/B19gxb2JSuy/?igshid=1kyp42e7n7kwo",
+                        "display_url": "instagram.com/p/B19gxb2JSuy/…"
+                    }
+                ]
+            },
+            "created_at": "2019-09-03T19:40:17.000Z",
+            "geo": {
+                "place_id": "0131769e74c6b611",
+                "coordinates": {
+                    "type": "Point",
+                    "coordinates": [
+                        -72.57439927,
+                        42.25641252
+                    ]
+                }
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 8,
+                "quote_count": 0
+            },
+            "author_id": "327638277",
+            "source": "Twitter for iPhone",
+            "text": "It’s my senior year and I graduate a year earlier than all my friends so if you mention it to me I’ll probs cry so please don’t say a word thanks",
+            "lang": "en",
+            "id": "1168965422441476096",
+            "created_at": "2019-09-03T19:14:09.000Z",
+            "geo": {
+                "place_id": "8e9665cec9370f0f"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "144268735",
+            "source": "Twitter for iPhone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "PhD_Barbie",
+                        "id": "176502701"
+                    }
+                ]
+            },
+            "text": "@PhD_Barbie Exactly. At least the crib wasn’t destroyed. They crazy part is, I still had my window open 🤦🏾‍♂️",
+            "lang": "en",
+            "id": "1168964693228175361",
+            "in_reply_to_user_id": "176502701",
+            "created_at": "2019-09-03T19:11:15.000Z",
+            "geo": {
+                "place_id": "76cec30d4c553725"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "900011973085200384",
+            "source": "Instagram",
+            "text": "Good Luck to everyone on the first day of classes! Remember if you are feeling nervous or stressed, the Academic Success Center is the place to be! Check us out on the 3rd floor of McQuade Library 🤓 @ McQuade… https://t.co/xnvhCxerwV",
+            "lang": "en",
+            "id": "1168946540695740417",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 210,
+                        "end": 233,
+                        "url": "https://t.co/xnvhCxerwV",
+                        "expanded_url": "https://www.instagram.com/p/B19VNACHxAg/?igshid=1fbtq1eucdyct",
+                        "display_url": "instagram.com/p/B19VNACHxAg/…",
+                        "status": 200,
+                        "unwound_url": "https://www.instagram.com/p/B19VNACHxAg/?igshid=1fbtq1eucdyct"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 104,
+                        "end": 126,
+                        "probability": 0.8312,
+                        "type": "Organization",
+                        "normalized_text": "Academic Success Center"
+                    },
+                    {
+                        "start": 181,
+                        "end": 195,
+                        "probability": 0.3825,
+                        "type": "Place",
+                        "normalized_text": "McQuade Library"
+                    }
+                ]
+            },
+            "created_at": "2019-09-03T17:59:07.000Z",
+            "geo": {
+                "place_id": "011ee6260843afea",
+                "coordinates": {
+                    "type": "Point",
+                    "coordinates": [
+                        -71.12244696,
+                        42.66993552
+                    ]
+                }
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "author_id": "909953407468888066",
+            "source": "Twitter for iPhone",
+            "text": "When you’re worried about running late on the first day of your new job but you’re the first one to arrive. 😅 #postdoc",
+            "lang": "en",
+            "id": "1168910144106901504",
+            "created_at": "2019-09-03T15:34:30.000Z",
+            "geo": {
+                "place_id": "3b77caf94bfc81fe"
+            },
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 110,
+                        "end": 118,
+                        "tag": "postdoc"
+                    }
+                ]
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "author_id": "3572952857",
+            "source": "Twitter for iPhone",
+            "text": "also, having access to high-quality health care (mental and physical) whenever i want is something that’s unfathomable to me. \n\ni waited 2 years to see a dr (or therapist) into my phd because i wasn’t sure how it worked &amp; how much i’d have to pay. \n\nlearn and use the insurance",
+            "lang": "en",
+            "id": "1168888218303049729",
+            "in_reply_to_user_id": "3572952857",
+            "created_at": "2019-09-03T14:07:22.000Z",
+            "geo": {
+                "place_id": "6417871953fa5e86"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "author_id": "35563674",
+            "source": "Twitter for Android",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "username": "RPhdeal",
+                        "id": "1140228509509586944"
+                    },
+                    {
+                        "start": 9,
+                        "end": 25,
+                        "username": "AcademicChatter",
+                        "id": "885953601067208705"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 205,
+                        "end": 213,
+                        "tag": "phdchat"
+                    },
+                    {
+                        "start": 214,
+                        "end": 222,
+                        "tag": "phdchat"
+                    }
+                ]
+            },
+            "text": "@RPhdeal @AcademicChatter I think of my  PhD journey as a job and in many ways it is less and more  stressful than the work I did before I started.  Although there is more at stake personally for me now.  #phdchat #phdchat",
+            "lang": "en",
+            "id": "1168884872418615296",
+            "in_reply_to_user_id": "1140228509509586944",
+            "created_at": "2019-09-03T13:54:05.000Z",
+            "geo": {
+                "place_id": "00820730610c5d6e"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "author_id": "1145443307411181569",
+            "source": "Twitter for iPhone",
+            "text": "it’s so crazy to think that the little kids i babysit are gonna graduate high school in 2031 and 2037 🙃🙃",
+            "lang": "en",
+            "id": "1168732702423617536",
+            "created_at": "2019-09-03T03:49:24.000Z",
+            "geo": {
+                "place_id": "e0060cda70f5f341"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "author_id": "2549112632",
+            "source": "Twitter for Android",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "THINK_PhD",
+                        "id": "217123104"
+                    }
+                ]
+            },
+            "text": "@THINK_PhD Crazy irresponsible",
+            "lang": "en",
+            "id": "1168701111580143617",
+            "in_reply_to_user_id": "217123104",
+            "created_at": "2019-09-03T01:43:53.000Z",
+            "geo": {
+                "place_id": "c3f37afa9efcf94b"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "author_id": "714485611",
+            "source": "Twitter for iPhone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "lakeya_cherry",
+                        "id": "127334236"
+                    }
+                ]
+            },
+            "text": "@lakeya_cherry I remember this detail clearly after my MSW and my PhD...I read fiction like crazy!!!",
+            "lang": "en",
+            "id": "1168675432574717952",
+            "in_reply_to_user_id": "127334236",
+            "created_at": "2019-09-03T00:01:50.000Z",
+            "geo": {
+                "place_id": "eee93ad4a5826992"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 11,
+                "quote_count": 0
+            },
+            "author_id": "923213614235955200",
+            "source": "Twitter for iPhone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 250,
+                        "end": 259,
+                        "username": "TWUHDFSC",
+                        "id": "1167258916654391296"
+                    },
+                    {
+                        "start": 260,
+                        "end": 268,
+                        "username": "TWUCOPE",
+                        "id": "3311494068"
+                    },
+                    {
+                        "start": 269,
+                        "end": 278,
+                        "username": "txwomans",
+                        "id": "50088445"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 198,
+                        "end": 221,
+                        "url": "https://t.co/uVzyaGERTO",
+                        "expanded_url": "https://twu.edu/family-sciences/graduate-programs/family-therapy/",
+                        "display_url": "twu.edu/family-science…"
+                    },
+                    {
+                        "start": 279,
+                        "end": 302,
+                        "url": "https://t.co/7tW8awAgtn",
+                        "expanded_url": "https://twitter.com/TWUCOPEDean/status/1168643670788231170/photo/1",
+                        "display_url": "pic.twitter.com/7tW8awAgtn",
+                        "media_key": "3_1168643665792815106"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 59,
+                        "end": 63,
+                        "probability": 0.82,
+                        "type": "Place",
+                        "normalized_text": "Texas"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 162,
+                        "end": 172,
+                        "tag": "therapist"
+                    },
+                    {
+                        "start": 179,
+                        "end": 188,
+                        "tag": "BoldlyGo"
+                    },
+                    {
+                        "start": 222,
+                        "end": 229,
+                        "tag": "TWUMFT"
+                    },
+                    {
+                        "start": 230,
+                        "end": 238,
+                        "tag": "AAMFT19"
+                    },
+                    {
+                        "start": 240,
+                        "end": 249,
+                        "tag": "TXwomans"
+                    }
+                ]
+            },
+            "text": "Such an amazing group of faculty and students representing Texas Woman’s University at the American Association of Marriage and Family Therapy.  Want to become a #therapist? Then #BoldlyGo with us! https://t.co/uVzyaGERTO #TWUMFT #AAMFT19  #TXwomans @TWUHDFSC @TWUCOPE @txwomans https://t.co/7tW8awAgtn",
+            "lang": "en",
+            "attachments": {
+                "media_keys": [
+                    "3_1168643665792815106"
+                ]
+            },
+            "id": "1168643670788231170",
+            "created_at": "2019-09-02T21:55:38.000Z",
+            "geo": {
+                "place_id": "f77b0bf942a40070"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "21135703",
+            "source": "Twitter for iPhone",
+            "text": "So sorry for the loss of your brother, Andrew. I’ve written about suicide and believe it is an epidemic we’re ignoring. Good luck in your graduate studies. Your work is needed ✨ https://t.co/dOu1MTrFHI",
+            "lang": "en",
+            "id": "1168622815999774720",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 178,
+                        "end": 201,
+                        "url": "https://t.co/dOu1MTrFHI",
+                        "expanded_url": "https://twitter.com/AndrewDevendorf/status/1168268401384534016",
+                        "display_url": "twitter.com/AndrewDevendor…"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 39,
+                        "end": 44,
+                        "probability": 0.9765,
+                        "type": "Person",
+                        "normalized_text": "Andrew"
+                    }
+                ]
+            },
+            "created_at": "2019-09-02T20:32:45.000Z",
+            "geo": {
+                "place_id": "d950fc7dc2cd14f9"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "969633182906757121",
+            "source": "Twitter for Android",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "NicSaldias",
+                        "id": "2528691002"
+                    }
+                ]
+            },
+            "text": "@NicSaldias Except in democracies with voting populaces who lack academic economic formations, shock therapy can't win elections",
+            "lang": "en",
+            "id": "1168586244831481856",
+            "in_reply_to_user_id": "2528691002",
+            "created_at": "2019-09-02T18:07:26.000Z",
+            "geo": {
+                "place_id": "67b98f17fdcf20be"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "254791401",
+            "source": "SoundHound",
+            "text": "Therapy for the soul. Be and stay blessed. 😘😘 – ♫Graduate by @3eb, from #SoundHound with LiveLyrics® https://t.co/F4xP8wH6c3",
+            "lang": "en",
+            "id": "1168583119693209600",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 101,
+                        "end": 124,
+                        "url": "https://t.co/F4xP8wH6c3",
+                        "expanded_url": "http://soundhound.com/?t=100277706443332136",
+                        "display_url": "soundhound.com/?t=10027770644…"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 72,
+                        "end": 83,
+                        "tag": "SoundHound"
+                    }
+                ]
+            },
+            "created_at": "2019-09-02T17:55:01.000Z",
+            "geo": {
+                "place_id": "1994142e26ba7127"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "author_id": "431091642",
+            "source": "Twitter for iPhone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 75,
+                        "end": 84,
+                        "username": "kayeager",
+                        "id": "155659806"
+                    },
+                    {
+                        "start": 85,
+                        "end": 94,
+                        "username": "EmoryONR",
+                        "id": "1564036711"
+                    },
+                    {
+                        "start": 95,
+                        "end": 108,
+                        "username": "EmoryNursing",
+                        "id": "488040421"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 51,
+                        "end": 74,
+                        "url": "https://t.co/1MRb6GJx2d",
+                        "expanded_url": "https://www.nature.com/articles/d41586-019-02584-7",
+                        "display_url": "nature.com/articles/d4158…",
+                        "status": 200,
+                        "unwound_url": "https://www.nature.com/articles/d41586-019-02584-7?error=cookies_not_supported&code=ae5acdf3-345c-4805-98e4-0b5baaa5d093"
+                    }
+                ]
+            },
+            "text": "A better future for graduate-student mental health https://t.co/1MRb6GJx2d @kayeager @EmoryONR @EmoryNursing",
+            "lang": "en",
+            "id": "1168572899508269061",
+            "created_at": "2019-09-02T17:14:24.000Z",
+            "geo": {
+                "place_id": "e5797011cad97adf"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 8,
+                "quote_count": 0
+            },
+            "author_id": "1057652158898864128",
+            "source": "Twitter for iPhone",
+            "text": "y’all... graduating a year early and preparing to go grad school right after to get a DOCTORATE is stressful 👩🏾‍⚕️ #prayforme   #BlackExcellence",
+            "lang": "en",
+            "id": "1168560206546120705",
+            "created_at": "2019-09-02T16:23:58.000Z",
+            "geo": {
+                "place_id": "07d9c953e2c88001"
+            },
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 115,
+                        "end": 125,
+                        "tag": "prayforme"
+                    },
+                    {
+                        "start": 128,
+                        "end": 144,
+                        "tag": "BlackExcellence"
+                    }
+                ]
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "102689724",
+            "source": "Instagram",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 23,
+                        "end": 34,
+                        "username": "AdamBorics",
+                        "id": "2821208619"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 217,
+                        "end": 240,
+                        "url": "https://t.co/9NeXVQJy6C",
+                        "expanded_url": "https://www.instagram.com/p/B16RSBGnZN9/?igshid=19k67an2ri3vq",
+                        "display_url": "instagram.com/p/B16RSBGnZN9/…"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 11,
+                        "end": 21,
+                        "tag": "BREAKDOWN"
+                    },
+                    {
+                        "start": 58,
+                        "end": 63,
+                        "tag": "BINK"
+                    }
+                ]
+            },
+            "text": "One Minute #BREAKDOWN: @adamborics - ANOTHER CRAZY FLYING #BINK!!!\n.\nTHESIS: The Brain will Perform the way it’s been Programmed to Perform if the Artist is in an Optimal State of Focus and Arousal. \n.\nOften we want… https://t.co/9NeXVQJy6C",
+            "lang": "en",
+            "id": "1168529504362532872",
+            "created_at": "2019-09-02T14:21:58.000Z",
+            "geo": {
+                "place_id": "7d62cffe6f98f349",
+                "coordinates": {
+                    "type": "Point",
+                    "coordinates": [
+                        -121.8865,
+                        37.3376
+                    ]
+                }
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "author_id": "2884628733",
+            "source": "Instagram",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 95,
+                        "end": 106,
+                        "username": "FLSouthern",
+                        "id": "37688922"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 182,
+                        "end": 205,
+                        "url": "https://t.co/tT926uesRh",
+                        "expanded_url": "https://www.instagram.com/p/B16V0G8nOjE/?igshid=2dweais40npl",
+                        "display_url": "instagram.com/p/B16V0G8nOjE/…"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 43,
+                        "probability": 0.1055,
+                        "type": "Organization",
+                        "normalized_text": "The Jean and Sal Campisi Sr. Academic Center"
+                    },
+                    {
+                        "start": 69,
+                        "end": 82,
+                        "probability": 0.8475,
+                        "type": "Place",
+                        "normalized_text": "Florida Avenue"
+                    },
+                    {
+                        "start": 157,
+                        "end": 180,
+                        "probability": 0.735,
+                        "type": "Organization",
+                        "normalized_text": "Florida Southern College"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 149,
+                        "end": 154,
+                        "tag": "lkld"
+                    }
+                ]
+            },
+            "text": "The Jean and Sal Campisi Sr. Academic Center for Physical Therapy on Florida Avenue is home of @FLSouthern’s new doctor of physical therapy program. #lkld @ Florida Southern College https://t.co/tT926uesRh",
+            "lang": "en",
+            "id": "1168525673457180673",
+            "created_at": "2019-09-02T14:06:45.000Z",
+            "geo": {
+                "place_id": "3f7a925ec706ea48",
+                "coordinates": {
+                    "type": "Point",
+                    "coordinates": [
+                        -81.94634802,
+                        28.03042471
+                    ]
+                }
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "721498519945744384",
+            "source": "Twitter for Android",
+            "text": "I finally graduate community college and after dealing with drama for nearly 2 years I take a break from the source of my stress. And what happens when I get back from my vacation in Japan? I get told that some psycho bitch is talking shit about me",
+            "lang": "en",
+            "id": "1168495122901852166",
+            "in_reply_to_user_id": "721498519945744384",
+            "created_at": "2019-09-02T12:05:21.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 183,
+                        "end": 187,
+                        "probability": 0.9898,
+                        "type": "Place",
+                        "normalized_text": "Japan"
+                    }
+                ]
+            },
+            "geo": {
+                "place_id": "00c39537733fa112"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 4,
+                "quote_count": 1
+            },
+            "author_id": "28771821",
+            "source": "Twitter for iPhone",
+            "text": "New study says graduate students' mental health is a https://t.co/I7nKr6Ns65",
+            "lang": "en",
+            "id": "1168275303380246528",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 53,
+                        "end": 76,
+                        "url": "https://t.co/I7nKr6Ns65",
+                        "expanded_url": "https://ihenow.com/2MWOC9h",
+                        "display_url": "ihenow.com/2MWOC9h"
+                    }
+                ]
+            },
+            "created_at": "2019-09-01T21:31:52.000Z",
+            "geo": {
+                "place_id": "d1cd39353c51904d"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 6,
+                "quote_count": 0
+            },
+            "author_id": "15757699",
+            "source": "Twitter for iPhone",
+            "text": "Let me state to the floor while I’m out here rapping and getting High online \nI am at all times researching and i read the fucking academic papers sad to say and stupid bootlegs of books on such things like the adoption of culture and median theory to state 1",
+            "lang": "en",
+            "id": "1168244282924290049",
+            "created_at": "2019-09-01T19:28:36.000Z",
+            "geo": {
+                "place_id": "3b77caf94bfc81fe"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 30,
+                "quote_count": 0
+            },
+            "author_id": "382893972",
+            "source": "Twitter for iPhone",
+            "text": "Going into another year of my #PhD studies this is how I’m feeling\n\nDoing a PhD can be very rough on #MentalHealth which is why it’s important to do #selfcare and maintain a good #WorkLifeBalance and therapy helps too\n\n#PhDBalance #PhDlife #phdchat #gradschool https://t.co/vKEqZchMew",
+            "lang": "en",
+            "attachments": {
+                "media_keys": [
+                    "16_1168229642228162560"
+                ]
+            },
+            "id": "1168229650629386243",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 261,
+                        "end": 284,
+                        "url": "https://t.co/vKEqZchMew",
+                        "expanded_url": "https://twitter.com/GregYoudan/status/1168229650629386243/photo/1",
+                        "display_url": "pic.twitter.com/vKEqZchMew",
+                        "media_key": "16_1168229642228162560"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 30,
+                        "end": 34,
+                        "tag": "PhD"
+                    },
+                    {
+                        "start": 101,
+                        "end": 114,
+                        "tag": "MentalHealth"
+                    },
+                    {
+                        "start": 149,
+                        "end": 158,
+                        "tag": "selfcare"
+                    },
+                    {
+                        "start": 179,
+                        "end": 195,
+                        "tag": "WorkLifeBalance"
+                    },
+                    {
+                        "start": 219,
+                        "end": 230,
+                        "tag": "PhDBalance"
+                    },
+                    {
+                        "start": 231,
+                        "end": 239,
+                        "tag": "PhDlife"
+                    },
+                    {
+                        "start": 240,
+                        "end": 248,
+                        "tag": "phdchat"
+                    },
+                    {
+                        "start": 249,
+                        "end": 260,
+                        "tag": "gradschool"
+                    }
+                ]
+            },
+            "created_at": "2019-09-01T18:30:28.000Z",
+            "geo": {
+                "place_id": "01a9a39529b27f36"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 2,
+                "like_count": 7,
+                "quote_count": 0
+            },
+            "author_id": "86511895",
+            "source": "Twitter for Android",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 204,
+                        "end": 220,
+                        "username": "Northwestern_IO",
+                        "id": "952075292"
+                    }
+                ]
+            },
+            "text": "I think she's a post doc or a graduate student. She's been here 5 months and has 7 more months to go. Anyway, was so sad to hear that. Must be so lonely. I suggested she check out activities organized by @Northwestern_IO. I hope she finds something fun to do with them.",
+            "lang": "en",
+            "id": "1168223156722688002",
+            "in_reply_to_user_id": "86511895",
+            "created_at": "2019-09-01T18:04:39.000Z",
+            "geo": {
+                "place_id": "1d9a5370a355ab0c"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 5,
+                "quote_count": 0
+            },
+            "author_id": "3363062727",
+            "source": "Twitter for iPhone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "RichDuszak",
+                        "id": "44143505"
+                    },
+                    {
+                        "start": 12,
+                        "end": 28,
+                        "username": "AugustineMKChoi",
+                        "id": "881909956089458688"
+                    },
+                    {
+                        "start": 293,
+                        "end": 303,
+                        "username": "jbcarmody",
+                        "id": "1597064766"
+                    }
+                ]
+            },
+            "text": "@RichDuszak @AugustineMKChoi “Medical schools should evaluate shifting to a pass-fail grading system. A major source of stress for medical students is academic. The competitive pressure to achieve top grades and honors runs directly counter to establishing healthy relationships among peers.” @jbcarmody",
+            "lang": "en",
+            "id": "1168173814531932160",
+            "in_reply_to_user_id": "44143505",
+            "created_at": "2019-09-01T14:48:35.000Z",
+            "geo": {
+                "place_id": "01bbe9ba4078361c"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "author_id": "846297468",
+            "source": "Twitter for Android",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "username": "jessfromonline",
+                        "id": "3184759329"
+                    }
+                ]
+            },
+            "text": "@jessfromonline I basically had a stress attack and snapped over this bullshit and next thing I knew I was (illegally!) vacated from the premises and disallowed all communications. They even shredded my academic records, which is a HUGE violation. 💦\n\nAnd I couldn't do a thing about it.",
+            "lang": "en",
+            "id": "1168173117845463040",
+            "in_reply_to_user_id": "846297468",
+            "created_at": "2019-09-01T14:45:49.000Z",
+            "geo": {
+                "place_id": "dd9c503d6c35364b"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 4,
+                "reply_count": 0,
+                "like_count": 9,
+                "quote_count": 0
+            },
+            "author_id": "879162210106220544",
+            "source": "Twitter for iPhone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 121,
+                        "end": 135,
+                        "username": "shawtyslikea_",
+                        "id": "1280958156810727424"
+                    },
+                    {
+                        "start": 255,
+                        "end": 271,
+                        "username": "MissUSAPageants",
+                        "id": "1537026524"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 163,
+                        "end": 186,
+                        "url": "https://t.co/Dr3UB7mNql",
+                        "expanded_url": "https://www.facebook.com/1473611936030938/posts/2525104887548299?sfns=mo",
+                        "display_url": "facebook.com/14736119360309…"
+                    },
+                    {
+                        "start": 203,
+                        "end": 226,
+                        "url": "https://t.co/p2xihbIQQc",
+                        "expanded_url": "https://instagram.com/p/B13ptXZgDUF/",
+                        "display_url": "instagram.com/p/B13ptXZgDUF/"
+                    },
+                    {
+                        "start": 272,
+                        "end": 295,
+                        "url": "https://t.co/DHu0o3vYq6",
+                        "expanded_url": "https://twitter.com/InspiringIranis/status/1168157253003644929/photo/1",
+                        "display_url": "pic.twitter.com/DHu0o3vYq6",
+                        "media_key": "3_1168157249090383873"
+                    },
+                    {
+                        "start": 272,
+                        "end": 295,
+                        "url": "https://t.co/DHu0o3vYq6",
+                        "expanded_url": "https://twitter.com/InspiringIranis/status/1168157253003644929/photo/1",
+                        "display_url": "pic.twitter.com/DHu0o3vYq6",
+                        "media_key": "3_1168157249081995265"
+                    },
+                    {
+                        "start": 272,
+                        "end": 295,
+                        "url": "https://t.co/DHu0o3vYq6",
+                        "expanded_url": "https://twitter.com/InspiringIranis/status/1168157253003644929/photo/1",
+                        "display_url": "pic.twitter.com/DHu0o3vYq6",
+                        "media_key": "3_1168157249090379776"
+                    },
+                    {
+                        "start": 272,
+                        "end": 295,
+                        "url": "https://t.co/DHu0o3vYq6",
+                        "expanded_url": "https://twitter.com/InspiringIranis/status/1168157253003644929/photo/1",
+                        "display_url": "pic.twitter.com/DHu0o3vYq6",
+                        "media_key": "3_1168157249077858304"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 77,
+                        "end": 99,
+                        "probability": 0.8596,
+                        "type": "Other",
+                        "normalized_text": "The Scent of the Clouds"
+                    },
+                    {
+                        "start": 104,
+                        "end": 118,
+                        "probability": 0.6508,
+                        "type": "Person",
+                        "normalized_text": "Melody Khosravi"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 236,
+                        "end": 254,
+                        "tag": "InspiringIranians"
+                    }
+                ]
+            },
+            "text": "PhD candidate in occupational therapy, Poet, Artist, Activist and Author of “The Scent of the Clouds” - Melody Khosravi (@ShawtysLikeA_) featured in our Facebook (https://t.co/Dr3UB7mNql) and Instagram (https://t.co/p2xihbIQQc) pages.\n\n#InspiringIranians @MissUSAPageants https://t.co/DHu0o3vYq6",
+            "lang": "en",
+            "attachments": {
+                "media_keys": [
+                    "3_1168157249090383873",
+                    "3_1168157249081995265",
+                    "3_1168157249090379776",
+                    "3_1168157249077858304"
+                ]
+            },
+            "id": "1168157253003644929",
+            "created_at": "2019-09-01T13:42:47.000Z",
+            "geo": {
+                "place_id": "3b77caf94bfc81fe"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 75,
+                "reply_count": 3,
+                "like_count": 201,
+                "quote_count": 4
+            },
+            "author_id": "19545932",
+            "source": "Twitter for iPhone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 101,
+                        "end": 108,
+                        "username": "AAIUSA",
+                        "id": "18021621"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 243,
+                        "end": 266,
+                        "url": "https://t.co/b3K4eQI6nt",
+                        "expanded_url": "https://twitter.com/maggieNYT/status/1167949075083218946",
+                        "display_url": "twitter.com/maggieNYT/stat…"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 73,
+                        "end": 85,
+                        "probability": 0.9806,
+                        "type": "Person",
+                        "normalized_text": "Joe Lieberman"
+                    },
+                    {
+                        "start": 118,
+                        "end": 125,
+                        "probability": 0.9082,
+                        "type": "Place",
+                        "normalized_text": "Dearborn"
+                    },
+                    {
+                        "start": 162,
+                        "end": 164,
+                        "probability": 0.793,
+                        "type": "Person",
+                        "normalized_text": "GWB"
+                    }
+                ]
+            },
+            "text": "Can’t stress this often enough: the *entire* Democratic field (including Joe Lieberman) spoke at the @AAIUSA forum in Dearborn in 2003, the first after 9/11, and GWB sent a top surrogate. A thesis can be written about what we lost since then. https://t.co/b3K4eQI6nt",
+            "lang": "en",
+            "id": "1168007091744690176",
+            "created_at": "2019-09-01T03:46:05.000Z",
+            "geo": {
+                "place_id": "319ee7b36c9149da"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "author_id": "5722332",
+            "source": "Twitter for iPhone",
+            "text": "@JackABrazil You know it, you tell the story, you tell the whole damn world running a $25 million annual deficit for the football program is insane for an academic institution!",
+            "lang": "en",
+            "id": "1167954591457001474",
+            "in_reply_to_user_id": "1038695797968097280",
+            "created_at": "2019-09-01T00:17:28.000Z",
+            "geo": {
+                "place_id": "3b77caf94bfc81fe"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "192452897",
+            "source": "Twitter for Android",
+            "text": "Geez! Somebody used their privilege to get the video taken down instead of using it to be a counter arguement to the thesis. Sad! We can do better - we really can. https://t.co/3d6YKtEAoD",
+            "lang": "en",
+            "id": "1167952296635846659",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 164,
+                        "end": 187,
+                        "url": "https://t.co/3d6YKtEAoD",
+                        "expanded_url": "https://twitter.com/KimCrayton1/status/1167926428941176832",
+                        "display_url": "twitter.com/KimCrayton1/st…"
+                    }
+                ]
+            },
+            "created_at": "2019-09-01T00:08:21.000Z",
+            "geo": {
+                "place_id": "288de3df481163e8"
+            }
+        }
+    ],
+    "includes": {
+        "media": [
+            {
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/EDo0LZKUcAAbS7J.jpg",
+                "media_key": "3_1169304423593439232"
+            },
+            {
+                "type": "animated_gif",
+                "media_key": "16_1169300433958928384"
+            },
+            {
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/EDoKX2bXUAA9jyt.jpg",
+                "media_key": "3_1169258458119622656"
+            },
+            {
+                "type": "animated_gif",
+                "media_key": "16_1169258448338309120"
+            },
+            {
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/EDk5H8YXkAAY5oS.jpg",
+                "media_key": "3_1169028386909556736"
+            },
+            {
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/EDfbOOiXUAIDaqS.jpg",
+                "media_key": "3_1168643665792815106"
+            },
+            {
+                "type": "animated_gif",
+                "media_key": "16_1168229642228162560"
+            },
+            {
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/EDYg1DHUcAE-YL4.jpg",
+                "media_key": "3_1168157249090383873"
+            },
+            {
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/EDYg1DFUcAELfRy.jpg",
+                "media_key": "3_1168157249081995265"
+            },
+            {
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/EDYg1DHUYAAoYF4.jpg",
+                "media_key": "3_1168157249090379776"
+            },
+            {
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/EDYg1DEVUAAg3AX.jpg",
+                "media_key": "3_1168157249077858304"
+            }
+        ],
+        "users": [
+            {
+                "id": "1021954142871248896",
+                "name": "TTUHRM",
+                "username": "ttuhrm"
+            },
+            {
+                "id": "629782222",
+                "name": "fl(whore)nce + the machine",
+                "username": "lumosexualtrash"
+            },
+            {
+                "id": "634949772",
+                "name": "Emily Mooney",
+                "username": "emilymmooney"
+            },
+            {
+                "id": "1020091683008962560",
+                "name": "KaiTheFishGuy",
+                "username": "FishGuyKai"
+            },
+            {
+                "id": "261324907",
+                "name": "Gaby E. Garcia-Vera",
+                "username": "G2EVera"
+            },
+            {
+                "id": "816459882",
+                "name": "kenz ☀️",
+                "username": "kenziesheets_"
+            },
+            {
+                "id": "390663927",
+                "name": "Benny Chan",
+                "username": "drbennyc"
+            },
+            {
+                "id": "3530970674",
+                "name": "DrewMichaelsWriter🚀",
+                "username": "DMichaelswrites"
+            },
+            {
+                "id": "786345790419578881",
+                "name": "Dr. Kaitlyn Campbell",
+                "username": "kaitlynscmpbll"
+            },
+            {
+                "id": "411070452",
+                "name": "Kaydra",
+                "username": "kaydragun"
+            },
+            {
+                "id": "951925479983890432",
+                "name": "Dereck Paul MD",
+                "username": "dereckwpaul"
+            },
+            {
+                "id": "842087641017384960",
+                "name": "Takashi",
+                "username": "T_jenkins2018"
+            },
+            {
+                "id": "911405844",
+                "name": "Ryne B",
+                "username": "32ryne"
+            },
+            {
+                "id": "550608090",
+                "name": "Jess ☾",
+                "username": "helloitsjess__"
+            },
+            {
+                "id": "2231806392",
+                "name": "Yas 🌻",
+                "username": "Simplymummbling"
+            },
+            {
+                "id": "1444811",
+                "name": "Fellowship Church",
+                "username": "fc"
+            },
+            {
+                "id": "1093353697986236416",
+                "name": "Mattina Marie Alonge",
+                "username": "mattinamarie"
+            },
+            {
+                "id": "1427981983",
+                "name": "Amani 🇲🇦",
+                "username": "amanistwittor"
+            },
+            {
+                "id": "586821917",
+                "name": "gianna ❁",
+                "username": "GiannaPolenske"
+            },
+            {
+                "id": "439761854",
+                "name": "Ricardo Janvier",
+                "username": "Janvierick"
+            },
+            {
+                "id": "466742206",
+                "name": "Bill Wong, OTD, OTR/L",
+                "username": "BillWongOT"
+            },
+            {
+                "id": "1069971389271212033",
+                "name": "michelle",
+                "username": "wonderwallkid"
+            },
+            {
+                "id": "78298792",
+                "name": "Mike Boyle",
+                "username": "BodybyBoyle"
+            },
+            {
+                "id": "2551475654",
+                "name": "Lauryn MacKenzie",
+                "username": "Lauryn528"
+            },
+            {
+                "id": "728911064",
+                "name": "YT: NEAA",
+                "username": "_Nana_Efua_"
+            },
+            {
+                "id": "327638277",
+                "name": "Katie Burnside",
+                "username": "katie_burnside_"
+            },
+            {
+                "id": "144268735",
+                "name": "Zelle",
+                "username": "_TheoHuxtable"
+            },
+            {
+                "id": "900011973085200384",
+                "name": "Academic Success",
+                "username": "MerrimackASC"
+            },
+            {
+                "id": "909953407468888066",
+                "name": "Dr. Derek Novacek",
+                "username": "derek_novacek"
+            },
+            {
+                "id": "3572952857",
+                "name": "jonathan cortez",
+                "username": "joncortz"
+            },
+            {
+                "id": "35563674",
+                "name": "Susamma Seeley, CEM",
+                "username": "seeleysue"
+            },
+            {
+                "id": "1145443307411181569",
+                "name": "•Reilly•",
+                "username": "Gault__Reilly"
+            },
+            {
+                "id": "2549112632",
+                "name": "Harold🎈 (1906.eth)",
+                "username": "OneBandwagonFan"
+            },
+            {
+                "id": "714485611",
+                "name": "Dr. Ellen Belluomini",
+                "username": "EBelluomini"
+            },
+            {
+                "id": "923213614235955200",
+                "name": "Dr. Lisa Huffman",
+                "username": "TWUCOPEDean"
+            },
+            {
+                "id": "21135703",
+                "name": "Judy Farah 🇺🇦📇👩🏼‍💻",
+                "username": "newsbabe1530"
+            },
+            {
+                "id": "969633182906757121",
+                "name": "Emily Hersh",
+                "username": "LithiumPodcast"
+            },
+            {
+                "id": "254791401",
+                "name": "Elias Mbvukuta",
+                "username": "mbvukutaphiri"
+            },
+            {
+                "id": "431091642",
+                "name": "Jinbing Bai, PhD, RN, FAAN",
+                "username": "DrJinbingBai"
+            },
+            {
+                "id": "1057652158898864128",
+                "name": "Tay",
+                "username": "vibinwithtay"
+            },
+            {
+                "id": "102689724",
+                "name": "Robin Black",
+                "username": "robinblackmma"
+            },
+            {
+                "id": "2884628733",
+                "name": "Lkld Now",
+                "username": "LkldNow"
+            },
+            {
+                "id": "721498519945744384",
+                "name": "moon.exe",
+                "username": "BirdSenpie"
+            },
+            {
+                "id": "28771821",
+                "name": "Jose Antonio PhD",
+                "username": "JoseAntonioPhD"
+            },
+            {
+                "id": "15757699",
+                "name": "OVO And Pan",
+                "username": "dances"
+            },
+            {
+                "id": "382893972",
+                "name": "Gregory Youdan",
+                "username": "GregYoudan"
+            },
+            {
+                "id": "86511895",
+                "name": "Nyawira.",
+                "username": "NyawiraNjoroge"
+            },
+            {
+                "id": "3363062727",
+                "name": "Darel Heitkamp, MD",
+                "username": "DarelHeitkamp"
+            },
+            {
+                "id": "846297468",
+                "name": "Librus",
+                "username": "Librus107"
+            },
+            {
+                "id": "879162210106220544",
+                "name": "Inspiring Iranians",
+                "username": "InspiringIranis"
+            },
+            {
+                "id": "19545932",
+                "name": "Ron Kampeas",
+                "username": "kampeas"
+            },
+            {
+                "id": "5722332",
+                "name": "Sean Keane",
+                "username": "seankeane"
+            },
+            {
+                "id": "192452897",
+                "name": "Mike Coon - End All State Sponsored Oppression",
+                "username": "mikeonitstuff"
+            }
+        ],
+        "places": [
+            {
+                "full_name": "Lubbock, TX",
+                "id": "3f3f6803f117606d"
+            },
+            {
+                "full_name": "Philadelphia, PA",
+                "id": "e4a0d228eb6be76b"
+            },
+            {
+                "full_name": "Washington, DC",
+                "id": "01fbe706f872cb32"
+            },
+            {
+                "full_name": "San Martin, CA",
+                "id": "4fa26391b5034d2e"
+            },
+            {
+                "full_name": "Virginie, USA",
+                "id": "5635c19c2b5078d1"
+            },
+            {
+                "full_name": "Ewing, NJ",
+                "id": "dd5e0979537f80a0"
+            },
+            {
+                "full_name": "Tucson, AZ",
+                "id": "013379ee5729a5e6"
+            },
+            {
+                "full_name": "Vermillion, SD",
+                "id": "22e428031e9e3049"
+            },
+            {
+                "full_name": "Normal, IL",
+                "id": "fc7c2e706034396b"
+            },
+            {
+                "full_name": "Fresno, CA",
+                "id": "944c03c1d85ef480"
+            },
+            {
+                "full_name": "Tuskegee, AL",
+                "id": "28df0fa3673b5b49"
+            },
+            {
+                "full_name": "Lafayette, LA",
+                "id": "276336654aa4f87a"
+            },
+            {
+                "full_name": "Berkeley, CA",
+                "id": "5ef5b7f391e30aff"
+            },
+            {
+                "full_name": "Corona, CA",
+                "id": "5e4b6834e36e68fa"
+            },
+            {
+                "full_name": "South Miami, FL",
+                "id": "28edff73b28c1a74"
+            },
+            {
+                "full_name": "Oakland, CA",
+                "id": "ab2f2fac83aa388d"
+            },
+            {
+                "full_name": "Boston, MA",
+                "id": "67b98f17fdcf20be"
+            },
+            {
+                "full_name": "Brunswick, OH",
+                "id": "2c8ced473810bde2"
+            },
+            {
+                "full_name": "Boyd Park Ampitheater",
+                "id": "07d9f4ccfa888000"
+            },
+            {
+                "full_name": "Arcadia, CA",
+                "id": "e6fc035b8939bd3b"
+            },
+            {
+                "full_name": "Cape Girardeau, MO",
+                "id": "19a69af030945159"
+            },
+            {
+                "full_name": "Middleton, MA",
+                "id": "0076b02b6735774e"
+            },
+            {
+                "full_name": "Walnut, CA",
+                "id": "2fd93ef04260afec"
+            },
+            {
+                "full_name": "South Hadley, MA",
+                "id": "0131769e74c6b611"
+            },
+            {
+                "full_name": "Minneapolis, MN",
+                "id": "8e9665cec9370f0f"
+            },
+            {
+                "full_name": "DeKalb, IL",
+                "id": "76cec30d4c553725"
+            },
+            {
+                "full_name": "North Andover, MA",
+                "id": "011ee6260843afea"
+            },
+            {
+                "full_name": "Los Angeles, CA",
+                "id": "3b77caf94bfc81fe"
+            },
+            {
+                "full_name": "Silver Spring, MD",
+                "id": "6417871953fa5e86"
+            },
+            {
+                "full_name": "Barksdale, MD",
+                "id": "00820730610c5d6e"
+            },
+            {
+                "full_name": "Texas, USA",
+                "id": "e0060cda70f5f341"
+            },
+            {
+                "full_name": "Austin, TX",
+                "id": "c3f37afa9efcf94b"
+            },
+            {
+                "full_name": "Overlea, MD",
+                "id": "eee93ad4a5826992"
+            },
+            {
+                "full_name": "Denton, TX",
+                "id": "f77b0bf942a40070"
+            },
+            {
+                "full_name": "Orangevale, CA",
+                "id": "d950fc7dc2cd14f9"
+            },
+            {
+                "full_name": "Davis, CA",
+                "id": "1994142e26ba7127"
+            },
+            {
+                "full_name": "North Myrtle Beach, SC",
+                "id": "e5797011cad97adf"
+            },
+            {
+                "full_name": "Stephen F. Austin State University",
+                "id": "07d9c953e2c88001"
+            },
+            {
+                "full_name": "San Jose, CA",
+                "id": "7d62cffe6f98f349"
+            },
+            {
+                "full_name": "Lakeland, FL",
+                "id": "3f7a925ec706ea48"
+            },
+            {
+                "full_name": "Queens, NY",
+                "id": "00c39537733fa112"
+            },
+            {
+                "full_name": "Boca Raton, FL",
+                "id": "d1cd39353c51904d"
+            },
+            {
+                "full_name": "Manhattan, NY",
+                "id": "01a9a39529b27f36"
+            },
+            {
+                "full_name": "Chicago, IL",
+                "id": "1d9a5370a355ab0c"
+            },
+            {
+                "full_name": "Celebration, FL",
+                "id": "01bbe9ba4078361c"
+            },
+            {
+                "full_name": "Pennsylvania, USA",
+                "id": "dd9c503d6c35364b"
+            },
+            {
+                "full_name": "Arlington, VA",
+                "id": "319ee7b36c9149da"
+            },
+            {
+                "full_name": "Alabama, USA",
+                "id": "288de3df481163e8"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1169304431638327296",
+        "oldest_id": "1167952296635846659",
+        "result_count": 53
+    }
+}

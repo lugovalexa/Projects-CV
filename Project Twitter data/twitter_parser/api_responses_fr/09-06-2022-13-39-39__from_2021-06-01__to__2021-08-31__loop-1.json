@@ -1,0 +1,301 @@
+{
+    "data": [
+        {
+            "possibly_sensitive": false,
+            "author_id": "27047369",
+            "public_metrics": {
+                "retweet_count": 23,
+                "reply_count": 5,
+                "like_count": 250,
+                "quote_count": 3
+            },
+            "source": "Twitter for iPhone",
+            "text": "Mental health tips for academics:\nBefriend and socialise with people outside academia.",
+            "id": "1432274721207422979",
+            "lang": "en",
+            "created_at": "2021-08-30T09:31:18.000Z",
+            "geo": {
+                "place_id": "3980fd5d8a818646"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "author_id": "3328202063",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "text": "@andrewbissette (\\_/)      \n( •_•) \n/ &gt;📘\nThe bunny is submitting the thesis..                                                                                  \n(🎓)\n(T-T)\n/ &gt;🏆 the Dr.bunny gets the tears of happiness...",
+            "id": "1427182471557361667",
+            "lang": "en",
+            "created_at": "2021-08-16T08:16:31.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "username": "andrewbissette",
+                        "id": "15039708"
+                    }
+                ]
+            },
+            "geo": {
+                "place_id": "4c6100a96901fb5e"
+            },
+            "in_reply_to_user_id": "15039708"
+        },
+        {
+            "possibly_sensitive": false,
+            "author_id": "1197542163703377920",
+            "attachments": {
+                "media_keys": [
+                    "3_1426988118243172353"
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "text": "Situation in #Lebanon 🇱🇧 is getting worse for people living there! Check the email my PhD student @Mayambk received from the medical center of her institute. Hopefully she will come to France 🇨🇵 next month, but many won't... Sad and worrying 😨😨 Good luck to all of you! https://t.co/OtPJhkNKSZ",
+            "id": "1426988120877240323",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 22,
+                        "end": 25,
+                        "probability": 0.4518,
+                        "type": "Place",
+                        "normalized_text": "🇱🇧"
+                    },
+                    {
+                        "start": 187,
+                        "end": 192,
+                        "probability": 0.9558,
+                        "type": "Place",
+                        "normalized_text": "France"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 13,
+                        "end": 21,
+                        "tag": "Lebanon"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 98,
+                        "end": 106,
+                        "username": "Mayambk",
+                        "id": "830452134323843072"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 270,
+                        "end": 293,
+                        "url": "https://t.co/OtPJhkNKSZ",
+                        "expanded_url": "https://twitter.com/OMartin_Bio/status/1426988120877240323/photo/1",
+                        "display_url": "pic.twitter.com/OtPJhkNKSZ",
+                        "media_key": "3_1426988118243172353"
+                    }
+                ]
+            },
+            "lang": "en",
+            "created_at": "2021-08-15T19:24:14.000Z",
+            "geo": {
+                "place_id": "42309234b2b2f6df"
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "author_id": "793446614878785536",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "text": "And don't get me started with fieldwork stuff that cost crazy and for which we never have fundings! I struggled a lot with that through all my studies (including PhD).\n\nSo THANK YOU for pointing this out! https://t.co/4owpTXnV7Q",
+            "id": "1426436577589436417",
+            "lang": "en",
+            "created_at": "2021-08-14T06:52:36.000Z",
+            "geo": {
+                "place_id": "45f7df07f691b8a9"
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 205,
+                        "end": 228,
+                        "url": "https://t.co/4owpTXnV7Q",
+                        "expanded_url": "https://twitter.com/RobertCMahon/status/1426369947987554307",
+                        "display_url": "twitter.com/RobertCMahon/s…"
+                    }
+                ]
+            }
+        },
+        {
+            "possibly_sensitive": false,
+            "author_id": "985324976",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "text": "@steviesnightbrd Same here!!! I’m supposed to get up early and work on the fckn thesis but I’m like okay it’s 3am let’s read just another tiny little chapter and then in the morning I look like I d worded 10 years ago 😂😂😂 but BN sad hours is totally worth it",
+            "id": "1418645569187237888",
+            "lang": "en",
+            "created_at": "2021-07-23T18:53:55.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 16,
+                        "username": "steviesnightbrd",
+                        "id": "1346778361167826944"
+                    }
+                ]
+            },
+            "geo": {
+                "place_id": "746f1c72bc197748"
+            },
+            "in_reply_to_user_id": "1346778361167826944"
+        },
+        {
+            "possibly_sensitive": false,
+            "author_id": "854353627577712640",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "text": "@maitiumacriceid @MeganIson6 @michaelgerardmc @laurenlquigley @french_studies « in a world of academic burn out, it’s time to stop focusing on plasticity, and start focusing on plastici-ME »",
+            "id": "1415200982091407361",
+            "lang": "en",
+            "created_at": "2021-07-14T06:46:21.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 16,
+                        "username": "maitiumacriceid",
+                        "id": "796763638904356864"
+                    },
+                    {
+                        "start": 17,
+                        "end": 28,
+                        "username": "MeganIson6",
+                        "id": "1189584776249925633"
+                    },
+                    {
+                        "start": 29,
+                        "end": 45,
+                        "username": "michaelgerardmc",
+                        "id": "1081250296590991361"
+                    },
+                    {
+                        "start": 46,
+                        "end": 61,
+                        "username": "laurenlquigley",
+                        "id": "49366675"
+                    },
+                    {
+                        "start": 62,
+                        "end": 77,
+                        "username": "french_studies",
+                        "id": "3537241636"
+                    }
+                ]
+            },
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "in_reply_to_user_id": "796763638904356864"
+        }
+    ],
+    "includes": {
+        "users": [
+            {
+                "id": "27047369",
+                "name": "César A. Hidalgo",
+                "username": "cesifoti"
+            },
+            {
+                "id": "3328202063",
+                "name": "Elif Erdem",
+                "username": "Alephoriae"
+            },
+            {
+                "id": "1197542163703377920",
+                "name": "Océane Martin 🧫🦠🧬🔬",
+                "username": "OMartin_Bio"
+            },
+            {
+                "id": "793446614878785536",
+                "name": "Dr Céline ALBERT 🐧❄ 🇫🇷 🇳🇴",
+                "username": "Albert_CelineC"
+            },
+            {
+                "id": "985324976",
+                "name": "Laura Bourrel",
+                "username": "laura_bourrel"
+            },
+            {
+                "id": "854353627577712640",
+                "name": "Benjamin Dalton",
+                "username": "BenBGDalton"
+            }
+        ],
+        "places": [
+            {
+                "full_name": "Toulouse, France",
+                "id": "3980fd5d8a818646"
+            },
+            {
+                "full_name": "Marseille, France",
+                "id": "4c6100a96901fb5e"
+            },
+            {
+                "full_name": "Saint-Morillon, France",
+                "id": "42309234b2b2f6df"
+            },
+            {
+                "full_name": "Aytré, France",
+                "id": "45f7df07f691b8a9"
+            },
+            {
+                "full_name": "La Digne-d'Amont, France",
+                "id": "746f1c72bc197748"
+            },
+            {
+                "full_name": "Paris, France",
+                "id": "09f6a7707f18e0b1"
+            }
+        ],
+        "media": [
+            {
+                "type": "photo",
+                "media_key": "3_1426988118243172353",
+                "url": "https://pbs.twimg.com/media/E82uIg6WYAECgJZ.jpg"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1432274721207422979",
+        "oldest_id": "1415200982091407361",
+        "result_count": 6,
+        "next_token": "b26v89c19zqg8o3fpdj8shvzepg8w9moxx9e7dtni9zel"
+    }
+}

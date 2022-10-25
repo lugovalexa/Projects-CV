@@ -1,0 +1,536 @@
+{
+    "data": [
+        {
+            "geo": {
+                "place_id": "6d49dc3b4738ebe5",
+                "coordinates": {
+                    "type": "Point",
+                    "coordinates": [
+                        1.909,
+                        47.9025
+                    ]
+                }
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "Each time I see this technolgical marvel  I almost cry Is it because I did my PhD in France on… https://t.co/ZLiuBh9JFT",
+            "author_id": "4172561578",
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 85,
+                        "end": 90,
+                        "probability": 0.9868,
+                        "type": "Place",
+                        "normalized_text": "France"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 96,
+                        "end": 119,
+                        "url": "https://t.co/ZLiuBh9JFT",
+                        "expanded_url": "https://www.instagram.com/p/BfawWqUBiJh/",
+                        "display_url": "instagram.com/p/BfawWqUBiJh/"
+                    }
+                ]
+            },
+            "source": "Instagram",
+            "lang": "en",
+            "created_at": "2018-02-20T12:12:21.000Z",
+            "id": "965922068561825792"
+        },
+        {
+            "geo": {
+                "place_id": "679f85e9a18dc592"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "#PhD. students face significant mental #health challenges. #sciencemag https://t.co/P7oQgdKk0a",
+            "author_id": "930813110750990336",
+            "possibly_sensitive": false,
+            "source": "Twitter Web Client",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 0,
+                        "end": 4,
+                        "tag": "PhD"
+                    },
+                    {
+                        "start": 39,
+                        "end": 46,
+                        "tag": "health"
+                    },
+                    {
+                        "start": 59,
+                        "end": 70,
+                        "tag": "sciencemag"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 71,
+                        "end": 94,
+                        "url": "https://t.co/P7oQgdKk0a",
+                        "expanded_url": "http://www.sciencemag.org/careers/2017/04/phd-students-face-significant-mental-health-challenges?utm_source=sciencemagazine&utm_medium=facebook-text&utm_campaign=mentalchallenges-12190",
+                        "display_url": "sciencemag.org/careers/2017/0…"
+                    }
+                ]
+            },
+            "lang": "en",
+            "created_at": "2018-02-14T12:39:50.000Z",
+            "id": "963754655896530945"
+        },
+        {
+            "geo": {
+                "place_id": "66fabed9d649aa12"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "I also worked countless hours at the beginning of my PhD. It ended with a burnout that took me 6 months to « recover ». I didn’t realized it at this time but this is probably where my academic career somehow died. https://t.co/879sLhUUQb",
+            "author_id": "583603580",
+            "possibly_sensitive": false,
+            "source": "Twitter for iPhone",
+            "lang": "en",
+            "created_at": "2018-02-06T11:01:43.000Z",
+            "id": "960830860625838080",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 214,
+                        "end": 237,
+                        "url": "https://t.co/879sLhUUQb",
+                        "expanded_url": "https://twitter.com/economeager/status/960437894992318465",
+                        "display_url": "twitter.com/economeager/st…"
+                    }
+                ]
+            }
+        },
+        {
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "text": "I admit given a webinar always is an extra level of stress for me, because you can't see the reaction of the audience. I really thrive with an audience. When I gave my PhD defense I invite everyone who didn't run away to come and it was standing room only :)",
+            "author_id": "124130277",
+            "possibly_sensitive": false,
+            "source": "Twitter Web Client",
+            "lang": "en",
+            "created_at": "2018-01-30T15:12:06.000Z",
+            "id": "958357159682691072"
+        },
+        {
+            "geo": {
+                "place_id": "394d552551ff111e"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "The academic gossip at this tiny school is insane, i think because everyone is a little stir-crazy",
+            "author_id": "3440621297",
+            "possibly_sensitive": false,
+            "source": "Twitter for iPhone",
+            "lang": "en",
+            "created_at": "2018-01-24T18:37:18.000Z",
+            "id": "956234469769465857"
+        },
+        {
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "Stress level #thesis #deadline https://t.co/1Vk2MyNiVn",
+            "author_id": "1602657392",
+            "possibly_sensitive": false,
+            "source": "Twitter for iPhone",
+            "attachments": {
+                "media_keys": [
+                    "16_954831095513665536"
+                ]
+            },
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 13,
+                        "end": 20,
+                        "tag": "thesis"
+                    },
+                    {
+                        "start": 21,
+                        "end": 30,
+                        "tag": "deadline"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 31,
+                        "end": 54,
+                        "url": "https://t.co/1Vk2MyNiVn",
+                        "expanded_url": "https://twitter.com/lu_richelle/status/954831161225891842/photo/1",
+                        "display_url": "pic.twitter.com/1Vk2MyNiVn",
+                        "media_key": "16_954831095513665536"
+                    }
+                ]
+            },
+            "lang": "en",
+            "created_at": "2018-01-20T21:41:03.000Z",
+            "id": "954831161225891842"
+        },
+        {
+            "in_reply_to_user_id": "3246132338",
+            "geo": {
+                "place_id": "5606bf9322fe1df8"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "@DrSerafino Dry Needling appears to be a contextual effect (placebo effect) the ritual, and needles have a strong contextual effect plus therapist belief and patient expectations also give non specific effects. Just being Empathetic has same effect. https://t.co/vuwC41KNiQ , so why DN? https://t.co/2pO7e2cy2c",
+            "author_id": "3246132338",
+            "possibly_sensitive": false,
+            "source": "Twitter for iPad",
+            "attachments": {
+                "media_keys": [
+                    "3_952937260650987520"
+                ]
+            },
+            "lang": "en",
+            "created_at": "2018-01-15T16:15:34.000Z",
+            "id": "952937310689153028",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 250,
+                        "end": 273,
+                        "url": "https://t.co/vuwC41KNiQ",
+                        "expanded_url": "https://s3.amazonaws.com/academia.edu.documents/43633419/1-s2.0-S1466853X15000437-main.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1516035520&Signature=sKsFhmOVnK4s7Cw2nBsSlYfdFlk%3D&response-content-disposition=inline%3B%20filename%3DThe_clinical_impact_of_platelet-rich_pla.pdf",
+                        "display_url": "s3.amazonaws.com/academia.edu.d…"
+                    },
+                    {
+                        "start": 287,
+                        "end": 310,
+                        "url": "https://t.co/2pO7e2cy2c",
+                        "expanded_url": "https://twitter.com/Retlouping/status/952937310689153028/photo/1",
+                        "display_url": "pic.twitter.com/2pO7e2cy2c",
+                        "media_key": "3_952937260650987520"
+                    }
+                ]
+            }
+        },
+        {
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "text": "Why did I choose to do a dissertation on the two of the biggest terrorist attacks in the 21st century? Queue me being sad and distressed until April 3rd",
+            "author_id": "1171234748",
+            "possibly_sensitive": false,
+            "source": "Twitter for iPhone",
+            "lang": "en",
+            "created_at": "2018-01-06T09:57:42.000Z",
+            "id": "949580726017646592"
+        },
+        {
+            "in_reply_to_user_id": "20119344",
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "@Greenbackd I have literally devoured your books in just 3 days (Quantitative and Deep). I hope Amazon don’t take too long to send to Europe your very last book. You gave me the academic framework I needed to justify my “crazy” investment ideas that I present to my firm. TY!",
+            "author_id": "137507873",
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 96,
+                        "end": 101,
+                        "probability": 0.7999,
+                        "type": "Organization",
+                        "normalized_text": "Amazon"
+                    },
+                    {
+                        "start": 134,
+                        "end": 139,
+                        "probability": 0.9721,
+                        "type": "Place",
+                        "normalized_text": "Europe"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "Greenbackd",
+                        "id": "20119344"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone",
+            "lang": "en",
+            "created_at": "2018-01-01T20:06:39.000Z",
+            "id": "947922035874975744"
+        },
+        {
+            "geo": {
+                "place_id": "1e350595713f5027"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 14,
+                "quote_count": 0
+            },
+            "text": "The day I got my PhD I excitedly told my son who was almost 5 at the time that I was now a doctor and he burst into tears until I reassured him I was not \" the type of doctor that fixes people\" #phdsimples https://t.co/UCxsY0Q22N",
+            "author_id": "17234452",
+            "possibly_sensitive": false,
+            "source": "Twitter for Android",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 194,
+                        "end": 205,
+                        "tag": "phdsimples"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 206,
+                        "end": 229,
+                        "url": "https://t.co/UCxsY0Q22N",
+                        "expanded_url": "https://twitter.com/PhDForum/status/943196182792335360",
+                        "display_url": "twitter.com/PhDForum/statu…"
+                    }
+                ]
+            },
+            "lang": "en",
+            "created_at": "2017-12-20T15:01:09.000Z",
+            "id": "943496501044699137"
+        },
+        {
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 18,
+                "quote_count": 0
+            },
+            "text": "Been at the Sorbonne all morning for a PhD viva. Now feeling quite exhausted by French elite culture. https://t.co/Zd1I8s5CmA",
+            "author_id": "224291642",
+            "possibly_sensitive": false,
+            "source": "Twitter for iPhone",
+            "attachments": {
+                "media_keys": [
+                    "3_937682069827850241",
+                    "3_937682070192705536",
+                    "3_937682069840433153",
+                    "3_937682069827747841"
+                ]
+            },
+            "lang": "en",
+            "created_at": "2017-12-04T13:57:10.000Z",
+            "id": "937682192939053057",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 102,
+                        "end": 125,
+                        "url": "https://t.co/Zd1I8s5CmA",
+                        "expanded_url": "https://twitter.com/bengidley/status/937682192939053057/photo/1",
+                        "display_url": "pic.twitter.com/Zd1I8s5CmA",
+                        "media_key": "3_937682069827850241"
+                    },
+                    {
+                        "start": 102,
+                        "end": 125,
+                        "url": "https://t.co/Zd1I8s5CmA",
+                        "expanded_url": "https://twitter.com/bengidley/status/937682192939053057/photo/1",
+                        "display_url": "pic.twitter.com/Zd1I8s5CmA",
+                        "media_key": "3_937682070192705536"
+                    },
+                    {
+                        "start": 102,
+                        "end": 125,
+                        "url": "https://t.co/Zd1I8s5CmA",
+                        "expanded_url": "https://twitter.com/bengidley/status/937682192939053057/photo/1",
+                        "display_url": "pic.twitter.com/Zd1I8s5CmA",
+                        "media_key": "3_937682069840433153"
+                    },
+                    {
+                        "start": 102,
+                        "end": 125,
+                        "url": "https://t.co/Zd1I8s5CmA",
+                        "expanded_url": "https://twitter.com/bengidley/status/937682192939053057/photo/1",
+                        "display_url": "pic.twitter.com/Zd1I8s5CmA",
+                        "media_key": "3_937682069827747841"
+                    }
+                ]
+            }
+        }
+    ],
+    "includes": {
+        "users": [
+            {
+                "id": "4172561578",
+                "name": "iskender gokalp",
+                "username": "iskendergokalp1"
+            },
+            {
+                "id": "930813110750990336",
+                "name": "OUARET",
+                "username": "OuaretRstat"
+            },
+            {
+                "id": "583603580",
+                "name": "Olivier Simard-Casanova 🏳️‍🌈",
+                "username": "simardcasanova"
+            },
+            {
+                "id": "124130277",
+                "name": "Dr. Jörn Helbert",
+                "username": "Planetguy_Bln"
+            },
+            {
+                "id": "3440621297",
+                "name": "john brown's body image",
+                "username": "aghtamar"
+            },
+            {
+                "id": "1602657392",
+                "name": "Richelle",
+                "username": "lu_richelle"
+            },
+            {
+                "id": "3246132338",
+                "name": "ɹǝʇlnoԀ pıʌɐᗡ “vieil homme criant aux nuages”",
+                "username": "Retlouping"
+            },
+            {
+                "id": "1171234748",
+                "name": "i dont want to be a pie",
+                "username": "spookyplacenta"
+            },
+            {
+                "id": "137507873",
+                "name": "Edgar Fernández Vidal",
+                "username": "EFernandezVidal"
+            },
+            {
+                "id": "17234452",
+                "name": "Dr. Claire Lee 💉💉💉 m(ode)RNA'd",
+                "username": "Claire_Lee"
+            },
+            {
+                "id": "224291642",
+                "name": "Ben Gidley",
+                "username": "bengidley"
+            }
+        ],
+        "places": [
+            {
+                "full_name": "Orléans, France",
+                "id": "6d49dc3b4738ebe5"
+            },
+            {
+                "full_name": "Troyes, France",
+                "id": "679f85e9a18dc592"
+            },
+            {
+                "full_name": "Nancy, France",
+                "id": "66fabed9d649aa12"
+            },
+            {
+                "full_name": "Paris, France",
+                "id": "09f6a7707f18e0b1"
+            },
+            {
+                "full_name": "Menton, France",
+                "id": "394d552551ff111e"
+            },
+            {
+                "full_name": "Plumaugat, France",
+                "id": "5606bf9322fe1df8"
+            },
+            {
+                "full_name": "Ferney-Voltaire, France",
+                "id": "1e350595713f5027"
+            }
+        ],
+        "media": [
+            {
+                "type": "animated_gif",
+                "media_key": "16_954831095513665536"
+            },
+            {
+                "type": "photo",
+                "media_key": "3_952937260650987520",
+                "url": "https://pbs.twimg.com/media/DTmDY8JWAAASCdk.jpg"
+            },
+            {
+                "type": "photo",
+                "media_key": "3_937682069827850241",
+                "url": "https://pbs.twimg.com/media/DQNQ39xXkAEHU6D.jpg"
+            },
+            {
+                "type": "photo",
+                "media_key": "3_937682070192705536",
+                "url": "https://pbs.twimg.com/media/DQNQ3_IW0AA28BY.jpg"
+            },
+            {
+                "type": "photo",
+                "media_key": "3_937682069840433153",
+                "url": "https://pbs.twimg.com/media/DQNQ390XkAE4S1C.jpg"
+            },
+            {
+                "type": "photo",
+                "media_key": "3_937682069827747841",
+                "url": "https://pbs.twimg.com/media/DQNQ39xWAAECRkG.jpg"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "965922068561825792",
+        "oldest_id": "937682192939053057",
+        "result_count": 11
+    }
+}

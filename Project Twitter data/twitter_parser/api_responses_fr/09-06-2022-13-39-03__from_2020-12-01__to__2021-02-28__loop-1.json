@@ -1,0 +1,401 @@
+{
+    "data": [
+        {
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "text": "Academic life is so stressful 👋",
+            "created_at": "2021-02-25T20:45:38.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "lang": "en",
+            "author_id": "962884326",
+            "id": "1365040277921161221",
+            "source": "Twitter for Android"
+        },
+        {
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "text": "I just learned that Dick Boyd, philosopher of science at Cornell and my advisor before I changed the topic of my dissertation, passed away yesterday. He was a great philosopher and a wonderful person, it makes me sad to know that he’s gone.",
+            "created_at": "2021-02-22T16:03:24.000Z",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 6,
+                "like_count": 135,
+                "quote_count": 2
+            },
+            "possibly_sensitive": false,
+            "lang": "en",
+            "author_id": "850763376263299078",
+            "id": "1363882091189047297",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 20,
+                        "end": 28,
+                        "probability": 0.8443,
+                        "type": "Person",
+                        "normalized_text": "Dick Boyd"
+                    },
+                    {
+                        "start": 57,
+                        "end": 63,
+                        "probability": 0.5117,
+                        "type": "Person",
+                        "normalized_text": "Cornell"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone"
+        },
+        {
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "Mrjjrocks",
+                        "id": "195049592"
+                    }
+                ]
+            },
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "text": "@Mrjjrocks You may be right, I don’t know anyone in consulting. All I can say is that, by my personal standards, people in philosophy network like crazy and one of the many reasons I’m not interested in pursuing a career in academia is that I really don’t like doing that.",
+            "created_at": "2021-02-18T13:59:36.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "lang": "en",
+            "author_id": "850763376263299078",
+            "id": "1362401382104506376",
+            "in_reply_to_user_id": "195049592",
+            "source": "Twitter for iPhone"
+        },
+        {
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 16,
+                        "username": "Dr_LPrendergast",
+                        "id": "4257219856"
+                    },
+                    {
+                        "start": 17,
+                        "end": 33,
+                        "username": "AcademicChatter",
+                        "id": "885953601067208705"
+                    },
+                    {
+                        "start": 34,
+                        "end": 43,
+                        "username": "PhDVoice",
+                        "id": "1168227245338628096"
+                    }
+                ]
+            },
+            "geo": {
+                "place_id": "3a01ceecea2a0371"
+            },
+            "text": "@Dr_LPrendergast @AcademicChatter @PhDVoice I could have made such mistakes in desperate PhD application times...",
+            "created_at": "2021-02-08T18:31:01.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "lang": "en",
+            "author_id": "289557548",
+            "id": "1358845809291382785",
+            "in_reply_to_user_id": "4257219856",
+            "source": "Twitter for Android"
+        },
+        {
+            "geo": {
+                "place_id": "4c6100a96901fb5e"
+            },
+            "text": "Why oh why all the classes, exams, presentations, seminars and workshops, and symposiums are in February?!? 😤😤 Good god! #PhDlife #scicomm #stressed #academic #madness https://t.co/HLErvo9EkQ",
+            "created_at": "2021-02-05T19:41:35.000Z",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 121,
+                        "end": 129,
+                        "tag": "PhDlife"
+                    },
+                    {
+                        "start": 130,
+                        "end": 138,
+                        "tag": "scicomm"
+                    },
+                    {
+                        "start": 139,
+                        "end": 148,
+                        "tag": "stressed"
+                    },
+                    {
+                        "start": 149,
+                        "end": 158,
+                        "tag": "academic"
+                    },
+                    {
+                        "start": 159,
+                        "end": 167,
+                        "tag": "madness"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 168,
+                        "end": 191,
+                        "url": "https://t.co/HLErvo9EkQ",
+                        "expanded_url": "https://twitter.com/Alephoriae/status/1357776401953349633/photo/1",
+                        "display_url": "pic.twitter.com/HLErvo9EkQ",
+                        "media_key": "16_1357776393925521414"
+                    }
+                ]
+            },
+            "lang": "en",
+            "attachments": {
+                "media_keys": [
+                    "16_1357776393925521414"
+                ]
+            },
+            "author_id": "3328202063",
+            "id": "1357776401953349633",
+            "source": "Twitter for iPhone"
+        },
+        {
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 7,
+                        "username": "b_abk6",
+                        "id": "794014303"
+                    },
+                    {
+                        "start": 8,
+                        "end": 18,
+                        "username": "LPS_Orsay",
+                        "id": "1518798847"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 36,
+                        "end": 43,
+                        "probability": 0.7063,
+                        "type": "Person",
+                        "normalized_text": "M Kleman"
+                    },
+                    {
+                        "start": 92,
+                        "end": 107,
+                        "probability": 0.7861,
+                        "type": "Person",
+                        "normalized_text": "Christophe Blanc"
+                    }
+                ]
+            },
+            "geo": {
+                "place_id": "400d62272d4573ce"
+            },
+            "text": "@b_abk6 @LPS_Orsay Very sad news... M Kleman was PhD advisor of my old (since 1990!) friend Christophe Blanc, now renowned expert in liquid crystals, originally from a small village in the mountains of the Loire dpt not far from the Chambon-sur-Lignon where Jewish children were saved during WWII...",
+            "created_at": "2021-01-31T16:48:25.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "lang": "en",
+            "author_id": "4416538036",
+            "id": "1355920884431790080",
+            "in_reply_to_user_id": "794014303",
+            "source": "Twitter for Android"
+        },
+        {
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "KevinH_PhD",
+                        "id": "50195142"
+                    },
+                    {
+                        "start": 12,
+                        "end": 25,
+                        "username": "SatchinPanda",
+                        "id": "822894547"
+                    },
+                    {
+                        "start": 26,
+                        "end": 41,
+                        "username": "NatureMedicine",
+                        "id": "26832834"
+                    }
+                ]
+            },
+            "geo": {
+                "place_id": "26dc0f1614fbe8b2"
+            },
+            "text": "@KevinH_PhD @SatchinPanda @NatureMedicine What should we make of the higher g/day rate of fat-loss in PBLF when total fat mass loss was no different?\n\nIt’s all even harder to interpret when\n\na) SAD➡️ABLC induces significant metabolic adaptation relative to SAD➡️PBLF, and\n\nb) PBLF massively dropped kcals when ABLC didn’t",
+            "created_at": "2021-01-31T15:08:33.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "lang": "en",
+            "author_id": "25843518",
+            "id": "1355895751746985989",
+            "in_reply_to_user_id": "50195142",
+            "source": "Twitter for iPhone"
+        },
+        {
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "username": "TuckerGoodrich",
+                        "id": "270485576"
+                    },
+                    {
+                        "start": 16,
+                        "end": 27,
+                        "username": "garytaubes",
+                        "id": "45820838"
+                    },
+                    {
+                        "start": 28,
+                        "end": 40,
+                        "username": "natureboyrr",
+                        "id": "165387035"
+                    },
+                    {
+                        "start": 41,
+                        "end": 52,
+                        "username": "KevinH_PhD",
+                        "id": "50195142"
+                    }
+                ]
+            },
+            "geo": {
+                "place_id": "3bf6c593a4eca83d"
+            },
+            "text": "@TuckerGoodrich @garytaubes @natureboyrr @KevinH_PhD Nothing wrong with measuring ad lib intake, but as you know, you could go from SAD to keto &amp; still lose fat (for a while) withour lowering your ad lib intake. The calories out side of the equation can rev up. Or fuel partitioning can change: ⬇️towards fat tissue, ⬆️towards muscle",
+            "created_at": "2021-01-25T05:10:23.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "lang": "en",
+            "author_id": "25843518",
+            "id": "1353570891624546306",
+            "in_reply_to_user_id": "270485576",
+            "source": "Twitter for iPhone"
+        }
+    ],
+    "includes": {
+        "users": [
+            {
+                "id": "962884326",
+                "name": "Maha OMRAN",
+                "username": "MahaJabir2"
+            },
+            {
+                "id": "850763376263299078",
+                "name": "Philippe Lemoine",
+                "username": "phl43"
+            },
+            {
+                "id": "289557548",
+                "name": "Tanveer",
+                "username": "tanveermunir"
+            },
+            {
+                "id": "3328202063",
+                "name": "Elif Erdem",
+                "username": "Alephoriae"
+            },
+            {
+                "id": "4416538036",
+                "name": "olivetree aka Olivier Sandre",
+                "username": "Olive_Free"
+            },
+            {
+                "id": "25843518",
+                "name": "Raphael Sirtoli",
+                "username": "raphaels7"
+            }
+        ],
+        "places": [
+            {
+                "full_name": "Paris, France",
+                "id": "09f6a7707f18e0b1"
+            },
+            {
+                "full_name": "Nantes, France",
+                "id": "3a01ceecea2a0371"
+            },
+            {
+                "full_name": "Marseille, France",
+                "id": "4c6100a96901fb5e"
+            },
+            {
+                "full_name": "Pessac, France",
+                "id": "400d62272d4573ce"
+            },
+            {
+                "full_name": "Saint-Jeannet, France",
+                "id": "26dc0f1614fbe8b2"
+            },
+            {
+                "full_name": "Cagnes-sur-Mer, France",
+                "id": "3bf6c593a4eca83d"
+            }
+        ],
+        "media": [
+            {
+                "type": "animated_gif",
+                "media_key": "16_1357776393925521414"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1365040277921161221",
+        "oldest_id": "1353570891624546306",
+        "result_count": 8,
+        "next_token": "b26v89c19zqg8o3fosksq0cox55f90n2kwwoy9h74ji4d"
+    }
+}

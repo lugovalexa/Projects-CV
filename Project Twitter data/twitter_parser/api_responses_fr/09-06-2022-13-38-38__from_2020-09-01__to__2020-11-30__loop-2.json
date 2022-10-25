@@ -1,0 +1,409 @@
+{
+    "data": [
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1322327575037882368"
+                ]
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 115,
+                        "end": 138,
+                        "url": "https://t.co/Ml8hPNpGs3",
+                        "expanded_url": "https://twitter.com/shubhamjoshi5/status/1322327588040224768/photo/1",
+                        "display_url": "pic.twitter.com/Ml8hPNpGs3",
+                        "media_key": "3_1322327575037882368"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 83,
+                        "end": 91,
+                        "tag": "phdchat"
+                    },
+                    {
+                        "start": 92,
+                        "end": 100,
+                        "tag": "phdlife"
+                    },
+                    {
+                        "start": 101,
+                        "end": 114,
+                        "tag": "mentalhealth"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 8,
+                "quote_count": 0
+            },
+            "author_id": "291614637",
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "id": "1322327588040224768",
+            "possibly_sensitive": false,
+            "created_at": "2020-10-31T00:00:39.000Z",
+            "text": "Walks to home after the office hours are the best. Gives so much perspective. ❤️🇫🇷 #phdchat #phdlife #mentalhealth https://t.co/Ml8hPNpGs3",
+            "geo": {
+                "place_id": "527eede64312683b"
+            }
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "16_1320996835855634435"
+                ]
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 167,
+                        "end": 190,
+                        "url": "https://t.co/hGjQjWda5s",
+                        "expanded_url": "https://twitter.com/Alephoriae/status/1320996843585765377/photo/1",
+                        "display_url": "pic.twitter.com/hGjQjWda5s",
+                        "media_key": "16_1320996835855634435"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 125,
+                        "end": 139,
+                        "tag": "COVID19france"
+                    },
+                    {
+                        "start": 140,
+                        "end": 148,
+                        "tag": "PhDlife"
+                    },
+                    {
+                        "start": 149,
+                        "end": 158,
+                        "tag": "stressed"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "author_id": "3328202063",
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "id": "1320996843585765377",
+            "possibly_sensitive": false,
+            "created_at": "2020-10-27T07:52:45.000Z",
+            "text": "Question of the day; -How hard can it be for people to put that lovely mask OVER their noses?😒 It’s 2020 for god’s sake!🤦‍♀️ #COVID19france #PhDlife #stressed Eish... https://t.co/hGjQjWda5s",
+            "geo": {
+                "place_id": "4c6100a96901fb5e"
+            }
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1314982487895019520"
+                ]
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 229,
+                        "end": 252,
+                        "url": "https://t.co/n9wb0dJGb9",
+                        "expanded_url": "https://www.mtrl-id.com/sante-dixieme-colloque-d-economie-de-la-sante-organise-par-la-mtrl-et-l-association-charles-gide,188.php",
+                        "display_url": "mtrl-id.com/sante-dixieme-…"
+                    },
+                    {
+                        "start": 253,
+                        "end": 276,
+                        "url": "https://t.co/T81LfNZAL0",
+                        "expanded_url": "https://twitter.com/FerryLyon/status/1314982493301465088/photo/1",
+                        "display_url": "pic.twitter.com/T81LfNZAL0",
+                        "media_key": "3_1314982487895019520"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 66,
+                        "end": 71,
+                        "probability": 0.9965,
+                        "type": "Place",
+                        "normalized_text": "France"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 48,
+                        "end": 54,
+                        "tag": "phage"
+                    },
+                    {
+                        "start": 83,
+                        "end": 87,
+                        "tag": "AMR"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 3,
+                "reply_count": 0,
+                "like_count": 18,
+                "quote_count": 0
+            },
+            "author_id": "1103744958350139393",
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "id": "1314982493301465088",
+            "possibly_sensitive": false,
+            "created_at": "2020-10-10T17:33:52.000Z",
+            "text": "Very nice discussions today about how promoting #phage therapy in France to tackle #AMR: crucial needs for: (i) national dedicated center hosted by university hospitals; (ii) academic productions to complete industrial portfolio https://t.co/n9wb0dJGb9 https://t.co/T81LfNZAL0",
+            "geo": {
+                "place_id": "179b8df9e368044d"
+            }
+        },
+        {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 268,
+                        "end": 291,
+                        "url": "https://t.co/y62N3JAi50",
+                        "expanded_url": "https://twitter.com/wojciechkopec3/status/1314080422113038336",
+                        "display_url": "twitter.com/wojciechkopec3…"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "author_id": "251782853",
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "id": "1314084787842318337",
+            "possibly_sensitive": false,
+            "created_at": "2020-10-08T06:06:42.000Z",
+            "text": "Great advice - thinking about what to do post PhD early on meant that I had some time to explore options without as much stress and think about what was best for me. It also led to a couple of collaborations and maybe more to come down the road, seems like a win-win? https://t.co/y62N3JAi50",
+            "geo": {
+                "place_id": "41366b2dd544d68f"
+            }
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "author_id": "841219954376622080",
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "id": "1310495310343438342",
+            "possibly_sensitive": false,
+            "created_at": "2020-09-28T08:23:24.000Z",
+            "text": "@AbdTahrani @WILD_igital @_scientistt @LeanInLeeds @HeadingleyHEART @ResearchRetold Thanks @AbdTahrani, it’s a long road towards recovery but finishing my PhD on food reward is a great motivation. Looking forward to stay in touch with you through @UK_ASO and your work.",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "AbdTahrani",
+                        "id": "807691998589288448"
+                    },
+                    {
+                        "start": 12,
+                        "end": 24,
+                        "username": "WILD_igital",
+                        "id": "1094585426529132545"
+                    },
+                    {
+                        "start": 25,
+                        "end": 37,
+                        "username": "_scientistt",
+                        "id": "1218494092683943936"
+                    },
+                    {
+                        "start": 38,
+                        "end": 50,
+                        "username": "LeanInLeeds",
+                        "id": "859886430587375616"
+                    },
+                    {
+                        "start": 51,
+                        "end": 67,
+                        "username": "HeadingleyHEART",
+                        "id": "114736746"
+                    },
+                    {
+                        "start": 68,
+                        "end": 83,
+                        "username": "ResearchRetold",
+                        "id": "714759367443263489"
+                    },
+                    {
+                        "start": 91,
+                        "end": 102,
+                        "username": "AbdTahrani",
+                        "id": "807691998589288448"
+                    },
+                    {
+                        "start": 247,
+                        "end": 254,
+                        "username": "UK_ASO",
+                        "id": "2375141887"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "807691998589288448",
+            "geo": {
+                "place_id": "50d429c8224054f9"
+            }
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 4,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "author_id": "2289541441",
+            "lang": "en",
+            "source": "Twitter for Android",
+            "id": "1306587423464239105",
+            "possibly_sensitive": false,
+            "created_at": "2020-09-17T13:34:51.000Z",
+            "text": "Here we go again, PhD supervisors treating me like shit in mails. Even if they know i have a shitty mental health since may. Humanity not found.",
+            "geo": {
+                "place_id": "66fabed9d649aa12"
+            }
+        },
+        {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 102,
+                        "end": 125,
+                        "url": "https://t.co/V8Ws0L9GJt",
+                        "expanded_url": "https://twitter.com/vtemarticent/status/1305527389385035776",
+                        "display_url": "twitter.com/vtemarticent/s…"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "author_id": "295192124",
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "id": "1305532352597241862",
+            "possibly_sensitive": false,
+            "created_at": "2020-09-14T15:42:23.000Z",
+            "text": "🔈🔈🔈PhD opportunity in Chemistry.  The project is about molecular cages for cancer therapy.  Please RT https://t.co/V8Ws0L9GJt",
+            "geo": {
+                "place_id": "40ce1cd0eac02958"
+            }
+        }
+    ],
+    "includes": {
+        "media": [
+            {
+                "url": "https://pbs.twimg.com/media/ElnZ7GrWMAAl1uk.jpg",
+                "media_key": "3_1322327575037882368",
+                "type": "photo"
+            },
+            {
+                "media_key": "16_1320996835855634435",
+                "type": "animated_gif"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/Ej_BmwzXkAAOwFf.jpg",
+                "media_key": "3_1314982487895019520",
+                "type": "photo"
+            }
+        ],
+        "users": [
+            {
+                "id": "291614637",
+                "name": "Shubham Joshi",
+                "username": "theshujo"
+            },
+            {
+                "id": "3328202063",
+                "name": "Elif Erdem",
+                "username": "Alephoriae"
+            },
+            {
+                "id": "1103744958350139393",
+                "name": "Tristan Ferry Lyon University Hospitals",
+                "username": "FerryLyon"
+            },
+            {
+                "id": "251782853",
+                "name": "Alister Burt",
+                "username": "AlisterBurt"
+            },
+            {
+                "id": "841219954376622080",
+                "name": "🔎Dr Pauline Oustric",
+                "username": "Food_reward"
+            },
+            {
+                "id": "2289541441",
+                "name": "Batou🏳️‍🌈 P(h)D🌿Local Grandma☕",
+                "username": "batou_k"
+            },
+            {
+                "id": "295192124",
+                "name": "Erika Pineda",
+                "username": "Eri_pinedar"
+            }
+        ],
+        "places": [
+            {
+                "full_name": "Saint-Etienne-du-Rouvray, France",
+                "id": "527eede64312683b"
+            },
+            {
+                "full_name": "Marseille, France",
+                "id": "4c6100a96901fb5e"
+            },
+            {
+                "full_name": "Lyon, France",
+                "id": "179b8df9e368044d"
+            },
+            {
+                "full_name": "Grenoble, France",
+                "id": "41366b2dd544d68f"
+            },
+            {
+                "full_name": "Lucé, France",
+                "id": "50d429c8224054f9"
+            },
+            {
+                "full_name": "Nancy, France",
+                "id": "66fabed9d649aa12"
+            },
+            {
+                "full_name": "Bordeaux, France",
+                "id": "40ce1cd0eac02958"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1322327588040224768",
+        "oldest_id": "1305532352597241862",
+        "result_count": 7,
+        "next_token": "b26v89c19zqg8o3fos5uoxlpve3v7v4bufr853hdm8rct"
+    }
+}

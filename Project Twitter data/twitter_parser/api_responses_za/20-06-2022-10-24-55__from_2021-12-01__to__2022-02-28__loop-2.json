@@ -1,0 +1,610 @@
+{
+    "data": [
+        {
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "author_id": "1159315389551173634",
+            "created_at": "2021-12-31T18:19:19.000Z",
+            "geo": {
+                "place_id": "d8209c269b33f774"
+            },
+            "in_reply_to_user_id": "1159315389551173634",
+            "possibly_sensitive": false,
+            "text": "At some point I was unemployed, frustrated at not finding a job. I thought of leaving academia, but I stuck it out with the choices I’d made &amp; I was able to overcome what I thought was adversity, at the time… whereas, it was lessons being learnt.",
+            "id": "1476981308106682372",
+            "source": "Twitter for iPhone"
+        },
+        {
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "1247914118067163137",
+            "created_at": "2021-12-24T13:45:05.000Z",
+            "geo": {
+                "place_id": "0e587c59401d0a27"
+            },
+            "in_reply_to_user_id": "1247914118067163137",
+            "possibly_sensitive": false,
+            "text": "# 5 means, do not prolong the crisis longer than it should be. Don't elevate an primary school  problem and make it a Masters Thesis kind of thing. My rule of thumb, you cry from 8am till 11:30, after that tou shower, put on the best outfit.",
+            "id": "1474375579810021385",
+            "source": "Twitter for Android"
+        },
+        {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 215,
+                        "end": 226,
+                        "probability": 0.9814,
+                        "type": "Place",
+                        "normalized_text": "South Africa"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 259,
+                        "end": 282,
+                        "url": "https://t.co/fcVxIHdhJR",
+                        "expanded_url": "https://twitter.com/MametjaThobile1/status/1472941743473676290",
+                        "display_url": "twitter.com/MametjaThobile…"
+                    }
+                ]
+            },
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "author_id": "973371380761874438",
+            "created_at": "2021-12-21T06:59:08.000Z",
+            "geo": {
+                "place_id": "10a589c27fc19a4c"
+            },
+            "possibly_sensitive": false,
+            "text": "Oh wow if this is the mindset of a \"Graduate\" no wonder you ain't got shit , most of the time its the other way around and \"uneducated\" people have to work harder just to get that new minimum wages of R23 a hour in South Africa ! Sies shame on you ! Sad soul https://t.co/fcVxIHdhJR",
+            "id": "1473186256452476930",
+            "source": "Twitter for Android"
+        },
+        {
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "826120536883396609",
+            "attachments": {
+                "media_keys": [
+                    "3_1472947293070544904"
+                ]
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 93,
+                        "end": 116,
+                        "url": "https://t.co/RX4B4zoZ6I",
+                        "expanded_url": "https://twitter.com/FucasaFusy/status/1472947301266173955/photo/1",
+                        "display_url": "pic.twitter.com/RX4B4zoZ6I",
+                        "media_key": "3_1472947293070544904"
+                    }
+                ]
+            },
+            "created_at": "2021-12-20T15:09:37.000Z",
+            "geo": {
+                "place_id": "6f5327e936b7d79d"
+            },
+            "possibly_sensitive": false,
+            "text": "We not even in January yet but academic rent stress for next year already hitting me...wth!! https://t.co/RX4B4zoZ6I",
+            "id": "1472947301266173955",
+            "source": "Twitter for Android"
+        },
+        {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 12,
+                        "end": 14,
+                        "probability": 0.8467,
+                        "type": "Other",
+                        "normalized_text": "GOD"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 282,
+                        "end": 305,
+                        "url": "https://t.co/XvS7PijNYn",
+                        "expanded_url": "https://twitter.com/CarolinePule/status/1472863250442297350/photo/1",
+                        "display_url": "pic.twitter.com/XvS7PijNYn",
+                        "media_key": "3_1472863235028226048"
+                    },
+                    {
+                        "start": 282,
+                        "end": 305,
+                        "url": "https://t.co/XvS7PijNYn",
+                        "expanded_url": "https://twitter.com/CarolinePule/status/1472863250442297350/photo/1",
+                        "display_url": "pic.twitter.com/XvS7PijNYn",
+                        "media_key": "3_1472863235045044233"
+                    },
+                    {
+                        "start": 282,
+                        "end": 305,
+                        "url": "https://t.co/XvS7PijNYn",
+                        "expanded_url": "https://twitter.com/CarolinePule/status/1472863250442297350/photo/1",
+                        "display_url": "pic.twitter.com/XvS7PijNYn",
+                        "media_key": "3_1472863235028262918"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 273,
+                        "end": 281,
+                        "tag": "Blessed"
+                    }
+                ]
+            },
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 3,
+                "reply_count": 11,
+                "like_count": 60,
+                "quote_count": 0
+            },
+            "author_id": "133860944",
+            "attachments": {
+                "media_keys": [
+                    "3_1472863235028226048",
+                    "3_1472863235045044233",
+                    "3_1472863235028262918"
+                ]
+            },
+            "created_at": "2021-12-20T09:35:38.000Z",
+            "geo": {
+                "place_id": "10a589c27fc19a4c"
+            },
+            "possibly_sensitive": false,
+            "text": "YES! WE DID GOD, RED GOWN! 4TH GRADUATION! PhD!👩🏼‍🎓💎😇Tears of joy!😭🥺 taking it all in that finally, my big dream became reality! Yass!I walked my 2 minutes of FAME live, wearing the exceptional RED GOWN❤️ witnessed family in the presence of my peers &amp; field superiors🙏 #Blessed https://t.co/XvS7PijNYn",
+            "id": "1472863250442297350",
+            "source": "Twitter for iPhone"
+        },
+        {
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "author_id": "718815819564720128",
+            "created_at": "2021-12-15T18:28:41.000Z",
+            "geo": {
+                "place_id": "0e587c59401d0a27"
+            },
+            "in_reply_to_user_id": "718815819564720128",
+            "possibly_sensitive": false,
+            "text": "This fellowship is how I managed to survive after my Dismissal.\n\nIm very sad I can't apply again 💀\n\nThe writing opened up more opportunities for me to get speaking engagements etc.\n\n2021 was really survived on writing and vibrators\n\nAfter my friends",
+            "id": "1471185458973523976",
+            "source": "Twitter for Android"
+        },
+        {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 67,
+                        "end": 69,
+                        "probability": 0.9719,
+                        "type": "Other",
+                        "normalized_text": "God"
+                    },
+                    {
+                        "start": 153,
+                        "end": 155,
+                        "probability": 0.8033,
+                        "type": "Other",
+                        "normalized_text": "God"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "username": "KabeloMabalane",
+                        "id": "98397418"
+                    }
+                ]
+            },
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "1249031951736016899",
+            "created_at": "2021-12-15T15:24:59.000Z",
+            "geo": {
+                "place_id": "dd9c0d7d7e07eb49"
+            },
+            "in_reply_to_user_id": "98397418",
+            "possibly_sensitive": false,
+            "text": "@KabeloMabalane happiest  birthday brother in recovery fellowship. God will continue to bless you so that you can be the salt and light of other people. God bless🙏",
+            "id": "1471139231171063810",
+            "source": "Twitter for Android"
+        },
+        {
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "1414906895098433537",
+            "created_at": "2021-12-08T20:22:00.000Z",
+            "geo": {
+                "place_id": "fda0767e4dc75f0b"
+            },
+            "possibly_sensitive": false,
+            "text": "academic failure can trigger the most violent kind of anxiety, pressure and sense of degradation to the extent where tears replace words on my blank paper",
+            "id": "1468677262409142282",
+            "source": "Twitter for iPhone"
+        },
+        {
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 8,
+                "reply_count": 2,
+                "like_count": 57,
+                "quote_count": 0
+            },
+            "author_id": "631975786",
+            "created_at": "2021-12-08T19:25:00.000Z",
+            "geo": {
+                "place_id": "73eb3ac6f3194576"
+            },
+            "possibly_sensitive": false,
+            "text": "Mental health is so important.please take of yourselves,  especially if you are PhD candidate 🥺.",
+            "id": "1468662916509540354",
+            "source": "Twitter for Android"
+        },
+        {
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "author_id": "792265594934530048",
+            "created_at": "2021-12-07T17:41:28.000Z",
+            "geo": {
+                "place_id": "0e587c59401d0a27"
+            },
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 16,
+                        "username": "__AlphaFemale99",
+                        "id": "1349864824247898112"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "1349864824247898112",
+            "possibly_sensitive": false,
+            "text": "@__AlphaFemale99 It’s only been a week or so and I’m having the time of my life. No academic stress???",
+            "id": "1468274475171037190",
+            "source": "Twitter for iPhone"
+        },
+        {
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "102983650",
+            "created_at": "2021-12-05T06:47:15.000Z",
+            "geo": {
+                "place_id": "0e587c59401d0a27"
+            },
+            "possibly_sensitive": false,
+            "text": "If the day comes that I graduate, I'm going to cry",
+            "id": "1467385057367269381",
+            "source": "Twitter for Android"
+        },
+        {
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 8,
+                "reply_count": 2,
+                "like_count": 15,
+                "quote_count": 1
+            },
+            "author_id": "966952715959132161",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 215,
+                        "end": 238,
+                        "url": "https://t.co/lu7oK1ehND",
+                        "expanded_url": "https://twitter.com/MimiReeds/status/1467115372092473346",
+                        "display_url": "twitter.com/MimiReeds/stat…"
+                    }
+                ]
+            },
+            "created_at": "2021-12-04T21:51:05.000Z",
+            "geo": {
+                "place_id": "e564d30dc173d2a8"
+            },
+            "possibly_sensitive": false,
+            "text": "The general African academic blueprint is suicidal and self-destructive in nature. We truly need to review, revise and restructure it completely or else we shall continue producing educated fools without relevance. https://t.co/lu7oK1ehND",
+            "id": "1467250128478162946",
+            "source": "Twitter for Android"
+        },
+        {
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 58,
+                "reply_count": 11,
+                "like_count": 609,
+                "quote_count": 7
+            },
+            "author_id": "303056225",
+            "attachments": {
+                "media_keys": [
+                    "3_1466771041339031555",
+                    "3_1466771041385070599",
+                    "3_1466771041414438912",
+                    "3_1466771041389264902"
+                ]
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 267,
+                        "end": 290,
+                        "url": "https://t.co/tvupRJ3MWq",
+                        "expanded_url": "https://twitter.com/Steinger_23/status/1466771072846602249/photo/1",
+                        "display_url": "pic.twitter.com/tvupRJ3MWq",
+                        "media_key": "3_1466771041339031555"
+                    },
+                    {
+                        "start": 267,
+                        "end": 290,
+                        "url": "https://t.co/tvupRJ3MWq",
+                        "expanded_url": "https://twitter.com/Steinger_23/status/1466771072846602249/photo/1",
+                        "display_url": "pic.twitter.com/tvupRJ3MWq",
+                        "media_key": "3_1466771041385070599"
+                    },
+                    {
+                        "start": 267,
+                        "end": 290,
+                        "url": "https://t.co/tvupRJ3MWq",
+                        "expanded_url": "https://twitter.com/Steinger_23/status/1466771072846602249/photo/1",
+                        "display_url": "pic.twitter.com/tvupRJ3MWq",
+                        "media_key": "3_1466771041414438912"
+                    },
+                    {
+                        "start": 267,
+                        "end": 290,
+                        "url": "https://t.co/tvupRJ3MWq",
+                        "expanded_url": "https://twitter.com/Steinger_23/status/1466771072846602249/photo/1",
+                        "display_url": "pic.twitter.com/tvupRJ3MWq",
+                        "media_key": "3_1466771041389264902"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 241,
+                        "end": 266,
+                        "tag": "MakeEducationFashionable"
+                    }
+                ]
+            },
+            "created_at": "2021-12-03T14:07:29.000Z",
+            "geo": {
+                "place_id": "80d77440d7bd9308"
+            },
+            "possibly_sensitive": false,
+            "text": "Got bullied in my 1st week in HS &amp; attempted suicide, yet went on to pass my Matric. Got severely depressed in my 1st year &amp; attempted suicide again, yet went to finish my BSc and MSc at UFH &amp; UP respectively. Got my PhD now 💪🏽\n\n#MakeEducationFashionable https://t.co/tvupRJ3MWq",
+            "id": "1466771072846602249",
+            "source": "Twitter for iPhone"
+        },
+        {
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 19,
+                "reply_count": 14,
+                "like_count": 196,
+                "quote_count": 3
+            },
+            "author_id": "946353358012641281",
+            "created_at": "2021-12-02T08:24:29.000Z",
+            "geo": {
+                "place_id": "d98aef293ae7311d"
+            },
+            "possibly_sensitive": false,
+            "text": "It’s so unbelievable that I completed my academic year and the first year of my CA(SA) journey. I wanna cry so much. It’s been a very trying year considering the cumulative number of times I felt too inadequate for university from when I started in 2020 in a different degree.",
+            "id": "1466322366821195780",
+            "source": "Twitter for iPhone"
+        }
+    ],
+    "includes": {
+        "users": [
+            {
+                "id": "1159315389551173634",
+                "name": "Prof_Kumalo",
+                "username": "KumaloProf"
+            },
+            {
+                "id": "1247914118067163137",
+                "name": "MaItu Martin",
+                "username": "MartinMaitu"
+            },
+            {
+                "id": "973371380761874438",
+                "name": "HairyBelly",
+                "username": "HarryBelly8"
+            },
+            {
+                "id": "826120536883396609",
+                "name": "fusy vincent",
+                "username": "FucasaFusy"
+            },
+            {
+                "id": "133860944",
+                "name": "Dr Caroline Pule, PhD",
+                "username": "CarolinePule"
+            },
+            {
+                "id": "718815819564720128",
+                "name": "https://wheelsntoys.substack.com🌺",
+                "username": "WheelsnToys"
+            },
+            {
+                "id": "1249031951736016899",
+                "name": "Boyce-Magaaz",
+                "username": "BMagaaz"
+            },
+            {
+                "id": "1414906895098433537",
+                "name": "K E L E B O G I L E 🌸",
+                "username": "KBothobile"
+            },
+            {
+                "id": "631975786",
+                "name": "Dr Lerato Sokhulu, PhD",
+                "username": "callme_Dr_S"
+            },
+            {
+                "id": "792265594934530048",
+                "name": "Palesa🌸",
+                "username": "PalesaMbaliee"
+            },
+            {
+                "id": "102983650",
+                "name": "𝕾𝖊𝖗 𝕮𝖔𝖋𝖋𝖆𝖙 𝕺𝖋 𝕳𝖆𝖚𝖘 𝕸𝖆𝖒𝖆𝖇𝖔𝖑𝖔",
+                "username": "KayCif3R"
+            },
+            {
+                "id": "966952715959132161",
+                "name": "Mthulisi Ndlovu",
+                "username": "_KingKG95"
+            },
+            {
+                "id": "303056225",
+                "name": "Sibongiseni Mgolozeli",
+                "username": "Steinger_23"
+            },
+            {
+                "id": "946353358012641281",
+                "name": "femme fatale",
+                "username": "KabeloN__"
+            }
+        ],
+        "places": [
+            {
+                "full_name": "Beacon Bay, South Africa",
+                "id": "d8209c269b33f774"
+            },
+            {
+                "full_name": "Pretoria, South Africa",
+                "id": "0e587c59401d0a27"
+            },
+            {
+                "full_name": "Stellenbosch, South Africa",
+                "id": "10a589c27fc19a4c"
+            },
+            {
+                "full_name": "Orkney, South Africa",
+                "id": "6f5327e936b7d79d"
+            },
+            {
+                "full_name": "South Africa",
+                "id": "dd9c0d7d7e07eb49"
+            },
+            {
+                "full_name": "Thaba Nchu, South Africa",
+                "id": "fda0767e4dc75f0b"
+            },
+            {
+                "full_name": "Sobonakhona, South Africa",
+                "id": "73eb3ac6f3194576"
+            },
+            {
+                "full_name": "Johannesburg, South Africa",
+                "id": "e564d30dc173d2a8"
+            },
+            {
+                "full_name": "Boksburg, South Africa",
+                "id": "80d77440d7bd9308"
+            },
+            {
+                "full_name": "Kempton Park, South Africa",
+                "id": "d98aef293ae7311d"
+            }
+        ],
+        "media": [
+            {
+                "media_key": "3_1472947293070544904",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/FHD1wlBX0Age-nK.jpg"
+            },
+            {
+                "media_key": "3_1472863235028226048",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/FHCpTwaXEAARiJs.jpg"
+            },
+            {
+                "media_key": "3_1472863235045044233",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/FHCpTweXsAk7Cvm.jpg"
+            },
+            {
+                "media_key": "3_1472863235028262918",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/FHCpTwaXoAYL_yD.jpg"
+            },
+            {
+                "media_key": "3_1466771041339031555",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/FFsEfaXXwAMTJLG.jpg"
+            },
+            {
+                "media_key": "3_1466771041385070599",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/FFsEfaiWQAcxfb8.jpg"
+            },
+            {
+                "media_key": "3_1466771041414438912",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/FFsEfapWYAA6QZX.jpg"
+            },
+            {
+                "media_key": "3_1466771041389264902",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/FFsEfajWQAYoXmg.jpg"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1476981308106682372",
+        "oldest_id": "1466322366821195780",
+        "result_count": 14
+    }
+}

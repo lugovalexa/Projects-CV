@@ -1,0 +1,309 @@
+{
+    "data": [
+        {
+            "geo": {
+                "place_id": "23f8a07383ac617e"
+            },
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 152,
+                        "end": 160,
+                        "tag": "phdlife"
+                    },
+                    {
+                        "start": 161,
+                        "end": 182,
+                        "tag": "AcademicMentalHealth"
+                    },
+                    {
+                        "start": 183,
+                        "end": 193,
+                        "tag": "wellbeing"
+                    },
+                    {
+                        "start": 194,
+                        "end": 210,
+                        "tag": "academictwitter"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 211,
+                        "end": 234,
+                        "url": "https://t.co/dPSKPsINjl",
+                        "expanded_url": "https://twitter.com/BrandPhD/status/1413863715603111937/video/1",
+                        "display_url": "pic.twitter.com/dPSKPsINjl",
+                        "media_key": "7_1413863635168989184"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone",
+            "attachments": {
+                "media_keys": [
+                    "7_1413863635168989184"
+                ]
+            },
+            "id": "1413863715603111937",
+            "possibly_sensitive": true,
+            "lang": "en",
+            "text": "The calm, the serenity, the beauty. Everything I needed after over 15 months teaching on Zoom. So grateful and humble to be here, to be alive and well. #phdlife #AcademicMentalHealth #wellbeing #academictwitter https://t.co/dPSKPsINjl",
+            "created_at": "2021-07-10T14:12:32.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "author_id": "203554110"
+        },
+        {
+            "geo": {
+                "place_id": "5b6003bc688eb616"
+            },
+            "in_reply_to_user_id": "365598041",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "MrOxleyISM",
+                        "id": "365598041"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 188,
+                        "end": 201,
+                        "tag": "teachersrock"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 91,
+                        "end": 97,
+                        "probability": 0.5389,
+                        "type": "Place",
+                        "normalized_text": "St Maur"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone",
+            "id": "1412633270043525120",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "text": "@MrOxleyISM @ChrissieNice Reminds of my several very wonderful teachers my children had at St Maur - I used to cry at the end of the academic year when it was time to say goodbye to them. #teachersrock",
+            "created_at": "2021-07-07T04:43:11.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "author_id": "868075989867343872"
+        },
+        {
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "source": "Twitter for Android",
+            "id": "1411618919249498115",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "text": "\"Pipeline leak\" in Academia doesn't necessarily mean frustration. It may mean (greater) SATISFACTION\n\nThink about that, ladies ;-)\n\nLife is too short to be wasted in an environment that does not offer you what you deserve 💪♥️ https://t.co/8m6pY9P0dA",
+            "created_at": "2021-07-04T09:32:31.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 226,
+                        "end": 249,
+                        "url": "https://t.co/8m6pY9P0dA",
+                        "expanded_url": "https://twitter.com/leticiakawano/status/1411607756629549057",
+                        "display_url": "twitter.com/leticiakawano/…"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 16,
+                "quote_count": 0
+            },
+            "author_id": "159182079"
+        },
+        {
+            "geo": {
+                "place_id": "63139413d248bdbf"
+            },
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 7,
+                        "end": 17,
+                        "username": "giucarpes",
+                        "id": "157639816"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 213,
+                        "end": 236,
+                        "url": "https://t.co/AMxrzgMraz",
+                        "expanded_url": "https://twitter.com/JOLT_EU/status/1406944921546805252",
+                        "display_url": "twitter.com/JOLT_EU/status…"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone",
+            "id": "1406946445685673986",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "text": "Thanks @giucarpes for reminding us how important it is to discuss mental health in academia - specially after is exhausting pandemic in the middle of the already hyper demanding and tiring process of doing a PhD. https://t.co/AMxrzgMraz",
+            "created_at": "2021-06-21T12:05:47.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 5,
+                "quote_count": 0
+            },
+            "author_id": "826030376"
+        },
+        {
+            "geo": {
+                "place_id": "23f8a07383ac617e"
+            },
+            "in_reply_to_user_id": "1371225811378913294",
+            "source": "Twitter for iPhone",
+            "id": "1405450283900080135",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "text": "@b0nbouns @arcwantsxiaoven ANYONE WHO TAKES DISSERTATION IS CRAZY 🧍",
+            "created_at": "2021-06-17T09:00:34.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "author_id": "1146040635570511872"
+        },
+        {
+            "geo": {
+                "place_id": "4c6100a96901fb5e"
+            },
+            "in_reply_to_user_id": "1082741637984411648",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "rig_atoni",
+                        "id": "1082741637984411648"
+                    },
+                    {
+                        "start": 11,
+                        "end": 27,
+                        "username": "CIML_Immunology",
+                        "id": "1081136718869344256"
+                    },
+                    {
+                        "start": 28,
+                        "end": 42,
+                        "username": "DORAssessment",
+                        "id": "3201131333"
+                    },
+                    {
+                        "start": 43,
+                        "end": 56,
+                        "username": "PostdocsUCSF",
+                        "id": "705870663781842944"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone",
+            "id": "1405051806233858048",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "text": "@rig_atoni @CIML_Immunology @DORAssessment @PostdocsUCSF Science has become very political. This is one of the factors why depression and anxiety increase among PhD students.",
+            "created_at": "2021-06-16T06:37:09.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "2199256339"
+        }
+    ],
+    "includes": {
+        "media": [
+            {
+                "public_metrics": {
+                    "view_count": 42
+                },
+                "type": "video",
+                "media_key": "7_1413863635168989184",
+                "duration_ms": 18175
+            }
+        ],
+        "users": [
+            {
+                "id": "203554110",
+                "name": "Jennifer B. Barhorst, Ph.D. 🇺🇸🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+                "username": "BrandPhD"
+            },
+            {
+                "id": "868075989867343872",
+                "name": "ACG",
+                "username": "ACGodfrey0202"
+            },
+            {
+                "id": "159182079",
+                "name": "Leticia Kawano-Dourado 🇧🇷",
+                "username": "leticiakawano"
+            },
+            {
+                "id": "826030376",
+                "name": "Gabriela Gruszynski Sanseverino",
+                "username": "GabiGru"
+            },
+            {
+                "id": "1146040635570511872",
+                "name": "Miles/Esther",
+                "username": "estherkindoppio"
+            },
+            {
+                "id": "2199256339",
+                "name": "Lisiena HYSENAJ, PhD",
+                "username": "lisiena_lissi"
+            }
+        ],
+        "places": [
+            {
+                "full_name": "Nice, France",
+                "id": "23f8a07383ac617e"
+            },
+            {
+                "full_name": "Gattières, France",
+                "id": "5b6003bc688eb616"
+            },
+            {
+                "full_name": "Paris, France",
+                "id": "09f6a7707f18e0b1"
+            },
+            {
+                "full_name": "Castelnaudary, France",
+                "id": "63139413d248bdbf"
+            },
+            {
+                "full_name": "Marseille, France",
+                "id": "4c6100a96901fb5e"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1413863715603111937",
+        "oldest_id": "1405051806233858048",
+        "result_count": 6
+    }
+}

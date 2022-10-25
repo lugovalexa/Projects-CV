@@ -1,0 +1,585 @@
+{
+    "data": [
+        {
+            "lang": "en",
+            "author_id": "779271176891826176",
+            "text": "MPI #phd student Erin Wessling explains physiological responses of #fongoli #chimpanzees in response to climatic&amp;ecological stress #EFP2017 https://t.co/dPw2MPYu9h",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 17,
+                        "end": 29,
+                        "probability": 0.9831,
+                        "type": "Person",
+                        "normalized_text": "Erin Wessling"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 4,
+                        "end": 8,
+                        "tag": "phd"
+                    },
+                    {
+                        "start": 67,
+                        "end": 75,
+                        "tag": "fongoli"
+                    },
+                    {
+                        "start": 76,
+                        "end": 88,
+                        "tag": "chimpanzees"
+                    },
+                    {
+                        "start": 135,
+                        "end": 143,
+                        "tag": "EFP2017"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 144,
+                        "end": 167,
+                        "url": "https://t.co/dPw2MPYu9h",
+                        "expanded_url": "https://twitter.com/DFG_SoHaPi/status/900700349677395969/photo/1",
+                        "display_url": "pic.twitter.com/dPw2MPYu9h",
+                        "media_key": "3_900700341636870144"
+                    }
+                ]
+            },
+            "possibly_sensitive": false,
+            "geo": {
+                "place_id": "0701e94ee168b555"
+            },
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "created_at": "2017-08-24T12:44:32.000Z",
+            "id": "900700349677395969",
+            "attachments": {
+                "media_keys": [
+                    "3_900700341636870144"
+                ]
+            },
+            "source": "Twitter for Android"
+        },
+        {
+            "lang": "en",
+            "author_id": "2271848142",
+            "text": "Even in my dreams I have depression, panic attacks, and I need to write my thesis 😌",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "created_at": "2017-08-10T08:53:03.000Z",
+            "id": "895568666753986560",
+            "source": "Twitter for Android"
+        },
+        {
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 61,
+                        "end": 70,
+                        "username": "JBerdahl",
+                        "id": "295475446"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 71,
+                        "end": 80,
+                        "tag": "academia"
+                    },
+                    {
+                        "start": 81,
+                        "end": 96,
+                        "tag": "genderequality"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 97,
+                        "end": 120,
+                        "url": "https://t.co/0U970pRip2",
+                        "expanded_url": "http://jberdahl.blogspot.fr/2017/07/the-crazybitch-narrative-about-senior.html?m=1",
+                        "display_url": "jberdahl.blogspot.fr/2017/07/the-cr…"
+                    }
+                ]
+            },
+            "lang": "en",
+            "author_id": "211218516",
+            "text": "\"The \"Crazy/Bitch\" Narrative About senior Academic Women\" by @JBerdahl\n#academia #genderequality\nhttps://t.co/0U970pRip2",
+            "possibly_sensitive": false,
+            "geo": {
+                "place_id": "7290785fce79490a"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2017-07-19T06:04:22.000Z",
+            "id": "887553682903941120",
+            "source": "Twitter for Android"
+        },
+        {
+            "lang": "en",
+            "author_id": "36047644",
+            "text": "So You're a #Cambridge Academic. Sooo Concerned about Post Natal Depression in Sub Saharian Africa. No worries. No issues here. Coffee? tea?",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 79,
+                        "end": 97,
+                        "probability": 0.3497,
+                        "type": "Place",
+                        "normalized_text": "Sub Saharian Africa"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 12,
+                        "end": 22,
+                        "tag": "Cambridge"
+                    }
+                ]
+            },
+            "possibly_sensitive": false,
+            "geo": {
+                "place_id": "f3bfc7dcc928977f"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2017-07-07T12:11:25.000Z",
+            "id": "883297397442568198",
+            "source": "Twitter for iPad"
+        },
+        {
+            "lang": "en",
+            "author_id": "637090566",
+            "text": "That's it, I made one of my students cry...\n#phdchat",
+            "possibly_sensitive": false,
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2017-07-03T15:26:40.000Z",
+            "id": "881896982926766081",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 44,
+                        "end": 52,
+                        "tag": "phdchat"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone"
+        },
+        {
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 16,
+                        "username": "SquirrelMoose59",
+                        "id": "795023483088621568"
+                    },
+                    {
+                        "start": 32,
+                        "end": 48,
+                        "username": "DevilFaraAckles",
+                        "id": "2299237777"
+                    },
+                    {
+                        "start": 49,
+                        "end": 60,
+                        "username": "SPN_France",
+                        "id": "842030845720440832"
+                    },
+                    {
+                        "start": 61,
+                        "end": 72,
+                        "username": "s_verasani",
+                        "id": "2767256731"
+                    },
+                    {
+                        "start": 73,
+                        "end": 86,
+                        "username": "witchykrissy",
+                        "id": "1273366040"
+                    },
+                    {
+                        "start": 87,
+                        "end": 97,
+                        "username": "liataghva",
+                        "id": "704655829887229952"
+                    },
+                    {
+                        "start": 98,
+                        "end": 109,
+                        "username": "RockMomSPN",
+                        "id": "2860875171"
+                    },
+                    {
+                        "start": 110,
+                        "end": 121,
+                        "username": "DR_SPN_PHD",
+                        "id": "431683607"
+                    },
+                    {
+                        "start": 122,
+                        "end": 132,
+                        "username": "donatanic",
+                        "id": "278054247"
+                    },
+                    {
+                        "start": 133,
+                        "end": 144,
+                        "username": "mariepop60",
+                        "id": "2438352058"
+                    },
+                    {
+                        "start": 145,
+                        "end": 159,
+                        "username": "StephaniePf13",
+                        "id": "4136307328"
+                    },
+                    {
+                        "start": 160,
+                        "end": 169,
+                        "username": "tvfan201",
+                        "id": "2950369665"
+                    },
+                    {
+                        "start": 170,
+                        "end": 178,
+                        "username": "kayb625",
+                        "id": "78223484"
+                    },
+                    {
+                        "start": 179,
+                        "end": 187,
+                        "username": "ruby_zd",
+                        "id": "2820222901"
+                    },
+                    {
+                        "start": 188,
+                        "end": 204,
+                        "username": "demon_heart_spn",
+                        "id": "2763472890"
+                    },
+                    {
+                        "start": 205,
+                        "end": 221,
+                        "username": "mikelisovitskiy",
+                        "id": "1087627847370530816"
+                    },
+                    {
+                        "start": 222,
+                        "end": 233,
+                        "username": "TWinchster",
+                        "id": "3439011244"
+                    },
+                    {
+                        "start": 246,
+                        "end": 258,
+                        "username": "GailZMartin",
+                        "id": "23615422"
+                    },
+                    {
+                        "start": 271,
+                        "end": 283,
+                        "username": "RuthyBell23",
+                        "id": "2796762471"
+                    },
+                    {
+                        "start": 284,
+                        "end": 296,
+                        "username": "Ruby_Rising",
+                        "id": "1675402357"
+                    },
+                    {
+                        "start": 297,
+                        "end": 310,
+                        "username": "JensenAckles",
+                        "id": "2743113943"
+                    },
+                    {
+                        "start": 311,
+                        "end": 327,
+                        "username": "InteristaMarina",
+                        "id": "816673368078450688"
+                    },
+                    {
+                        "start": 345,
+                        "end": 357,
+                        "username": "SaraBaird19",
+                        "id": "791682868426702848"
+                    },
+                    {
+                        "start": 358,
+                        "end": 369,
+                        "username": "2714monika",
+                        "id": "815836771112091648"
+                    },
+                    {
+                        "start": 370,
+                        "end": 385,
+                        "username": "Jani64567Nixon",
+                        "id": "4763839405"
+                    },
+                    {
+                        "start": 403,
+                        "end": 416,
+                        "username": "JensenAckles",
+                        "id": "2743113943"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 386,
+                        "end": 400,
+                        "probability": 0.9657,
+                        "type": "Person",
+                        "normalized_text": "Dean Winchester"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 462,
+                        "end": 472,
+                        "tag": "SPNFamily"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 513,
+                        "end": 536,
+                        "url": "https://t.co/MOlvpQvDSx",
+                        "expanded_url": "https://twitter.com/bibi_soso42/status/877264364268638208/photo/1",
+                        "display_url": "pic.twitter.com/MOlvpQvDSx",
+                        "media_key": "16_877264219430936576"
+                    }
+                ]
+            },
+            "lang": "en",
+            "author_id": "3295673302",
+            "text": "@SquirrelMoose59 @Becky78344366 @DevilFaraAckles @SPN_France @s_verasani @witchykrissy @liataghva @RockMomSPN @DR_SPN_PHD @donatanic @mariepop60 @StephaniePf13 @tvfan201 @kayb625 @ruby_zd @demon_heart_spn @mikelisovitskiy @TWinchster @wesley_ita @GailZMartin @ballygrant @RuthyBell23 @Ruby_Rising @JensenAckles @InteristaMarina @andreybaranov92 @SaraBaird19 @2714monika @Jani64567Nixon Dean Winchester (@JensenAckles ) Has a crazy charm ! ! ! ♥️♥️♥️\nSweet dream #SPNFamily 🌉🌉🌉🌉🌉🌉🌉🌉🌉🌉🌉🌉🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌉🌉🌉🌉🌉🌉🌉🌉🌉🌉🌉🌉🌉🌉🌉🌉 https://t.co/MOlvpQvDSx",
+            "possibly_sensitive": false,
+            "geo": {
+                "place_id": "1791eef342a353aa"
+            },
+            "public_metrics": {
+                "retweet_count": 5,
+                "reply_count": 3,
+                "like_count": 10,
+                "quote_count": 0
+            },
+            "created_at": "2017-06-20T20:38:17.000Z",
+            "id": "877264364268638208",
+            "attachments": {
+                "media_keys": [
+                    "16_877264219430936576"
+                ]
+            },
+            "in_reply_to_user_id": "3295673302",
+            "source": "Twitter for iPhone"
+        },
+        {
+            "lang": "en",
+            "author_id": "262805533",
+            "text": "So stressed about my college's results which are coming next week, I truly wanna graduate but I'm kinda sure I won't so...",
+            "possibly_sensitive": false,
+            "geo": {
+                "place_id": "df9cb72656eba326"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2017-06-16T20:35:57.000Z",
+            "id": "875814222982254592",
+            "source": "Twitter Web Client"
+        },
+        {
+            "lang": "en",
+            "author_id": "483312225",
+            "text": "#PhDay 649: Not sure if I've mentioned it recently but it's seriously insane that the french do a biology PhD w publication in 3 years. Oof.",
+            "possibly_sensitive": false,
+            "geo": {
+                "place_id": "09f6a7707f18e0b1"
+            },
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "created_at": "2017-06-06T21:39:55.000Z",
+            "id": "872206444413595649",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 0,
+                        "end": 6,
+                        "tag": "PhDay"
+                    }
+                ]
+            },
+            "source": "Twitter for Android"
+        },
+        {
+            "lang": "en",
+            "author_id": "26627006",
+            "text": "Truly a sad statement about the current state of US academia https://t.co/8chgBhCRHX",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 49,
+                        "end": 50,
+                        "probability": 0.7056,
+                        "type": "Place",
+                        "normalized_text": "US"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 61,
+                        "end": 84,
+                        "url": "https://t.co/8chgBhCRHX",
+                        "expanded_url": "https://twitter.com/kksheld/status/870849166288617477",
+                        "display_url": "twitter.com/kksheld/status…"
+                    }
+                ]
+            },
+            "possibly_sensitive": false,
+            "geo": {
+                "place_id": "08746ddb4710a73a"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2017-06-03T07:29:28.000Z",
+            "id": "870905258251300864",
+            "source": "Twitter for iPhone"
+        }
+    ],
+    "includes": {
+        "media": [
+            {
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/DH_uMEhWsAAPWwa.jpg",
+                "media_key": "3_900700341636870144"
+            },
+            {
+                "type": "animated_gif",
+                "media_key": "16_877264219430936576"
+            }
+        ],
+        "users": [
+            {
+                "id": "779271176891826176",
+                "name": "🐒Sociality&Health",
+                "username": "DFG_SoHaPi"
+            },
+            {
+                "id": "2271848142",
+                "name": "walking bisaster",
+                "username": "ClemiChan"
+            },
+            {
+                "id": "211218516",
+                "name": "Damiano C",
+                "username": "damiacer"
+            },
+            {
+                "id": "36047644",
+                "name": "Ragioniere ~ Marilena HUM",
+                "username": "MarilenaMunaro"
+            },
+            {
+                "id": "637090566",
+                "name": "Rancillac Armelle 🔬",
+                "username": "RancillacA"
+            },
+            {
+                "id": "3295673302",
+                "name": "Sophia bibi 🗽🇺🇸🌴✈️",
+                "username": "bibi_soso42"
+            },
+            {
+                "id": "262805533",
+                "name": "Lia",
+                "username": "LiaClls"
+            },
+            {
+                "id": "483312225",
+                "name": "Dr Kim Laband, PhD",
+                "username": "BioKali"
+            },
+            {
+                "id": "26627006",
+                "name": "Daniel Soane",
+                "username": "dsonar"
+            }
+        ],
+        "places": [
+            {
+                "full_name": "Strasbourg, France",
+                "id": "0701e94ee168b555"
+            },
+            {
+                "full_name": "Rouen, France",
+                "id": "7290785fce79490a"
+            },
+            {
+                "full_name": "France",
+                "id": "f3bfc7dcc928977f"
+            },
+            {
+                "full_name": "Paris, France",
+                "id": "09f6a7707f18e0b1"
+            },
+            {
+                "full_name": "L'Etrat, France",
+                "id": "1791eef342a353aa"
+            },
+            {
+                "full_name": "Nord-Pas-de-Calais, France",
+                "id": "df9cb72656eba326"
+            },
+            {
+                "full_name": "Roissy-en-France, France",
+                "id": "08746ddb4710a73a"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "900700349677395969",
+        "oldest_id": "870905258251300864",
+        "result_count": 9
+    }
+}

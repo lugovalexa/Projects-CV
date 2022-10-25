@@ -1,0 +1,1002 @@
+{
+    "data": [
+        {
+            "lang": "en",
+            "created_at": "2017-08-30T21:12:21.000Z",
+            "author_id": "189781526",
+            "public_metrics": {
+                "retweet_count": 6,
+                "reply_count": 2,
+                "like_count": 11,
+                "quote_count": 3
+            },
+            "text": "Academia/postgrad degrees are not good for your mental health, friends.",
+            "source": "Twitter for iPhone",
+            "id": "903002475371876361",
+            "geo": {
+                "place_id": "c884a1b7e3a91f5e"
+            },
+            "possibly_sensitive": false
+        },
+        {
+            "lang": "en",
+            "created_at": "2017-08-30T19:38:50.000Z",
+            "author_id": "1589592637",
+            "attachments": {
+                "media_keys": [
+                    "3_902978838107488257",
+                    "3_902978901512728576"
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 46,
+                        "end": 69,
+                        "url": "https://t.co/bHecqbjisA",
+                        "expanded_url": "https://twitter.com/MelowMokoena/status/902978941723578368/photo/1",
+                        "display_url": "pic.twitter.com/bHecqbjisA",
+                        "media_key": "3_902978838107488257"
+                    },
+                    {
+                        "start": 46,
+                        "end": 69,
+                        "url": "https://t.co/bHecqbjisA",
+                        "expanded_url": "https://twitter.com/MelowMokoena/status/902978941723578368/photo/1",
+                        "display_url": "pic.twitter.com/bHecqbjisA",
+                        "media_key": "3_902978901512728576"
+                    }
+                ]
+            },
+            "text": "My academic friend and beyond 😂😂 Crazy one 😅😅 https://t.co/bHecqbjisA",
+            "source": "Twitter for Android",
+            "id": "902978941723578368",
+            "geo": {
+                "place_id": "e564d30dc173d2a8"
+            },
+            "possibly_sensitive": false
+        },
+        {
+            "lang": "en",
+            "created_at": "2017-08-30T18:32:20.000Z",
+            "author_id": "782528893525880832",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "Now is the perfect time to cry about academia over a few glasses of wine+ yum sushi yes? ❤",
+            "source": "Twitter for Android",
+            "id": "902962203095166976",
+            "geo": {
+                "place_id": "8b9ec16fdc0d7e55"
+            },
+            "possibly_sensitive": false
+        },
+        {
+            "lang": "en",
+            "created_at": "2017-08-22T09:26:56.000Z",
+            "author_id": "87436806",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 27,
+                        "end": 50,
+                        "url": "https://t.co/p1cpmpakn0",
+                        "expanded_url": "https://twitter.com/zimasile_/status/899924957333004288",
+                        "display_url": "twitter.com/zimasile_/stat…"
+                    }
+                ]
+            },
+            "text": "😂😂😂 in PhD stress and debt https://t.co/p1cpmpakn0",
+            "source": "Twitter for iPhone",
+            "id": "899925845812420608",
+            "geo": {
+                "place_id": "d0848b8367022de8"
+            },
+            "possibly_sensitive": false
+        },
+        {
+            "lang": "en",
+            "created_at": "2017-08-22T09:05:36.000Z",
+            "author_id": "87436806",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "The day I decide to leave Academia would be very sad... can't imagine my moves being policed.",
+            "source": "Twitter for iPhone",
+            "id": "899920476696453120",
+            "geo": {
+                "place_id": "d0848b8367022de8"
+            },
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 26,
+                        "end": 33,
+                        "probability": 0.3287,
+                        "type": "Person",
+                        "normalized_text": "Academia"
+                    }
+                ]
+            },
+            "possibly_sensitive": false
+        },
+        {
+            "lang": "en",
+            "created_at": "2017-08-14T08:03:54.000Z",
+            "author_id": "696439085800558592",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "I'm stressed actually. My academic life is meeeeeessssyyyy",
+            "source": "Twitter for Android",
+            "id": "897005846466580480",
+            "geo": {
+                "place_id": "59efa64f5c8f5340"
+            },
+            "possibly_sensitive": false
+        },
+        {
+            "lang": "en",
+            "created_at": "2017-08-14T07:44:43.000Z",
+            "author_id": "2904725223",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "Guys I played myself by taking Academic Literacy bc I didn't want to take a language module. Ingathi ndise high school. Cry with me😭💔",
+            "source": "Twitter for Android",
+            "id": "897001021075075072",
+            "geo": {
+                "place_id": "0e587c59401d0a27"
+            },
+            "possibly_sensitive": false
+        },
+        {
+            "lang": "en",
+            "created_at": "2017-08-12T09:43:57.000Z",
+            "author_id": "212167514",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "\"Went into depression for 4 months when I could not get a job as a #UCT graduate\" \n\n-Tebogo \n\n#theNEXTgen17\n\n#ThatoDM #BestBelieve",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 67,
+                        "end": 71,
+                        "tag": "UCT"
+                    },
+                    {
+                        "start": 94,
+                        "end": 107,
+                        "tag": "theNEXTgen17"
+                    },
+                    {
+                        "start": 109,
+                        "end": 117,
+                        "tag": "ThatoDM"
+                    },
+                    {
+                        "start": 118,
+                        "end": 130,
+                        "tag": "BestBelieve"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "id": "896306249746329600",
+            "geo": {
+                "place_id": "e564d30dc173d2a8"
+            },
+            "possibly_sensitive": false
+        },
+        {
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "PieterHowes",
+                        "id": "1492481716602261506"
+                    },
+                    {
+                        "start": 13,
+                        "end": 28,
+                        "username": "African_Spring",
+                        "id": "370657843"
+                    },
+                    {
+                        "start": 85,
+                        "end": 100,
+                        "username": "WitsUniversity",
+                        "id": "58521645"
+                    }
+                ]
+            },
+            "lang": "en",
+            "created_at": "2017-07-27T20:59:14.000Z",
+            "author_id": "1880485742",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "in_reply_to_user_id": "4783273156",
+            "text": "@PieterHowes @African_Spring So sad when an academic have this view. 🎼 Inde lendlela @WitsUniversity",
+            "source": "Twitter for iPhone",
+            "id": "890677984687992832",
+            "geo": {
+                "place_id": "dd9c0d7d7e07eb49"
+            },
+            "possibly_sensitive": false
+        },
+        {
+            "lang": "en",
+            "created_at": "2017-07-26T22:00:48.000Z",
+            "author_id": "311354254",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 2,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "She's 23 I'm 31\nShe's a student I'm employed \nWhen she graduate Imma kneel down.\nShe's gonna say yes I'm gonna cry tears of joy.\n\nGod is ❤!!",
+            "source": "Twitter for Android",
+            "id": "890331093861359620",
+            "geo": {
+                "place_id": "46c1b1ab24d7e11a"
+            },
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 130,
+                        "end": 132,
+                        "probability": 0.6596,
+                        "type": "Other",
+                        "normalized_text": "God"
+                    }
+                ]
+            },
+            "possibly_sensitive": false
+        },
+        {
+            "lang": "en",
+            "created_at": "2017-07-21T10:00:33.000Z",
+            "author_id": "769469008815022080",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 140,
+                        "end": 163,
+                        "url": "https://t.co/IgWKusLL0m",
+                        "expanded_url": "https://twitter.com/dlakza/status/888086346459480064",
+                        "display_url": "twitter.com/dlakza/status/…"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "probability": 0.9222,
+                        "type": "Person",
+                        "normalized_text": "Makhosi Khoza"
+                    },
+                    {
+                        "start": 32,
+                        "end": 34,
+                        "probability": 0.8605,
+                        "type": "Place",
+                        "normalized_text": "KZN"
+                    },
+                    {
+                        "start": 128,
+                        "end": 130,
+                        "probability": 0.7532,
+                        "type": "Organization",
+                        "normalized_text": "ANC"
+                    }
+                ]
+            },
+            "text": "Makhosi Khoza has businesses in KZN, a PHD in admin, private sector managerial experience. you think she's worried about a post ANC career? https://t.co/IgWKusLL0m",
+            "source": "Twitter for iPhone",
+            "id": "888337894754013184",
+            "geo": {
+                "place_id": "178a87b8e2eaa375"
+            },
+            "possibly_sensitive": false
+        },
+        {
+            "lang": "en",
+            "created_at": "2017-07-20T21:10:07.000Z",
+            "author_id": "432295915",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "text": "It's hard to reconcile someone with a PhD using Facebook as her preferred method of communication to create disorder in ruling ANC party.",
+            "source": "Twitter for Android",
+            "id": "888144008425418752",
+            "geo": {
+                "place_id": "8b9ec16fdc0d7e55"
+            },
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 48,
+                        "end": 55,
+                        "probability": 0.5426,
+                        "type": "Organization",
+                        "normalized_text": "Facebook"
+                    },
+                    {
+                        "start": 127,
+                        "end": 129,
+                        "probability": 0.783,
+                        "type": "Organization",
+                        "normalized_text": "ANC"
+                    }
+                ]
+            },
+            "possibly_sensitive": false
+        },
+        {
+            "lang": "en",
+            "created_at": "2017-07-16T12:29:12.000Z",
+            "author_id": "884842634",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "Thesis reading can be stressful",
+            "source": "Twitter for Android",
+            "id": "886563366197768192",
+            "geo": {
+                "place_id": "59efa64f5c8f5340"
+            },
+            "possibly_sensitive": false
+        },
+        {
+            "lang": "en",
+            "created_at": "2017-07-15T13:43:16.000Z",
+            "author_id": "39827691",
+            "attachments": {
+                "media_keys": [
+                    "16_886219602035920896"
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 102,
+                        "end": 125,
+                        "url": "https://t.co/ikvr0f52Eo",
+                        "expanded_url": "https://twitter.com/pkantue/status/886219616531382272/photo/1",
+                        "display_url": "pic.twitter.com/ikvr0f52Eo",
+                        "media_key": "16_886219602035920896"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 18,
+                        "end": 26,
+                        "tag": "phdlife"
+                    },
+                    {
+                        "start": 45,
+                        "end": 55,
+                        "tag": "exhausted"
+                    }
+                ]
+            },
+            "text": "80% with doing my #phdlife presentation. I'm #exhausted. Still need to get my OLS algorithm finished. https://t.co/ikvr0f52Eo",
+            "source": "Twitter for Android",
+            "id": "886219616531382272",
+            "geo": {
+                "place_id": "e564d30dc173d2a8"
+            },
+            "possibly_sensitive": false
+        },
+        {
+            "lang": "en",
+            "created_at": "2017-07-14T08:16:56.000Z",
+            "author_id": "326083611",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 135,
+                        "end": 158,
+                        "url": "https://t.co/nXeLXDZ953",
+                        "expanded_url": "https://twitter.com/ItsMbasa/status/885575566770024448",
+                        "display_url": "twitter.com/ItsMbasa/statu…"
+                    }
+                ]
+            },
+            "text": "It was 2 years ago,was Doing My BTech and it was showing me flames,I was depressed,I honestly didn't think I'd graduate, but I did😅☺💃. https://t.co/nXeLXDZ953",
+            "source": "Twitter for Android",
+            "id": "885775105149865984",
+            "geo": {
+                "place_id": "8b9ec16fdc0d7e55"
+            },
+            "possibly_sensitive": false
+        },
+        {
+            "lang": "en",
+            "created_at": "2017-07-12T19:00:49.000Z",
+            "author_id": "817713788195635201",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "i just love academic stress nje...gives me life!🙂🙂 next semester preparations started!",
+            "source": "Twitter Web Client",
+            "id": "885212368573259783",
+            "geo": {
+                "place_id": "0e587c59401d0a27"
+            },
+            "possibly_sensitive": false
+        },
+        {
+            "lang": "en",
+            "created_at": "2017-06-29T06:48:16.000Z",
+            "author_id": "197361385",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "Day 1 of thesis corrections after mulling over them for two weeks. My supervisors first comment already has me in tears.",
+            "source": "Twitter for Android",
+            "id": "880316974580064256",
+            "geo": {
+                "place_id": "cc95b56a28712044"
+            },
+            "possibly_sensitive": false
+        },
+        {
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "SiyaBeyile",
+                        "id": "2304194727"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 100,
+                        "end": 123,
+                        "url": "https://t.co/OH3HoxiPS0",
+                        "expanded_url": "https://twitter.com/pamela_mtanga/status/877604770839527424",
+                        "display_url": "twitter.com/pamela_mtanga/…"
+                    }
+                ]
+            },
+            "lang": "en",
+            "created_at": "2017-06-28T22:31:55.000Z",
+            "author_id": "3422114915",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "in_reply_to_user_id": "2304194727",
+            "text": "@SiyaBeyile This is my personality, everyday, add a little crazy. Plus a PhD in my Nigerian accent. https://t.co/OH3HoxiPS0",
+            "source": "Twitter for Android",
+            "id": "880192062276210688",
+            "geo": {
+                "place_id": "80d77440d7bd9308"
+            },
+            "possibly_sensitive": false
+        },
+        {
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 9,
+                        "end": 16,
+                        "username": "AsiefD",
+                        "id": "1535692630964719617"
+                    }
+                ]
+            },
+            "lang": "en",
+            "created_at": "2017-06-18T19:50:55.000Z",
+            "author_id": "197361385",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "Just saw @AsiefD tweeting about his Masters and now I'm feeling guilty about not looking at my thesis for 4 days and I want to cry again.",
+            "source": "Twitter for Android",
+            "id": "876527666974871552",
+            "geo": {
+                "place_id": "cc95b56a28712044"
+            },
+            "possibly_sensitive": false
+        },
+        {
+            "lang": "en",
+            "created_at": "2017-06-15T09:39:16.000Z",
+            "author_id": "3045811416",
+            "public_metrics": {
+                "retweet_count": 17,
+                "reply_count": 1,
+                "like_count": 7,
+                "quote_count": 1
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 109,
+                        "end": 132,
+                        "url": "https://t.co/pZ6ynJC5jU",
+                        "expanded_url": "http://www.jobs.ac.uk/job/BCB403/phd-studentships-mental-health-promotion-in-schools/",
+                        "display_url": "jobs.ac.uk/job/BCB403/phd…"
+                    }
+                ]
+            },
+            "text": "Want to join our team and study for a PhD on school mental health promotion? Two funded positions available: https://t.co/pZ6ynJC5jU",
+            "source": "Twitter for iPhone",
+            "id": "875286578146545664",
+            "geo": {
+                "place_id": "5ccdc4a6f900a93f"
+            },
+            "possibly_sensitive": false
+        },
+        {
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 5,
+                        "username": "eNCA",
+                        "id": "301309392"
+                    },
+                    {
+                        "start": 6,
+                        "end": 22,
+                        "username": "Checkpoint_eNCA",
+                        "id": "2433279698"
+                    }
+                ]
+            },
+            "lang": "en",
+            "created_at": "2017-06-13T16:45:44.000Z",
+            "author_id": "4002284260",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "in_reply_to_user_id": "4002284260",
+            "text": "@eNCA @Checkpoint_eNCA Trying to create a dialogue on  homelessness in academia is cn as stigma. HEIs Rectorate don't buy student homeless",
+            "source": "Twitter for iPhone",
+            "id": "874669126316380160",
+            "geo": {
+                "place_id": "0e587c59401d0a27"
+            },
+            "possibly_sensitive": false
+        },
+        {
+            "lang": "en",
+            "created_at": "2017-06-13T09:22:19.000Z",
+            "author_id": "808978637475213313",
+            "attachments": {
+                "media_keys": [
+                    "3_874557276568387584"
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 4,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 124,
+                        "end": 147,
+                        "url": "https://t.co/EFu2SRYFls",
+                        "expanded_url": "https://twitter.com/Teboho65453320/status/874557536061587456/photo/1",
+                        "display_url": "pic.twitter.com/EFu2SRYFls",
+                        "media_key": "3_874557276568387584"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 7,
+                        "end": 16,
+                        "probability": 0.5737,
+                        "type": "Person",
+                        "normalized_text": "Steve Biko"
+                    }
+                ]
+            },
+            "text": "I'm at Steve Biko academic about to go under the knife tomorrow morning I'm feeling just little bit of stress eissssshhhhhh https://t.co/EFu2SRYFls",
+            "source": "Twitter for Android",
+            "id": "874557536061587456",
+            "geo": {
+                "place_id": "0e587c59401d0a27"
+            },
+            "possibly_sensitive": false
+        },
+        {
+            "lang": "en",
+            "created_at": "2017-06-13T08:33:00.000Z",
+            "author_id": "808978637475213313",
+            "attachments": {
+                "media_keys": [
+                    "3_874545010385047552"
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 103,
+                        "end": 126,
+                        "url": "https://t.co/uRZ0mvftIe",
+                        "expanded_url": "https://twitter.com/Teboho65453320/status/874545122775617536/photo/1",
+                        "display_url": "pic.twitter.com/uRZ0mvftIe",
+                        "media_key": "3_874545010385047552"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 7,
+                        "end": 16,
+                        "probability": 0.6292,
+                        "type": "Person",
+                        "normalized_text": "Steve Biko"
+                    }
+                ]
+            },
+            "text": "I'm at Steve Biko academic about to go under the knife tomorrow morning I'm feeling just little stress https://t.co/uRZ0mvftIe",
+            "source": "Twitter for Android",
+            "id": "874545122775617536",
+            "geo": {
+                "place_id": "0e587c59401d0a27"
+            },
+            "possibly_sensitive": false
+        },
+        {
+            "lang": "en",
+            "created_at": "2017-06-08T22:32:53.000Z",
+            "author_id": "249288158",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "The thing, however, about the Phd process is that it's such a test of character. I've BEEN struggling with anxiety. My confidence is so",
+            "source": "Twitter for iPhone",
+            "id": "872944546866507777",
+            "geo": {
+                "place_id": "e564d30dc173d2a8"
+            },
+            "possibly_sensitive": false
+        },
+        {
+            "lang": "en",
+            "created_at": "2017-06-04T17:23:35.000Z",
+            "author_id": "216435358",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 1
+            },
+            "text": "#DateMyFamily A 25 year-old PhD candidate looking for a boyfriend on TV makes me get worried. A bit of class would do.",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "tag": "DateMyFamily"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone",
+            "id": "871417159662088192",
+            "geo": {
+                "place_id": "e564d30dc173d2a8"
+            },
+            "possibly_sensitive": false
+        },
+        {
+            "lang": "en",
+            "created_at": "2017-06-04T16:56:15.000Z",
+            "author_id": "311354254",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "#DateMyFamily\nThabiso got intimidated by Mpho with PhD. Nigga better be stressed by someone with PhD than one with Grade 12.\nLiterate stress",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "tag": "DateMyFamily"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 41,
+                        "end": 44,
+                        "probability": 0.5627,
+                        "type": "Person",
+                        "normalized_text": "Mpho"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "id": "871410278914822144",
+            "geo": {
+                "place_id": "46c1b1ab24d7e11a"
+            },
+            "possibly_sensitive": false
+        }
+    ],
+    "includes": {
+        "users": [
+            {
+                "id": "189781526",
+                "name": "Lesley",
+                "username": "les_wright"
+            },
+            {
+                "id": "1589592637",
+                "name": "Tumelo Mokoena",
+                "username": "MelowMokoena"
+            },
+            {
+                "id": "782528893525880832",
+                "name": "B 👼🏾",
+                "username": "somesay_bangi"
+            },
+            {
+                "id": "87436806",
+                "name": "Prof MB",
+                "username": "CoolAcademic_"
+            },
+            {
+                "id": "696439085800558592",
+                "name": "Lu",
+                "username": "U_Karabo"
+            },
+            {
+                "id": "2904725223",
+                "name": "alu.",
+                "username": "alulutho_Lush"
+            },
+            {
+                "id": "212167514",
+                "name": "Thato Mashishi™",
+                "username": "ThatoDM"
+            },
+            {
+                "id": "1880485742",
+                "name": "C...'embo",
+                "username": "RealMbombo"
+            },
+            {
+                "id": "311354254",
+                "name": "Mahlatši’a Morwakoma•",
+                "username": "Moses_Maibelo"
+            },
+            {
+                "id": "769469008815022080",
+                "name": "Tshezi",
+                "username": "OnlySimphiwe"
+            },
+            {
+                "id": "432295915",
+                "name": "Hanief Haider",
+                "username": "haniefhaider"
+            },
+            {
+                "id": "884842634",
+                "name": "Nonkwenkwezi",
+                "username": "uchuma_"
+            },
+            {
+                "id": "39827691",
+                "name": "Paulin Kantue 🚀",
+                "username": "pkantue"
+            },
+            {
+                "id": "326083611",
+                "name": "🤍Boitumelo🤍",
+                "username": "Oboipelo_"
+            },
+            {
+                "id": "817713788195635201",
+                "name": "snatchkween",
+                "username": "PURPLE_FLOWER93"
+            },
+            {
+                "id": "197361385",
+                "name": "F for Fleming",
+                "username": "faskinz"
+            },
+            {
+                "id": "3422114915",
+                "name": "Pamela Mtanga",
+                "username": "pamela_mtanga"
+            },
+            {
+                "id": "3045811416",
+                "name": "Neil Humphrey",
+                "username": "neilhumphreyUoM"
+            },
+            {
+                "id": "4002284260",
+                "name": "Reikokeditse Mooa",
+                "username": "kokie_mogale"
+            },
+            {
+                "id": "808978637475213313",
+                "name": "Teboho Mphuthi",
+                "username": "Teboho65453320"
+            },
+            {
+                "id": "249288158",
+                "name": "Palesa",
+                "username": "Palesa_Mols"
+            },
+            {
+                "id": "216435358",
+                "name": "Vhangani Rautshahalo",
+                "username": "VhanganiR"
+            }
+        ],
+        "places": [
+            {
+                "full_name": "Umhlanga, South Africa",
+                "id": "c884a1b7e3a91f5e"
+            },
+            {
+                "full_name": "Johannesburg, South Africa",
+                "id": "e564d30dc173d2a8"
+            },
+            {
+                "full_name": "Cape Town, South Africa",
+                "id": "8b9ec16fdc0d7e55"
+            },
+            {
+                "full_name": "Polokwane, South Africa",
+                "id": "d0848b8367022de8"
+            },
+            {
+                "full_name": "Grahamstown, South Africa",
+                "id": "59efa64f5c8f5340"
+            },
+            {
+                "full_name": "Pretoria, South Africa",
+                "id": "0e587c59401d0a27"
+            },
+            {
+                "full_name": "South Africa",
+                "id": "dd9c0d7d7e07eb49"
+            },
+            {
+                "full_name": "Midrand, South Africa",
+                "id": "46c1b1ab24d7e11a"
+            },
+            {
+                "full_name": "Sandton, South Africa",
+                "id": "178a87b8e2eaa375"
+            },
+            {
+                "full_name": "Centurion, South Africa",
+                "id": "cc95b56a28712044"
+            },
+            {
+                "full_name": "Boksburg, South Africa",
+                "id": "80d77440d7bd9308"
+            },
+            {
+                "full_name": "Milnerton, South Africa",
+                "id": "5ccdc4a6f900a93f"
+            }
+        ],
+        "media": [
+            {
+                "media_key": "3_902978838107488257",
+                "url": "https://pbs.twimg.com/media/DIgGeBUXgAEkUAz.jpg",
+                "type": "photo"
+            },
+            {
+                "media_key": "3_902978901512728576",
+                "url": "https://pbs.twimg.com/media/DIgGhthWsAA1EGF.jpg",
+                "type": "photo"
+            },
+            {
+                "media_key": "16_886219602035920896",
+                "type": "animated_gif"
+            },
+            {
+                "media_key": "3_874557276568387584",
+                "url": "https://pbs.twimg.com/media/DCMNNZ2XgAAQTra.jpg",
+                "type": "photo"
+            },
+            {
+                "media_key": "3_874545010385047552",
+                "url": "https://pbs.twimg.com/media/DCMCDawXUAAZ0yY.jpg",
+                "type": "photo"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "903002475371876361",
+        "oldest_id": "871410278914822144",
+        "result_count": 26
+    }
+}

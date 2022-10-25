@@ -1,0 +1,427 @@
+{
+    "data": [
+        {
+            "text": "A recent study by @Aki360M Media shows that 62.7% of young people in Limpopo run to alcohol on weekends because they feel sad about life events such as unemployment, abuse, academic challenges and level of corruption in their municipalities. This life events lead to depression.",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "created_at": "2020-09-16T09:10:46.000Z",
+            "author_id": "600362192",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 69,
+                        "end": 75,
+                        "probability": 0.9265,
+                        "type": "Place",
+                        "normalized_text": "Limpopo"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 18,
+                        "end": 26,
+                        "username": "Aki360M",
+                        "id": "1297800970219540480"
+                    }
+                ]
+            },
+            "lang": "en",
+            "id": "1306158576361234432",
+            "geo": {
+                "place_id": "46c1b1ab24d7e11a"
+            },
+            "possibly_sensitive": false
+        },
+        {
+            "text": "Thank you for listening!\n\nDr Shabeer Jeeva Psychiatrist ---&gt; https://t.co/7fQOYhGDCX \n\nDr Sibongile Llale @cbollale Developmental Paediatrician is at CH Baragwanath Academic Hospital \n\nFrancinah Deane Speech Therapist and Audiologist ---&gt; Francinah@chestboxtherapy.co.za",
+            "public_metrics": {
+                "retweet_count": 3,
+                "reply_count": 1,
+                "like_count": 11,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "created_at": "2020-09-15T18:12:47.000Z",
+            "author_id": "257612058",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 64,
+                        "end": 87,
+                        "url": "https://t.co/7fQOYhGDCX",
+                        "expanded_url": "http://adhdclinicjeeva.com",
+                        "display_url": "adhdclinicjeeva.com",
+                        "status": 200,
+                        "unwound_url": "http://adhdclinicjeeva.com"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 24,
+                        "end": 54,
+                        "probability": 0.1785,
+                        "type": "Other",
+                        "normalized_text": "Dr Shabeer Jeeva Psychiatrist"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 109,
+                        "end": 118,
+                        "username": "cbollale",
+                        "id": "1186345511986618368"
+                    }
+                ]
+            },
+            "lang": "en",
+            "id": "1305932590550077440",
+            "geo": {
+                "place_id": "e564d30dc173d2a8"
+            },
+            "possibly_sensitive": false
+        },
+        {
+            "text": "Motivating kids in my vilage frm 1 school to the othr is my hustle it feeds my 6yr old,it's hard being an unemployed graduate living with depression,ths is al i know,it kips me busy,I also offer extra lessons in these schools.@MasterKGsa @sa_lottery\n#LOTTOJerusalemDanceChallenge https://t.co/cOWOJuvFty",
+            "attachments": {
+                "media_keys": [
+                    "7_1305841714708582400"
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "created_at": "2020-09-15T12:12:19.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 250,
+                        "end": 279,
+                        "tag": "LOTTOJerusalemDanceChallenge"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 280,
+                        "end": 303,
+                        "url": "https://t.co/cOWOJuvFty",
+                        "expanded_url": "https://twitter.com/villageambasadr/status/1305841878240292865/video/1",
+                        "display_url": "pic.twitter.com/cOWOJuvFty",
+                        "media_key": "7_1305841714708582400"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 226,
+                        "end": 237,
+                        "username": "MasterKGsa",
+                        "id": "905904428565311489"
+                    },
+                    {
+                        "start": 238,
+                        "end": 249,
+                        "username": "sa_lottery",
+                        "id": "380226887"
+                    }
+                ]
+            },
+            "author_id": "701650239543975936",
+            "lang": "en",
+            "id": "1305841878240292865",
+            "geo": {
+                "place_id": "cb6c20eb19035275"
+            },
+            "possibly_sensitive": false
+        },
+        {
+            "text": "The problem is that we have alot of first generation students who graduate with this degrees and less understanding of money and end up victims of debts and mismanagement of money. This is why I stress out financial literacy into my fellow students. We need to do better.",
+            "public_metrics": {
+                "retweet_count": 30,
+                "reply_count": 3,
+                "like_count": 295,
+                "quote_count": 1
+            },
+            "source": "Twitter for Android",
+            "created_at": "2020-09-13T05:16:52.000Z",
+            "author_id": "2635096755",
+            "lang": "en",
+            "id": "1305012549163909120",
+            "geo": {
+                "place_id": "1d9b85f4cd86b224"
+            },
+            "possibly_sensitive": false
+        },
+        {
+            "text": "@JacquiPotgiete @KskHanz @ar_mhlanga @Unathi_Kwaza @MbuyiseniNdlozi It really sad to hear such word's from an academia",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "in_reply_to_user_id": "1257598373504471040",
+            "source": "Twitter for Android",
+            "created_at": "2020-09-09T05:27:31.000Z",
+            "author_id": "1534593254",
+            "lang": "en",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "username": "JacquiPotgiete",
+                        "id": "1257598373504471040"
+                    },
+                    {
+                        "start": 16,
+                        "end": 24,
+                        "username": "KskHanz",
+                        "id": "119354182"
+                    },
+                    {
+                        "start": 25,
+                        "end": 36,
+                        "username": "ar_mhlanga",
+                        "id": "977081455212990464"
+                    },
+                    {
+                        "start": 37,
+                        "end": 50,
+                        "username": "Unathi_Kwaza",
+                        "id": "1442384013738450956"
+                    },
+                    {
+                        "start": 51,
+                        "end": 67,
+                        "username": "MbuyiseniNdlozi",
+                        "id": "454904118"
+                    }
+                ]
+            },
+            "id": "1303565680550313985",
+            "geo": {
+                "place_id": "520c2f1889369cd6"
+            },
+            "possibly_sensitive": false
+        },
+        {
+            "text": "Morning Bahlali. \nKungaba iphutha yini to request Academic Institutions to Refund us for the 2020 Academic year or to allow the funds to be used in 2021? Phela asifundanga kahle, worried we could stop breathing at any minute😭😭😭. @UNISA https://t.co/68rrZk7Pu9",
+            "attachments": {
+                "media_keys": [
+                    "3_1303178582420750336"
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "created_at": "2020-09-08T03:49:22.000Z",
+            "author_id": "1320719419",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 236,
+                        "end": 259,
+                        "url": "https://t.co/68rrZk7Pu9",
+                        "expanded_url": "https://twitter.com/madwayisa/status/1303178590377385985/photo/1",
+                        "display_url": "pic.twitter.com/68rrZk7Pu9",
+                        "media_key": "3_1303178582420750336"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 229,
+                        "end": 235,
+                        "username": "unisa",
+                        "id": "57277057"
+                    }
+                ]
+            },
+            "lang": "en",
+            "id": "1303178590377385985",
+            "geo": {
+                "place_id": "178a87b8e2eaa375"
+            },
+            "possibly_sensitive": false
+        },
+        {
+            "text": "You’ve never had academic stress if you’ve never asked “is this mark out of 50 or 100?” 😭😭😭😭",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 1
+            },
+            "source": "Twitter for iPhone",
+            "created_at": "2020-09-07T19:41:15.000Z",
+            "author_id": "1341451687",
+            "lang": "en",
+            "id": "1303055751141888001",
+            "geo": {
+                "place_id": "e564d30dc173d2a8"
+            },
+            "possibly_sensitive": false
+        },
+        {
+            "text": "Learning needs patience and passing with outcomes. Complicating academic subjects and making students to fail doesn't improve the economy of the country. Even those distinctions don't help in economic recovery and growth. Phd's and food parcels coexist.",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "created_at": "2020-09-06T18:02:43.000Z",
+            "author_id": "59373363",
+            "lang": "en",
+            "id": "1302668568392282112",
+            "geo": {
+                "place_id": "1744381d2805a216"
+            },
+            "possibly_sensitive": false
+        },
+        {
+            "text": "@MokoboNeo Like you get bored when there's no school stuff stressing you out 😂. I'm so used to always having academic stress",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "in_reply_to_user_id": "1209464927678803968",
+            "source": "Twitter for Android",
+            "created_at": "2020-09-01T17:51:04.000Z",
+            "author_id": "1513804447",
+            "lang": "en",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "MokoboNeo",
+                        "id": "1209464927678803968"
+                    }
+                ]
+            },
+            "id": "1300853697090662401",
+            "geo": {
+                "place_id": "810e12ec4af983de"
+            },
+            "possibly_sensitive": false
+        }
+    ],
+    "includes": {
+        "users": [
+            {
+                "id": "600362192",
+                "name": "Akani Mangena",
+                "username": "AkaniMangena"
+            },
+            {
+                "id": "257612058",
+                "name": "Duchess of Healing",
+                "username": "sindivanzyl"
+            },
+            {
+                "id": "701650239543975936",
+                "name": "Simon Mashiangako🇿🇦👑",
+                "username": "Vil_Ambassador"
+            },
+            {
+                "id": "2635096755",
+                "name": "Ivyn Sambo",
+                "username": "IvynSambo"
+            },
+            {
+                "id": "1534593254",
+                "name": "Mogalekwena",
+                "username": "Morewane18"
+            },
+            {
+                "id": "1320719419",
+                "name": "Pearl Mgobhozi (CPRP)🇿🇦",
+                "username": "madwayisa"
+            },
+            {
+                "id": "1341451687",
+                "name": "Barbz🌻",
+                "username": "Barbara_Palesa"
+            },
+            {
+                "id": "59373363",
+                "name": "Collen LEMAWANE",
+                "username": "LEMAWANE"
+            },
+            {
+                "id": "1513804447",
+                "name": "Rato💛",
+                "username": "dixie___"
+            }
+        ],
+        "places": [
+            {
+                "full_name": "Midrand, South Africa",
+                "id": "46c1b1ab24d7e11a"
+            },
+            {
+                "full_name": "Johannesburg, South Africa",
+                "id": "e564d30dc173d2a8"
+            },
+            {
+                "full_name": "Mokopane, South Africa",
+                "id": "cb6c20eb19035275"
+            },
+            {
+                "full_name": "Bellville, South Africa",
+                "id": "1d9b85f4cd86b224"
+            },
+            {
+                "full_name": "Etwatwa, South Africa",
+                "id": "520c2f1889369cd6"
+            },
+            {
+                "full_name": "Sandton, South Africa",
+                "id": "178a87b8e2eaa375"
+            },
+            {
+                "full_name": "Roodepoort, South Africa",
+                "id": "1744381d2805a216"
+            },
+            {
+                "full_name": "Bloemfontein, South Africa",
+                "id": "810e12ec4af983de"
+            }
+        ],
+        "media": [
+            {
+                "public_metrics": {
+                    "view_count": 30
+                },
+                "media_key": "7_1305841714708582400",
+                "type": "video",
+                "duration_ms": 29769
+            },
+            {
+                "url": "https://pbs.twimg.com/media/EhXSBCQWAAAIxOg.jpg",
+                "media_key": "3_1303178582420750336",
+                "type": "photo"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1306158576361234432",
+        "oldest_id": "1300853697090662401",
+        "result_count": 9
+    }
+}

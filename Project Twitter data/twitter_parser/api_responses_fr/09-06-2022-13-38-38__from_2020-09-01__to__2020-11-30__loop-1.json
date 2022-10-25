@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "text": "noT MY BESTFRIEND PUTTING MY NAME IN THE ACKNOWLEDGMENTS SECTION OF HIS THESIS IM IN LITERAL TEARS",
+            "id": "1327278494888419328",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "author_id": "173796086",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "geo": {
+                "place_id": "1d4c3ebedacf7040"
+            },
+            "created_at": "2020-11-13T15:53:47.000Z",
+            "source": "Twitter for iPhone"
+        }
+    ],
+    "includes": {
+        "users": [
+            {
+                "id": "173796086",
+                "name": "danièle",
+                "username": "lebxnon"
+            }
+        ],
+        "places": [
+            {
+                "full_name": "Chambéry, France",
+                "id": "1d4c3ebedacf7040"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1327278494888419328",
+        "oldest_id": "1327278494888419328",
+        "result_count": 1,
+        "next_token": "b26v89c19zqg8o3fosbtep39g3z3nvn7k85h1wne8m54t"
+    }
+}
