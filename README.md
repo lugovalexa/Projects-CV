@@ -39,17 +39,20 @@ Calculate total ROAS and weekly ROAS (return on advertising investment) and iROA
 Calculate iROAS by increasing current ad spend by 1%.
 
 **6. Project "Stress detection"**
+
 Task:
 Detect moments of pre-stress, stres, post-stress and no-stress from biological signals data coming from wearables "Empatica E4".
 Data as well as the part of code dedicated to stress analysis is not available for this project due to data non-disclosure agreementБ
 
 **7. Project "Twitter data"**
+
 Task:
 Retrieve tweets on "academic mental health" topic from 4 English-speaking countries (UK, USA, South Africa, Australia) for 5 years.
 Conduct exploratory, sentiment and topic analyses.
 Consider differences between countries and changes attributable to the pandemic of covid-19. 
 
 **8. Project "Transport mode choice"**
+
 Task:
 Define factors of public transport use frequency by working inhabitants of Grenoble. 
 Conduct literature review, descriptive, statistical and econometric (model of logit) analysis. 
