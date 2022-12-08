@@ -28,7 +28,7 @@ At disposal there is a dataset with markup on the toxicity of edits.
 
 Task:
 Study the possibility of using the Multi-Armed Bandit and Epsilon-Greedy algoritms instead of A/B testing for optimisation of public messages distribution campaigns.
-Comparing the algorithms efficiency on artificial data.
+Compare the algorithms efficiency on artificial data.
 
 **5. Project "Sales revenue forecast"**
 
@@ -45,9 +45,15 @@ Data as well as the part of code dedicated to stress analysis is not available f
 
 **7. Project "Twitter data"**
 Task:
-Retrieve tweets on "academic mental health" topic from 4 english-speaking countries (UK, USA, South Africa, Australia) for 5 years.
+Retrieve tweets on "academic mental health" topic from 4 English-speaking countries (UK, USA, South Africa, Australia) for 5 years.
 Conduct exploratory, sentiment and topic analyses.
 Consider differences between countries and changes attributable to the pandemic of covid-19. 
+
+**8. Project "Transport mode choice"**
+Task:
+Define factors of public transport use frequency by working inhabitants of Grenoble. 
+Conduct literature review, descriptive, statistical and econometric (model of logit) analysis. 
+
 
 **Thank you for your interest !**
 
