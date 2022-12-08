@@ -1,0 +1,7 @@
+"0","# Odds ratios"
+"0","dependent = ""freqtcu"""
+"0","explanatory_full = c(""permis"", ""VP_DISPO"", ""NB_velo"", 'ABO_TC', 'D13', 'nb_pers')"
+"0","res_multi_full <- df %>%"
+"0","    glmmulti(dependent, explanatory_full) %>%"
+"0","    fit2df(estimate_suffix=""(multivarié)"") "
+"0","knitr::kable(res_multi_full,row.names=FALSE, align=c(""l"", ""l"", ""r"", ""r"", ""r"", ""r""))"

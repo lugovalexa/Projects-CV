@@ -1,0 +1,688 @@
+---
+title: Facteurs de la fréquence d'utilisation des transports en commun urbains pour
+  des trajets de personnes employées à Grenoble
+author:
+- Elizaveta Golovanova^[BDA, MIASHS, Université Grenoble Alpes]
+- Alexandra Lugova^∗^
+output:
+  pdf_document:
+    latex_engine: xelatex
+  rticles::asa_article:
+    latex_engine: xelatex
+  html_document:
+    df_print: paged
+  word_document: default
+lang: fr
+preamble:
+- \usepackage[french]{babel}
+- \usepackage[intoc, french]{nomencl}
+bibliography: lit_sources.bib
+link-citations: yes
+abstract: "Jusqu'à présent, la voiture reste la principale méthode de déplacement
+  pour les trajets domicile-travail en France, comme dans la plupart des pays, ce
+  qui entraîne des effets négatifs importants sur l'environnement, la santé et le
+  bien-être de la société. Ce problème est particulièrement aigu dans les villes de
+  taille moyenne, où malgré que les modes de transport doux deviennent de plus 
+  en plus populaires pour les courtes distances, mais la voiture personnelle prévaut 
+  encore fortement sur les transports en commun.
+  Dans cette étude, un modèle de logit est construit sur les données des trajets des 
+  résidents de Grenoble pour identifier les facteurs qui influecent le choix du transport
+  en commun comme un mode principal pour les déplacements des personnes employées. Selon les
+  résultats, la présence d'une ou plusieurs voiture(s) dans le ménage reste l'un des principaux
+  déclencheurs de la non-utilisation des transports en commun. Cela indique la nécessité
+  de développer des politiques publiques visant à réduire l'attractivité de la possession
+  et l'utilisation de la voiture privée et à encourager le choix des transports publics.
+  En outre, selon notre modèle, la possession des permis de conduire, la disponibilité d'un
+  abonnement de transport, la distance du trajet, la taille de ménage et l'age
+  d'un individu ont un impact statistiquement significatif (négatif sauf pour la disponibilité
+  d'un abonnement, possesion d'un ou plusieurs vélo(s) dans le ménage) sur l'utilisation des
+  transports en commun.\n"
+header-includes:
+- \usepackage{float}
+- \floatplacement{figure}{!htb}
+---
+
+\newpage
+\tableofcontents 
+\newpage
+
+```{r setup, message=FALSE, warning=FALSE, echo=FALSE, include=FALSE}
+## packages for the project
+library(tidyverse)
+library(mltools) 
+library(bib2df)
+library(data.table)
+library(modelsummary)
+library(finalfit)
+library(summarytools)
+library(ggpubr)
+library(car) 
+library(MASS)
+library(crosstable)
+library(scales)
+library(corrplot)
+library(stargazer)
+library(ROCit)
+library(OptimalCutpoints)
+
+
+# setting work directory
+load('/Users/elizavetagolovanova/Desktop/Econométrie /Projet/allgre.PB_V2.RData')
+
+```
+
+# Introduction
+
+Il est largement reconnu que le système de transport contribue de manière significative aux problèmes environnementaux actuels tels que le réchauffement climatique, ainsi qu'aux problèmes de santé causés par les émissions et le manque d'activité physique. Dans les grandes et moyennes villes, le cadre de vie est négativement affecté par la circulation automobile. Le bruit, la pollution, les embouteillages et les risques d'accidents peuvent être réduits si les conducteurs actuels peuvent être encouragés à utiliser les transports en commun au lieu des voitures privées et si le besoin perçu de posséder des voitures peut être réduit. Pour que le système de transport contribue au développement durable, il faut rompre le lien entre croissance économique et croissance du transport motorisé. Étant donné que les densités de population élevées et les distances plus courtes offrent un plus grand potentiel pour des transports publics efficaces ainsi que pour la marche et le vélo, le potentiel de changement le plus élevé se trouve dans les zones urbaines. 
+
+Selon l'INSEE (@Brutel2021), en 2017, en France, 74% des actifs en emploi qui déclarent se déplacer pour rejoindre leur lieu de travail utilisaient leur voiture, 16% prennent les transports en commun et 8% ont recours aux modes de transport doux (6% à la marche et 2% au vélo). Pour des distances inférieures à 5 kilomètres, la voiture représente encore 60% des déplacements domicile-travail, même si sa part diminue au profit des modes doux. 
+
+Au sein des villes moyennes, y compris à Grenoble, les habitants utilisent le plus les modes doux pour aller travailler, notamment le vélo. Quand même, le niveau de dépendance automobile reste aussi très élevé ce qui entraîne la nécessité d'ajouter les politiques des autorités locales afin d'inciter les habitants à utiliser plus fréquemment pas seulement les modes doux, mais aussi les transports en commun. Cet article vise à analyser les facteurs qui déterminent la fréquence de l'utilisation des transports en commun sur exemple des trajets effectues par les habitants employés du milieu urbain de Grenoble. Les résultats de cette étude pourraient être utilisés pour élaborer des politiques de réduction de la dépendance automobile en milieu urbain.
+
+\section{Analyse de la littérature}
+
+La demande pour les différents modes de transport a été largement étudiée à l'aide de différents types de méthodes et de données, en focalisant sur contextes et facteurs différents. Ainsi, @Holmgren2019 étudient la compétitivité des transports publics lorsque le vélo et la marche sont des options viables et constatent que la distance et les coûts financiers sont significativement importants dans le choix du mode de transport ainsi que l'accès à une voiture et les caractéristiques socio-démographiques des individus et des ménages. @Pike2018 montrent que le choix des transports en commun des individus est influencé par le choix modal des autres personnes de leur réseau social ainsi que par les caractéristiques spécifiques des trajets domicile-travail. @Ludfi2021 étudient le choix du mode de transport en tant que réponse émotionnelle à des incitations externes et montrent que l'expérience personnelle de voyage a un effet sur l'utilisation des transports publics par le changement des attitudes. @Stiles2021 montrent que la distance entre le lieu de travail et le domicile ainsi que les heures de pointe du trafic routier influencent significativement le choix de prendre ou non le trajet et le choix du mode de transport. @Bocker2017 prouvent que l'âge est un facteur important pour la fréquence d'utilisation des différents modes de transport.
+
+Les études empiriques du choix modal du transport reposent sur deux principaux types de données. Dans les études dites de préférences révélées (@Holmgren2019, @Pike2018), le comportement réel des personnes est observé et utilisé comme données. Au niveau individuel, les données peuvent être collectées à l'aide de questionnaires dans lesquels les schémas de déplacement des répondants sont documentés en détail. Le deuxième type de données qui peut être à la base pour les études sur le choix du mode de transport sont des données sur la préférence déclarée (@Collins2005, @Pike2018). Ceux-ci sont obtenus en plaçant les répondants dans les enquêtes face à des choix hypothétiques. Par exemple, ils peuvent choisir entre différents modes de transport (voiture, bus, vélo ou marche) pour des situations où les prix de l'essence, les tarifs des bus, la durée du trajet et la météo varient. Ce type de données peut ensuite être analysé à l'aide des outils statistiques mentionnés ci-dessus. Les données sont ensuite analysées à l'aide de modèles logit (@Holmgren2019, @Collins2005) ou plus rarement probit, afin d'estimer les probabilités d'individus présentant des caractéristiques différentes de choisir un mode de déplacement particulier. Certains auteurs optent pour des méthodes d'estimation plus rares comme modèle "stimulus-organisme-réponse" (@Ludfi2021), théorie des réseaux et modèle d'inclusion résiduelle en deux étapes (@Pike2018) et autres. 
+
+\section{Hypothèses et méthodologie}
+
+Dans notre étude nous nous intéresserons à une question d'identification des déterminants de la fréquence d'utilisation des transports en commun urbains pour les trajets de personnes employées à Grenoble. Les hypothèses suivantes ont été élaborées sur la base des conclusions des auteurs de la littérature présentée ci-dessus, de la disponibilité et de la qualité des données :
+
+$H_1$:	La fréquence de l'utilisation des transports en commun diminue quand la distance de trajet est très grande à cause de la préférence vers la voiture (@Brutel2021, @Holmgren2019, @Pike2018, @Stiles2021).
+
+$H_2$: La fréquence de l'utilisation des transports en commun diminue lorsqu'un individu a un accès aux autres moyens de transport (possession d'une voiture ou d'un vélo, possession des permis de conduire) et diminue même plus si plusieurs voitures / vélos sont disponibles (@Holmgren2019, @Ludfi2021, @Stiles2021).
+
+$H_3$: La fréquence de l'utilisation des transports en commun diminue quand la taille d'un ménage augmente (@Holmgren2019).
+
+$H_4$: Si un individu voyage souvent aux heures de pointe, lorsque le trafic sur les routes est intense, la fréquence de l'utilisation des transports en commun augmente (@Stiles2021).
+
+Pour tester les hypothèses listes ci-dessus, tout d'abord, la statistique descriptive ainsi qu'analyse statistique vont être menés. En premier lieu, les caractéristiques de l'échantillon seront étudiées et examinées pour la présence des valeurs aberrantes. Ensuite, les coefficients de corrélation de Pearson entre la variable cible et les variables explicatives seront calculés et testés pour la significativité statistique. Par ailleurs, les tests statistiques seront appliqués, selon le type de données, pour tester la significativité de la différence des caractéristiques des individus utilisant régulièrement le transport en commun par rapport à ceux qui l'utilisent rarement ou n'utilisent pas du tout: le test du $\chi^2$ de Pearson pour les variables binaires et le test de Wilcoxon pour les variables discrets et continues. Enfin, l'analyse de la variance ANOVA sera effectuée pour vérifier encore une fois la différence statistique de ces deux groupes d'individus.
+
+Le modèle de logit, étant le plus couramment utilisé dans la littérature sur les choix de mode de transport (ex. @Holmgren2019, @Collins2005), sera ensuite entraîné sur les données. Les variables seront ensuite choisies pour optimiser le modèle et assurer la qualité la plus haute possible à l'aide d'un algorithme éliminant pas à pas les caractéristiques non-significatives et déterminant le modèle avec le critère d'information d'Akaike (AIC) le plus faible. Les coefficients et les "odds ratios" du modèle optimisé seront interprétés. Finalement, les conclusions sur la qualité du modèle seront faites pour valider les résultats en divisant l'échantillon en parties d'entraînement et de test, faisant des prédictions sur les données de test et évaluant la précision du modèle en les comparant avec les données réelles.
+
+\section{Analyse descriptive}
+
+Pour avoir une idée générale de la base de données que nous allons utiliser, regardons la fréquence d'utilisation des transports en commun en général à Grenoble. Nos données montrent les déplacement de personnes pour un jour en 2009. Nous avons filtré les personnes qui utilisent les transports en commun (bus urbain ou tram) plus de deux fois par semaine et divisé la valeur obtenu par chaque unité territoriale. A titre de comparaison, nous montrons également une carte de l'intensité d'utilisation des transports en commun par le lieu de travail des répondants (Figure 1). Les valeurs pour la deuxième carte sont calculé dans la même façon.
+
+Figure 1 - De haut en bas: Carte de la fréquence d'utilisation des transports en commun en général à Grenoble et carte de l'intensité d'utilisation des transports en commun par le lieu de travail des répondants. 
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+## MAPS VISUALISATION 
+## DATA OF THE GRENOBLE MAP 
+library(rgdal)
+newESRI <- readOGR(dsn = "FOND_MAP", layer = "NewESRI", verbose = FALSE)
+
+## CALCULATION OF % OF REAL USE OF PUBLIC TRANSPORT (ZONE D'HABITAT)
+filtered = allgre.PB_V2 %>% 
+  filter(mode %in% c(31,32), freqtcu %in% c(1,2)) %>% 
+  group_by(tir) %>% 
+  count(id_depl) %>% summarise(n_trajets = sum(n))
+
+nonfiltered = allgre.PB_V2 %>% 
+  group_by(tir) %>% 
+  count(id_depl) %>% summarise(n_trajets = sum(n))
+
+percent = merge(filtered, nonfiltered, by = 'tir') %>% 
+  mutate(part_public_transport = n_trajets.x/n_trajets.y) %>%
+  rename('cod_sectir' = 'tir') %>% dplyr::select(cod_sectir, part_public_transport) %>% 
+  mutate(cod_sectir = as.character(cod_sectir))
+
+## JOIN OF THE MAP AND THE TRIPS
+newESRI@data = left_join(newESRI@data , percent)
+dff = fortify(newESRI) %>% mutate(id = as.numeric(id) + 1)
+newESRI_DF <- merge(dff, as.data.frame(newESRI), by.x = "id", by.y = 0)
+newESRI_DF$N_sectir <- gsub('\xe8', 'è', newESRI_DF$N_sectir)
+
+
+## VISUALISATION
+mybreaks <- seq(0, max(newESRI_DF$part_public_transport, na.rm = TRUE), 0.05)
+
+newESRI_DF = newESRI_DF %>% filter(cod_setir_ %in% seq(101, 114))
+
+part1 = ggplot(data = newESRI_DF, aes(x=long, y = lat, group = group)) +
+  geom_polygon(aes(fill = part_public_transport), colour="darkgray", size=0.3) +
+  coord_equal() +
+  ggtitle("Intensité de l'utilisation des transports en commun à Grenoble dans chaque TIR") +
+  scale_fill_gradient(low = "#2b9c60", high = "#c82c3d", na.value = 'grey',
+                      breaks = mybreaks) +
+  theme(axis.line=element_blank(),axis.text.x=element_blank(), axis.text.y=element_blank(),
+        axis.ticks=element_blank(), axis.title.x=element_blank(), axis.title.y=element_blank(),
+        panel.background=element_blank(),panel.border=element_blank(),panel.grid.major=element_blank(),
+        panel.grid.minor=element_blank(),plot.background=element_blank(),
+        plot.title = element_text(size = 7),
+        legend.text=element_text(size=7),
+        legend.title = element_text(size=7))
+```
+```{r echo=FALSE, message=FALSE, warning=FALSE, include=FALSE}
+# Areas of Grenoble with at least 20% of travels by public transport (by home addres)
+newESRI_DF %>% filter(part_public_transport >= 0.2) %>% dplyr::select(N_sectir) %>% unique()
+```
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+## CALCULATION OF % OF REAL USE OF PUBLIC TRANSPORT (ZONE DE TRAVAIL)
+
+newESRI <- readOGR(dsn = "FOND_MAP", layer = "NewESRI", verbose = FALSE)
+
+filtered <- allgre.PB_V2 %>% 
+  mutate(zonetrav = as.character(round((zonetrav/1000),0))) %>%
+  filter(mode %in% c(31,32), freqtcu %in% c(1,2)) %>% 
+  group_by(zonetrav) %>% 
+  count(id_depl) %>% summarise(n_trajets = sum(n)) 
+  
+nonfiltered <- allgre.PB_V2 %>% 
+  mutate(zonetrav = as.character(round((zonetrav/1000),0))) %>%
+  group_by(zonetrav) %>% 
+  count(id_depl) %>% summarise(n_trajets = sum(n))
+
+percent <- merge(filtered, nonfiltered, by = 'zonetrav') %>% 
+  mutate(part_public_transport = n_trajets.x/n_trajets.y) %>%
+  rename('cod_sectir' = 'zonetrav') %>% dplyr::select(cod_sectir, part_public_transport) 
+
+## JOIN OF THE MAP AND THE TRIPS
+newESRI@data <- left_join(newESRI@data, percent)
+
+dff <- fortify(newESRI) %>% mutate(id = as.numeric(id) + 1)
+newESRI_DF <- merge(dff, as.data.frame(newESRI), by.x = "id", by.y = 0)
+newESRI_DF$N_sectir <- gsub('\xe8', 'è', newESRI_DF$N_sectir)
+
+
+## VISUALISATION
+mybreaks <- seq(0, max(newESRI_DF$part_public_transport, na.rm = TRUE), 0.05)
+
+newESRI_DF = newESRI_DF %>% filter(cod_setir_ %in% seq(101, 114))
+
+part2 = ggplot(data = newESRI_DF, aes(x=long, y = lat, group = group)) +
+  geom_polygon(aes(fill = part_public_transport), colour="darkgray", size=0.3) +
+  coord_equal() +
+  ggtitle("Intensité de l'utilisation des transports en commun à Grenoble par zone de travail dans chaque TIR") +
+  scale_fill_gradient(low = "#2b9c60", high = "#c82c3d", na.value = 'grey', breaks = mybreaks) +
+  theme(axis.line=element_blank(),axis.text.x=element_blank(), axis.text.y=element_blank(),
+        axis.ticks=element_blank(), axis.title.x=element_blank(), axis.title.y=element_blank(),
+        panel.background=element_blank(),panel.border=element_blank(),panel.grid.major=element_blank(),
+        panel.grid.minor=element_blank(),plot.background=element_blank(),
+        plot.title = element_text(size = 7),
+        legend.text=element_text(size=7),
+        legend.title = element_text(size=7))
+
+ggarrange(part1, part2, nrow = 2)
+```
+```{r echo=FALSE, message=FALSE, warning=FALSE, include=FALSE}
+# Areas of Grenoble with at least 20% of travels by public transport (by work addres)
+newESRI_DF %>% filter(part_public_transport >= 0.2) %>% dplyr::select(N_sectir) %>% unique()
+```
+
+Les têtes de liste des quartiers par utilisation des transports en commun sont Centre ville, Berriat Nord, Ile Verte, Reyniès-Bayard Village Olympique, Malherbe Capuche. Quartiers de Grenoble avec au moins 20% des trajets en transport commun par zone de travail sont Malherbe Capuche et Villeneuve de Grenoble.
+
+Pour l'étude, nous avons sélectionné uniquement les répondants qui ont signalé qu'ils sont employés dans le temps plein ou partiel, ainsi que des stagiaires et alternants. Après avoir fait l'analyse de la littérature, on a choisi 9 variables pertinentes pour notre étude : fréquence d'utilisation des transport en commun, âge de la personne, possession d'un permis de conduire, possession d'un abonnement de transport, taille de ménage, nombre de vélos et voitures dans le ménage, mesure de la distance en km et heure de départ de domicile. La figure 2 montre des graphiques de ces variables.
+
+\newpage
+
+Figure 2 - Distributions des variables sélectionnées
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+# Initial filtering and selecting of data
+df <- allgre.PB_V2 %>% 
+  filter(OCCU1 %in% c(1, 2, 3),
+         tir %in% seq(101, 114)) %>% 
+  dplyr::select(id_pers, tir, zonetrav, freqtcu, permis, ABO_TC, 
+                nb_pers, age, VP_DISPO, NB_velo, D13, heuredep)
+
+df$heuredep = df$heuredep-4
+
+df_names <- c(
+  "freqtcu" = 'Utilisation des 
+  transport en 
+  commun',
+  "permis" = 'Permis de conduire',
+  "ABO_TC" = 'Abonement de 
+  transport',
+  "nb_pers" = 'Taille de ménage', 
+  "age" = "Age",
+  "VP_DISPO" = "Nombre de voitures",
+  'NB_velo' = "Nombre de vélos",
+  'D13' = "Distance du trajet
+  (km)",
+  'heuredep' = "Heure de départ 
+  de domicile"
+)
+
+part1 = df %>% drop_na() %>%
+  mutate(
+        ABO_TC =  case_when(
+                   ABO_TC == 1  ~ 'abo gratuit',
+                   ABO_TC == 2  ~ 'abo payant',
+                   ABO_TC == 3  ~ 'no abo'),
+         freqtcu = case_when(
+                   freqtcu == 1 ~ 'chaque jour',
+                   freqtcu == 2 ~ '>2 j/sem',
+                   freqtcu == 3 ~ '>2 j/mois',
+                   freqtcu == 4 ~ 'rare', 
+                   freqtcu == 5 ~ 'jamais'),
+        permis = case_when(
+                   permis == 1  ~ 'oui',
+                   permis == 2 ~ 'non',
+                   permis == 3 ~ 'en cours')
+        ) %>% 
+  dplyr::select(id_pers, tir, zonetrav, freqtcu, permis, ABO_TC) %>%
+  pivot_longer(-c(id_pers, tir, zonetrav), names_to = 'names', values_to = 'values',
+               values_transform = list(values = as.character)) %>%
+  mutate(values = factor(values, 
+                         ordered = TRUE, 
+                         levels = c(
+                           'chaque jour', '>2 j/sem', '>2 j/mois', 'rare', 'jamais', 
+                           'oui', 'non', 'en cours',
+                           'abo gratuit', 'abo payant','no abo' ))) %>%
+  ggplot(aes(x=values)) + 
+  geom_histogram(color="darkblue", fill="darkblue", binwidth=.5, stat = 'count') + 
+  facet_wrap(~names, ncol = 2, scales = "free", labeller = labeller(names = df_names))+
+  theme(axis.text.x=element_text(angle=45, hjust=1),
+        panel.background = element_blank(),
+        plot.caption=element_blank(),
+        axis.title = element_blank())
+
+part2 = df %>% drop_na() %>%
+  dplyr::select(id_pers, tir, zonetrav, heuredep, nb_pers, D13, age, VP_DISPO, NB_velo) %>%
+  pivot_longer(-c(id_pers, tir, zonetrav), names_to = 'names', values_to = 'values') %>%
+  ggplot(aes(x=values)) + 
+  geom_histogram(color="darkblue", fill="darkblue", binwidth=0.5) + 
+  facet_wrap(~names, ncol = 2, scales = "free", labeller = labeller(names = df_names))+
+  theme(
+        panel.background = element_blank(),
+        plot.caption=element_blank(),
+        axis.title = element_blank()) 
+
+ggarrange(part2, part1)
+```
+
+L'âge de la plupart de répondants est environ 25-35 ans. Dans la plupart des cas, le trajet ne dépasse pas 5 kilomètres, mais il existe également des distances plus longues (jusqu'à 80 kilomètres). Le plus souvent, les enquêtés employés quittent leur domicile à 3h00-4h00 et à 8h00-9h00 du matin ou de 12h00 à 14h00. En moyenne, un ménage comprend 2 personnes et possède 1 voiture et 0-2 vélo(s). La majorité des répondants interrogés n'ont pas d'abonnement aux transports en commun et ne les utilisent que rarement. De plus, une partie importante possède un permis de conduire. Pour l'analyse suivant, nous avons transformé certaines des variables, comme indiqué dans le tableau 1. Il est à noter, qu'à 3h00-4h00 du matin il n'y a pas de trafic, alors on ne va pas considérer ces valeurs comme les heures de pointe. 
+
+Tableau 1 - Variables transformés pour l'analyse.
+  
+| Nom          | Explication                                              | Variable                               |
+|--------------|-----------------------------------------------------|---------------------------------------------|
+| freqtcu      | Fréquence de l'utilisation du transport en commun   | 1 - plus que 2 fois par semaine                          |
+|              |                                                     | 0 - plus rarement                           |
+| permis       | Possession des permis de conduire                    | 1 - oui                                     |
+|              |                                                     | 0 - non                                     |
+| ABO_TC     | Possession d'un abonnement de transport             | 1 - oui                                     |
+|              |                                                     | 0 - non                                     |
+| nb_pers      | Nombre de personnes dans le ménage                  |                                             |
+| VP_dispo     | Nombre de voitures dans le ménage                   |                                             |
+| NB_velo      | Nombre de vélos dans le ménage                      |                                             |
+| D13          | Distance domicile-travail en km                     |                                             |
+| heuredep     | Heure de départ de domicile pour le lieu de travail | 1 - départ aux heures de pointe (8-9, 12-14)  |
+|              |                                                     | 0 - autres                                  |
+| age     | Age de la personne |                                   |
+
+```{r message=FALSE, warning=FALSE, echo=FALSE, include=FALSE}
+# Cross table and different tests
+length = df %>% drop_na() %>% nrow()
+percent = round(length / 15077 * 100)
+```
+
+Examinons les statistiques descriptives des variables transformées (Tableau 2). Au total, il y a 1977 observations dans notre échantillon, et certaines variables contiennent de valeurs manquantes, notamment, `freqtcu`, `D13` et `heuredep`. L'âge d'un répondant moyen est 40 ans. 38% de l'échantillon se rendent au travail en transports en commun plus que 2 jours par semaine. 86% ont un permis de conduire et 31% possèdent un abonnement aux transports en commun. En moyenne, les répondants parcourent 4,34 kilomètres pour se déplacer. Cependant, il convient de noter que l'écart-type de cette variable est grand et fait plus que la moyenne (6.65). 44% des déplacements se font aux heures de pointe. En moyenne, les ménages sont composés de trois personnes, ils possèdent 1 voiture et 1-2 vélos. Après qu'on a supprimé les valeurs manquants, il reste `r length` observations, ou `r percent`% d’échantillon initiale.
+
+Tableau 2 - Statistiques descriptives de la base de données.
+
+```{r message=FALSE, warning=FALSE, echo=FALSE}
+# Preprocessing data
+df <- df %>% 
+  mutate(
+    freqtcu = case_when(freqtcu %in% c(1,2) ~ 1,
+                        freqtcu != c(1,2) ~ 0),
+    permis = case_when(permis == 1 ~ 1,
+                       permis != 1 ~ 0),
+    heuredep = case_when(heuredep %in% c(8,9,12,13,14) ~ 1,
+                         heuredep != c(8,9,12,13,14) ~ 0),
+    ABO_TC = case_when(ABO_TC %in% c(1,2) ~ 1,
+                      ABO_TC == 3 ~ 0)
+    ) 
+
+
+df1 <- df %>% 
+  group_by(id_pers) %>% 
+  summarise(across(everything(), ~mean(.x, na.rm = TRUE))) %>% 
+  drop_na()
+
+df1 <- df %>% 
+  mutate(freqtcu = case_when(freqtcu >= 0.5 ~ 1,
+                             freqtcu < 0.5 ~ 0),
+         heuredep = case_when(heuredep >= 0.5 ~ 1,
+                             heuredep < 0.5 ~ 0))
+
+data_summary <- df1 %>% dplyr::select(freqtcu, permis, ABO_TC, age, nb_pers, VP_DISPO, NB_velo, D13, heuredep)
+knitr::kable(psych::describe(data_summary, skew = FALSE), digits = c(1,4,2,2,1,1,1,3))
+```
+
+\section{Analyse statistique}
+
+Afin de valider le choix des variables pour l'estimation et la prédiction de la fréquence d'utilisation des transports en commun à Grenoble, nous analysons dans un premier temps les coefficients de corrélation de Pearson. Le graphique ci-dessous représente la matrice de corrélation pour l'ensemble de variables. La matrice affiche uniquement les coefficients qui sont statistiquement significatifs au niveau de 5%. On constate bien qu'il y a une corrélation significative entre la plupart des variables. Pour notre variable cible la corrélation avec `NB_velo`, `age` et `heuredep` s'est avéré pas significative. Quand même, il convient de noter que la corrélation montre une relation linéaire sans tenir compte de l'influence d'autres variables, bien que lorsqu'elles sont ajoutées au modèle, certaines variables peuvent montrer une signification conjointe et certaines relations peuvent ne pas être linéaires. Alors, la fréquence d'utilisation de transport en commun a une corrélation négative avec la taille de ménage, possession d'un permis de conduire et une voiture, ainsi qu'avec la distance de trajet. Il y a une corrélation positive et modérée de la variable ciblé seulement avec la possession d'un abonnement aux transports en commun.  
+
+\newpage
+
+Figure 3 - Matrice de corrélation
+
+```{r message=FALSE, warning=FALSE, echo=FALSE}
+# Correlation matrix (blank cells : not significant)
+
+df = df %>% drop_na()
+cor <- cor(df %>% dplyr::select(freqtcu, heuredep, permis, age, ABO_TC, nb_pers, VP_DISPO, NB_velo, D13))
+cor.mtest <- function(mat, ...) {
+    mat <- as.matrix(mat)
+    n <- ncol(mat)
+    p.mat<- matrix(NA, n, n)
+    diag(p.mat) <- 0
+    for (i in 1:(n - 1)) {
+        for (j in (i + 1):n) {
+            tmp <- cor.test(mat[, i], mat[, j], ...)
+            p.mat[i, j] <- p.mat[j, i] <- tmp$p.value
+        }
+    }
+  colnames(p.mat) <- rownames(p.mat) <- colnames(mat)
+  p.mat
+}
+p.mat <- cor.mtest(df %>% dplyr::select(freqtcu, heuredep, permis, age, ABO_TC, nb_pers, VP_DISPO, NB_velo, D13))
+corrplot(cor, method="number", type="upper", col=c("dark red", "dark green"), bg="light grey", tl.col="black", p.mat = p.mat, sig.level = 0.05, insig = "blank",  diag=FALSE)
+```
+
+Pour valider la rationalité des hypothèses posées, il faut également vérifier que les groupes des utilisateurs et non-utilisateurs des transports en commun à Grenoble sont statistiquement différents selon les caractéristiques choisies. Le tableau suivant présente les résultats d'une série de tests statiques effectués pour chaque variable selon le type de données. On peut constater que le groupe d'individus employés qui utilisent fréquemment les transports publics est statiquement différent (au seuil de 1%) de ceux qui les utilisent rarement ou pas du tout selon toutes les caractéristiques sauf l'heure de départ, l'âge et la distance du trajet. 
+
+Tableau 3 - Comparaison de groupes des utilisateurs des transports en commun selon la fréquence d'utilisation.
+
+```{r message=FALSE, warning=FALSE, echo=FALSE}
+# Cross table and different tests
+crosstable(df, c(ABO_TC, permis, VP_DISPO, heuredep, D13, nb_pers, age, NB_velo), by=freqtcu, test=TRUE) %>%
+  as_flextable(fontsizes = list(body = 8, subheaders = 8, header = 8),)
+```
+L'analyse de la variance ANOVA permet également de vérifier que les moyennes des groupes des utilisateurs et non-utilisateurs des transports en commun proviennent des populations différentes. Les groupes sont significativement différents au seuil de 1% sauf l'heure de départ (pas de différence significative entre les groupes) et taille de ménage (significative au seuil de 10%). Pour la première version du modèle économétrique on va conserver quand même ces variables. En générale, les résultats des tests réalisés nous permet de confirmer la raisonabilité de notre analyse et de passer à l'étape de la recherche de relations causales afin de déterminer les facteurs et leurs influençant le choix du mode de transport pour les trajets des personnes employées, ainsi que la direction et le force des effets.
+
+Tableau 4 - Résultats du test ANOVA
+
+```{r message=FALSE, warning=FALSE, echo=FALSE}
+# Test ANOVA
+fit <- lm(freqtcu ~ ABO_TC+permis+VP_DISPO+heuredep+D13+nb_pers+NB_velo+age, data=df) # y est la variable numérique et A indique les groupes
+knitr::kable(anova(fit), digits = 2)
+```
+\section{Analyse économetrique: modèle de logit}
+
+Un modèle logit est construit et entraîné sur les données pour estimer les effets causals des variables explicatives choisies (la possession d'une ou plusieurs voiture(s) ou d'un ou plusieurs vélo(s), la possession des permis de conduire, la possession d'un abonnement de transport, le nombre de personnes dans le ménage, l'heure de départ de domicile et la distance du trajet, l'age) sur la fréquence d'utilisation des transports publics. On peut aussi supposer que l'âge a une relation plus complexe avec la variable dépendante. Nous ajouterons un carré de cette variable pour contrôler cela. Le modèle peut être formalisé par l’équation suivante: 
+
+$$p(freqtcu_{i}=1) = \frac {1} {1 + f(\Lambda)}$$
+où
+$$f(\Lambda) = f(permis, ABO\_TC, nb\_pers, age, age^2, VP\_dispo, NB\_velo, D13, heuredep)$$
+Afin de maximiser la qualité de modèle, il est possible de reconsidérer le choix des variables. En utilisant un algorithme qui compare, étape par étape, les modèles avec différents ensembles de variables sur la base du critère d'Akaike, nous déterminons l'ensemble optimal de variables qui fournit l'AIC le plus bas et qui devrait être laissé dans le modèle final. 
+
+Tableau 5 - Variables sélectionnées sur la base du test d'Akaike
+
+```{r include = FALSE}
+# Model
+model_full <- glm(freqtcu ~ permis + nb_pers + age + I(age^2) + VP_DISPO + NB_velo + 
+                ABO_TC + heuredep + D13, 
+                data = df, family = binomial(link ="logit"))
+
+model_final <- glm(freqtcu ~ permis + nb_pers + age + I(age^2) + VP_DISPO + NB_velo + 
+                ABO_TC + D13,
+                 data = df, family = binomial(link ="logit"))
+
+star = stargazer(model_full, model_final, 
+          type = 'latex',
+          no.space = TRUE, 
+          header = FALSE, 
+          table.layout = 'd-t-s-n', 
+          column.sep.width = "30pt",
+          omit.stat = c("f", "ser"),
+          table.placement = "H")
+star = sub('^.+\\caption.+$','', star)
+```
+
+```{r message=FALSE, warning=FALSE, echo=FALSE}
+r2mcf_full <- 1-logLik(model_full)/logLik(update(model_full,~1))
+r2mcf_final <- 1-logLik(model_final)/logLik(update(model_final,~1))
+
+glm_multi_restreint <- stepAIC(model_full, trace=FALSE) 
+knitr::kable(Anova(glm_multi_restreint))
+```
+
+En résultat, on supprime de notre modèle initiale la variable `heuredep`, indiquant le fait de partir de la maison en heurs de pointe. Dans le tableau 6, la première colonne montre les résultats de l'estimation des coefficients du modèle complet avec toutes les variables incluses en utilisant la méthode du maximum de vraisemblance. Les estimations des coefficients du modèle final sont présentées dans la deuxième colonne de ce tableau. Nous avons également calculé le coefficient de détermination de McFadden (Pseudo-$R^2$). Il est est défini comme $1−LL_{mod}/LL_0$ où $LL_{mod}$ est la valeur du log de vraisemblance pour le modèle ajusté et $LL_0$ est le log de vraisemblance pour le modèle nul qui n'inclut qu'une interception comme prédicteur. Le pseudo-$R^2$ de McFadden allant de 0.2 à 0.4 indique un très bon ajustement du modèle. Alors, pour le modèle complet, ainsi que pour le modèle final il est égal au `r round(r2mcf_full,2)`. Nous avons également essayé de supprimer la variable d'âge au carré, ce qui a réduit le coefficient de détermination à 0.17.
+
+Tableau 6 - Résultats de la régression logistique
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, results='asis'}
+cat(star, sep='\n')
+```
+Tous les coefficients du modèle final sont statistiquement significatifs au seuil de 5%. En interprétant les coefficients, on peut observer les effets suivantes:
+
+\newpage
+
+**effets négatifs**
+
+- la probabilité qu'un individu employé utilise les transports en commun à Grenoble diminue s'il a les permis de conduire (validation de $H_2$);
+- la probabilité qu'un individu employé utilise les transports en commun à Grenoble diminue si le nombre de voiture dans sa possession augmente (validation de $H_2$);
+- la probabilité qu'un individu employé utilise les transports en commun à Grenoble diminue avec l'augmentation de la taille de ménage (validation de $H_3$);
+- la probabilité qu'un individu employé utilise les transports en commun à Grenoble diminue avec l'augmentation de la distance du trajet (validation de $H_1$). 
+
+**effets positifs**
+
+- la probabilité qu'un individu employé utilise les transports en commun à Grenoble augmente s'il a un abonnement de transport;
+- la probabilité qu'un individu employé utilise les transports en commun à Grenoble augmente si le nombre de vélos dans sa possession augmente (contradiction avec $H_2$).
+
+
+L'analyse des ratios de probabilité ("odds ratios") nous permet d'aller plus loin dans l'interprétation des effets estimés par le modèle. 
+
+Tableau 7 - Résultats pour les odds-ratios
+```{r message=FALSE, warning=FALSE, echo=FALSE}
+# Odds ratios
+dependent = "freqtcu"
+explanatory_full = c("permis", "VP_DISPO", "NB_velo", 'ABO_TC', 'D13', 'nb_pers')
+res_multi_full <- df %>%
+    glmmulti(dependent, explanatory_full) %>%
+    fit2df(estimate_suffix="(multivarié)") 
+knitr::kable(res_multi_full,row.names=FALSE, align=c("l", "l", "r", "r", "r", "r"))
+```
+De tableau 7 on peut conclure que:
+
+- En gardant toutes les autres variables constantes, la possession par un individu employé des permis de conduire augmente son ratio de probabilité d'utiliser les transports en commun de 0.52 fois;
+- En gardant toutes les autres variables constantes, une voiture supplémentaire dans le ménage augmente le ratio de probabilité pour un individu employé d'utiliser les transports en commun de 0.65 fois;
+- En gardant toutes les autres variables constantes, un vélo supplémentaire dans le ménage augmente le ratio de probabilité pour un individu employé d'utiliser les transports en commun de 1.1 fois;
+- En gardant toutes les autres variables constantes, la possession par un individu employé d'un abonnement de transport augmente son ratio de probabilité d'utiliser les transports en commun d'environ 5.34 fois;
+- En gardant toutes les autres variables constantes, lorsque la taille de ménage augmente d'une personne, il est 0.87 fois plus susceptible d'être dans une catégorie des utilisateurs de transport en commun;
+- En gardant toutes les autres variables constantes, lorsque distance du trajet augmente d'un kilomètre, il est 0.97 fois plus susceptible d'être dans une catégorie des utilisateurs de transport en commun.
+
+Pour mieux comprendre l’interprétation de odds ratio, on a calculé les effets marginaux pour les variables dans le modèle final. L'effet marginal est généralement considéré comme un point, plus souvent pour une observation moyenne, car en utilisant le modèle logit, nous devons prendre en compte une relation exponentielle et non linéaire. Cependant, pour plus de clarté et pour une meilleure compréhension de la dynamique d'évolution des effets marginaux, nous avons décide de tracer des graphiques montrant l'évolution de la probabilité d'utiliser les transports en commun pour une observation moyenne sur toute la plage des valeurs disponibles. Par exemple, pour estimer l'effet de la possession de voiture, il faut calculer son effet marginal sur la variable `freqtcu` : $\frac{d\hat{p}(freqtcu_{i}=1)}{d VP\_dispo} = \frac {exp^{-(1.677 − 0.477 * VP\_dispo)}} {(1 + exp^{-(1.677 − 0.477 * VP\_dispo)})^2} * (-0.477)$. Alors, pour la `VP_dispo` = 1 l’effet marginal est de `r round(exp(-(1.677 - 0.477)) / (1 + exp(-(1.677 - 0.477)))^2  * (- 0.477), 3)`. Cela signifie qu’une augmentation de la quantité de voitures dans le ménage de 1 à 2 diminuera la probabilité d'utilisation de transport en commun de `r abs(round(exp(-(1.677 - 0.477)) / (1 + exp(-(1.677 - 0.477)))^2  * (- 0.477), 3))`. On a fait une illustration pour les effets marginaux de tous les variables dans le modèle (Figure 4). 
+
+Figure 4 - Les effets marginaux pour les variables de modèle final.
+
+```{r message=FALSE, warning=FALSE, echo=FALSE}
+## arguments de fonction
+my_var <- 'age' # Nom de variable
+t_m <- model_final # chargement du modèle estimé
+step <- 1 # pas d'incrément de la variable (pour obtenir l'axe des x)
+
+#
+r_max <- max(t_m$model[,my_var])
+r_min <- min(t_m$model[,my_var])
+range_f <- seq(r_min,r_max,step)
+
+{
+  # on crée une observation moyenne sur toutes les autres variables et on fait varier my_var
+   t_m$data = t_m$data %>% dplyr::select(-c(id_pers, tir, zonetrav))
+   mean_age <- as.data.frame(t(colMeans(t_m$data))) %>% 
+   cbind(range_f) %>%
+   mutate(!!my_var := range_f)
+  
+  # crearion d'une variable age carré
+  
+  my_var2 <- paste0("I(",my_var,"^2)")
+  mean_age <- mean_age %>% mutate(!!my_var2:= range_f^2)
+  mean_age <- mean_age %>% dplyr::select(-range_f)
+  
+  # on prédit les probabilités et les intervalles de confiance
+  preddata <- predict(t_m, 
+                      newdata = mean_age, 
+                      type = "link", 
+                      se.fit = T) %>%
+    as.data.frame() %>% 
+    mutate(
+      Probabilité = t_m$family$linkinv(fit), 
+      lower = t_m$family$linkinv(fit - 1.96*se.fit), 
+      upper = t_m$family$linkinv(fit + 1.96*se.fit)) %>% 
+    cbind(mean_age) %>%
+    dplyr::select(all_of(my_var),Probabilité,lower,upper)
+  
+  # plotting with ggplot: 
+  ggplot(
+    data = preddata, 
+    aes(
+      x = get(my_var),
+      y = Probabilité,
+      min = lower,
+      ymax = upper)) +
+    geom_ribbon(linetype=2, alpha=0.15,fill='#4292C6') +
+    geom_line(color='#08306B') + 
+    labs(x=paste0("Variable: ",my_var),y='Probabilité',color = NULL) + 
+    scale_x_continuous(
+      limits=c(r_min, r_max),
+      expand = c(0,0))  +
+    theme_classic() + theme(
+      legend.spacing.y = unit(0.1, "cm"),
+      legend.justification = c(0, 1),
+      legend.position = c(0.7, 0.94),
+      legend.title.align = 0.04,
+      legend.background = element_rect(
+        color = NA,
+        fill = NA)
+    )
+}
+```
+
+```{r message=FALSE, warning=FALSE, echo=FALSE}
+## arguments de fonction
+vec = c('permis', 'ABO_TC', 'NB_velo', 'VP_DISPO', 'nb_pers', 'D13')
+t_m <- model_final # chargement du modèle estimé
+t_m$data = t_m$data %>% dplyr::select(-c(id_pers, tir, zonetrav))
+step <- 1 # pas d'incrément de la variable (pour obtenir l'axe des x)
+
+full_preddata = data.frame()
+
+for (i in 1:length(vec)) {
+  my_var = vec[i]
+  r_max <- max(t_m$model[,my_var])
+  r_min <- min(t_m$model[,my_var])
+  range_f <- seq(r_min,r_max,step)
+
+  # on crée une observation moyenne sur toutes les autres variables et on fait varier my_var
+   mean_age <- as.data.frame(t(colMeans(t_m$data))) %>% 
+   cbind(range_f) %>%
+   mutate(!!my_var := range_f)
+  
+  # crearion d'une variable age carré
+  
+  my_var2 <- paste0("I(",my_var,"^2)")
+  mean_age <- mean_age %>% mutate(!!my_var2:= range_f^2)
+  mean_age <- mean_age %>% dplyr::select(-range_f)
+
+  # on prédit les probabilités et les intervalles de confiance
+  preddata <- predict(t_m, 
+                      newdata = mean_age, 
+                      type = "link", 
+                      se.fit = T) %>%
+    as.data.frame() %>% 
+    mutate(
+      Probabilité = t_m$family$linkinv(fit), 
+      lower = t_m$family$linkinv(fit - 1.96*se.fit), 
+      upper = t_m$family$linkinv(fit + 1.96*se.fit)) %>% 
+    cbind(mean_age) %>%
+    dplyr::select(all_of(my_var), Probabilité, lower, upper) %>% 
+    mutate(indicateur = my_var) %>% 
+    rename(value := !!my_var)
+  
+  full_preddata = rbind(full_preddata, preddata) 
+  
+}
+
+# plotting with ggplot: 
+ggplot(
+  data = full_preddata, 
+  aes(
+    x = value,
+    y = Probabilité,
+    min = lower,
+    ymax = upper)) + 
+  facet_wrap(~indicateur, ncol = 2, scales = "free") +
+  geom_ribbon(linetype=2, alpha=0.15,fill='#4292C6') +
+  geom_line(color='#08306B') + 
+  labs(x=NULL,y='Probabilité',color = NULL) + 
+  theme_classic() + theme(
+    legend.spacing.y = unit(0.1, "cm"),
+    legend.justification = c(0, 1),
+    legend.position = c(0.7, 0.94),
+    legend.title.align = 0.04,
+    legend.background = element_rect(
+      color = NA,
+      fill = NA)
+  )
+```
+Dans notre échantillon, il s'est avéré que l'hypothèse $H_4$ est rejetée, car la variable indiquant les heures de points n'était pas significative. Donc, la fréquence de l’utilisation des transports en commun ne change pas si un individu employé voyage souvent aux heures de pointe, lorsque le trafic sur les routes est intense ($H_4$). 
+
+\section{Previsions et qualité du modèle}
+
+Regardons la qualité du modèle final résultant, en s'appuyant sur la courbe ROC. La courbe ROC (Receiver Operating Characteristic) représente la sensibilité en fonction de 1 – spécificité pour toutes les valeurs seuils possibles du marqueur étudié. La sensibilité est la capacité du test à bien détecter les personnes qui utilise le transport en commun et la spécificité est la capacité du test à bien détecter les non-utilisateurs du transport en commun. L'aire sous la courbe ROC (ou Area Under the Curve, AUC) peut être interprétée comme la probabilité que, parmi deux sujets choisis au hasard, un individu employé qui utilise souvent le transport en commun et un individu qui le utilise rarement ou jamais, la valeur du marqueur soit plus élevée pour l'utilisateur de transport en commun. Par conséquent, une AUC de 0,5 (50%) indique que le marqueur est non-informatif. Une augmentation de l'AUC indique une amélioration des capacités discriminatoires, avec un maximum de 1,0 (100%). Figure 4 montre la courbe ROC empirique, ainsi que l'indice de Youden (ou statistique J de Youden) qui montre le point de cutoff optimal.
+J de Youden est défini comme : 
+$$ J = max(sensitivity + specificity - 1)$$
+```{r message=FALSE, warning=FALSE, echo=FALSE, include=FALSE}
+score=qlogis(glm_multi_restreint$fitted.values)
+class=glm_multi_restreint$y   
+## rocit object
+rocit_emp <- rocit(score = score, 
+                   class = class, 
+                   method = "emp")
+kplot1 <- ksplot(rocit_emp)
+cutoff = kplot1$`KS Cutoff`
+```
+
+L'AUC sous la courbe ROC est égal à `r round(rocit_emp$AUC,3)*100[1]`%. Le cutoff optimale calculé de la fonction pour logit est de `r 1 / (1+ exp(-cutoff))`.
+
+Figure 5 - La courbe ROC.
+
+```{r message=FALSE, warning=FALSE, echo=FALSE}
+## Plot ROC curve
+plot(rocit_emp, col = c(1,"gray50"), 
+     legend = FALSE, YIndex = TRUE)
+```
+
+
+
+```{r message=FALSE, warning=FALSE, echo=FALSE}
+# Train test split
+sample <- sample(c(TRUE, FALSE), nrow(df), replace=TRUE, prob=c(0.7,0.3))
+train <- df[sample, ]
+test <- df[!sample, ]
+
+# Model
+model_prediction <- glm(freqtcu ~  nb_pers + VP_DISPO + 
+                 ABO_TC + heuredep + D13, 
+                 data = train, family = binomial(link ="logit"))
+
+# Predictions
+probabilities <- model_prediction %>% predict(test, type = "response")
+predicted.classes <- ifelse(probabilities > 0.5, "1", "0")
+```
+En divisant les données en un échantillon de test (30%) et un échantillon d'apprentissage (70%) et en testant le modèle, nous prouvons la qualité assez élevée: le modèle prédit la fréquence d'utilisation des transports en commun avec une précision de `r round(mean(predicted.classes == test$freqtcu),2)*100`%. 
+
+\section{Limites}
+
+L'échantillon que nous utilisons est une des limites majeures de notre étude. La base de données ne contient pas tous les déplacements des individus pour 2009 et on ne connaît pas bien la représentativité de cet échantillon. Cela pourrait potentiellement affecter les variables indiquant les heures de pointe et la distance du trajet. De plus, il serait intéressant de regarder les données actuelles, car pendant 12 ans, il pourrait y avoir beaucoup de changements liés aux infrastructures et aux besoins des personnes. Par exemple, le nombre de personnes employées dans le travail à distance a évidemment augmenté au cours des 3 dernières années.
+
+Il serait également possible d'examiner les autres variables comme les dépenses financières de transport pour tester l'hypothèse de savoir si une augmentation des dépenses financières d'essence, par exemple, affecte l'utilisation des transports publics. Ce serait intéressant à tester, surtout dans le contexte de la situation géopolitique actuelle et de la hausse des prix du carburant en France. Selon @Holmgren2019, @Pike2018, @Collins2005, la fréquence de l'utilisation des transports en commun diminue quand les coûts financières liés à cela sont élevés. 
+
+Nous sommes également contraints de constater le problème d'endogénéité potentielle dans notre modèle, puisqu'il n'est pas possible d'étudier l'influence mutuelle des variables, par exemple, la présence d'un abonnement aux transports en commun (`ABO_TC`) et la fréquence d'utilisation des transports en commun (`freqtcu`): soit une personne prend les transports en commun car elle a déjà acheté un abonnement, soit elle a acheté un abonnement car elle utilise souvent les transports en commun. Ainsi, les résultats obtenus doivent être interprétés en prennant en compte cette remarque.
+
+\section{Conclusion: discussion}
+
+Cette étude a utilisé les données des caractéristiques de repondants, leur ménages et leurs déplacements afin d'étudier les facteurs de la fréquence de choix des transports en commun pour des individus employés à Grenoble. La possession d'un abonnement de transport en commun ou des permis de conduire, la possession d'un ou plusieurs velo(s) et voitures, la distance du trajet, la taille de ménage et l'âge d'un individu se sont révélés comme des facteurs important du choix des transports en commun comme mode principal. 
+
+Un résultat important robuste de l'analyse est que le fait d'avoir accès à une voiture, ou plus précisément le nombre de voitures dans le ménage, réduit considérablement la probabilité qu'une personne choisisse tout autre mode de transport. Ce résultat a des implications politiques importantes. Parallèlement à l'augmentation des revenus et du volume de la circulation, la possession d'une voiture a augmenté en France comme dans la plupart des autres pays. Étant donné que les propriétaires de voitures sont difficiles à influencer pour qu'ils utilisent des modes de transport plus respectueux de l'environnement, il est particulièrement important de rompre ce lien pour l'évolution de l'impact environnemental futur du secteur des transports.  
+
+La rupture du lien entre revenus et possession d'une voiture peut évidemment être obtenue en réduisant l'attractivité de la possession ou de l'utilisation d'une voiture particulière, en augmentant l'attractivité des autres modes ou par une combinaison de ces changements. Le statut et d'autres motifs sociaux peuvent également affecter le choix du mode et le choix de posséder une voiture. La combinaison de l'amélioration de la fonctionnalité des transports publics et des tarifs réduits avec d'autres mesures visant spécifiquement à réduire l'attractivité de l'utilisation de la voiture est nécessaire pour obtenir des résultats significatifs. Ces mesures pourraient inclure l'extension des infrastructures de transport public, l'augmentation des frais de stationnement ainsi que la restriction de l'accès en voiture à certaines parties de la ville. Une approche encore plus large de la question consisterait à mettre l'accent sur la mobilité respectueuse de l'environnement dans la planification urbaine.
+
+# Bibliography

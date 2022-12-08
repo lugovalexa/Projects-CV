@@ -1,0 +1,5 @@
+"0","r2mcf_full <- 1-logLik(model_full)/logLik(update(model_full,~1))"
+"0","r2mcf_final <- 1-logLik(model_final)/logLik(update(model_final,~1))"
+"0",""
+"0","glm_multi_restreint <- stepAIC(model_full, trace=FALSE) "
+"0","knitr::kable(Anova(glm_multi_restreint))"

@@ -1,0 +1,3 @@
+"0","# Cross table and different tests"
+"0","crosstable(df, c(ABO_TC, permis, VP_DISPO, heuredep, D13, nb_pers, age, NB_velo), by=freqtcu, test=TRUE) %>%"
+"0","  as_flextable(fontsizes = list(body = 8, subheaders = 8, header = 8),)"

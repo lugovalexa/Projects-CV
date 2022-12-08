@@ -1,0 +1,3 @@
+"0","# Cross table and different tests"
+"0","length = df %>% drop_na() %>% nrow()"
+"0","percent = round(length / 15077 * 100)"
