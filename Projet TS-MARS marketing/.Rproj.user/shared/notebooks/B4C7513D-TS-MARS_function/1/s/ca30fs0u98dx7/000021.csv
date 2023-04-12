@@ -1,0 +1,6 @@
+"0","best_model_visualisation(best_model_dataset, results, synergy_threshold = 0.01, variables ="
+"0","                           #c('grp_presse', 'pression_cine')) #example 1"
+"0","                           #c('impressions_vidtr', 'impressions_sem')) #example 2"
+"0","                           #c(""affichage_indice_de_pression"", ""catalogue_theme_1_indice_de_pression"")) #example 3"
+"0","                           #c(""tv_ad_budget"", ""radio_ad_budget"")) #example 4"
+"0","                           c(""media1"",""media2"")) #example 5"

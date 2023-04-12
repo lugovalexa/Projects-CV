@@ -1,0 +1,191 @@
+"0","knitr::opts_chunk$set(echo = TRUE)"
+"0",""
+"0","source(""libraries.R"")"
+"2","
+Attachement du package : ‘dplyr’
+
+"
+"2","Les objets suivants sont masqués depuis ‘package:stats’:
+
+    filter, lag
+
+"
+"2","Les objets suivants sont masqués depuis ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+"
+"2","Registered S3 methods overwritten by 'dbplyr':
+  method         from
+  print.tbl_lazy     
+  print.tbl_sql      
+"
+"2","── [1mAttaching packages[22m ──────────────────────────────────────────────────────────────────────────── tidyverse 1.3.2 ──"
+"2","[32m✔[39m [34mggplot2[39m 3.4.0     [32m✔[39m [34mpurrr  [39m 0.3.4
+[32m✔[39m [34mtibble [39m 3.1.6     [32m✔[39m [34mstringr[39m 1.4.0
+[32m✔[39m [34mtidyr  [39m 1.1.4     [32m✔[39m [34mforcats[39m 0.5.1
+[32m✔[39m [34mreadr  [39m 2.1.1     "
+"2","── [1mConflicts[22m ─────────────────────────────────────────────────────────────────────────────── tidyverse_conflicts() ──
+[31m✖[39m [34mdplyr[39m::[32mfilter()[39m masks [34mstats[39m::filter()
+[31m✖[39m [34mdplyr[39m::[32mlag()[39m    masks [34mstats[39m::lag()"
+"2","
+Attachement du package : ‘lubridate’
+
+"
+"2","Les objets suivants sont masqués depuis ‘package:base’:
+
+    date, intersect, setdiff, union
+
+"
+"2","
+Attachement du package : ‘janitor’
+
+"
+"2","Les objets suivants sont masqués depuis ‘package:stats’:
+
+    chisq.test, fisher.test
+
+"
+"2","Le chargement a nécessité le package : lattice
+"
+"2","
+Attachement du package : ‘caret’
+
+"
+"2","L'objet suivant est masqué _par_ ‘.GlobalEnv’:
+
+    compare_models
+
+"
+"2","L'objet suivant est masqué depuis ‘package:purrr’:
+
+    lift
+
+"
+"2","Le chargement a nécessité le package : Formula
+"
+"2","Le chargement a nécessité le package : plotmo
+"
+"2","Le chargement a nécessité le package : plotrix
+"
+"2","Le chargement a nécessité le package : TeachingDemos
+"
+"2","
+Attachement du package : ‘vip’
+
+"
+"2","L'objet suivant est masqué depuis ‘package:utils’:
+
+    vi
+
+"
+"2","Registered S3 method overwritten by 'quantmod':
+  method            from
+  as.zoo.data.frame zoo 
+"
+"2","
+    ‘tseries’ version: 0.10-53
+
+    ‘tseries’ is a package for time series analysis and computational finance.
+
+    See ‘library(help=""tseries"")’ for details.
+
+"
+"2","
+Attachement du package : ‘MLmetrics’
+
+"
+"2","Les objets suivants sont masqués depuis ‘package:caret’:
+
+    MAE, RMSE
+
+"
+"2","L'objet suivant est masqué depuis ‘package:base’:
+
+    Recall
+
+"
+"2","Le chargement a nécessité le package : zoo
+"
+"2","
+Attachement du package : ‘zoo’
+
+"
+"2","Les objets suivants sont masqués depuis ‘package:base’:
+
+    as.Date, as.Date.numeric
+
+"
+"2","Successfully loaded changepoint package version 2.2.4
+ See NEWS for details of changes.
+"
+"2","Le chargement a nécessité le package : grid
+"
+"2","
+Attachement du package : ‘seasonal’
+
+"
+"2","L'objet suivant est masqué depuis ‘package:tibble’:
+
+    view
+
+"
+"2","Registered S3 methods overwritten by 'htmltools':
+  method               from         
+  print.html           tools:rstudio
+  print.shiny.tag      tools:rstudio
+  print.shiny.tag.list tools:rstudio
+"
+"2","Registered S3 method overwritten by 'htmlwidgets':
+  method           from         
+  print.htmlwidget tools:rstudio
+"
+"2","
+Attachement du package : ‘rgl’
+
+"
+"2","L'objet suivant est masqué depuis ‘package:plotrix’:
+
+    mtext3d
+
+"
+"2","Le chargement a nécessité le package : sandwich
+"
+"2","
+Attachement du package : ‘strucchange’
+
+"
+"2","L'objet suivant est masqué depuis ‘package:stringr’:
+
+    boundary
+
+"
+"2","
+Attachement du package : ‘plotly’
+
+"
+"2","L'objet suivant est masqué depuis ‘package:TeachingDemos’:
+
+    subplot
+
+"
+"2","L'objet suivant est masqué depuis ‘package:ggplot2’:
+
+    last_plot
+
+"
+"2","L'objet suivant est masqué depuis ‘package:stats’:
+
+    filter
+
+"
+"2","L'objet suivant est masqué depuis ‘package:graphics’:
+
+    layout
+
+"
+"0","source(""function.R"")"
+"0","source(""mars_choice.R"")"
+"0","source(""best_model_results.R"")"
+"0","source(""best_model_visualisation.R"")"
+"0","source(""compare_models.R"")"

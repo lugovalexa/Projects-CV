@@ -41,7 +41,7 @@ Calculate iROAS by increasing current ad spend by 1%.
 **6. Project "Stress detection"**
 
 Task:
-Detect moments of pre-stress, stres, post-stress and no-stress from biological signals data coming from wearables "Empatica E4".
+Detect moments of pre-stress, stress, post-stress and no-stress from biological signals data coming from wearables "Empatica E4".
 Data as well as the part of code dedicated to stress analysis is not available for this project due to data non-disclosure agreementБ
 
 **7. Project "Twitter data"**
@@ -57,6 +57,13 @@ Task:
 Define factors of public transport use frequency by working inhabitants of Grenoble. 
 Conduct literature review, descriptive, statistical and econometric (model of logit) analysis. 
 
+**9. Projet "TS-MARS marketing"**
+
+Task: 
+Create a user-friendly code to analyze synergistic and antagonistic effects of different marketing campaigns on sales. 
+Include data pre-processing, statistical tests. 
+Use MARS-TS model and compare its performance to alternative methods. 
+Build visualizations for synergy. 
 
 **Thank you for your interest !**
 
